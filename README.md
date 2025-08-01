@@ -1,6 +1,6 @@
-# Spectralou : Clustering structurel de fichiers EAD
+# Clustering structurel de fichiers EAD
 
-**Spectralou** est un outil d’analyse structurelle de fichiers XML encodés en EAD.  
+Outil d’analyse structurelle de fichiers XML encodés en EAD.  
 Il vise à cartographier les pratiques d'encodage en identifiant des similarités structurelles entre documents, afin de préparer une normalisation ou une harmonisation.
 
 ---
