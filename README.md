@@ -29,7 +29,7 @@ python3 main.py ./ead  # choix automatique de cluster avec la silhouette
 ```
 
 ### Structure du projet 
-
+```
 .
 ├── main.py                   # Script principal
 ├── ead_clustering/           # Modules Python
@@ -52,3 +52,4 @@ ead_clustering/
 ├── analysis.py             ← résumés par cluster
 ├── main.py                 ← pipeline principal (script d’appel)
 ├── utils.py                ← outils divers
+```
