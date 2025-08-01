@@ -3,7 +3,7 @@
 Outil d’analyse structurelle de fichiers XML encodés en EAD.  
 Il vise à cartographier les pratiques d'encodage en identifiant des similarités structurelles entre documents, afin de préparer une normalisation ou une harmonisation.
 
-- Documentation : [https://desireesdata.fr/Clustering-EAD-Pratices/](https://desireesdata.fr/Clustering-EAD-Pratices/)
+- Documentation : [https://desireesdata.fr/Clustering-EAD-Practices/](https://desireesdata.fr/Clustering-EAD-Practices/)
 
 ---
 
