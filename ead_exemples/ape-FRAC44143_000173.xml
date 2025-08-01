@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:cpf="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" audience="external">
+    <eadheader>
+        <eadid countrycode="FR" identifier="FRAC44143_000173" url="https://francearchives.gouv.fr/findingaid/c76d11ea98647b106dbcfed3f2e2d9f8a3ea5287">FRAC44143_000173</eadid>
+        <filedesc>
+        
+            <titlestmt>
+                <titleproper>A - Lois et actes du pouvoir central</titleproper>
+                
+                
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Archives de la ville de Rezé</publisher>
+                
+                <address>
+                    <addressline>Hôtel Grignon-Dumoulin</addressline>
+                    <addressline>place Jean-Baptiste Daviais</addressline>
+                    <addressline>44000 Rezé</addressline>
+                </address>
+                <date normal="2017">2017</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Instrument de recherche produit au moyen du logiciel Mnesys de la société Naoned le <date>07/03/2017</date></creation>
+            <langusage>Instrument de recherche rédigé en <language langcode="fre">français</language></langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unittitle>A-Lois et actes du pouvoir central</unittitle>
+            <unitid>1A/1-6</unitid><unitdate normal="1852-01-01/1872-12-31">1852-1872</unitdate>
+            
+            
+            
+            
+        <note type="mnesysinternal"><p/></note></did><accessrestrict><p>Communicable</p></accessrestrict>
+        
+        
+        <dsc type="othertype"><c id="a011488892948sp2hCo">
+				<did>
+					<unittitle>Ministère de l'Intérieur. - Moniteur des Communes</unittitle>
+					<unitid>1A/1 - 1A/6</unitid><unitdate normal="1852-01-01/1872-12-31">1852-1872</unitdate>
+			
+					
+
+				<note><p>Lacunes : 1860-1861 ; septembre-décembre 1870 ; janvier-avril 1871</p>
+</note><note type="mnesysinternal"><p/></note>
+
+				
+
+
+			</did><scopecontent><p>Publication émise par le Ministère de l'Intérieur.</p>
+</scopecontent><c id="a011488892948rB0T1S">
+				<did>
+					<unittitle>1852-1855</unittitle>
+					<unitid>1A/1</unitid>
+					<unitdate normal="1852-01-01/1855-12-31">1852-1855</unitdate>
+					<note type="mnesysinternal"><p/></note>
+				
+
+
+			</did>
+				
+				</c>
+			<c id="a011488892948rImA8a">
+				<did>
+					
+					<unitid>1A/2</unitid>
+					<unitdate normal="1856-01-01/1859-12-31">1856-1859</unitdate>
+					<unittitle>1856-1859</unittitle>
+			
+					
+
+				<note type="mnesysinternal"><p/></note>
+				
+
+
+			</did>
+				
+				</c>
+			<c id="a011488892948fYwuQG">
+				<did>
+					<unittitle>1862-1865</unittitle>
+					<unitid>1A/3</unitid>
+					<unitdate normal="1862-01-01/1865-12-31">1862-1865</unitdate>
+					<note type="mnesysinternal"><p/></note>
+				
+
+
+			</did>
+				
+				</c>
+			<c id="a011488892948vRY8d7">
+				<did>
+					<unittitle>1866-1869</unittitle>
+					<unitid>1A/4</unitid>
+					<unitdate normal="1866-01-01/1869-12-31">1866-1869</unitdate>
+					<note type="mnesysinternal"><p/></note>
+				
+
+
+			</did>
+				
+				</c>
+			<c id="a011488892948rxqoHU">
+				<did>
+					<unittitle>1871</unittitle>
+					<unitid>1A/5</unitid>
+					<unitdate normal="1871-01-01/1871-12-31">1871</unitdate>
+					<note><p>Lacune septembre-décembre 1870, janvier-avril 1871.</p></note>
+				<note type="mnesysinternal"><p/></note>
+				
+
+
+			</did>
+				
+				</c>
+			<c id="a011488892948B4pvMf">
+				<did>
+					<unittitle>1870-1872</unittitle>
+					<unitid>1A/6</unitid>
+					<unitdate normal="1870-01-01/1872-12-31">1870-1872</unitdate>
+					<note><p>Lacune septembre-décembre 1870, janvier-avril 1871.</p></note>
+				<note type="mnesysinternal"><p/></note>
+				
+
+
+					</did>
+				
+				</c>
+				</c></dsc>
+    </archdesc>
+</ead>

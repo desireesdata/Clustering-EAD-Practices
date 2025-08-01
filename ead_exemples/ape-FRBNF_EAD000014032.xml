@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:cpf="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" id="d0e1">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid url="https://archivesetmanuscrits.bnf.fr/ark:/12148/cc14032w" countrycode="FR" identifier="FRBNFEAD000014032">FRBNFEAD000014032</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Archives Ancien Régime 113-115</titleproper>
+            <subtitle>Notice descriptive</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Bibliothèque nationale de France.</publisher>
+            <date calendar="gregorian" era="ce">2009</date>
+         </publicationstmt>
+         </filedesc>
+      <profiledesc>
+         
+         <langusage>Notice rédigée en<language langcode="fre">français</language>
+         </langusage>
+      </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" otherlevel="recueil">
+      <did>
+         <unitid type="cote">Archives Ancien Régime 113-115</unitid>
+         <unittitle>Récolement des manuscrits de la Bibliothèque du roi.</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="1719/1720">1719-1720</unitdate>
+         <langmaterial>Manuscrit en <language langcode="fre">français</language>
+         </langmaterial>
+         <repository>
+            <corpname authfilenumber="751041006">Bibliothèque nationale de France. Département des Manuscrits</corpname>
+         </repository>
+      </did>
+      <custodhist>
+         <p>Supplément à l'inventaire de Bondois</p>
+      </custodhist>
+      <odd><p><emph render="bold">Notes</emph></p><p><note>
+               <p>Notice créée à partir de la conversion rétrospective de l'Inventaire des archives anciennes de la BnF - XVIIe-XVIIIe siècle, par Paul-Marie Bondois. Inventaire revu en 2009.</p>
+            </note>
+         </p></odd><dsc>
+         <c id="d0e46" level="otherlevel" otherlevel="recueil">
+            <did>
+               <unitid type="cote">Archives Ancien Régime 113</unitid>
+               <unittitle>
+                  1719.</unittitle>
+               <unitdate calendar="gregorian" era="ce" normal="1701/1800">XVIIIe siècle</unitdate>
+               <physdesc>
+                  <physfacet type="support">Papier.</physfacet>
+                  <physfacet type="reliure">Demi-reliure.</physfacet>
+               </physdesc>
+            <dao xlink:type="simple" xlink:actuate="onRequest" xlink:href="https://gallica.bnf.fr/ark:/12148/bd6t5705764j" xlink:show="new"/>
+            </did>
+            <altformavail>
+               <p>Il existe une version numérisée de ce document.</p>
+            </altformavail>
+            <custodhist>
+               <p>Supplément à l'inventaire de Bondois</p>
+            </custodhist>
+         </c>
+         <c id="d0e67" level="otherlevel" otherlevel="recueil">
+            <did>
+               <unitid type="cote">Archives Ancien Régime 114</unitid>
+               <unittitle>
+                  1720.</unittitle>
+               <unitdate calendar="gregorian" era="ce" normal="1701/1800">XVIIIe siècle</unitdate>
+               <physdesc>
+                  <physfacet type="support">Papier.</physfacet>
+                  <physfacet type="reliure">Demi-reliure.</physfacet>
+               </physdesc>
+            <dao xlink:type="simple" xlink:actuate="onRequest" xlink:href="https://gallica.bnf.fr/ark:/12148/bd6t5705765x" xlink:show="new"/>
+            </did>
+            <altformavail>
+               <p>Il existe une version numérisée de ce document.</p>
+            </altformavail>
+            <custodhist>
+               <p>Supplément à l'inventaire de Bondois</p>
+            </custodhist>
+         </c>
+         <c id="d0e88" level="otherlevel" otherlevel="recueil">
+            <did>
+               <unitid type="cote">Archives Ancien Régime 115</unitid>
+               <unittitle>Complément.</unittitle>
+               <unitdate calendar="gregorian" era="ce" normal="1701/1800">XVIIIe siècle</unitdate>
+               <physdesc>
+                  <physfacet type="support">Papier.</physfacet>
+                  <physfacet type="reliure">Demi-reliure.</physfacet>
+               </physdesc>
+            <dao xlink:type="simple" xlink:actuate="onRequest" xlink:href="https://gallica.bnf.fr/ark:/12148/bd6t5705990p" xlink:show="new"/>
+            </did>
+            <altformavail>
+               <p>Il existe une version numérisée de ce document.</p>
+            </altformavail>
+            <custodhist>
+               <p>Supplément à l'inventaire de Bondois</p>
+            </custodhist>
+         </c>
+      </dsc>
+  </archdesc>
+</ead>

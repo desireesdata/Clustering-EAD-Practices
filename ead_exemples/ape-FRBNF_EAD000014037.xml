@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:cpf="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" id="d0e1">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid url="https://archivesetmanuscrits.bnf.fr/ark:/12148/cc140373" countrycode="FR" identifier="FRBNFEAD000014037">FRBNFEAD000014037</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Archives Ancien Régime 11bis</titleproper>
+            <subtitle>Notice descriptive</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Bibliothèque nationale de France.</publisher>
+            <date calendar="gregorian" era="ce">2009</date>
+         </publicationstmt>
+         </filedesc>
+      <profiledesc>
+         
+         <langusage>Notice rédigée en<language langcode="fre">français</language>
+         </langusage>
+      </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" otherlevel="recueil">
+      <did>
+         <unitid type="cote">Archives Ancien Régime 11bis</unitid>
+         <unittitle>« Procès-verbal du recollement et inventaire de la Bibliothèque du Roy fait en exécution de l'arrest du conseil du 21 septembre 1719, commencé le dix huit d'octobre audit an clos en cette partie le 31 décembre 1720... ». Transmis des Imprimés le 20 juin 1934.</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="1720">1720</unitdate>
+         <physdesc>
+            </physdesc>
+         <langmaterial>Manuscrit en <language langcode="fre">français</language>
+         </langmaterial>
+         <repository>
+            <corpname authfilenumber="751041006">Bibliothèque nationale de France. Département des Manuscrits</corpname>
+         </repository>
+      </did>
+      <custodhist>
+         <p>Série des Registres et des volumes reliés.</p>
+      </custodhist>
+      <odd><p><emph render="bold">Notes</emph></p><p><note>
+               <p>Notice créée à partir de la conversion rétrospective de l'Inventaire des archives anciennes de la BnF - XVIIe-XVIIIe siècle, par Paul-Marie Bondois. Inventaire revu en 2009.</p>
+            </note>
+         </p></odd></archdesc>
+</ead>

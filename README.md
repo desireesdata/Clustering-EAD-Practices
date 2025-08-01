@@ -24,8 +24,8 @@ Le pipeline extrait la structure des balises XML (chemins XPath) de chaque fichi
 Depuis la racine du projet :
 
 ```bash
-python3 main.py ./ead --k 4 #(Choix manuel de clusters)
-python3 main.py ./ead  # choix automatique de cluster avec la silhouette
+python3 main.py ./ead_exemples --k 4 #(Choix manuel de clusters)
+python3 main.py ./ead_exemples  # choix automatique de cluster avec la silhouette
 ```
 
 ### Structure du projet 

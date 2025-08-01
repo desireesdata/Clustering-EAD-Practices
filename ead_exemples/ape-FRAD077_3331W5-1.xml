@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+  <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" langencoding="iso639-2b" dateencoding="iso8601">
+    <eadid url="https://archives.seine-et-marne.fr/fr/insinuation-et-enregistrement" countrycode="FR" mainagencycode="FRAD077" identifier="FR-FRAD077_3331W5-1">FRAD077_3331W5-1</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Bureau de l'enregistrement de Blandy-les-Tours</titleproper>
+        <subtitle>Répertoire méthodique</subtitle>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">Archives départementales de Seine-et-Marne</publisher>
+        <address>
+          <addressline>248 avenue Charles Prieur, 77190 Dammarie-les-Lys</addressline>
+        </address>
+        <date>Juin 2008</date>
+      </publicationstmt>
+    </filedesc>
+  </eadheader>
+  <archdesc level="fonds">
+    <did>
+      <unittitle type="TITRE PROPRE">Bureau de l'enregistrement de Blandy-les-Tours</unittitle>
+	  <unitdate normal="1703/1808">1703-1808</unitdate>
+	  <langmaterial>Français.</langmaterial>
+	  <physdesc>50 cotes.</physdesc>
+<origination><corpname authfilenumber="FR78422804100033_000000383">France. Bureau de l'enregistrement (Blandy-les-Tours, Seine-et-Marne)</corpname></origination>
+    </did>
+    <processinfo>
+      <p>Etat de classement : Classement définitif</p>
+    </processinfo>
+	    <appraisal>
+      <p>Conservation définitive.</p>
+    </appraisal>
+	    <accruals>
+      <p>Fonds clos.</p>
+    </accruals>
+    <arrangement>
+      <p>Classement par typologie documentaire, puis par ordre chronologique.</p>
+    </arrangement>
+    <scopecontent>
+      <p>Le bureau de Blandy a été rattaché à celui du Châtelet-en-Brie le 31 mars
+        1808. Les registres de l'époque révolutionnaire, versés tardivement,
+        ont été cotés en 60, 61 et 62 Q, comme ceux du Châtelet-en-Brie.</p>
+    </scopecontent>
+    <accessrestrict>
+      <p>Selon les articles L.213-1 à L.213-7 du Code du Patrimoine, le fonds est librement
+        communicable.</p>
+    </accessrestrict>
+    <userestrict>
+      <p>Conditions de reproduction : Soumises aux conditions de la salle de lecture.</p>
+    </userestrict>
+	    <controlaccess>
+      <subject>enregistrement</subject>
+	  <geogname>Blandy-les-Tours (Seine-et-Marne, France)</geogname>
+    </controlaccess>
+    <dsc type="othertype">
+      <c>
+        <did>
+          <unittitle type="TITRE PROPRE">Table des partages</unittitle><unitid>68Q1</unitid>
+            <unitdate normal="17940818/18080801">18/08/1794 - 01/08/1808</unitdate>
+        </did>
+        <c>
+          <did>
+            <unitid>68Q1</unitid><unittitle type="TITRE PROPRE">18/08/1794-01/08/1808</unittitle>
+            <unitdate normal="17940818/18080801">18/08/1794 - 01/08/1808</unitdate></did><controlaccess>
+            <p>- <emph render="bold">18/08/1794 - 01/08/1808</emph> :  Date de contenu </p></controlaccess>
+        </c>
+      </c>
+      <c>
+        <did>
+          <unittitle type="TITRE PROPRE">Table des contrats de mariage</unittitle><unitid>70C35</unitid>
+            <unitdate normal="1780/1803">1780 - 1803</unitdate>
+        </did>
+        <c>
+          <did>
+            <unitid>70C35</unitid><unittitle type="TITRE PROPRE">1780-1803</unittitle>
+            <unitdate normal="1780/1803">1780 - 1803</unitdate></did><controlaccess>
+            <p>- <emph render="bold">1780 - 1803</emph> :  Date de contenu </p></controlaccess>
+        </c>
+      </c>
+      <c>
+        <did>
+          <unittitle type="TITRE PROPRE">Table des testaments, donations et autres dispositions
+            éventuelles</unittitle><unitid>70C36</unitid>
+            <unitdate normal="1780/1808">1780 - 1808</unitdate>
+        </did>
+        <c>
+          <did>
+            <unitid>70C36</unitid><unittitle type="TITRE PROPRE">1780-1808</unittitle>
+            <unitdate normal="1780/1808">1780 - 1808</unitdate></did><controlaccess>
+            <p>- <emph render="bold">1780 - 1808</emph> :  Date de contenu </p></controlaccess>
+        </c>
+      </c>
+      <c>
+        <did>
+          <unittitle type="TITRE PROPRE">Table des baux à ferme et à loyer</unittitle><unitid>65Q1/2</unitid>
+            <unitdate normal="1794/1807">1794 - 1807</unitdate>
+        </did>
+        <c>
+          <did>
+            <unitid>65Q1/2</unitid><unittitle type="TITRE PROPRE">1794-1807</unittitle>
+            <unitdate normal="1794/1807">1794 - 1807</unitdate></did>
+          <controlaccess>
+            <p>- <emph render="bold">1794 - 1807</emph> :  Date de contenu </p></controlaccess>
+        </c>
+      </c>
+      <c>
+        <did>
+          <unittitle type="TITRE PROPRE">Registre des insinuations, insinuation suivant le
+            tarif</unittitle><unitid>70C23-70C24</unitid>
+            <unitdate normal="17201207/17930528">07/12/1720-28/05/17935</unitdate>
+        </did>
+        <c>
+          <did>
+            <unitid>70C23</unitid><unittitle type="TITRE PROPRE">07/12/1720-31/03/1745</unittitle>
+            <unitdate normal="17201207/17450331">07/12/1720 - 31/03/1745</unitdate></did><controlaccess>
+            <p>- <emph render="bold">07/12/1720 - 31/03/1745</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C24</unitid><unittitle type="TITRE PROPRE">14/06/1777-28/05/1793</unittitle>
+            <unitdate normal="17770614/17930528">14/06/1777 - 28/05/1793</unitdate></did><controlaccess>
+            <p>- <emph render="bold">14/06/1777 - 28/05/1793</emph> :  Date de contenu </p></controlaccess>
+        </c>
+      </c>
+      <c>
+        <did>
+          <unittitle type="TITRE PROPRE">Registre de contrôle des exploits et actes
+            extrajudiciaires</unittitle><unitid>70C34</unitid>
+            <unitdate normal="17860102/17861231">02/01/1786 - 31/12/1786</unitdate>
+        </did>
+        <c>
+          <did>
+            <unitid>70C34</unitid><unittitle type="TITRE PROPRE">02/01/1786-31/12/1786</unittitle>
+            <unitdate normal="17860102/17861231">02/01/1786 - 31/12/1786</unitdate></did><controlaccess>
+            <p>- <emph render="bold">02/01/1786 - 31/12/1786</emph> :  Date de contenu </p></controlaccess>
+        </c>
+      </c>
+      <c>
+        <did>
+          <unittitle type="TITRE PROPRE">Registre de contrôle du centième denier, mutation par
+            décès, déclaration de succession</unittitle><unitid>70C25-70C33, 62Q6/2, 62Q7/2, 62Q8/2, 62Q9/2</unitid><unitdate normal="17200801/18080331">01/08/1720-31/03/1808</unitdate>
+        </did>
+        <c>
+          <did>
+            <unitid>70C25</unitid><unittitle type="TITRE PROPRE">01/08/1720-31/12/1727</unittitle>
+            <unitdate normal="17200801/17271231">01/08/1720 - 31/12/1727</unitdate></did>
+<accessrestrict><p>Etat matériel : Mauvais état (non communicable)</p>
+          </accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/08/1720 - 31/12/1727</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C26</unitid><unittitle type="TITRE PROPRE">01/01/1728-19/03/1751</unittitle>
+            <unitdate normal="17280101/17510319">01/01/1728 - 19/03/1751</unitdate></did>
+<accessrestrict><p>Etat matériel : Mauvais état (non communicable)</p>
+          </accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/01/1728 - 19/03/1751</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C27</unitid><unittitle type="TITRE PROPRE">20/03/1751-31/03/1753</unittitle>
+            <unitdate normal="17510320/17530331">20/03/1751 - 31/03/1753</unitdate></did><controlaccess>
+            <p>- <emph render="bold">20/03/1751 - 31/03/1753</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C28</unitid><unittitle type="TITRE PROPRE">01/04/1753-30/06/1759</unittitle>
+            <unitdate normal="17530401/17590630">01/04/1753 - 30/06/1759</unitdate></did><controlaccess>
+            <p>- <emph render="bold">01/04/1753 - 30/06/1759</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C29</unitid><unittitle type="TITRE PROPRE">01/07/1759-22/02/1767</unittitle>
+            <unitdate normal="17590701/17670222">01/07/1759 - 22/02/1767</unitdate></did><controlaccess>
+            <p>- <emph render="bold">01/07/1759 - 22/02/1767</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C30</unitid><unittitle type="TITRE PROPRE">22/02/1767-09/12/1772</unittitle>
+            <unitdate normal="17670222/17721209">22/02/1767 - 09/12/1772</unitdate></did><controlaccess>
+            <p>- <emph render="bold">22/02/1767 - 09/12/1772</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C31</unitid><unittitle type="TITRE PROPRE">10/12/1772-21/12/1777</unittitle>
+            <unitdate normal="17721210/17771221">10/12/1772 - 21/12/1777</unitdate></did><controlaccess>
+            <p>- <emph render="bold">10/12/1772 - 21/12/1777</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C32</unitid><unittitle type="TITRE PROPRE">21/12/1777-30/04/1784</unittitle>
+            <unitdate normal="17771221/17840430">21/12/1777 - 30/04/1784</unitdate></did><controlaccess>
+            <p>- <emph render="bold">21/12/1777 - 30/04/1784</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C33</unitid><unittitle type="TITRE PROPRE">30/04/1784-2 floréal an III [21/04/1795]</unittitle>
+            <unitdate normal="17840430/17950421">30/04/1784 - 2 floréal An III
+              [21/04/1795]</unitdate></did>
+        </c>
+        <c>
+          <did>
+            <unitid>62Q6/2</unitid><unittitle type="TITRE PROPRE">1 ventôse an VIII-19 nivôse an X [20/02/1800-09/01/1802]</unittitle>
+            <unitdate normal="18000220/18020109">1 ventôse An VIII - 19 nivôse An X [20/02/1800 -
+              09/01/1802]</unitdate></did>
+          <controlaccess>
+            <p>- <emph render="bold">1 ventôse An VIII - 19 nivôse An X [20/02/1800 - 09/01/1802]</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>62Q7/2</unitid><unittitle type="TITRE PROPRE">19 nivôse an X-11 messidor an XI [09/01/1802-30/06/1803]</unittitle>
+            <unitdate normal="18020109/18030630">19 nivôse An X - 11 messidor An XI [09/01/1802 -
+              30/06/1803]</unitdate></did>
+          <controlaccess>
+            <p>- <emph render="bold">19 nivôse An X - 11 messidor An XI [09/01/1802 - 30/06/1803]</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>62Q8/2</unitid><unittitle type="TITRE PROPRE">8 prairial An XIII [28/05/1805]-31/12/1806</unittitle>
+            <unitdate normal="18050528/18061231">8 prairial An XIII [28/05/1805] -
+              31/12/1806</unitdate></did>
+          <controlaccess>
+            <p>- <emph render="bold">8 prairial An XIII [28/05/1805] - 31/12/1806</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>62Q9/2</unitid><unittitle type="TITRE PROPRE">01/01/1807-31/03/1808</unittitle>
+            <unitdate normal="18070101/18080331">01/01/1807 - 31/03/1808</unitdate></did>
+          <controlaccess>
+            <p>- <emph render="bold">01/01/1807 - 31/03/1808</emph> :  Date de contenu </p></controlaccess>
+        </c>
+      </c>
+      <c>
+        <did>
+          <unittitle type="TITRE PROPRE">Registre de contrôle des actes des notaires et des actes
+            sous seing privé, actes civils publics</unittitle><unitid>70C1-70C22/2, 60Q1, 60Q2/1-60Q2/2</unitid><unitdate normal="1703/1798">08/12/1703-1798</unitdate>
+        </did>
+        <c>
+          <did>
+            <unitid>70C1</unitid><unittitle type="TITRE PROPRE">08/12/1703-29/06/1713</unittitle>
+            <unitdate normal="17031208/17130629">08/12/1703 - 29/06/1713</unitdate></did><controlaccess>
+            <p>- <emph render="bold">08/12/1703 - 29/06/1713</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C2</unitid><unittitle type="TITRE PROPRE">03/08/1713-08/02/1718</unittitle>
+            <unitdate normal="17130803/17180208">03/08/1713 - 08/02/1718</unitdate></did><controlaccess>
+            <p>- <emph render="bold">03/08/1713 - 08/02/1718</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C3/1</unitid><unittitle type="TITRE PROPRE">02/08/1720-21/01/1727</unittitle>
+            <unitdate normal="17200802/17270121">02/08/1720 - 21/01/1727</unitdate></did><controlaccess>
+            <p>- <emph render="bold">02/08/1720 - 21/01/1727</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C3/2</unitid><unittitle type="TITRE PROPRE">21/01/1727-16/09/1733</unittitle>
+            <unitdate normal="17270121/17330916">21/01/1727 - 16/09/1733</unitdate></did><controlaccess>
+            <p>- <emph render="bold">21/01/1727 - 16/09/1733</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C4</unitid><unittitle type="TITRE PROPRE">19/09/1733-31/12/1735</unittitle>
+            <unitdate normal="17330919/17351231">19/09/1733 - 31/12/1735</unitdate></did><controlaccess>
+            <p>- <emph render="bold">19/09/1733 - 31/12/1735</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C5</unitid><unittitle type="TITRE PROPRE">31/12/1735-11/11/1740</unittitle>
+            <unitdate normal="17351231/17401111">31/12/1735 - 11/11/1740</unitdate></did><controlaccess>
+            <p>- <emph render="bold">31/12/1735 - 11/11/1740</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C6</unitid><unittitle type="TITRE PROPRE">11/11/1740-25/03/1743</unittitle>
+            <unitdate normal="17401111/17430325">11/11/1740 - 25/03/1743</unitdate></did><controlaccess>
+            <p>- <emph render="bold">11/11/1740 - 25/03/1743</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C7</unitid><unittitle type="TITRE PROPRE">26/03/1743-24/11/1745</unittitle>
+            <unitdate normal="17430326/17451124">26/03/1743 - 24/11/1745</unitdate></did><controlaccess>
+            <p>- <emph render="bold">26/03/1743 - 24/11/1745</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C8</unitid><unittitle type="TITRE PROPRE">24/11/1745-09/04/1750</unittitle>
+            <unitdate normal="17451124/17500409">24/11/1745 - 09/04/1750</unitdate></did><controlaccess>
+            <p>- <emph render="bold">24/11/1745 - 09/04/1750</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C9</unitid><unittitle type="TITRE PROPRE">09/04/1750-03/02/1752</unittitle>
+            <unitdate normal="17500409/17520203">09/04/1750 - 03/02/1752</unitdate></did><controlaccess>
+            <p>- <emph render="bold">09/04/1750 - 03/02/1752</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C10</unitid><unittitle type="TITRE PROPRE">04/02/1752-14/07/1753</unittitle>
+            <unitdate normal="17520204/17530714">04/02/1752 - 14/07/1753</unitdate></did><controlaccess>
+            <p>- <emph render="bold">04/02/1752 - 14/07/1753</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C11/1</unitid><unittitle type="TITRE PROPRE">15/07/1753-27/04/1755</unittitle>
+            <unitdate normal="17530715/17550427">15/07/1753 - 27/04/1755</unitdate></did><controlaccess>
+            <p>- <emph render="bold">15/07/1753 - 27/04/1755</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C11/2</unitid><unittitle type="TITRE PROPRE">02/10/1758-15/07/1760</unittitle>
+            <unitdate normal="17581002/17600715">02/10/1758 - 15/07/1760</unitdate></did><controlaccess>
+            <p>- <emph render="bold">02/10/1758 - 15/07/1760</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C12</unitid><unittitle type="TITRE PROPRE">20/07/1760-05/07/1764</unittitle>
+            <unitdate normal="17600720/17640705">20/07/1760 - 05/07/1764</unitdate></did><controlaccess>
+            <p>- <emph render="bold">20/07/1760 - 05/07/1764</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C13</unitid><unittitle type="TITRE PROPRE">05/07/1764-19/08/1768</unittitle>
+            <unitdate normal="17640705/17680819">05/07/1764 - 19/08/1768</unitdate></did><controlaccess>
+            <p>- <emph render="bold">05/07/1764 - 19/08/1768</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C14/1</unitid><unittitle type="TITRE PROPRE">10/05/1770-20/12/1771</unittitle>
+            <unitdate normal="17700510/17711220">10/05/1770 - 20/12/1771</unitdate></did><controlaccess>
+            <p>- <emph render="bold">10/05/1770 - 20/12/1771</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C14/2</unitid><unittitle type="TITRE PROPRE">20/12/1771-27/07/1773</unittitle>
+            <unitdate normal="17711220/17730727">20/12/1771 - 27/07/1773</unitdate></did><controlaccess>
+            <p>- <emph render="bold">20/12/1771 - 27/07/1773</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C15</unitid><unittitle type="TITRE PROPRE">27/07/1773-20/04/1775</unittitle>
+            <unitdate normal="17730727/17750420">27/07/1773 - 20/04/1775</unitdate></did><controlaccess>
+            <p>- <emph render="bold">27/07/1773 - 20/04/1775</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C16</unitid><unittitle type="TITRE PROPRE">20/04/1775-27/08/1776</unittitle>
+            <unitdate normal="17750420/17760827">20/04/1775 - 27/08/1776</unitdate></did><controlaccess>
+            <p>- <emph render="bold">20/04/1775 - 27/08/1776</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C17</unitid><unittitle type="TITRE PROPRE">27/08/1776-22/10/1777</unittitle>
+            <unitdate normal="17760827/17771022">27/08/1776 - 22/10/1777</unitdate></did><controlaccess>
+            <p>- <emph render="bold">27/08/1776 - 22/10/1777</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C18</unitid><unittitle type="TITRE PROPRE">23/10/1777-17/12/1778</unittitle>
+            <unitdate normal="17771023/17781217">23/10/1777 - 17/12/1778</unitdate></did><controlaccess>
+            <p>- <emph render="bold">23/10/1777 - 17/12/1778</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C19</unitid><unittitle type="TITRE PROPRE">17/12/1778-01/04/1781</unittitle>
+            <unitdate normal="17781217/17810401">17/12/1778 - 01/04/1781</unitdate></did><controlaccess>
+            <p>- <emph render="bold">17/12/1778 - 01/04/1781</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C20</unitid><unittitle type="TITRE PROPRE">03/04/1781-07/06/1782</unittitle>
+            <unitdate normal="17810403/17820607">03/04/1781 - 07/06/1782</unitdate></did><controlaccess>
+            <p>- <emph render="bold">03/04/1781 - 07/06/1782</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C21</unitid><unittitle type="TITRE PROPRE">07/06/1782-24/05/1786</unittitle>
+            <unitdate normal="17820607/17860524">07/06/1782 - 24/05/1786</unitdate></did><controlaccess>
+            <p>- <emph render="bold">07/06/1782 - 24/05/1786</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C22/1</unitid><unittitle type="TITRE PROPRE">25/05/1786-02/01/1791</unittitle>
+            <unitdate normal="17860525/17910102">25/05/1786 - 02/01/1791</unitdate></did><controlaccess>
+            <p>- <emph render="bold">25/05/1786 - 02/01/1791</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>70C22/2</unitid><unittitle type="TITRE PROPRE">03/01/1791-29/03/1794</unittitle>
+            <unitdate normal="17910103/17940329">03/01/1791 - 29/03/1794</unitdate></did><controlaccess>
+            <p>- <emph render="bold">03/01/1791 - 29/03/1794</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>60Q1</unitid><unittitle type="TITRE PROPRE">1793-1794</unittitle>
+            <unitdate normal="1793/1794">1793 - 1794</unitdate></did><controlaccess>
+            <p>- <emph render="bold">1793 - 1794</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>60Q2/1</unitid><unittitle type="TITRE PROPRE">1794-1797</unittitle>
+            <unitdate normal="1794/1797">1794 - 1797</unitdate></did>
+          <controlaccess>
+            <p>- <emph render="bold">1794 - 1797</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>60Q2/2</unitid><unittitle type="TITRE PROPRE">1798</unittitle>
+            <unitdate normal="1798">1798</unitdate></did>
+          <controlaccess>
+            <p>- <emph render="bold">1798</emph> :  Date de contenu </p></controlaccess>
+        </c>
+      </c>
+      <c>
+        <did>
+          <unittitle type="TITRE PROPRE">Registre de contrôle des actes sous seing privé</unittitle><unitid>61Q1</unitid><unitdate normal="18000502/18060620">02/05/1800 - 20/06/1806</unitdate>
+        </did>
+        <c>
+          <did>
+            <unitid>61Q1</unitid><unittitle type="TITRE PROPRE">02/05/1800-20/06/1806</unittitle>
+            <unitdate normal="18000502/18060620">02/05/1800 - 20/06/1806</unitdate></did><controlaccess>
+            <p>- <emph render="bold">02/05/1800 - 20/06/1806</emph> :  Date de contenu </p></controlaccess>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
