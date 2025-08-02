@@ -1,49 +1,38 @@
-from pathlib import Path
+# main.py (version intégrée avec détection d'anomalies)
+
 import argparse
-
+from pathlib import Path
 from ead_clustering.features import build_feature_matrix
-from ead_clustering.similarity import compute_similarity_and_distance
-from ead_clustering.clustering import find_optimal_k, run_clustering
-from ead_clustering.analysis import summarize_clusters
+from ead_clustering.clustering import determine_optimal_k, run_clustering, describe_clusters
+from ead_clustering.anomaly import detect_anomalies, plot_anomalies, export_anomalies_csv
 
-def main(ead_folder: str, k_manual: int | None = None):
-    # 1. Récupération des fichiers
-    xml_files = sorted(Path(ead_folder).rglob("*.xml"))
-    if not xml_files:
-        print(f"[ERREUR] Aucun fichier XML trouvé dans le dossier : {ead_folder}")
+
+def main():
+    parser = argparse.ArgumentParser(description="Analyse structurelle de fichiers EAD avec clustering spectral.")
+    parser.add_argument("ead_folder", help="Chemin vers le dossier contenant les fichiers XML EAD")
+    parser.add_argument("--k", type=int, help="Nombre de clusters à utiliser")
+    parser.add_argument("--detect-anomalies", action="store_true", help="Activer la détection d'anomalies")
+    args = parser.parse_args()
+
+    # Étape 1 : Construction des matrices
+    structural_matrix, affinity_matrix, distance_matrix, paths_vocab, filepaths = build_feature_matrix(Path(args.ead_folder))
+
+    # Étape 2 : Clustering
+    if args.k is None:
+        determine_optimal_k(affinity_matrix, distance_matrix)
+        print("[INFO] Veuillez relancer avec un nombre de clusters via --k.")
         return
 
-    print(f"[INFO] {len(xml_files)} fichiers XML détectés.")
+    cluster_labels = run_clustering(affinity_matrix, args.k)
+    describe_clusters(cluster_labels, filepaths, structural_matrix, paths_vocab)
 
-    # 2. Construction de la matrice structurelle
-    feature_matrix, index_to_path, ordered_files = build_feature_matrix(xml_files)
-
-    # 3. Calcul des similarités
-    affinity, distance = compute_similarity_and_distance(feature_matrix)
-
-    # 4. Choix du k
-    if k_manual is not None:
-        k = k_manual
-        print(f"[INFO] Nombre de clusters forcé à {k}")
-    else:
-        k, _ = find_optimal_k(affinity, distance)
-
-    # 5. Clustering
-    labels = run_clustering(affinity, k)
-
-    # 6. Résumé et affichage
-    df_results = summarize_clusters(labels, feature_matrix, index_to_path, ordered_files)
-
-    # 7. Export CSV (optionnel)
-    from ead_clustering.utils import export_results_dataframe
-    export_results_dataframe(df_results)
-
+    # Étape 3 : Anomalies (optionnel)
+    if args.detect_anomalies:
+        print("\n[INFO] Détection des anomalies activée...")
+        df_anomalies = detect_anomalies(affinity_matrix, distance_matrix, cluster_labels, filepaths)
+        plot_anomalies(df_anomalies)
+        export_anomalies_csv(df_anomalies)
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Analyse structurelle de fichiers XML (EAD)")
-    parser.add_argument("ead_folder", help="Chemin vers le dossier contenant les fichiers XML")
-    parser.add_argument("--k", type=int, default=None, help="Nombre de clusters à forcer (optionnel)")
-
-    args = parser.parse_args()
-    main(ead_folder=args.ead_folder, k_manual=args.k)
+    main()

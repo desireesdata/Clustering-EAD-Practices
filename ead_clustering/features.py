@@ -3,42 +3,43 @@ from collections import defaultdict
 from typing import List, Dict, Tuple
 import numpy as np
 from scipy.sparse import lil_matrix, csr_matrix
+from sklearn.metrics.pairwise import cosine_similarity, pairwise_distances
 
 from .xml_parser import extract_xml_paths
 
-def build_feature_matrix(xml_files: List[Path]) -> Tuple[csr_matrix, Dict[int, str], List[Path]]:
+def build_feature_matrix(ead_folder_path):
     """
-    Construit une matrice creuse représentant la fréquence des chemins XML par document.
-
-    Args:
-        xml_files: Liste de fichiers XML à traiter.
-
-    Returns:
-        - csr_matrix: Matrice [n_documents x n_features]
-        - Dict[int, str]: index → nom du chemin
-        - List[Path]: fichiers traités dans l’ordre
+    Lit tous les fichiers XML dans le dossier donné, extrait les chemins XML,
+    construit la matrice structurelle et les matrices de similarité/distance.
     """
-    paths_vocabulary = {}
+    xml_files = list(Path(ead_folder_path).rglob("*.xml"))
+    if not xml_files:
+        raise ValueError(f"Aucun fichier XML trouvé dans le dossier : {ead_folder_path}")
+
+    print(f"[INFO] Nombre de fichiers XML trouvés : {len(xml_files)}")
+
     path_counts = []
+    vocabulary = {}
 
     for i, xml_file in enumerate(xml_files):
         paths = extract_xml_paths(xml_file)
-        counts = defaultdict(int)
-
+        path_count = defaultdict(int)
         for path in paths:
-            if path not in paths_vocabulary:
-                paths_vocabulary[path] = len(paths_vocabulary)
-            counts[paths_vocabulary[path]] += 1
+            if path not in vocabulary:
+                vocabulary[path] = len(vocabulary)
+            path_count[vocabulary[path]] += 1
+        path_counts.append(path_count)
 
-        path_counts.append(counts)
-
-    n_documents = len(xml_files)
-    n_features = len(paths_vocabulary)
-    matrix = lil_matrix((n_documents, n_features), dtype=np.float64)
+    n_docs = len(xml_files)
+    n_features = len(vocabulary)
+    matrix = lil_matrix((n_docs, n_features), dtype=np.float64)
 
     for i, counts in enumerate(path_counts):
-        for path_index, count in counts.items():
-            matrix[i, path_index] = count
+        for index, count in counts.items():
+            matrix[i, index] = count
 
-    index_to_path = {index: path for path, index in paths_vocabulary.items()}
-    return matrix.tocsr(), index_to_path, xml_files
+    csr_matrix = matrix.tocsr()
+    affinity = cosine_similarity(csr_matrix)
+    distance = pairwise_distances(csr_matrix, metric='cosine')
+
+    return csr_matrix, affinity, distance, vocabulary, xml_files
