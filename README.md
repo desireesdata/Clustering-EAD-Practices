@@ -27,23 +27,11 @@ Depuis la racine du projet :
 
 ```bash
 python3 main.py ./ead_exemples --k 4 #(Choix manuel de clusters)
-python3 main.py ./ead_exemples  # choix automatique de cluster avec la silhouette
+python3 main.py ./ead_exemples  # choix automatique de cluster avec la silhouette (recommandé)
 ```
 
 ### Structure du projet 
 ```
-.
-├── main.py                   # Script principal
-├── ead_clustering/           # Modules Python
-│   ├── parser.py             # Extraction des chemins XML
-│   ├── features.py           # Construction de la matrice CSR
-│   ├── similarity.py         # Calcul des matrices de similarité et distance
-│   ├── clustering.py         # Choix de k et Spectral Clustering
-│   ├── analysis.py           # Signature des clusters
-│   └── utils.py              # Export de résultats
-├── ead/                      # Dossier contenant les fichiers EAD à analyser
-└── results/                  # Résultats générés
-
 
 ead_clustering/
 ├── __init__.py
