@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+  <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" langencoding="iso639-2b" dateencoding="iso8601">
+    <eadid url="https://archives.seine-et-marne.fr/fr/insinuation-et-enregistrement" countrycode="FR" mainagencycode="FRAD077" identifier="FR-FRAD077_3331W5-4">FRAD077_3331W5-4</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Centre des impôts de Bussy-Saint-Georges</titleproper>
+        <subtitle>Répertoire méthodique</subtitle>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">Archives départementales de Seine-et-Marne</publisher>
+        <address>
+          <addressline>248 avenue Charles Prieur, 77190 Dammarie-les-Lys</addressline>
+        </address>
+        <date>Janvier 2010</date>
+      </publicationstmt>
+    </filedesc>
+  </eadheader>
+  <archdesc level="fonds">
+    <did>
+      <unittitle type="TITRE PROPRE">Centre des impôts de Bussy-Saint-Georges</unittitle>
+	  <unitdate normal="1994/1999">1994-1999</unitdate>
+	  <langmaterial>Français.</langmaterial>
+	  <physdesc>44 cotes.</physdesc>
+	  <origination><corpname authfilenumber="FR78422804100033_000000194">Seine-et-Marne. Centre des impôts (Bussy-Saint-Georges)</corpname></origination>
+    </did>
+    <processinfo>
+      <p>Etat de classement : Classement définitif</p>
+    </processinfo>
+	    <appraisal>
+      <p>Conservation définitive.</p>
+    </appraisal>
+	    <accruals>
+      <p>Fonds ouvert.</p>
+    </accruals>
+    <arrangement>
+      <p>Classement par typologie documentaire, puis par ordre chronologique.</p>
+    </arrangement>
+	          <acqinfo>
+            <p>Versement du Centre des impôts de Bussy-Saint-Georges en janvier 2010.</p>
+          </acqinfo>
+    <accessrestrict>
+      <p>Selon les articles L.213-1 à L.213-7 du Code du Patrimoine, le fonds est librement
+        communicable.</p>
+    </accessrestrict>
+    <userestrict>
+      <p>Conditions de reproduction : Soumises aux conditions de la salle de lecture.</p>
+    </userestrict>
+	    <controlaccess>
+      <subject>enregistrement</subject>
+	  <geogname>Bussy-Saint-Georges (Seine-et-Marne, France)</geogname>
+    </controlaccess>
+    <dsc type="othertype">
+      <c>
+        <did>
+          <unittitle type="TITRE PROPRE">Actes sous seing privé</unittitle><unitid>3848W1-3848W44</unitid><unitdate normal="19940101/19991231">01/01/1994-31/12/1999</unitdate>
+        </did>
+		<controlaccess>	  <genreform>acte sous seing privé</genreform></controlaccess>
+        <c>
+          <did>
+            <unitid>3848W1</unitid><unittitle type="TITRE PROPRE">01/01/1994-31/01/1994</unittitle>
+            <unitdate normal="19940101/19940131">01/01/1994-31/01/1994</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/02/2044</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/01/1994-31/01/1994</emph> :  Date de contenu </p></controlaccess>
+        </c>
+        <c>
+          <did>
+            <unitid>3848W2</unitid><unittitle type="TITRE PROPRE">01/02/1994-28/02/1994</unittitle>
+            <unitdate normal="19940201/19940228">01/02/1994-28/02/1994</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 29/02/2044</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/02/1994-28/02/1994</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W3</unitid><unittitle type="TITRE PROPRE">01/03/1994-31/03/1994</unittitle>
+            <unitdate normal="19940301/19940331">01/03/1994-31/03/1994</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/04/2044</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/03/1994-31/03/1994</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W4</unitid><unittitle type="TITRE PROPRE">01/04/1994-30/04/1994</unittitle>
+            <unitdate normal="19940401/19940430">01/04/1994-30/04/1994</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/05/2044</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/04/1994-30/04/1994</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W5</unitid><unittitle type="TITRE PROPRE">01/05/1994-31/05/1994</unittitle>
+            <unitdate normal="19940501/19940531">01/05/1994-31/05/1994</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/06/2044</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/05/1994-31/05/1994</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W6</unitid><unittitle type="TITRE PROPRE">01/10/1995-31/10/1995</unittitle>
+            <unitdate normal="19951001/19951031">01/10/1995-31/10/1995</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/11/2045</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/10/1995-31/10/1995</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W7</unitid><unittitle type="TITRE PROPRE">01/11/1995-30/11/1995</unittitle>
+            <unitdate normal="19951101/19951130">01/11/1995-30/11/1995</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/12/2045</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/11/1995-30/11/1995</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W8</unitid><unittitle type="TITRE PROPRE">10/12/1995-31/12/1995</unittitle>
+            <unitdate normal="19951210/19951231">10/12/1995-31/12/1995</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/01/2046</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">10/12/1995-31/12/1995</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W9</unitid><unittitle type="TITRE PROPRE">01/01/1996-31/01/1996</unittitle>
+            <unitdate normal="19960101/19960131">01/01/1996-31/01/1996</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/02/2046</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/01/1996-31/01/1996</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W10</unitid><unittitle type="TITRE PROPRE">01/02/1996-28/02/1996</unittitle>
+            <unitdate normal="19960201/19960228">01/02/1996-28/02/1996</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/03/2046</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/02/1996-28/02/1996</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W11</unitid><unittitle type="TITRE PROPRE">01/03/1996-31/03/1996</unittitle>
+            <unitdate normal="19960301/19960331">01/03/1996-31/03/1996</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/04/2046</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/03/1996-31/03/1996</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W12</unitid><unittitle type="TITRE PROPRE">01/04/1996-30/04/1996</unittitle>
+            <unitdate normal="19960401/19960430">01/04/1996-30/04/1996</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/05/2046</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/04/1996-30/04/1996</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W13</unitid><unittitle type="TITRE PROPRE">01/05/1996-30/06/1996</unittitle>
+            <unitdate normal="19960501/19960630">01/05/1996-30/06/1996</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/07/2046</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/05/1996-30/06/1996</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W14</unitid><unittitle type="TITRE PROPRE">01/07/1996-31/07/1996</unittitle>
+            <unitdate normal="19960701/19960731">01/07/1996-31/07/1996</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/08/2046</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/07/1996-31/07/1996</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W15</unitid><unittitle type="TITRE PROPRE">01/08/1996-30/09/1996</unittitle>
+            <unitdate normal="19960801/19960930">01/08/1996-30/09/1996</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/10/2046</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/08/1996-30/09/1996</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W16</unitid><unittitle type="TITRE PROPRE">01/10/1996-31/10/1996</unittitle>
+            <unitdate normal="19961001/19961031">01/10/1996-31/10/1996</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/11/2046</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/10/1996-31/10/1996</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W17</unitid><unittitle type="TITRE PROPRE">01/11/1996-30/11/1996</unittitle>
+            <unitdate normal="19961101/19961130">01/11/1996-30/11/1996</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/12/2046</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/11/1996-30/11/1996</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W18</unitid><unittitle type="TITRE PROPRE">01/12/1996-31/12/1996</unittitle>
+            <unitdate normal="19961201/19961231">01/12/1996-31/12/1996</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/01/2047</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/12/1996-31/12/1996</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W19</unitid><unittitle type="TITRE PROPRE"/>
+            <unitdate normal="19970701/19970731">01/09/1997-30/09/1997</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/08/2047</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/07/1997-31/07/1997</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W20</unitid><unittitle type="TITRE PROPRE"/>
+            <unitdate normal="19970901/19970930">01/09/1997-30/09/1997</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/10/2047</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/09/1997-30/09/1997</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W21</unitid><unittitle type="TITRE PROPRE">01/10/1997-31/10/1997</unittitle>
+            <unitdate normal="19971001/19971031">01/10/1997-31/10/1997</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/11/2047</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/10/1997-31/10/1997</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W22</unitid><unittitle type="TITRE PROPRE">10/11/1997-30/11/1997</unittitle>
+            <unitdate normal="19971110/19971130">10/11/1997-30/11/1997</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/12/2047</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">10/11/1997-30/11/1997</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W23</unitid><unittitle type="TITRE PROPRE">01/12/1997-31/12/1997</unittitle>
+            <unitdate normal="19971201/19971231">01/12/1997-31/12/1997</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/01/2048</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/12/1997-31/12/1997</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W24</unitid><unittitle type="TITRE PROPRE">01/01/1998-31/01/1998</unittitle>
+            <unitdate normal="19980101/19980131">01/01/1998-31/01/1998</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/02/2048</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/01/1998-31/01/1998</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W25</unitid><unittitle type="TITRE PROPRE">01/02/1998-28/02/1998</unittitle>
+            <unitdate normal="19980201/19980228">01/02/1998-28/02/1998</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 29/02/2048</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/02/1998-28/02/1998</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W26</unitid><unittitle type="TITRE PROPRE">01/03/1998-31/03/1998</unittitle>
+            <unitdate normal="19980301/19980331">01/03/1998-31/03/1998</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/04/2048</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/03/1998-31/03/1998</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W27</unitid><unittitle type="TITRE PROPRE">01/04/1998-30/04/1998</unittitle>
+            <unitdate normal="19980401/19980430">01/04/1998-30/04/1998</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/05/2048</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/04/1998-30/04/1998</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W28</unitid><unittitle type="TITRE PROPRE">01/05/1998-31/05/1998</unittitle>
+            <unitdate normal="19980501/19980531">01/05/1998-31/05/1998</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/06/2048</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/05/1998-31/05/1998</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W29</unitid><unittitle type="TITRE PROPRE">01/06/1998-30/06/1998</unittitle>
+            <unitdate normal="19980601/19980630">01/06/1998-30/06/1998</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/07/2048</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/06/1998-30/06/1998</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W30</unitid><unittitle type="TITRE PROPRE">01/07/1998-31/07/1998</unittitle>
+            <unitdate normal="19980701/19980731">01/07/1998-31/07/1998</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/08/2048</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/07/1998-31/07/1998</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W31</unitid><unittitle type="TITRE PROPRE">01/08/1998-31/08/1998</unittitle>
+            <unitdate normal="19980801/19980831">01/08/1998-31/08/1998</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/09/2048</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/08/1998-31/08/1998</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W32</unitid><unittitle type="TITRE PROPRE">01/09/1998-30/09/1998</unittitle>
+            <unitdate normal="19980901/19980930">01/09/1998-30/09/1998</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/10/2048</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/09/1998-30/09/1998</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W33</unitid><unittitle type="TITRE PROPRE">01/10/1998-31/10/1998</unittitle>
+            <unitdate normal="19981001/19981031">01/10/1998-31/10/1998</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/11/2048</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/10/1998-31/10/1998</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W34</unitid><unittitle type="TITRE PROPRE">01/11/1998-30/11/1998</unittitle>
+            <unitdate normal="19981101/19981130">01/11/1998-30/11/1998</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/12/2048</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/11/1998-30/11/1998</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W35</unitid><unittitle type="TITRE PROPRE">01/12/1998-31/12/1998</unittitle>
+            <unitdate normal="19981201/19981231">01/12/1998-31/12/1998</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/01/2049</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/12/1998-31/12/1998</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W36</unitid><unittitle type="TITRE PROPRE">01/01/1999-31/01/1999</unittitle>
+            <unitdate normal="19990101/19990131">01/01/1999-31/01/1999</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/02/2049</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/01/1999-31/01/1999</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W37</unitid><unittitle type="TITRE PROPRE">01/02/1999-28/02/1999</unittitle>
+            <unitdate normal="19990201/19990228">01/02/1999-28/02/1999</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/03/2049</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/02/1999-28/02/1999</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W38</unitid><unittitle type="TITRE PROPRE">01/03/1999-31/03/1999</unittitle>
+            <unitdate normal="19990301/19990331">01/03/1999-31/03/1999</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/04/2049</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/03/1999-31/03/1999</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W39</unitid><unittitle type="TITRE PROPRE">01/09/1999-30/09/1999</unittitle>
+            <unitdate normal="19990901/19990930">01/09/1999-30/09/1999</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/10/2049</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/09/1999-30/09/1999</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W40</unitid><unittitle type="TITRE PROPRE">01/10/1999-18/10/1999</unittitle>
+            <unitdate normal="19991001/19991018">01/10/1999-18/10/1999</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 19/10/2049</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/10/1999-18/10/1999</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W41</unitid><unittitle type="TITRE PROPRE">19/10/1999-31/10/1999</unittitle>
+            <unitdate normal="19991019/19991031">19/10/1999-31/10/1999</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/11/2049</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">19/10/1999-31/10/1999</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W42</unitid><unittitle type="TITRE PROPRE">01/11/1999-31/11/1999</unittitle>
+            <unitdate normal="19991101/19991131">01/11/1999-31/11/1999</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 02/12/2049</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/11/1999-31/11/1999</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W43</unitid><unittitle type="TITRE PROPRE">01/12/1999-17/12/1999</unittitle>
+            <unitdate normal="19991201/19991217">01/12/1999-17/12/1999</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 18/12/2049</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">01/12/1999-17/12/1999</emph> :  Date de contenu </p></controlaccess></c>
+        <c>
+          <did>
+            <unitid>3848W44</unitid><unittitle type="TITRE PROPRE">17/12/1999-31/12/1999</unittitle>
+            <unitdate normal="19991217/19991231">17/12/1999-31/12/1999</unitdate></did>
+          <accessrestrict>
+            <p>Date de communicabilité : 01/01/2050</p></accessrestrict>
+          <controlaccess>
+            <p>- <emph render="bold">17/12/1999-31/12/1999</emph> :  Date de contenu </p></controlaccess></c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

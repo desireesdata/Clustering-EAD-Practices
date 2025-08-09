@@ -1,7 +1,8 @@
+# Récupérations des chemins XPATHS
 using LightXML
 
 function read_xml(xml_file::String)::Vector{String}
-    # Bon exemple pour apprendre à lire un XML !
+    # Bon exemple pour apprendre à lire un XML ! à garder pour un éventuel tuto
     tree = nothing
     paths = String[]
 
@@ -11,7 +12,7 @@ function read_xml(xml_file::String)::Vector{String}
         println(root_element)
         free(tree)
     catch e
-        println("Erreur de parsin XML / ($xml_file) : ", e)
+        println("Erreur de parsing XML / ($xml_file) : ", e)
     finally
         if tree !== nothing
             free(tree)
@@ -34,7 +35,6 @@ end
 function extract_xml_paths(xml_file::String)::Vector{String}
     tree = nothing
     paths = String[]
-
     try
         tree = parse_file(xml_file)
         root_element = root(tree)

@@ -43,3 +43,7 @@ ead_clustering/
 ├── main.py                 ← pipeline principal (script d’appel)
 ├── utils.py                ← outils divers
 ```
+
+## Prochainement : implémentation en Julia
+
+Pour traitement de gros lots de données, Julia est parfait car ce langage gère le spectral clustering (contrairement à Go par exemple) et est performant ! 
