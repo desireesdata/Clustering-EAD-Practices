@@ -1,0 +1,2317 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:cpf="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+		<eadid url="https://www.archives32.fr/wp-content/uploads/2024/06/FRAD032_000096.pdf" countrycode="FR" mainagencycode="FRAD032" identifier="FRAD032_000096">FRAD032_000096</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Archives communales de Gazaupouy</titleproper>
+				<subtitle>Répertoire méthodique</subtitle>
+				<author>élaboré par Malvina Comte sous la direction de Pascal Geneste et Nadine Rouayroux</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives départementales du Gers</publisher>
+				<date>09/06/2023</date>
+				<address>
+					<addressline>81 route de Pessan - 32001 Auch</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Cet instrument de recherche a été exporté au format XML depuis le progiciel de gestion d'archives Thot par les archives départementales du Gers.</creation>
+			<langusage>Instrument de recherche rédigé en <language langcode="fre">français</language>
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="fonds">
+		<did>
+			<unitid>ESUPPL 10185 - 10258, 10497 - 10510, 10893 - 10897</unitid>
+			<unittitle>Archives communales de Gazaupouy</unittitle>
+			<unitdate normal="1613/1991">1613-1991</unitdate>
+			<origination label="producteur">Commune de Gazaupouy</origination>
+			<physdesc>
+				</physdesc>
+			<langmaterial>Français</langmaterial>
+		</did>
+		<bioghist>
+			<p>Gazaupouy est une commune située dans le canton et l'arrondissement de Condom. Les communes voisines sont Ligardes au nord, Pouy-Roquelaure et La Romieu à l'est, Castelnau-sur-l'Auvignon au sud et Condom à l'ouest. Son territoire est délimité par les ruisseaux de l'Auvignon et de la Segonne.</p>
+			<p>Toponymie de Gazaupouy : Le préfixe « Gazau » pourrait faire référence au casau, c'est-à-dire au jardin en gascon. « Pouy » (du latin podium) désigne une hauteur ou un sommet en référence à la position de ce village qui domine la vallée de l'Auvignon. </p>
+			<p>Cet ancien castelnau mentionné dès 1268 possède des origines bien plus anciennes, datées de la période gallo-romaine et du néolithique. Les terres de Gazaupouy appartenaient au marquisat de Fimarcon et étaient divisées en trois paroisses et une annexe : Gazaupouy, Goubbès, Laplagne et Estrepouy. Avant la création d'un siège épiscopal à Condom en 1317 par Jean XXII, Gazaupouy appartenait au diocèse d'Agen. </p>
+			<p>Le patrimoine architectural du village fortifié de remparts comprend deux tours situées à Estrepouy et Déhès. La tour d'Estrepouy est classée au titre des Monuments historiques en 1982. Elle a été construite vers le début du XIVe siècle suite au traité d'Amiens de 1279 qui marque le transfert de l'Agenais au profit des Anglais. Cette tour est devenue au fil des siècles une demeure abritant la famille de Saint-Germé. La tour du Déhès a été transformée en habitation au XIXe siècle. </p>
+			<p>Les quatre églises paroissiales ont subi les aléas du temps. L'église Saint-Martin de Gazaupouy est une ancienne chapelle castrale de construction romane servant de nécropole aux seigneurs de ce territoire. L'église connaît une restructuration et une reconstruction entre 1932 et 1934. L'église Notre-Dame de Laplagne existe toujours et constitue un enclos paroissial (porche, cimetière et presbytère). L'église rurale Sainte-Christine d'Estrepouy est toujours visible de nos jours, contrairement à l'église Saint-Pierre de Goubbès, démolie sous la Révolution.</p>
+		</bioghist>
+		<custodhist>
+			<p>Un unique dépôt a été effectué en 2021 aux Archives départementales suite à une inspection. Il comprend les registres paroissiaux de Gazaupouy, Laplagne et de Goubbès tandis que les cahiers de baptêmes, mariages et sépultures de la paroisse annexe d'Estrepouy antérieurs à 1699 n'ont pas été conservés bien qu'ils soient attestés dans l'inventaire des archives et objets mobiliers de la mairie réalisé à partir de 1843. Les actes d'Estrepouy postérieurs à 1699 sont inscrits dans les registres de Gazaupouy. L'état civil relié est au complet mais les tables décennales présentent une lacune (décès entre 1883 et 1892). </p>
+			<p>Les matrices cadastrales des propriétés bâties et non bâties de 1829 à 1951 ainsi que le cahier des demandes en décharge de la patente de 1827 ont été conservés. D'après l'inventaire des archives de la commune de 1843, il existait des matrices générales des contributions (1816-1844), un dénombrement de la population et le registre des inscriptions de passeports (début XIXe siècle) qui n'ont pas été conservé. </p>
+			<p>Les quatre livres terriers de Gazaupouy précisés dans l'inventaire des archives de 1843 ainsi que les registres de comptes des particuliers ont été donnés aux Archives départementales en 2021 par M. Donnadieu (ESUPPL 10185-10189).</p>
+			<p>Le registre des délibérations du conseil municipal de l'an II à l'an VII a été restitué par M. Georges Courtès (ESUPPL 10893).</p>
+		</custodhist>
+		<acqinfo>
+			<p>Dépôt du 30 septembre 2021 (entrée n° 2021-110), restitutions du 23 septembre 2021 (entrée n° 2021-075) et du 1er août 2023 (entrée n° 2023-085).</p>
+		</acqinfo>
+		<scopecontent>
+			<p>Le fonds comprend des archives fiscales antérieures à la Révolution comme des livres terriers et un compoix terrien.</p>
+			<p>Pour la période moderne, le fonds est composé des registres des délibérations du conseil municipal (an II-an VII, 1838-1954), du bureau de bienfaisance et les arrêtés du maire (1839-1869). L'état civil recouvre la période de 1794 à 1900 tout comme les tables décennales. Ce fonds inclut également les matrices cadastrales jusqu'en 1951, un cahier d'enregistrement des habitants qui refusent de contribuer à la patente en arrêtant le travail (1828-1842), les registres des visas de départ et d'arrivée ainsi que les cartes d'identité délivrées aux étrangers. Enfin, il existe des livres de comptes de particuliers des périodes anciennes et modernes.</p>
+		</scopecontent>
+		<accruals>
+			<p>Le fonds est ouvert et s'accroit par dépôt de la commune.</p>
+		</accruals>
+		<arrangement>
+			<p>Le classement suit l'arrêté interministériel du 31 décembre 1926 portant règlement des archives des communes. La cotation des archives déposées des communes de moins de 2000 habitants se fait en continu dans la série ESUPPL.</p>
+		</arrangement>
+		<accessrestrict>
+			<p>La communicabilité des archives communales est soumise aux délais fixés par la loi du 15 juillet 2008 modifiant le code du patrimoine (article L 213-2, <extref xlink:type="simple" xlink:href="https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159942">legifrance.gouv.fr/codes/id/LEGISCTA000006159942</extref>). Cependant, même pour les documents communicables en application de la loi, le mauvais état matériel des documents ne permet pas d'assurer leur consultation en salle de lecture.</p>
+		</accessrestrict>
+		<userestrict>
+			<p>Les documents dont l'état matériel le permet, sont reproductibles sous réserve de mentionner la cote des documents et l'institution de conservation en cas de publication.</p>
+			<p>Les documents reliés ne peuvent pas être photocopiés. Les reproductions de documents avec un appareil photographique sans flash sont autorisées en salle de lecture.</p>
+		</userestrict>
+		<relatedmaterial>
+			<p>I. Ancien Régime</p>
+			<list>
+				<item>série C : archives des administrations provinciales (intendance, subdélégations, élections, collecte) ;</item>
+				<item>sous-série 9 B : justice locale et seigneuriale de la sénéchaussée de Gascogne ;</item>
+				<item>série G : archives du clergé séculier (visites pastorales, procès-verbaux de visite et de vérification des réparations des églises du diocèse, archives des paroisses, fabriques d'église et cures) ;</item>
+				<item>séries E et I : archives des communautés d'habitants aux XVIe-XVIIIe siècles (chartes de coutumes, hommages, délibérations consulaires, documents financiers, livres terrier, compoix et cadastres, registres paroissiaux) ; archives de familles ;</item>
+				<item>sous-série 5 E : registres paroissiaux (fonds des sénéchaussées).</item>
+			</list>
+			<p>II. Période révolutionnaire</p>
+			<list>
+				<item>série L : justice, municipalités de canton, comités de surveillance, sociétés populaires ;</item>
+				<item>série Q : vente des biens nationaux. Yves Coustau, Dépouillement des procès-verbaux d'adjudication des biens nationaux de 1re origine et 2e origine, 1962, 2 volumes.</item>
+			</list>
+			<p>III. Période contemporaine</p>
+			<p>1. Série E</p>
+			<list>
+				<item>sous-série 5 E : registres d'état civil, tables décennales (fonds du greffe du tribunal de grande instance d'Auch).</item>
+			</list>
+			<p>2. Série M</p>
+			<list>
+				<item>sous-série 1 M : regroupement de communes, délimitation du territoire ;</item>
+				<item>sous-série 3 M : conseils municipaux, documents électoraux ;</item>
+				<item>sous-série 6 M : recensement de population, statistiques démographiques, naturalisations, état civil, agriculture.</item>
+			</list>
+			<p>3. Série O</p>
+			<list>
+				<item>sous-série 1 O : affaires communales, administration générale des communes, bâtiments et biens communaux, syndicats intercommunaux ;</item>
+				<item>sous-série 2 O : administration générale de la commune, travaux de construction et d'entretien sur les bâtiments communaux et les équipements collectifs, acquisition et aliénation des biens communaux, comptabilité communale, assistance et prévoyance ; </item>
+				<item>sous-série 3 O : voirie communale, chemins vicinaux ;</item>
+				<item>sous-série 4 O : dons et legs.</item>
+			</list>
+			<p>4. Série P</p>
+			<list>
+				<item>sous-série 3 P : délimitation cadastrale, documentation cadastrale ;</item>
+				<item>sous-série 6 P : postes.</item>
+			</list>
+			<p>5. Autres séries modernes</p>
+			<list>
+				<item>sous-série 2 R : monuments aux morts ;</item>
+				<item>série S : travaux publics (routes, chemins de fer, moulins, usines hydrauliques, électrification, mines, carrières, tourbières) ;</item>
+				<item>série T : ouvertures et fermetures d'école, affaires scolaires, dossiers d'instituteurs et institutrices, monographies scolaires, dossiers de classement au titre des monuments historiques ;</item>
+				<item>série V : conseils de fabrique, églises ;</item>
+				<item>série X : bureaux de bienfaisance.</item>
+			</list>
+			<p>6. Archives contemporaines (postérieures à 1940)</p>
+			<list>
+				<item>992 W, 1319 W : administration communale ;</item>
+				<item>1277 W : fermetures d'écoles.</item>
+			</list>
+			<p>IV. Archives notariales</p>
+			<list>
+				<item>sous-série 3 E : les archives des études notariales contiennent les éléments de l'histoire locale et des informations sur la vie des habitants ; on retrouve parfois dans les archives notariales des délibérations consulaires.</item>
+			</list>
+			<p>V. Archives privées, fonds entrés par voie extraordinaire</p>
+			<list>
+				<item>sous-série 1 J : pièces isolées et petits fonds ;</item>
+				<item>sous-série 14 J : papiers de Sylvain Daugé, prêtre et érudit local, notes sur des familles et des communes du Gers ;</item>
+				<item>sous-série 83 J : fonds de Macarez-Mainfroy, albums de cartes postales et photographies des communes du Gers ;</item>
+				<item>sous-série 88 J : fonds de Jean-Henri Ducos, dossiers documentaires sur les châteaux et maison-fortes du Gers ;</item>
+				<item>sous-série 101 J : fonds de Paul Mesplé, conservateur du musée des Augustins de Toulouse, albums de photographies des communes du Gers.</item>
+			</list>
+			<p>VI. Documents figurés</p>
+			<list>
+				<item>sous-série 1 Fi : cartes et plans ;</item>
+				<item>sous-série 2 Fi : dessins, gravures, estampes, lithographies, tirages photographiques ;</item>
+				<item>sous-série 6 Fi : cartes postales.</item>
+			</list>
+			<p>VII. Documentation</p>
+			<list>
+				<item>séries DAN et DAR : dossiers archéologiques et antiques ;</item>
+				<item>série CDOC : dossiers documentaires ;</item>
+				<item>série JX : presse locale ;</item>
+				<item>série PER : bulletins municipaux et paroissiaux ;</item>
+				<item>bibliothèque historique et administrative.</item>
+			</list>
+		</relatedmaterial>
+		<bibliography>
+			<p>Gérard Bianchi, Gascogne souterraine, Condom, 1977, p. 20-21.</p>
+			<p>Jean Boube, « Contribution à l'étude des sarcophages paléochrétiens du Sud-Ouest de la Gaule », Aquitania : une revue inter-régionale d'archéologie, tome 2, 1984, p. 175-238.</p>
+			<p>F.J. Bourdeau, Manuel de géographie historique de l'ancienne Gascogne et Béarn, p.54.</p>
+			<p>Georges Courtès (dir.), Communes du département du Gers, vol. II : arrondissement de Condom, Auch, Société archéologique et historique du Gers, 2004, p. 37-39.</p>
+			<p>Georges Courtès, Étude démographique et sociale d'un village du Condomois - Gazaupouy - aux XVIIe et XVIIIe siècles, 1965, p. 7-55.</p>
+			<p>Jacques Gardelles, « Les châteaux gascons du Condomois et du Lectourois », Annales du Midi : revue archéologique, historique et philologique de la France méridionale, tome 1, n°1, 1989. Langue et littérature d'oc et histoire médiévale. p. 395-404 (<extref xlink:type="simple" xlink:href="https://www.persee.fr/doc/anami_0003-4398_1989_hos_1_1_2914">www.persee.fr/doc/anami_0003-4398_1989_hos_1_1_2914</extref>).</p>
+			<p>Gilles Séraphin, « Salles et châteaux gascons, un modèle de maisons fortes », Bulletin monumental, tome 157, n°1, année 1999. Demeures seigneuriales dans la France des XIIe-XIVe siècles. p. 11-42.</p>
+			<p>Ferdinand Mauquié, Les suzerains de Fimarcon, d'après les recherches et les notes de M. Bernard Lafitte, curé de Caussens, Auch, Imprimerie centrale, 1908 (<extref xlink:type="simple" xlink:href="https://gallica.bnf.fr/ark:/12148/bpt6k165130b">gallica.bnf.fr/ark:/12148/bpt6k165130b</extref>).</p>
+		</bibliography>
+		<otherfindaid>
+			<p>Architerre, sources fiscales d'Ancien Régime (<extref xlink:type="simple" xlink:href="http://modelespace.univ-tlse2.fr">modelespace.univ-tlse2.fr</extref>).</p>
+		</otherfindaid>
+		<processinfo>
+			<p>Notice rédigée par bonnafous validée le </p>
+		</processinfo>
+		<controlaccess>
+			<geogname>Gazaupouy (Gers, France)</geogname>
+		</controlaccess>
+		<dsc>
+			<c>
+				<did>
+					<unittitle>Archives anciennes (antérieures à 1790)</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Finances, impôts et comptabilité</unittitle>
+					</did>
+					<c level="recordgrp" id="_341336">
+						<did>
+							<unitid>ESUPPL 10185 - 10188</unitid>
+							<unittitle>Livre terrier du territoire de Gazaupouy en Fimarcon comprenant les paroisses de Gazaupouy, Estrepouy, Goubbes et Laplagne.</unittitle>
+							<unitdate normal="1613/1792">1613-1792</unitdate>
+							<origination label="producteur">Commune de Gazaupouy</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>livre foncier</genreform>
+							<geogname>Gazaupouy (Gers, France)</geogname>
+							<subject>cadastre</subject>
+						</controlaccess>
+						<c level="file" id="_341337">
+							<did>
+								<unitid>ESUPPL 10185</unitid>
+								<unittitle>1613.</unittitle>
+								<unitdate normal="1613">1613</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 15:05:45
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341338">
+							<did>
+								<unitid>ESUPPL 10186</unitid>
+								<unittitle>1629.</unittitle>
+								<unitdate normal="1629">1629</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<scopecontent>
+								<p>Livre terrier comprenant les paroisses de Gazaupouy, Esterpouy, Goubbes, Condom, Castelnau et de Ligardes.</p>
+							</scopecontent>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 15:08:40
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341339">
+							<did>
+								<unitid>ESUPPL 10187</unitid>
+								<unittitle>1674.</unittitle>
+								<unitdate normal="1674">1674</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 15:08:18
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341340">
+							<did>
+								<unitid>ESUPPL 10188</unitid>
+								<unittitle>1737-1792.</unittitle>
+								<unitdate normal="1737/1792">1737-1792</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 14:00:13
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="file" id="_341341">
+						<did>
+							<unitid>ESUPPL 10189</unitid>
+							<unittitle>Compoix terrien.</unittitle>
+							<unitdate normal="1750/1789">1750-1789</unitdate>
+							<origination label="producteur">Commune de Gazaupouy</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le 23/04/2024 13:59:17
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>livre foncier</genreform>
+							<geogname>Gazaupouy (Gers, France)</geogname>
+							<subject>cadastre</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Cultes. Instruction publique. Assistance publique</unittitle>
+					</did>
+					<c level="recordgrp" id="_341342">
+						<did>
+							<unitid>ESUPPL 10190 - 10191</unitid>
+							<unittitle>Paroisse de Saint-Martin de Gazaupouy : registres des baptêmes, mariages et sépultures.</unittitle>
+							<unitdate normal="1655/1700">1655-1700</unitdate>
+							<origination label="producteur">Commune de Gazaupouy</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le 09/06/2023 12:23:03
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>registre paroissial</genreform>
+							<geogname>Gazaupouy (Gers, France)</geogname>
+							<geogname>Gazaupouy (Gers, France ; paroisse)</geogname>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+						<c level="file" id="_341343">
+							<did>
+								<unitid>ESUPPL 10190</unitid>
+								<unittitle>1655-1692.</unittitle>
+								<unitdate normal="1655/1692">1655-1692</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 14:46:23
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Gazaupouy (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341344">
+							<did>
+								<unitid>ESUPPL 10191</unitid>
+								<unittitle>1692-1700.</unittitle>
+								<unitdate normal="1692/1700">1692-1700</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Gazaupouy (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="recordgrp" id="_341441">
+						<did>
+							<unitid>ESUPPL 10192 - 10196</unitid>
+							<unittitle>Paroisse de Saint-Martin de Gazaupouy et paroisse annexe de Sainte-Christine d'Estrepouy : registres des baptêmes, mariages et sépultures.</unittitle>
+							<unitdate normal="1700/1792">1700-1792</unitdate>
+							<origination label="producteur">Commune de Gazaupouy</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par COMTE validée le 23/04/2024 14:47:51
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>registre paroissial</genreform>
+							<geogname>Gazaupouy (Gers, France)</geogname>
+							<geogname>Gazaupouy (Gers, France ; paroisse)</geogname>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+						<c level="file" id="_341345">
+							<did>
+								<unitid>ESUPPL 10192</unitid>
+								<unittitle>1700-1712.</unittitle>
+								<unitdate normal="1700/1712">1700-1712</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Gazaupouy (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341346">
+							<did>
+								<unitid>ESUPPL 10193</unitid>
+								<unittitle>1713-1732.</unittitle>
+								<unitdate normal="1713/1732">1713-1732</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:54:16
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Gazaupouy (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341347">
+							<did>
+								<unitid>ESUPPL 10194</unitid>
+								<unittitle>1733-1752.</unittitle>
+								<unitdate normal="1733/1752">1733-1752</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:54:31
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Gazaupouy (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341348">
+							<did>
+								<unitid>ESUPPL 10195</unitid>
+								<unittitle>1753-1772.</unittitle>
+								<unitdate normal="1753/1772">1753-1772</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:54:46
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Gazaupouy (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341349">
+							<did>
+								<unitid>ESUPPL 10196</unitid>
+								<unittitle>1773-1792.</unittitle>
+								<unitdate normal="1773/1792">1773-1792</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:55:03
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Gazaupouy (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="recordgrp" id="_341350">
+						<did>
+							<unitid>ESUPPL 10197 - 10202</unitid>
+							<unittitle>Paroisse de Saint-Pierre de Goubbès : registres des baptêmes, mariages et sépultures.</unittitle>
+							<unitdate normal="1659/1793">1659-1793</unitdate>
+							<origination label="producteur">Commune de Gazaupouy</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le 09/06/2023 09:06:50
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>registre paroissial</genreform>
+							<geogname>Gazaupouy (Gers, France)</geogname>
+							<geogname>Goubbès (Gazaupouy, Gers, France ; paroisse)</geogname>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+						<c level="file" id="_341351">
+							<did>
+								<unitid>ESUPPL 10197</unitid>
+								<unittitle>1659-1699.</unittitle>
+								<unitdate normal="1659/1699">1659-1699</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:55:49
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Goubbès (Gazaupouy, Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341352">
+							<did>
+								<unitid>ESUPPL 10198</unitid>
+								<unittitle>1700-1712.</unittitle>
+								<unitdate normal="1700/1712">1700-1712</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:56:05
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Goubbès (Gazaupouy, Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341353">
+							<did>
+								<unitid>ESUPPL 10199</unitid>
+								<unittitle>1713-1732.</unittitle>
+								<unitdate normal="1713/1732">1713-1732</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:56:20
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Goubbès (Gazaupouy, Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341354">
+							<did>
+								<unitid>ESUPPL 10200</unitid>
+								<unittitle>1733-1752.</unittitle>
+								<unitdate normal="1733/1752">1733-1752</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:56:36
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Goubbès (Gazaupouy, Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341355">
+							<did>
+								<unitid>ESUPPL 10201</unitid>
+								<unittitle>1753-1772.</unittitle>
+								<unitdate normal="1753/1772">1753-1772</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:56:51
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Goubbès (Gazaupouy, Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341356">
+							<did>
+								<unitid>ESUPPL 10202</unitid>
+								<unittitle>1773-1793.</unittitle>
+								<unitdate normal="1773/1793">1773-1793</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:57:07
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Goubbès (Gazaupouy, Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="recordgrp" id="_341357">
+						<did>
+							<unitid>ESUPPL 10203 - 10208</unitid>
+							<unittitle>Paroisse de Notre-Dame de Laplagne : registres des baptêmes, mariages et sépultures.</unittitle>
+							<unitdate normal="1670/1792">1670-1792</unitdate>
+							<origination label="producteur">Commune de Gazaupouy</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le 23/04/2024 10:54:05
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>registre paroissial</genreform>
+							<geogname>Gazaupouy (Gers, France)</geogname>
+							<geogname>Laplagne (Gazaupouy, Gers, France ; paroisse)</geogname>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+						<c level="file" id="_341358">
+							<did>
+								<unitid>ESUPPL 10203</unitid>
+								<unittitle>1670-1699.</unittitle>
+								<unitdate normal="1670/1699">1670-1699</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:57:43
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Laplagne (Gazaupouy, Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341359">
+							<did>
+								<unitid>ESUPPL 10204</unitid>
+								<unittitle>1700-1711.</unittitle>
+								<unitdate normal="1700/1711">1700-1711</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:57:59
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Laplagne (Gazaupouy, Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341360">
+							<did>
+								<unitid>ESUPPL 10205</unitid>
+								<unittitle>1712-1732.</unittitle>
+								<unitdate normal="1712/1732">1712-1732</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:58:16
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Laplagne (Gazaupouy, Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341361">
+							<did>
+								<unitid>ESUPPL 10206</unitid>
+								<unittitle>1733-1752.</unittitle>
+								<unitdate normal="1733/1752">1733-1752</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:58:30
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Laplagne (Gazaupouy, Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341362">
+							<did>
+								<unitid>ESUPPL 10207</unitid>
+								<unittitle>1753-1772.</unittitle>
+								<unitdate normal="1753/1772">1753-1772</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:58:45
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Laplagne (Gazaupouy, Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341363">
+							<did>
+								<unitid>ESUPPL 10208</unitid>
+								<unittitle>1773-1792.</unittitle>
+								<unitdate normal="1773/1792">1773-1792</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:58:59
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<geogname>Laplagne (Gazaupouy, Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Documents divers</unittitle>
+					</did>
+					<c level="file" id="_341364">
+						<did>
+							<unitid>ESUPPL 10209</unitid>
+							<unittitle>Livre de comptes d'un particulier Antoine Garrigou à propos du seigneur de La Bourlie.</unittitle>
+							<unitdate normal="1748/1828">1748-1828</unitdate>
+							<origination label="producteur">Commune de Gazaupouy</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le 23/04/2024 13:52:34
+							</p>
+						</processinfo>
+						<controlaccess>
+							<geogname>Gazaupouy (Gers, France)</geogname>
+							<subject>comptabilité privée</subject>
+						</controlaccess>
+					</c>
+				</c>
+			</c>
+			<c>
+				<did>
+					<unittitle>Archives modernes (postérieures à 1789)</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Administration générale de la commune</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Conseil municipal</unittitle>
+						</did>
+						<c level="recordgrp" id="_341365">
+							<did>
+								<unitid>ESUPPL 10210 - 10216, 10893</unitid>
+								<unittitle>Registres des délibérations.</unittitle>
+								<unitdate normal="1794/1954">an II-1954</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 10:57:24
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>délibération</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>conseil municipal</subject>
+								<subject>administration communale</subject>
+							</controlaccess>
+							<c level="item" id="_356078">
+								<did>
+									<unitid>ESUPPL 10893</unitid>
+									<unittitle>an II-an VII.</unittitle>
+									<unitdate normal="1794/1797">an II-an VII</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341366">
+								<did>
+									<unitid>ESUPPL 10210</unitid>
+									<unittitle>1838 (8 mai)-1849 (20 mai).</unittitle>
+									<unitdate normal="1838/1849">1838-1849</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 15:38:13
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>conseil municipal</subject>
+									<subject>administration communale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341367">
+								<did>
+									<unitid>ESUPPL 10211</unitid>
+									<unittitle>1849 (14 septembre)-1875 (20 mars).</unittitle>
+									<unitdate normal="1849/1875">1849-1875</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 15:38:59
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>conseil municipal</subject>
+									<subject>administration communale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341368">
+								<did>
+									<unitid>ESUPPL 10212</unitid>
+									<unittitle>1875 (19 mai)-1892.</unittitle>
+									<unitdate normal="1875/1892">1875-1892</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 15:39:35
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>conseil municipal</subject>
+									<subject>administration communale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341369">
+								<did>
+									<unitid>ESUPPL 10213</unitid>
+									<unittitle>1893-1913 (8 octobre).</unittitle>
+									<unitdate normal="1893/1913">1893-1913</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>conseil municipal</subject>
+									<subject>administration communale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341370">
+								<did>
+									<unitid>ESUPPL 10214</unitid>
+									<unittitle>1913 (16 novembre)-1929 (17 novembre).</unittitle>
+									<unitdate normal="1913/1929">1913-1929</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>conseil municipal</subject>
+									<subject>administration communale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341371">
+								<did>
+									<unitid>ESUPPL 10215</unitid>
+									<unittitle>1927 (16 décembre)-1938 (15 août).</unittitle>
+									<unitdate normal="1929/1938">1929-1938</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 15:41:02
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>conseil municipal</subject>
+									<subject>administration communale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341372">
+								<did>
+									<unitid>ESUPPL 10216</unitid>
+									<unittitle>1938 (27 novembre)-1954 (25 juillet).</unittitle>
+									<unitdate normal="1938/1954">1938-1954</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 15:41:27
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>conseil municipal</subject>
+									<subject>administration communale</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Actes de l'administration municipale</unittitle>
+						</did>
+						<c level="file" id="_341373">
+							<did>
+								<unitid>ESUPPL 10217</unitid>
+								<unittitle>Registre des arrêtés du maire.</unittitle>
+								<unitdate normal="1839/1869">1839-1869</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<scopecontent>
+								<p>contient un plan parcellaire de la commune et un état estimatif des terrains à acquérir pour l'établissement d'un chemin.</p>
+							</scopecontent>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 10:58:27
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>arrêté du maire</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>administration communale</subject>
+								<subject>maire</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341427">
+							<did>
+								<unitid>ESUPPL 10497</unitid>
+								<unittitle>Correspondance.</unittitle>
+								<unitdate normal="1910/1952">1910-1952</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 10:58:55
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>correspondance</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>administration communale</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Administration de la commune</unittitle>
+						</did>
+						<c level="file" id="_356079">
+							<did>
+								<unitid>ESUPPL 10894</unitid>
+								<unittitle>Inspection des archives communales : comptes rendus.</unittitle>
+								<unitdate normal="1882/1979">1882, 1979</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>État civil</unittitle>
+					</did>
+					<c level="file" id="_341375">
+						<did>
+							<unitid>ESUPPL 10218</unitid>
+							<unittitle>Registre des naissances, mariages et décès.</unittitle>
+							<unitdate normal="1794/1797">an III (15 vendémiaire)-an V (21 fructidor)</unitdate>
+							<origination label="producteur">Commune de Gazaupouy</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le 23/04/2024 11:08:53
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>répertoire civil</genreform>
+							<geogname>Gazaupouy (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+					</c>
+					<c level="recordgrp" id="_341379">
+						<did>
+							<unitid>ESUPPL 10219, 10222, 10225, 10228, 10231, 10234, 10237, 10240</unitid>
+							<unittitle>Registres des naissances.</unittitle>
+							<unitdate normal="1797/1900">an VI-1900</unitdate>
+							<origination label="producteur">Commune de Gazaupouy</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le 23/04/2024 11:16:25
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>répertoire civil</genreform>
+							<geogname>Gazaupouy (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+						</controlaccess>
+						<c level="file" id="_341376">
+							<did>
+								<unitid>ESUPPL 10219</unitid>
+								<unittitle>an VI (2 vendémiaire)-an XIII (28 fructidor).</unittitle>
+								<unitdate normal="1797/1805">1797-1805</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:12:57
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341380">
+							<did>
+								<unitid>ESUPPL 10222</unitid>
+								<unittitle>an XIV (4 vendémiaire)-1812.</unittitle>
+								<unitdate normal="1805/1812">1805-1812</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:14:12
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341384">
+							<did>
+								<unitid>ESUPPL 10225</unitid>
+								<unittitle>1813-1822.</unittitle>
+								<unitdate normal="1813/1822">1813-1822</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:16:59
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341388">
+							<did>
+								<unitid>ESUPPL 10228</unitid>
+								<unittitle>1823-1833.</unittitle>
+								<unitdate normal="1823/1833">1823-1833</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:17:26
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341392">
+							<did>
+								<unitid>ESUPPL 10231</unitid>
+								<unittitle>1834-1842.</unittitle>
+								<unitdate normal="1834/1842">1834-1842</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:18:07
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341396">
+							<did>
+								<unitid>ESUPPL 10234</unitid>
+								<unittitle>1843-1852.</unittitle>
+								<unitdate normal="1843/1852">1843-1852</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:18:30
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341400">
+							<did>
+								<unitid>ESUPPL 10237</unitid>
+								<unittitle>1853-1872.</unittitle>
+								<unitdate normal="1853/1872">1853-1872</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:18:59
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341404">
+							<did>
+								<unitid>ESUPPL 10240</unitid>
+								<unittitle>1873-1900.</unittitle>
+								<unitdate normal="1873/1900">1873-1900</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:19:21
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="recordgrp" id="_341383">
+						<did>
+							<unitid>ESUPPL 10220, 10223, 10226, 10229, 10232, 10235, 10238, 10241</unitid>
+							<unittitle>Registres des mariages.</unittitle>
+							<unitdate normal="1797/1900">an VI-1900.</unitdate>
+							<origination label="producteur">Commune de Gazaupouy</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le 23/04/2024 11:23:14
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>répertoire civil</genreform>
+							<geogname>Gazaupouy (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>mariage</subject>
+						</controlaccess>
+						<c level="file" id="_341377">
+							<did>
+								<unitid>ESUPPL 10220</unitid>
+								<unittitle>an VI (21 vendémiaire)-an XIII (13 messidor).</unittitle>
+								<unitdate normal="1797/1805">1797-1805</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:23:51
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341381">
+							<did>
+								<unitid>ESUPPL 10223</unitid>
+								<unittitle>an XIV (6 frimaire)-1812.</unittitle>
+								<unitdate normal="1805/1812">1805-1812</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:24:12
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341385">
+							<did>
+								<unitid>ESUPPL 10226</unitid>
+								<unittitle>1813-1822.</unittitle>
+								<unitdate normal="1813/1822">1813-1822</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:24:36
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341389">
+							<did>
+								<unitid>ESUPPL 10229</unitid>
+								<unittitle>1823-1832.</unittitle>
+								<unitdate normal="1823/1832">1823-1832</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:25:41
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341393">
+							<did>
+								<unitid>ESUPPL 10232</unitid>
+								<unittitle>1833-1842.</unittitle>
+								<unitdate normal="1833/1842">1833-1842</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:26:01
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341397">
+							<did>
+								<unitid>ESUPPL 10235</unitid>
+								<unittitle>1843-1852.</unittitle>
+								<unitdate normal="1843/1852">1843-1852</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:26:22
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341401">
+							<did>
+								<unitid>ESUPPL 10238</unitid>
+								<unittitle>1853-1872.</unittitle>
+								<unitdate normal="1853/1872">1853-1872</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:26:42
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341405">
+							<did>
+								<unitid>ESUPPL 10241</unitid>
+								<unittitle>1873-1900.</unittitle>
+								<unitdate normal="1873/1900">1873-1900</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:27:04
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="recordgrp" id="_341387">
+						<did>
+							<unitid>ESUPPL 10221, 10224, 10227, 10230, 10233, 10236, 10239, 10242</unitid>
+							<unittitle>Registres des décès.</unittitle>
+							<unitdate normal="1797/1900">1797-1900</unitdate>
+							<origination label="producteur">Commune de Gazaupouy</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le 23/04/2024 11:30:26
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>répertoire civil</genreform>
+							<geogname>Gazaupouy (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>décès</subject>
+						</controlaccess>
+						<c level="file" id="_341378">
+							<did>
+								<unitid>ESUPPL 10221</unitid>
+								<unittitle>an VI (1er vendémiaire)-an XII (4e jour complémentaire).</unittitle>
+								<unitdate normal="1797/1804">1797-1804</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:32:35
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341382">
+							<did>
+								<unitid>ESUPPL 10224</unitid>
+								<unittitle>an XIV (1er brumaire)-1812.</unittitle>
+								<unitdate normal="1805/1812">1805-1812</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:33:03
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341386">
+							<did>
+								<unitid>ESUPPL 10227</unitid>
+								<unittitle>1813-1822.</unittitle>
+								<unitdate normal="1813/1822">1813-1822</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:33:32
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341390">
+							<did>
+								<unitid>ESUPPL 10230</unitid>
+								<unittitle>1823-1832.</unittitle>
+								<unitdate normal="1823/1832">1823-1832</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:33:53
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341394">
+							<did>
+								<unitid>ESUPPL 10233</unitid>
+								<unittitle>1833-1842.</unittitle>
+								<unitdate normal="1833/1842">1833-1842</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:34:17
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341398">
+							<did>
+								<unitid>ESUPPL 10236</unitid>
+								<unittitle>1843-1852.</unittitle>
+								<unitdate normal="1843/1852">1843-1852</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:34:47
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341402">
+							<did>
+								<unitid>ESUPPL 10239</unitid>
+								<unittitle>1853-1872.</unittitle>
+								<unitdate normal="1853/1872">1853-1872</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:35:07
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341406">
+							<did>
+								<unitid>ESUPPL 10242</unitid>
+								<unittitle>1873-1900.</unittitle>
+								<unitdate normal="1873/1900">1873-1900</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:35:26
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="file" id="_341407">
+						<did>
+							<unitid>ESUPPL 10243</unitid>
+							<unittitle>Tables décennales des naissances, mariages et décès.</unittitle>
+							<unitdate normal="1803/1912">1803-1912</unitdate>
+							<origination label="producteur">Commune de Gazaupouy</origination>
+						</did>
+						<scopecontent>
+							<p>Lacunes des décès (1883 -1892).</p>
+						</scopecontent>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le 23/04/2024 11:36:12
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>table</genreform>
+							<geogname>Gazaupouy (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Contributions. Administrations financières</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Impôts directs</unittitle>
+						</did>
+						<c level="recordgrp" id="_341374">
+							<did>
+								<unitid>ESUPPL 10244 - 10251</unitid>
+								<unittitle>Cadastre.</unittitle>
+								<unitdate normal="1819/1951">1819-1951</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 11:44:25
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>fiscalité</subject>
+								<subject>cadastre</subject>
+							</controlaccess>
+							<c level="file" id="_341409">
+								<did>
+									<unitid>ESUPPL 10245</unitid>
+									<unittitle>Registre des mutations de propriétés.</unittitle>
+									<unitdate normal="1819">1819</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 11:51:36
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>fiscalité immobilière</subject>
+									<subject>publicité foncière</subject>
+								</controlaccess>
+							</c>
+							<c level="recordgrp" id="_341403">
+								<did>
+									<unitid>ESUPPL 10244, 10246 - 10249</unitid>
+									<unittitle>Cadastre napoléonien.</unittitle>
+									<unitdate normal="1819/1951">1819-1951</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 11:46:22
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>cadastre</subject>
+								</controlaccess>
+								<c level="file" id="_341408">
+									<did>
+										<unitid>ESUPPL 10244</unitid>
+										<unittitle>État de sections.</unittitle>
+										<unitdate normal="1830/1840">[1830-1840]</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>état de section</genreform>
+										<geogname>Gazaupouy (Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité</subject>
+									</controlaccess>
+								</c>
+								<c level="recordgrp" id="_341410">
+									<did>
+										<unitid>ESUPPL 10246 - 10247</unitid>
+										<unittitle>Matrices des propriétés foncières.</unittitle>
+										<unitdate normal="1828/1914">1828-1914</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 23/04/2024 11:52:41
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Gazaupouy (Gers, France)</geogname>
+										<subject>cadastre</subject>
+									</controlaccess>
+									<c level="file" id="_341411">
+										<did>
+											<unitid>ESUPPL 10246</unitid>
+											<unittitle>Volume 1.</unittitle>
+											<unitdate normal="1828/1914">1828-1914</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 23/04/2024 11:53:08
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice cadastrale</genreform>
+											<geogname>Gazaupouy (Gers, France)</geogname>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341412">
+										<did>
+											<unitid>ESUPPL 10247</unitid>
+											<unittitle>Volume 2.</unittitle>
+											<unitdate normal="1839/1914">1839-1914</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 23/04/2024 11:53:24
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice cadastrale</genreform>
+											<geogname>Gazaupouy (Gers, France)</geogname>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c level="recordgrp" id="_341413">
+									<did>
+										<unitid>ESUPPL 10248 - 10249</unitid>
+										<unittitle>Matrices des propriétés bâties.</unittitle>
+										<unitdate normal="1882/1951">1882-1951</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 23/04/2024 11:55:13
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Gazaupouy (Gers, France)</geogname>
+										<subject>cadastre</subject>
+									</controlaccess>
+									<c level="file" id="_341414">
+										<did>
+											<unitid>ESUPPL 10248</unitid>
+											<unittitle>1882-1910.</unittitle>
+											<unitdate normal="1882/1910">1882-1910</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 23/04/2024 11:57:29
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice cadastrale</genreform>
+											<geogname>Gazaupouy (Gers, France)</geogname>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341415">
+										<did>
+											<unitid>ESUPPL 10249</unitid>
+											<unittitle>1910-1951.</unittitle>
+											<unitdate normal="1910/1951">1910-1951</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 23/04/2024 11:57:48
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice cadastrale</genreform>
+											<geogname>Gazaupouy (Gers, France)</geogname>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+								</c>
+							</c>
+							<c level="recordgrp" id="_341416">
+								<did>
+									<unitid>ESUPPL 10250 - 10251</unitid>
+									<unittitle>Cadastre révisé (1910) : matrices des propriétés non bâties.</unittitle>
+									<unitdate normal="1914/1951">1914-1951</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 12:02:57
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>matrice cadastrale</genreform>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>cadastre</subject>
+								</controlaccess>
+								<c level="file" id="_341417">
+									<did>
+										<unitid>ESUPPL 10250</unitid>
+										<unittitle>Volume 1.</unittitle>
+										<unitdate normal="1914/1951">1914-1951</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 23/04/2024 12:03:35
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Gazaupouy (Gers, France)</geogname>
+										<subject>cadastre</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341418">
+									<did>
+										<unitid>ESUPPL 10251</unitid>
+										<unittitle>Volume 2.</unittitle>
+										<unitdate normal="1914/1951">1914-1951</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Gazaupouy (Gers, France)</geogname>
+										<subject>cadastre</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+						<c level="recordgrp" id="_341391">
+							<did>
+								<unitid>ESUPPL 10252 - 10253, 10498</unitid>
+								<unittitle>Contributions directes.</unittitle>
+								<unitdate normal="1828/1948">1828-1948</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 12:10:09
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>fiscalité</subject>
+								<subject>impôts locaux</subject>
+							</controlaccess>
+							<c level="file" id="_341419">
+								<did>
+									<unitid>ESUPPL 10252</unitid>
+									<unittitle>Contribution foncière des propriétés bâties et non bâties, taxe des biens de mainmorte, contribution mobilière et taxe d'habitation, contribution des patentes et taxe sur la valeur locative des locaux professionnels, taxe sur les chiens, taxe sur les voitures, chevaux, mules et mulets, taxe sur les domestiques, précepteurs et gouvernantes, taxe sur les instruments de musique à clavier, taxe des prestations : copie de la matrice générale.</unittitle>
+									<unitdate normal="1936/1940">1936-1940</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 12:10:57
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>matrice d'imposition</genreform>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>impôts locaux</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341420">
+								<did>
+									<unitid>ESUPPL 10253</unitid>
+									<unittitle>Contribution de la patente : cahier d'enregistrement des demandes de décharges.</unittitle>
+									<unitdate normal="1828/1842">1828-1842</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 12:11:28
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341428">
+								<did>
+									<unitid>ESUPPL 10498</unitid>
+									<unittitle>Répartiteurs et classificateurs. - Nomination : extraits du registre des délibérations, arrêté (1923-1948). Taxes. - Augmentations et diminutions : extrait du registre des délibérations, correspondance (1893-1933). Recouvrement : correspondance (1931). Révision annuelle : correspondance (1935).</unittitle>
+									<unitdate normal="1893/1948">1893-1948</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 12:05:44
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<genreform>correspondance</genreform>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>recouvrement fiscal</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Police. Hygiène publique. Justice</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Police locale</unittitle>
+						</did>
+						<c level="item" id="_356081">
+							<did>
+								<unitid>ESUPPL 10896</unitid>
+								<unittitle>Police des foires. - Établissement de la foire annuelle, autorisation : arrêté préfectoral.</unittitle>
+								<unitdate normal="1899">1899</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 20/06/2024 14:36:12
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Police générale</unittitle>
+						</did>
+						<c level="recordgrp" id="_341421">
+							<did>
+								<unitid>ESUPPL 10254 - 10256</unitid>
+								<unittitle>Contrôle des étrangers.</unittitle>
+								<unitdate normal="1933/1991">1933-1991</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 13:49:09
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>police</subject>
+								<subject>étranger</subject>
+								<subject>police administrative</subject>
+								<subject>circulation des personnes</subject>
+							</controlaccess>
+							<c level="file" id="_341422">
+								<did>
+									<unitid>ESUPPL 10254</unitid>
+									<unittitle>Registres des visas d'arrivée.</unittitle>
+									<unitdate normal="1933/1983">1933-1983</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 13:50:46
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>police</subject>
+									<subject>étranger</subject>
+									<subject>police administrative</subject>
+									<subject>circulation des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341423">
+								<did>
+									<unitid>ESUPPL 10255</unitid>
+									<unittitle>Registres des visas de départ.</unittitle>
+									<unitdate normal="1934/1969">1934-1969</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 13:51:10
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>police</subject>
+									<subject>étranger</subject>
+									<subject>police administrative</subject>
+									<subject>circulation des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341424">
+								<did>
+									<unitid>ESUPPL 10256</unitid>
+									<unittitle>Registre des demandes de cartes d'identité.</unittitle>
+									<unitdate normal="1933/1991">1933-1991</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 13:50:09
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>police</subject>
+									<subject>étranger</subject>
+									<subject>police administrative</subject>
+									<subject>circulation des personnes</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Hygiène publique et salubrité</unittitle>
+						</did>
+						<c level="file" id="_341429">
+							<did>
+								<unitid>ESUPPL 10499</unitid>
+								<unittitle>Règlements sanitaires.</unittitle>
+								<unitdate normal="1835/1904">1835-1904</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 14:00:41
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>règlement</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>santé</subject>
+								<subject>hygiène</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Élections et personnel</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Élections</unittitle>
+						</did>
+						<c level="file" id="_356080">
+							<did>
+								<unitid>ESUPPL 10895</unitid>
+								<unittitle>Élections politiques. - Organisation des opérations de vote et résultats, élections municipales : procès-verbaux des opérations de l'assemblée électorale, procès-verbaux d'installation du conseil municipal et de l'élection du maire et adjoint, arrêté préfectoral (1888-1893) ; élections sénatoriales : procès-verbaux de l'élection de délégués et de suppléants (1887).</unittitle>
+								<unitdate normal="1887/1893">1887-1893</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 23/04/2024 14:13:23
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341430">
+							<did>
+								<unitid>ESUPPL 10500</unitid>
+								<unittitle>Élections socio-professionnelles. - Organisation des opérations de vote et résultats, élections de la chambre du commerce : extrait du registre des délibérations, note, liste nominative, correspondance.</unittitle>
+								<unitdate normal="1929/1933">1929-1933</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 14:01:44
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<genreform>correspondance</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>agriculture</subject>
+								<subject>chambre consulaire</subject>
+								<subject>élection professionnelle</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Personnel municipal</unittitle>
+						</did>
+						<c level="file" id="_341431">
+							<did>
+								<unitid>ESUPPL 10501</unitid>
+								<unittitle>Personnel. - Désignation et salaire : extraits du registre des délibérations, arrêtés, note.</unittitle>
+								<unitdate normal="1890/1954">1890-1954</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 14:02:08
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>délibération</genreform>
+								<genreform>arrêté du maire</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>personnel</subject>
+								<subject>rémunération</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Finances de la commune</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Revenus et charges de la commune</unittitle>
+						</did>
+						<c level="file" id="_341432">
+							<did>
+								<unitid>ESUPPL 10502</unitid>
+								<unittitle>Dépenses et emprunts : extraits du registre des délibérations, état des dépenses, arrêté.</unittitle>
+								<unitdate normal="1907/1952">1907-1952</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 14:02:31
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>délibération</genreform>
+								<genreform>arrêté du maire</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>comptabilité publique</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Édifices communaux. Monuments et établissements publics</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Édifices publics</unittitle>
+						</did>
+						<c level="file" id="_341433">
+							<did>
+								<unitid>ESUPPL 10503</unitid>
+								<unittitle>Bureau de poste. - Installation : devis, extraits du registre des délibérations.</unittitle>
+								<unitdate normal="1930/1952">1930-1952</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 14:03:38
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>délibération</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>poste</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Édifices du culte et cimetières</unittitle>
+						</did>
+						<c level="file" id="_341434">
+							<did>
+								<unitid>ESUPPL 10504</unitid>
+								<unittitle>Presbytère. - Location : extraits du registre des délibérations.</unittitle>
+								<unitdate normal="1908/1912">1908-1912</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 14:04:07
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>délibération</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>presbytère</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Travaux publics. Voirie. Moyens de transport. Régime des eaux</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Travaux publics et voirie en général</unittitle>
+						</did>
+						<c level="file" id="_341435">
+							<did>
+								<unitid>ESUPPL 10505</unitid>
+								<unittitle>Chemins vicinaux. - Chaussée entre Laplagne et Pépet, élargissement : plan parcellaire, extraits des délibérations (1870-1880). Taxe vicinale. - Perception : extraits du registre des délibérations, correspondance (1927-1931). Service vicinal. - Déclaration de prestations : déclaration, arrêté de mise en demeure, délibération (1885-1942).</unittitle>
+								<unitdate normal="1870/1942">1870-1942</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 14:04:48
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>délibération</genreform>
+								<genreform>plan</genreform>
+								<genreform>liste nominative</genreform>
+								<genreform>correspondance</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>voie communale</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341437">
+							<did>
+								<unitid>ESUPPL 10507</unitid>
+								<unittitle>Pont de Barban. - Demande de réparations : correspondance.</unittitle>
+								<unitdate normal="1924">1924</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 14:05:40
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>correspondance</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>ouvrage d'art</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Moyens de transport et travaux divers</unittitle>
+						</did>
+						<c level="file" id="_341436">
+							<did>
+								<unitid>ESUPPL 10506</unitid>
+								<unittitle>Distribution d'énergie électrique : extraits du registre des délibérations, correspondance.</unittitle>
+								<unitdate normal="1927/1954">1927-1954</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 14:06:31
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>délibération</genreform>
+								<genreform>correspondance</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>réseau de distribution</subject>
+								<subject>distribution électrique</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Assistance et prévoyance</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Bureaux de bienfaisance, secours d'urgence</unittitle>
+						</did>
+						<c level="recordgrp" id="_341395">
+							<did>
+								<unitid>ESUPPL 10257 - 10258</unitid>
+								<unittitle>Bureau de bienfaisance.</unittitle>
+								<unitdate normal="1875/1952">1875-1952</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 14:07:59
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>structure communale d'aide sociale</subject>
+							</controlaccess>
+							<c level="file" id="_341425">
+								<did>
+									<unitid>ESUPPL 10257</unitid>
+									<unittitle>Registre des délibérations.</unittitle>
+									<unitdate normal="1875/1942">1875-1942</unitdate>
+								</did>
+								<scopecontent>
+									<p>Contient des pièces isolées en annexe (correspondance, extraits d'actes d'état civil).</p>
+								</scopecontent>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 14:08:26
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>structure communale d'aide sociale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341438">
+								<did>
+									<unitid>ESUPPL 10508</unitid>
+									<unittitle>Budgets : extraits du registre des délibérations, correspondance (1912-1925). Personnel. - Renouvellement : arrêtés (1950-1952).</unittitle>
+									<unitdate normal="1912/1952">1912-1952</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 14:08:57
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<genreform>correspondance</genreform>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<subject>structure communale d'aide sociale</subject>
+									<subject>personnel</subject>
+									<subject>finances locales</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Établissements hospitaliers, hospitalisation</unittitle>
+						</did>
+						<c level="file" id="_356082">
+							<did>
+								<unitid>ESUPPL 10897</unitid>
+								<unittitle>Asile public départemental d'aliénés. - Placement à l'asile et paiement des dépenses : déclaration et correspondance.</unittitle>
+								<unitdate normal="1889/1899">1889-1899</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Application des lois d'assistance et de prévoyance</unittitle>
+						</did>
+						<c level="file" id="_341439">
+							<did>
+								<unitid>ESUPPL 10509</unitid>
+								<unittitle>Personnes âgées, infirmes et incurables : état nominatif (1908). Dépenses : liste et extraits du registre des délibérations (1907-1911). Femmes en couche. - Allocation : note, correspondance (1926).</unittitle>
+								<unitdate normal="1907/1926">1907-1926</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 14:10:07
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<genreform>délibération</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>aide sociale</subject>
+								<subject>aide sociale à l'enfance</subject>
+								<subject>indigent</subject>
+								<subject>exclusion sociale</subject>
+								<subject>personne âgée</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Instruction publique. Sciences, lettres et arts</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Instruction publique</unittitle>
+						</did>
+						<c level="file" id="_341440">
+							<did>
+								<unitid>ESUPPL 10510</unitid>
+								<unittitle>Caisse des écoles : statuts, extraits du registre des délibérations (1882-1952). Colonie scolaire de vacances. - Subvention : extrait du registre des délibérations (1930).</unittitle>
+								<unitdate normal="1882/1952">1882-1952</unitdate>
+								<origination label="producteur">Commune de Gazaupouy</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 14:10:39
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>délibération</genreform>
+								<geogname>Gazaupouy (Gers, France)</geogname>
+								<subject>école</subject>
+								<subject>centre de vacances</subject>
+								<subject>enseignement élémentaire</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Pièces ne rentrant pas dans les séries précédentes</unittitle>
+					</did>
+					<c level="file" id="_341426">
+						<did>
+							<unitid>ESUPPL 10258</unitid>
+							<unittitle>Livre de comptes des domestiques et des denrées.</unittitle>
+							<unitdate normal="1818/1861">1818-1861</unitdate>
+							<origination label="producteur">Commune de Gazaupouy</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le 23/04/2024 14:10:59
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>écrit du for privé</genreform>
+							<geogname>Gazaupouy (Gers, France)</geogname>
+							<subject>employé de maison</subject>
+						</controlaccess>
+					</c>
+				</c>
+			</c>
+		</dsc>
+	</archdesc>
+</ead>

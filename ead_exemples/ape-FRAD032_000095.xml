@@ -1,0 +1,776 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:cpf="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+		<eadid url="https://www.archives32.fr/wp-content/uploads/2024/06/FRAD032_000095-1.pdf" countrycode="FR" mainagencycode="FRAD032" identifier="FRAD032_000095">FRAD032_000095</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Archives communales de Lagarde</titleproper>
+				<subtitle>Répertoire méthodique</subtitle>
+				<author>élaboré par Michèle Macé-Ramète et Malvina Comte sous la direction de Pascal Geneste et Nadine Rouayroux</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives départementales du Gers</publisher>
+				<date>15/05/2024</date>
+				<address>
+					<addressline>81 route de Pessan - 32001 Auch</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Cet instrument de recherche a été exporté au format XML depuis le progiciel de gestion d'archives Thot par les archives départementales du Gers.</creation>
+			<langusage>Instrument de recherche rédigé en <language langcode="fre">français</language>
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="fonds">
+		<did>
+			<unitid>ESUPPL 1133 - 1134, 5884, 8657, 10166 - 10184</unitid>
+			<unittitle>Archives communales de Lagarde</unittitle>
+			<unitdate normal="1663/1962">1663-1962</unitdate>
+			<origination label="producteur">Commune de Lagarde</origination>
+			<physdesc>
+				</physdesc>
+			<langmaterial>Français</langmaterial>
+		</did>
+		<bioghist>
+			<p>Lagarde (ou Lagarde-Fimarcon) est un ancien castelnau qui appartenait à la seigneurie de Fimarcon. Bien que cet ancien village fortifié appartenait aux vicomtes de Lomagne et d'Auvillar depuis le IXe siècle, ils y installèrent leur résidence au XIIIe siècle. Erigée en marquisat en 1503, la seigneurie de Fimarcon prend de l'ampleur. Elle était placée dans le ressort des parlement et intendance de Bordeaux, élection de Condom et de la sénéchaussée de Gascogne. Elle comprenait seize paroisses réparties entre la rivière de l'Auvignon, Lamothe-Goas et Astaffort. Plusieurs familles seigneuriales se succèdent sous l'Ancien Régime : les Lomagne-Fimarcon, les Narbonne-Lara, les Cassagnet-Tilladet et les Preissac d'Esclignac. L'émigration du dernier marquis de Fimarcon à la Révolution entraîne le partage des biens de Lagarde. </p>
+			<p>À la Révolution, Lagarde dépendait du district de Lectoure. La commune est ensuite placée dans les canton et arrondissement de Lectoure, puis elle est rattachée à l'arrondissement de Condom après la réforme de 1926 qui supprime l'arrondissement de Lectoure.</p>
+			<p>Toponymiquement, le nom « Lagarde » ou « La Garde » signifie « lieu fortifié » ou « porte de garde ». Afin de le distinguer des autres communes nommées Lagarde, on y accole le nom de la seigneurie dont il fut le siège, Fimarcon (anciennement orthographiée Fieumarcon ou Fismarcon). </p>
+			<p>La commune compte deux édifices classés au titre des Monuments historiques : l'église est inscrite en 1983 et le château est inscrit en 1984. </p>
+			<p>De nos jours, seuls les vestiges de l'ancien château sont visibles avec l'ensemble des écuries du marquis de Fimarcon. Le bâtiment a été reconstruit entre 1725 et 1730 avant d'être en partie amputé à la Révolution. L'église attenante à la porte de la ville est de fondation romane avec de remaniements datant des XVIIe et XVIIIe siècles.</p>
+		</bioghist>
+		<custodhist>
+			<p>Un premier dépôt des registres terriers de Lagarde-Fimarcon a été effectué en 1948 à la suite d'une inspection. La majorité des archives de la commune semble avoir été détruite. Celles conservées en mairie ont été déposées le 29 septembre 2021 à la suite d'une inspection réalisée en 2020.</p>
+		</custodhist>
+		<acqinfo>
+			<p>Dépôts de 1948 et du 29 septembre 2021 (entrée n° 2021-108).</p>
+		</acqinfo>
+		<scopecontent>
+			<p>Le fonds comprend seulement des livres terriers (1663, 1724) pour la période antérieure à la Révolution. </p>
+			<p>Pour la période moderne, le fonds est composé des registres de délibérations du conseil municipal (1900-1962) et du centre communal d'action sociale (CCAS) ainsi que des registres d'état civil (1793 -1912). Le cadastre est réduit à un état de sections (1826). Les listes électorales politiques datées de 1868 à 1928 ont été en grande partie conservées. À cela s'ajoutent les procès-verbaux des élections politiques (1912-1914). Les documents militaires portent sur des demandes et les versements des pensions et des allocations des habitants de la commune.</p>
+		</scopecontent>
+		<accruals>
+			<p>Le fonds est ouvert et s'accroît par dépôt de la commune.</p>
+		</accruals>
+		<arrangement>
+			<p>Le classement suit l'arrêté interministériel du 31 décembre 1926 portant règlement des archives des communes. La cotation des archives déposées des communes de moins de 2000 habitants se fait en continu dans la série ESUPPL.</p>
+		</arrangement>
+		<accessrestrict>
+			<p>La communicabilité des archives communales est soumise aux délais fixés par la loi du 15 juillet 2008 modifiant le code du patrimoine (article L 213-2, <extref xlink:type="simple" xlink:href="https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159942">legifrance.gouv.fr/codes/id/LEGISCTA000006159942</extref>). Cependant, même pour les documents communicables en application de la loi, le mauvais état matériel des documents ne permet pas d'assurer leur consultation en salle de lecture.</p>
+		</accessrestrict>
+		<userestrict>
+			<p>Les documents dont l'état matériel le permet sont reproductibles sous réserve de mentionner la cote des documents et l'institution de conservation en cas de publication.</p>
+			<p>Les documents reliés ne peuvent pas être photocopiés. Les reproductions de documents avec un appareil photographique sans flash sont autorisées en salle de lecture.</p>
+		</userestrict>
+		<relatedmaterial>
+			<p>I. Ancien Régime</p>
+			<list>
+				<item>série C : archives des administrations provinciales (intendance, subdélégations, élections, collecte) ;</item>
+				<item>sous-série 9 B : justice locale et seigneuriale de la sénéchaussée de Gascogne ;</item>
+				<item>série G : archives du clergé séculier (visites pastorales, procès-verbaux de visite et de vérification des réparations des églises du diocèse, archives des paroisses, fabrique d'église et cures) ;</item>
+				<item>séries E et I : archives des communautés d'habitants aux XVIe-XVIIIe siècles (chartes de coutumes, hommages, délibérations consulaires, documents financiers, livres terrier, compoix et cadastres, registres paroissiaux) ; archives de familles ;</item>
+				<item>sous-série 5 E : registres paroissiaux (fonds des sénéchaussées).</item>
+			</list>
+			<p>II. Période révolutionnaire</p>
+			<list>
+				<item>série L : justice, municipalités de canton, comités de surveillance, sociétés populaires ;</item>
+				<item>série Q : vente des biens nationaux. Yves Coustau, Dépouillement des procès-verbaux d'adjudication des biens nationaux de 1re origine et 2e origine, 1962, 2 volumes.</item>
+			</list>
+			<p>III. Période contemporaine</p>
+			<p>1. Série E</p>
+			<list>
+				<item>sous-série 5 E : registres d'état civil, tables décennales (fonds du greffe du tribunal d'instance d'Auch).</item>
+			</list>
+			<p>2. Série M</p>
+			<list>
+				<item>sous-série 1 M : regroupement de communes, délimitation du territoire ;</item>
+				<item>sous-série 3 M : conseils municipaux, documents électoraux ;</item>
+				<item>sous-série 6 M : recensement de population, statistiques démographiques, naturalisations, état civil, agriculture.</item>
+			</list>
+			<p>3. Série O</p>
+			<list>
+				<item>sous-série 1 O : affaires communales, administration générale des communes, bâtiments et biens communaux, syndicats intercommunaux ;</item>
+				<item>sous-série 2 O : administration générale de la commune, travaux de construction et d'entretien sur les bâtiments communaux et les équipements collectifs, acquisition et aliénation des biens communaux, comptabilité communale, assistance et prévoyance ;</item>
+				<item>sous-série 3 O : voirie communale, chemins vicinaux ;</item>
+				<item>sous-série 4 O : dons et legs.</item>
+			</list>
+			<p>4. Série P</p>
+			<list>
+				<item>sous-série 3 P : délimitation cadastrale, documentation cadastrale ;</item>
+				<item>sous-série 6 P : postes.</item>
+			</list>
+			<p>5. Autres séries modernes</p>
+			<list>
+				<item>sous-série 2 R : monuments aux morts ;</item>
+				<item>série S : travaux publics (routes, chemins de fer, moulins, usines hydrauliques, électrification, mines, carrières, tourbières) ;</item>
+				<item>série T : ouvertures et fermetures d'école, affaires scolaires, dossiers d'instituteurs et institutrices, monographies scolaires, dossiers de classement au titre des monuments historiques ;</item>
+				<item>série V : conseils de fabrique, églises ;</item>
+				<item>série X : bureaux de bienfaisance.</item>
+			</list>
+			<p>6. Archives contemporaines (postérieures à 1940)</p>
+			<list>
+				<item>992 W, 1319 W : administration communale ;</item>
+				<item>1277 W : fermetures d'école.</item>
+			</list>
+			<p>IV. Archives notariales</p>
+			<list>
+				<item>sous-série 3 E : les archives des études notariales contiennent les éléments de l'histoire locale et des informations sur la vie des habitants ; on retrouve parfois dans les archives notariales des délibérations consulaires.</item>
+			</list>
+			<p>V. Archives privées, fonds entrés par voie extraordinaire</p>
+			<list>
+				<item>sous-série 1 J : pièces isolées et petits fonds ;</item>
+				<item>sous-série 14 J : papiers de Sylvain Daugé, prêtre et érudit local, notes sur des familles et des communes du Gers ; </item>
+				<item>sous-série 83 J : fonds de Macarez-Mainfroy, albums de cartes postales et photographies des communes du Gers ;</item>
+				<item>sous-série 88 J : fonds de Jean-Henri Ducos, dossiers documentaires sur les châteaux et maison-fortes du Gers ;</item>
+				<item>sous-série 101 J : fonds de Paul Mesplé, conservateur du musée des Augustins de Toulouse, albums de photographies des communes du Gers.</item>
+			</list>
+			<p>VI. Documents figurés</p>
+			<list>
+				<item>sous-série 1 FI : cartes et plans ;</item>
+				<item>sous-série 2 FI : dessins, gravures, estampes, lithographies, tirages photographiques ;</item>
+				<item>sous-série 6 FI : cartes postales.</item>
+			</list>
+			<p>VII. Documentation</p>
+			<list>
+				<item>séries DAN et DAR : dossiers archéologiques et antiques ;</item>
+				<item>série CDOC : dossiers documentaires ;</item>
+				<item>série JX : presse locale ;</item>
+				<item>série PER : bulletins municipaux et paroissiaux ;</item>
+				<item>bibliothèque historique et administrative.</item>
+			</list>
+		</relatedmaterial>
+		<bibliography>
+			<p>Centre généalogique du Gers, Les mariages célébrés à Lagarde-Fimarcon de 1792 à 1892, d'après les registres de l'état civil, Archives départementales, Auch : Centre généalogique du Gers, 1996, 15 p.</p>
+			<p>Georges Courtès (dir.), Communes du département du Gers, vol. II : arrondissement de Condom, Auch, Société archéologique et historique du Gers, 2004, p. 284-286.</p>
+			<p>Élie Ducassé, « Dénombrement des biens du marquisat de Fimarcon en 1533 », Bulletin de la Société archéologique, historique, littéraire et scientifique du Gers, Auch : Imprimerie Th. Bouquet, 1er trimestre 1998, p. 30-52. </p>
+			<p>Jean-Joseph Expilly, « Fimarcon », Dictionnaire géographique, historique et politique des Gaules et de la France, Paris, Desain et Saillant, 1764, volume 3, p. 135.</p>
+			<p>Ferdinand Mauquié, Les suzerains de Fimarcon, d'après les recherches et les notes de Bernard Lafitte, curé de Caussens, Auch, Imprimerie centrale, 1908 (<extref xlink:type="simple" xlink:href="https://gallica.bnf.fr/ark:/12148/bpt6k165130b">gallica.bnf.fr/ark:/12148/bpt6k165130b</extref>).</p>
+		</bibliography>
+		<otherfindaid>
+			<p>Architerre, sources fiscales d'Ancien Régime (<extref xlink:type="simple" xlink:href="http://modelespace.univ-tlse2.fr">modelespace.univ-tlse2.fr</extref>).</p>
+		</otherfindaid>
+		<processinfo>
+			<p>Notice rédigée par Bonnafous validée le </p>
+		</processinfo>
+		<controlaccess>
+			<geogname>Lagarde (Gers, France)</geogname>
+		</controlaccess>
+		<dsc>
+			<c>
+				<did>
+					<unittitle>Archives anciennes (antérieures à 1790)</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Finances, impôts et comptabilité</unittitle>
+					</did>
+					<c level="recordgrp" id="_225299">
+						<did>
+							<unitid>ESUPPL 1133 - 1134</unitid>
+							<unittitle>Livres terriers.</unittitle>
+							<unitdate normal="1663/1724">1663-1724</unitdate>
+							<origination label="producteur">Commune de Lagarde</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le 08/06/2023 16:00:08
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>livre foncier</genreform>
+							<geogname>Lagarde (Gers, France)</geogname>
+							<subject>cadastre</subject>
+						</controlaccess>
+						<c level="file" id="_341333">
+							<did>
+								<unitid>ESUPPL 1133</unitid>
+								<unittitle>1663.</unittitle>
+								<unitdate normal="1663">1663</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par COMTE validée le 06/05/2024 16:33:07
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_225298">
+							<did>
+								<unitid>ESUPPL 1134</unitid>
+								<unittitle>1724.</unittitle>
+								<unitdate normal="1724">1724</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 06/05/2024 16:33:17
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+			</c>
+			<c>
+				<did>
+					<unittitle>Archives modernes (postérieures à 1789)</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Administration générale de la commune</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Conseil municipal</unittitle>
+						</did>
+						<c level="recordgrp" id="_341310">
+							<did>
+								<unitid>ESUPPL 10166 - 10168</unitid>
+								<unittitle>Registres des délibérations.</unittitle>
+								<unitdate normal="1900/1962">1900-1962</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par Bonnafous validée le 06/05/2024 16:30:02
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>délibération</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>conseil municipal</subject>
+								<subject>administration communale</subject>
+							</controlaccess>
+							<c level="file" id="_341311">
+								<did>
+									<unitid>ESUPPL 10166</unitid>
+									<unittitle>1900 (12 avril)-1919 (28 septembre).</unittitle>
+									<unitdate normal="1900/1919">1900-1919</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par Bonnafous validée le 06/05/2024 16:34:47
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Lagarde (Gers, France)</geogname>
+									<subject>conseil municipal</subject>
+									<subject>administration communale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341312">
+								<did>
+									<unitid>ESUPPL 10167</unitid>
+									<unittitle>1919 (10 décembre)-1939 (9 avril).</unittitle>
+									<unitdate normal="1919/1939">1919-1939</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par Bonnafous validée le 06/05/2024 16:35:03
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Lagarde (Gers, France)</geogname>
+									<subject>conseil municipal</subject>
+									<subject>administration communale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341313">
+								<did>
+									<unitid>ESUPPL 10168</unitid>
+									<unittitle>1939 (1er juin)-1962 (2 septembre).</unittitle>
+									<unitdate normal="1939/1962">1939-1962</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par Bonnafous validée le 06/05/2024 16:35:19
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Lagarde (Gers, France)</geogname>
+									<subject>conseil municipal</subject>
+									<subject>administration communale</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>État civil</unittitle>
+					</did>
+					<c level="recordgrp" id="_341334">
+						<did>
+							<unitid>ESUPPL 10169, 10172</unitid>
+							<unittitle>Registres des naissances.</unittitle>
+							<unitdate normal="1796/1872">an V-1872</unitdate>
+							<origination label="producteur">Commune de Lagarde</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par COMTE validée le 08/06/2023 16:11:21
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>répertoire civil</genreform>
+							<geogname>Lagarde (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+						</controlaccess>
+						<c level="file" id="_341315">
+							<did>
+								<unitid>ESUPPL 10169</unitid>
+								<unittitle>an V-1832.</unittitle>
+								<unitdate normal="1796/1832">1796-1832</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par Bonnafous validée le 06/05/2024 16:36:28
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341319">
+							<did>
+								<unitid>ESUPPL 10172</unitid>
+								<unittitle>1833-1872.</unittitle>
+								<unitdate normal="1833/1872">1833-1872</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par Bonnafous validée le 06/05/2024 16:36:44
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="recordgrp" id="_341314">
+						<did>
+							<unitid>ESUPPL 10170, 10173</unitid>
+							<unittitle>Registres des mariages.</unittitle>
+							<unitdate normal="1796/1832">an V-1872</unitdate>
+							<origination label="producteur">Commune de Lagarde</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par Bonnafous validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>répertoire civil</genreform>
+							<geogname>Lagarde (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>mariage</subject>
+						</controlaccess>
+						<c level="file" id="_341316">
+							<did>
+								<unitid>ESUPPL 10170</unitid>
+								<unittitle>an V-1832.</unittitle>
+								<unitdate normal="1796/1832">1796-1832</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par Bonnafous validée le 06/05/2024 16:37:59
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341320">
+							<did>
+								<unitid>ESUPPL 10173</unitid>
+								<unittitle>1833-1872.</unittitle>
+								<unitdate normal="1833/1872">1833-1872</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par Bonnafous validée le 06/05/2024 16:38:15
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="recordgrp" id="_341318">
+						<did>
+							<unitid>ESUPPL 10171, 10174</unitid>
+							<unittitle>Registres des décès.</unittitle>
+							<unitdate normal="1796/1872">an V-1872</unitdate>
+							<origination label="producteur">Commune de Lagarde</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par Bonnafous validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>répertoire civil</genreform>
+							<geogname>Lagarde (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>décès</subject>
+						</controlaccess>
+						<c level="file" id="_341317">
+							<did>
+								<unitid>ESUPPL 10171</unitid>
+								<unittitle>an V-1832.</unittitle>
+								<unitdate normal="1796/1832">1796-1832</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par Bonnafous validée le 06/05/2024 16:39:57
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341321">
+							<did>
+								<unitid>ESUPPL 10174</unitid>
+								<unittitle>1833-1872.</unittitle>
+								<unitdate normal="1833/1872">1833-1872</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par Bonnafous validée le 06/05/2024 16:40:12
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="recordgrp" id="_341322">
+						<did>
+							<unitid>ESUPPL 10175 - 10178</unitid>
+							<unittitle>Registres des naissances, mariages et décès.</unittitle>
+							<unitdate normal="1873/1912">1873-1912</unitdate>
+							<origination label="producteur">Commune de Lagarde</origination>
+						</did>
+						<scopecontent>
+							<p>Dont tables décennales.</p>
+						</scopecontent>
+						<processinfo>
+							<p>Notice rédigée par Bonnafous validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>répertoire civil</genreform>
+							<genreform>table</genreform>
+							<geogname>Lagarde (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+						<c level="file" id="_341323">
+							<did>
+								<unitid>ESUPPL 10175</unitid>
+								<unittitle>1873-1882.</unittitle>
+								<unitdate normal="1873/1882">1873-1882</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par Bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<genreform>table</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341324">
+							<did>
+								<unitid>ESUPPL 10176</unitid>
+								<unittitle>1883-1892.</unittitle>
+								<unitdate normal="1883/1892">1883-1892</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par Bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<genreform>table</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341325">
+							<did>
+								<unitid>ESUPPL 10177</unitid>
+								<unittitle>1893-1902.</unittitle>
+								<unitdate normal="1893/1902">1893-1902</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par Bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<genreform>table</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341326">
+							<did>
+								<unitid>ESUPPL 10178</unitid>
+								<unittitle>1903-1912.</unittitle>
+								<unitdate normal="1903/1912">1903-1912</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par Bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<genreform>table</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="file" id="_341327">
+						<did>
+							<unitid>ESUPPL 10179</unitid>
+							<unittitle>Tables décennales des naissances, mariages et décès.</unittitle>
+							<unitdate normal="1793/1872">1793-1872</unitdate>
+							<origination label="producteur">Commune de Lagarde</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par Bonnafous validée le 06/05/2024 16:43:30
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>table</genreform>
+							<geogname>Lagarde (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Contributions. Administrations financières</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Impôts directs</unittitle>
+						</did>
+						<c level="file" id="_229002">
+							<did>
+								<unitid>ESUPPL 8657</unitid>
+								<unittitle>État de sections.</unittitle>
+								<unitdate normal="1824/1826">[1824]-1826</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<scopecontent>
+								<p>Contient aussi le procès-verbal délimitation du territoire de la commune [1824].</p>
+							</scopecontent>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>procès-verbal</genreform>
+								<genreform>état de section</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>limite territoriale</subject>
+								<subject>fiscalité</subject>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Affaires militaires</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Recrutement</unittitle>
+						</did>
+						<c level="file" id="_360862">
+							<did>
+								<unitid>ESUPPL 5884</unitid>
+								<unittitle>Recensement des classes de 1865, 1869, 1872, 1880-1882 : tableaux de recensement.</unittitle>
+								<unitdate normal="1865/1882">1865-1882</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 20/06/2024 15:28:53
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>recrutement militaire</subject>
+								<subject>conscription</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Élections et personnel</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Élections</unittitle>
+						</did>
+						<c level="file" id="_341329">
+							<did>
+								<unitid>ESUPPL 10181</unitid>
+								<unittitle>Listes électorales.</unittitle>
+								<unitdate normal="1868/1928">1868-1928</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par Bonnafous validée le 06/05/2024 16:45:01
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>liste électorale</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>élection</subject>
+								<subject>électeur</subject>
+								<subject>élection politique</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341330">
+							<did>
+								<unitid>ESUPPL 10182</unitid>
+								<unittitle>Élections politiques. - Organisation des opérations de vote et résultats, élections municipales : procès-verbaux d'élection, extraits des procès-verbaux d'élection, liste des électeurs (1912-1913) ; élections au conseil d'arrondissement : procès-verbal d'élection, feuille de dépouillement (1913) ; élections à la chambre des députés : procès-verbal d'élection, liste des électeurs (1914) ; élections au Sénat : procès-verbaux (1912-1913).</unittitle>
+								<unitdate normal="1912/1914">1912-1914</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par Bonnafous validée le 06/05/2024 16:47:21
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>procès-verbal d'élection</genreform>
+								<genreform>liste électorale</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>élection</subject>
+								<subject>électeur</subject>
+								<subject>élection politique</subject>
+								<subject>conseil municipal</subject>
+								<subject>campagne électorale</subject>
+								<subject>élection au conseil d'arrondissement</subject>
+								<subject>élection sénatoriale</subject>
+								<subject>élection municipale</subject>
+								<subject>élection législative</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341331">
+							<did>
+								<unitid>ESUPPL 10183</unitid>
+								<unittitle>Démission du maire : arrêté du préfet, correspondance.</unittitle>
+								<unitdate normal="1934">1934</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par Bonnafous validée le 06/05/2024 16:47:43
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>correspondance</genreform>
+								<genreform>arrêté préfectoral</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>maire</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Assistance et prévoyance</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Bureaux de bienfaisance, secours d'urgence</unittitle>
+						</did>
+						<c level="file" id="_341332">
+							<did>
+								<unitid>ESUPPL 10184</unitid>
+								<unittitle>Bureau de bienfaisance : registre des délibérations.</unittitle>
+								<unitdate normal="1916/1939">1916-1939</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par Bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>délibération</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>structure communale d'aide sociale</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Application des lois d'assistance et de prévoyance</unittitle>
+						</did>
+						<c level="file" id="_341328">
+							<did>
+								<unitid>ESUPPL 10180</unitid>
+								<unittitle>Soins médicaux aux victimes de guerre : copie d'un titre de pension, certificat, correspondance (1920-1924). Allocation militaire. - Demande d'Élix Castex : certificat d'imposition, correspondance (1932).</unittitle>
+								<unitdate normal="1920/1932">1920-1932</unitdate>
+								<origination label="producteur">Commune de Lagarde</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par Bonnafous validée le 06/05/2024 16:53:01
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>correspondance</genreform>
+								<geogname>Lagarde (Gers, France)</geogname>
+								<subject>militaire</subject>
+								<subject>allocation militaire</subject>
+								<subject>famille</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+			</c>
+		</dsc>
+	</archdesc>
+</ead>

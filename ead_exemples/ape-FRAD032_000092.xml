@@ -1,0 +1,2245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:cpf="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+		<eadid url="https://www.archives32.fr/wp-content/uploads/2024/07/FRAD032_000092.pdf" countrycode="FR" mainagencycode="FRAD032" identifier="FRAD032_000092">FRAD032_000092</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Archives communales de Sainte-Mère</titleproper>
+				<subtitle>Répertoire méthodique</subtitle>
+				<author>élaboré par Michèle Macé-Ramète et Malvina Comte sous la direction de Pascal Geneste et Nadine Rouayroux</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives départementales du Gers</publisher>
+				<date>21/02/2024</date>
+				<address>
+					<addressline>81 route de Pessan - 32001 Auch</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Cet instrument de recherche a été exporté au format XML depuis le progiciel de gestion d'archives Thot par les archives départementales du Gers.</creation>
+			<langusage>Instrument de recherche rédigé en <language langcode="fre">français</language>
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="fonds" otherlevel="groupe-de-fonds">
+		<did>
+			<unitid>ESUPPL 1754, 4018 - 4033, 8602 - 8608, 10101 - 10165, 10990</unitid>
+			<unittitle>Archives communales de Sainte-Mère</unittitle>
+			<unitdate normal="1627/1980">1627-1980</unitdate>
+			<origination label="producteur">Commune de Sainte-Mère</origination>
+			<physdesc>
+				</physdesc>
+			<langmaterial>Français</langmaterial>
+		</did>
+		<bioghist>
+			<p>La commune de Sainte-Mère est située dans l'extrême partie nord du département, à la limite du Lot-et-Garonne, entre Lectoure et Astaffort. La commune fait partie de l'aire d'attraction de Lectoure et est intégrée au sein de la communauté de communes de La Lomagne gersoise. Elle est située dans l'arrondissement de Condom et relevait auparavant du canton de Miradoux.</p>
+			<p>Par ordonnance royale du 14 janvier 1824, la commune de Paravis est rattachée en partie à Sainte-Mère et en partie à la commune de Castet-Arrouy. La ligne de partage est fixée par le fossé anguleux qui longe le bois de la Grave, la partie située à l'ouest dudit fossé étant rattachée à Sainte-Mère tandis que la partie de Paravis située à l'est ainsi que le bois sont annexés à la commune de Castet-Arrouy.</p>
+			<p>Le nom Sainte-Mère (Senta Mèra, en gascon) fait référence à une légende martyriale médiévale liée également aux saintes Dode, Gemme et Quitterie. Mera signifie « pure » ou plus précisément « la qualité de la vierge ».</p>
+			<p>Cet ancien castelnau était la propriété des évêques de Lectoure avant la Révolution française. Son château de prototype gascon, composé de tours carrées et d'un logis de trois étages, est édifié à la fin du XIIIe siècle par l'évêque Gérard de Monlezun, pour servir de résidence. Classé au titre des Monuments historiques en 1977, il dispose d'une maçonnerie bien conservée malgré son état de ruine suite à son abandon au XVIIe siècle ainsi qu'aux destructions postérieures à la période révolutionnaire. D'après Gilles Séraphin, un incendie le rend inhabitable vers 1600. En 1753, la seigneurie est partagée entre l'évêque de Lectoure et son co-seigneur, le comte de Luppé. Le château est vendu comme bien national en 1791. Aux XIXe et XXe siècles, le château appartient successivement aux familles Barciet de Labusquette et Courrent puis à M. Courdon, avoué à Agen. L'édifice médiéval est désormais une propriété privée à l'heure actuelle alors que les vestiges des fortifications appartiennent à la commune.</p>
+			<p>Un autre château, celui du Clot, est également situé à Sainte-Mère. L'édifice est inscrit partiellement aux Monuments historiques en 1973.</p>
+			<p>Avant la Révolution française, la paroisse de Sainte-Mère ainsi que son annexe de Saint-Laurent dépendaient de l'archevêché de Lectoure. L'église de la paroisse principale a été édifiée contre la porte médiévale de la ville, sous la forme d'une nef agrandie par deux chapelles, de sa tour-porte qui correspond à son clocher ainsi que d'un choeur pentagonal. Sous l'Ancien Régime, la confrérie du Très Saint-Sacrement est établie au sein de cette église. En 1824, le conseil municipal souhaite vendre l'église de Saint-Laurent afin de financer les travaux de réparations de l'église actuelle. En 1891, l'église est restaurée une seconde fois sous l'impulsion de l'abbé Lassance avant d'être inaugurée et bénie en 1892. Un presbytère est mis à disposition grâce à une donation en faveur de la commune en 1822.</p>
+			<p>Depuis 1921, la commune possède un monument aux morts, construit près du cimetière. Sainte-Mère comprend de nombreuses demeures comme la demeure Feyrinis ou la propriété La Busquette. Cette dernière appartient à la famille Barciet de la Busquette et elle est l'objet d'un procès avec la commune entre 1835 et 1860.</p>
+		</bioghist>
+		<custodhist>
+			<p>Les archives de Sainte-Mère ont été déposées en plusieurs fois.</p>
+			<p>Un premier dépôt est effectué dans le cadre d'une inspection en décembre 1997 :</p>
+			<list>
+				<item>les registres de délibérations consulaires (1757-1768) et du conseil municipal (1793-1878) ;</item>
+				<item>des registres de correspondance (1854-1862) et des listes électorales (1885-1939) ;</item>
+				<item>un registre d'état civil (1793-1806) ;</item>
+				<item>des documents relatifs au bureau de bienfaisance (1836-1841) ;</item>
+				<item>des livres terriers et des charges et décharges (1627-1790) ainsi que les rôles de la taille de 1721 et 1781 et une affiche sur l'imposition (1721) ;</item>
+				<item>un inventaire rédigé par le conseiller d'arrondissement délégué daté du 7 avril 1843, qui recense les archives et les objets mobiliers de Sainte-Mère.</item>
+			</list>
+			<p>Un second dépôt a été effectué le 30 septembre 2021 suite à une inspection du directeur des Archives départementales réalisée en 2020 :</p>
+			<list>
+				<item>les registres de délibérations du conseil municipal (1878-1980) ;</item>
+				<item>les registres d'état civil (1807-1910) ;</item>
+				<item>le cadastre (état de section et matrices des propriétés bâties et non bâties (1838-1914)) et des registres de contributions directes (1842-1951) ;</item>
+				<item>des listes nominatives de la population (1828-1946) et le dénombrement (1886-1996) ;</item>
+				<item>des documents relatifs aux affaires militaires : recensement des classes de 1819 à 1832, garde nationale (1831-1841). Un registre de délibérations de l'Union Fédérale des anciens combattants du Gers est également déposé (1933-1958).</item>
+				<item>les comptes de la fabrique de l'église ainsi que de la correspondance et des procès-verbaux sur l'église de la commune (1824-1932) ;</item>
+				<item>des documents relatifs aux bâtiments communaux (1839-1954).</item>
+			</list>
+		</custodhist>
+		<acqinfo>
+			<p>Dépôts du 5 décembre 1997 et du 30 septembre 2021 (entrée n° 2021-109).</p>
+		</acqinfo>
+		<scopecontent>
+			<p>Pour la période antérieure à la Révolution française, le fonds comprend des registres de délibérations consulaires (1757-1768) ainsi que les documents relatifs aux impôts tels que les livres terriers et les rôles de la taille.</p>
+			<p>Pour la période moderne, le fonds est composé des registres de l'état civil jusqu'en 1910 et des délibérations du conseil municipal jusqu'en 1980. Il comprend également les matrices cadastrales, les états de section ainsi que des registres et des cahiers relatifs aux contributions directes. Les listes nominatives de recensement des habitants de la commune, des soldats et de la Garde nationale sont également recensées. D'autres documents ainsi que de la correspondance font référence à l'administration de la commune, aux affaires militaires, aux élections, à la comptabilité, au bureau de bienfaisance et aux voies de communication. Les documents des bâtiments communaux - église, presbytère, monument aux morts, école - sont variées : extraits de délibérations, procès-verbaux, pièces comptables, promesse de vente et croquis.</p>
+		</scopecontent>
+		<accruals>
+			<p>Le fonds est ouvert et s'accroit par dépôt de la commune.</p>
+		</accruals>
+		<arrangement>
+			<p>Le classement suit l'arrêté interministériel du 31 décembre 1926 portant règlement des archives des communes. La cotation des archives déposées des communes de moins de 2000 habitants se fait en continu dans la série ESUPPL.</p>
+		</arrangement>
+		<accessrestrict>
+			<p>La communicabilité des archives communales est soumise aux délais fixés par la loi du 15 juillet 2008 modifiant le code du patrimoine (article L 213-2, <extref xlink:type="simple" xlink:href="https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159942">legifrance.gouv.fr/codes/id/LEGISCTA000006159942</extref>). Cependant, même pour les documents communicables en application de la loi, le mauvais état matériel des documents ne permet pas d'assurer leur consultation en salle de lecture.</p></accessrestrict>
+				<userestrict>
+					<p>Les documents dont l'état matériel le permet, sont reproductibles sous réserve de mentionner la cote des documents et l'institution de conservation en cas de publication.</p>
+					<p>Les documents reliés ne peuvent pas être photocopiés. Les reproductions de documents avec un appareil photographique sans flash sont autorisées en salle de lecture.</p>
+				</userestrict>
+				<relatedmaterial>
+					<p>I. Ancien Régime</p>
+					<list>
+						<item>série C : archives des administrations provinciales (intendance, subdélégations, élections, collecte) ;</item>
+						<item>sous-série 9 B : justice locale et seigneuriale de la sénéchaussée de Gascogne ;</item>
+						<item>série G : archives du clergé séculier (visites pastorales, procès-verbaux de visite et de vérification des réparations des églises du diocèse, archives des paroisses, fabrique d'église et cures) ;</item>
+						<item>séries E et I : archives des communautés d'habitants aux XVIe-XVIIIe siècles (chartes de coutumes, hommages, délibérations consulaires, documents financiers, livres terrier, compoix et cadastres, registres paroissiaux) ; archives de familles ;</item>
+						<item>sous-série 5 E : registres paroissiaux (fonds des sénéchaussées).</item>
+					</list>
+					<p>II. Période révolutionnaire</p>
+					<list>
+						<item>série L : justice, municipalités de canton, comités de surveillance, sociétés populaires ;</item>
+						<item>série Q : vente des biens nationaux. Yves Coustau, Dépouillement des procès-verbaux d'adjudication des biens nationaux de 1re origine et 2e origine, 1962, 2 volumes.</item>
+					</list>
+					<p>III. Période contemporaine</p>
+					<p>1. Série E</p>
+					<list>
+						<item>sous-série 5 E : registres d'état civil, tables décennales (fonds du greffe du tribunal d'instance d'Auch).</item>
+					</list>
+					<p>2. Série M</p>
+					<list>
+						<item>sous-série 1 M : regroupement de communes, délimitation du territoire ;</item>
+						<item>sous-série 3 M : conseils municipaux, documents électoraux ;</item>
+						<item>sous-série 6 M : recensement de population, statistiques démographiques, naturalisations, état civil, agriculture.</item>
+					</list>
+					<p>3. Série O</p>
+					<list>
+						<item>sous-série 1 O : affaires communales, administration générale des communes, bâtiments et biens communaux, syndicats intercommunaux ;</item>
+						<item>sous-série 2 O : administration générale de la commune, travaux de construction et d'entretien sur les bâtiments communaux et les équipements collectifs, acquisition et aliénation des biens communaux, comptabilité communale, assistance et prévoyance ;</item>
+						<item>sous-série 3 O : voirie communale, chemins vicinaux ;</item>
+						<item>sous-série 4 O : dons et legs.</item>
+					</list>
+					<p>4. Série P</p>
+					<list>
+						<item>sous-série 3 P : délimitation cadastrale, documentation cadastrale ;</item>
+						<item>sous-série 6 P : postes.</item>
+					</list>
+					<p>5. Autres séries modernes</p>
+					<list>
+						<item>sous-série 2 R : monuments aux morts ;</item>
+						<item>série S : travaux publics (routes, chemins de fer, moulins, usines hydrauliques, électrification, mines, carrières, tourbières) ;</item>
+						<item>série T : ouvertures et fermetures d'école, affaires scolaires, dossiers d'instituteurs et institutrices, monographies scolaires, dossiers de classement au titre des monuments historiques ;</item>
+						<item>série V : conseils de fabrique, églises ;</item>
+						<item>série X : bureaux de bienfaisance.</item>
+					</list>
+					<p>6. Archives contemporaires (postérieures à 1940)</p>
+					<list>
+						<item>992 W, 1319 W : administration communale ;</item>
+						<item>1277 W : fermetures d'école.</item>
+					</list>
+					<p>IV. Archives notariales</p>
+					<list>
+						<item>sous-série 3 E : les archives des études notariales contiennent les éléments de l'histoire locale et des informations sur la vie des habitants ; on retrouve parfois dans les archives notariales des délibérations consulaires.</item>
+					</list>
+					<p>V. Archives privées, fonds entrés par voie extraordinaire</p>
+					<list>
+						<item>sous-série 1 J : pièces isolées et petits fonds ;</item>
+						<item>sous-série 14 J : papiers de Sylvain Daugé, prêtre et érudit local, notes sur des familles et des communes du Gers ; </item>
+						<item>sous-série 83 J : fonds de Macarez-Mainfroy, albums de cartes postales et photographies des communes du Gers ;</item>
+						<item>sous-série 88 J : fonds de Jean-Henri Ducos, dossiers documentaires sur les châteaux et maisons-fortes du Gers ;</item>
+						<item>sous-série 101 J : fonds de Paul Mesplé, conservateur du musée des Augustins de Toulouse, albums de photographies des communes du Gers.</item>
+					</list>
+					<p>VI. Documents figurés</p>
+					<list>
+						<item>sous-série 1 Fi : cartes et plans ;</item>
+						<item>sous-série 2 Fi : dessins, gravures, estampes, lithographies, tirages photographiques ;</item>
+						<item>sous-série 6 Fi : cartes postales.</item>
+					</list>
+					<p>VII. Documentation</p>
+					<list>
+						<item>séries DAN et DAR : dossiers archéologiques et antiques ;</item>
+						<item>série CDOC : dossiers documentaires ;</item>
+						<item>série PER : bulletins municipaux et paroissiaux ;</item>
+						<item>série JX : presse locale ;</item>
+						<item>bibliothèque historique et administrative.</item>
+					</list>
+				</relatedmaterial>
+				<bibliography>
+					<p>Maurice Bordes (al.), Sites et monuments du Lectourois, Imprimerie Bouquet, 1974.</p>
+					<p>Georges Courtès (dir.), Communes du département du Gers, vol. II : arrondissement de Condom, Auch : Société archéologique et historique du Gers, 2004, p. 284-286.</p>
+					<p>Gilles Séraphin, « Salles et châteaux gascons, un modèle de maisons fortes », Bulletin monumental, tome 157, n°1, 1999, Demeures seigneuriales dans la France des XIIe-XIVe siècles, p. 11-42.</p>
+					<p>Philippe Lauzun, « Un château gascon : le château de Sainte-Mère (Gers) », Bulletin monumental, tome 75, 1911 (<extref xlink:type="simple" xlink:href="https://www.persee.fr/doc/bulmo_0007-473x_1911_num_75_1_11561">www.persee.fr/doc/bulmo_0007-473x_1911_num_75_1_11561</extref>).</p>
+					<p>Adrien Lavergne, Excursions archéologiques en 1893 et 1895 - Rapports faits à la société archéologique du Gers, Auch : Imprimerie et lithographie G. Foix, 1896, p. 11-16.</p>
+					<p>Bernard Loncan, Annie Noë-Dufour, « Salles et châteaux en Lomagne », Monuments historiques : Midi-Pyrénées, n° 115, juillet-août 1981.</p>
+					<p>Ferdinand Mauquié, Les suzerains de Fimarcon, d'après les recherches et les notes de M. Bernard Lafitte, curé de Caussens, Auch : Imprimerie centrale, 1908 (<extref xlink:type="simple" xlink:href="https://gallica.bnf.fr/ark:/12148/bpt6k165130b">gallica.bnf.fr/ark:/12148/bpt6k165130b</extref>).</p>
+				</bibliography>
+				<otherfindaid>
+					<p>Architerre, sources fiscales d'Ancien Régime (<extref xlink:type="simple" xlink:href="http://modelespace.univ-tlse2.fr">modelespace.univ-tlse2.fr</extref>).</p>
+				</otherfindaid>
+				<processinfo>
+					<p>Notice rédigée par Bonnafous validée le </p>
+				</processinfo>
+				<controlaccess>
+					<geogname>Sainte-Mère (Gers, France)</geogname>
+				</controlaccess>
+				<dsc>
+					<c level="fonds">
+						<did>
+							<unittitle>Paravis</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Archives modernes (postérieures à 1789)</unittitle>
+							</did>
+							<c>
+								<did>
+									<unittitle>État civil</unittitle>
+								</did>
+								<c level="file" id="_341286">
+									<did>
+										<unitid>ESUPPL 8606</unitid>
+										<unittitle>Registre des naissances.</unittitle>
+										<unitdate normal="1793/1823">1793-1823</unitdate>
+										<origination label="producteur">Paravis (Sainte-Mère et Castet-Arrouy, Gers, France ; 1790-1824)</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>répertoire civil</genreform>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+										<geogname>Paravis (Sainte-Mère et Castet-Arrouy, Gers, France)</geogname>
+										<subject>état civil</subject>
+										<subject>naissance</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>Finances de la commune</unittitle>
+								</did>
+								<c>
+									<did>
+										<unittitle>Comptabilité</unittitle>
+									</did>
+									<c level="file" id="_358223">
+										<did>
+											<unitid>ESUPPL 10990</unitid>
+											<unittitle>Comptabilité : compte courant.</unittitle>
+											<unitdate normal="1821">1821</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par PONS validée le 09/07/2024 14:48:19
+											</p>
+										</processinfo>
+										<controlaccess>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<geogname>Paravis (Sainte-Mère et Castet-Arrouy, Gers, France)</geogname>
+											<subject>comptabilité publique</subject>
+											<subject>finances communales</subject>
+										</controlaccess>
+									</c>
+								</c>
+							</c>
+						</c>
+					</c>
+					<c level="fonds">
+						<did>
+							<unittitle>Sainte-Mère</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Archives anciennes (antérieures à 1790)</unittitle>
+							</did>
+							<c>
+								<did>
+									<unittitle>Administration communale</unittitle>
+								</did>
+								<c level="recordgrp" id="_341289">
+									<did>
+										<unitid>ESUPPL 4018, 8602</unitid>
+										<unittitle>Registres des délibérations consulaires.</unittitle>
+										<unitdate normal="1659/1788">1659-1788</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par COMTE validée le 05/06/2023 15:04:24
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+										<subject>administration locale d'Ancien Régime</subject>
+									</controlaccess>
+									<c level="file" id="_341282">
+										<did>
+											<unitid>ESUPPL 8602</unitid>
+											<unittitle>1659-1788.</unittitle>
+											<unitdate normal="1659/1788">1659-1788</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>délibération</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>administration communale</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_227609">
+										<did>
+											<unitid>ESUPPL 4018</unitid>
+											<unittitle>1757-1768.</unittitle>
+											<unitdate normal="1757/1768">1757-1768</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 06/05/2024 13:28:24
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>délibération</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>administration communale</subject>
+										</controlaccess>
+									</c>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>Finances, impôts et comptabilité</unittitle>
+								</did>
+								<c level="recordgrp" id="_341290">
+									<did>
+										<unitid>ESUPPL 4019 - 4020, 4022</unitid>
+										<unittitle>Livres terriers.</unittitle>
+										<unitdate normal="1627/1711">1627-1711</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par COMTE validée le 02/06/2023 14:07:34
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>livre foncier</genreform>
+										<subject>cadastre</subject>
+									</controlaccess>
+									<c level="file" id="_227611">
+										<did>
+											<unitid>ESUPPL 4020</unitid>
+											<unittitle>1627.</unittitle>
+											<unitdate normal="1627">1627</unitdate>
+										</did>
+										<scopecontent>
+											<p>Contient les charges et décharges jusqu'en 1684.</p>
+										</scopecontent>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 01/06/2023 18:18:53
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>livre foncier</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_227610">
+										<did>
+											<unitid>ESUPPL 4019</unitid>
+											<unittitle>1668.</unittitle>
+											<unitdate normal="1668">1668</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>livre foncier</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_227613">
+										<did>
+											<unitid>ESUPPL 4022</unitid>
+											<unittitle>1710-1711.</unittitle>
+											<unitdate normal="1710/1711">1710-1711</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 01/06/2023 18:13:11
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>livre foncier</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c level="recordgrp" id="_341291">
+									<did>
+										<unitid>ESUPPL 4021, 4023</unitid>
+										<unittitle>Registres des charges et décharges.</unittitle>
+										<unitdate normal="1685/1790">1685-1790</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par COMTE validée le 02/06/2023 14:08:24
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>livre foncier</genreform>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+										<subject>cadastre</subject>
+									</controlaccess>
+									<c level="file" id="_227612">
+										<did>
+											<unitid>ESUPPL 4021</unitid>
+											<unittitle>1685-1710.</unittitle>
+											<unitdate normal="1685/1710">1685-1710</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>livre foncier</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_227614">
+										<did>
+											<unitid>ESUPPL 4023</unitid>
+											<unittitle>1718-1790.</unittitle>
+											<unitdate normal="1718/1790">1718-1790</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 01/06/2023 18:20:12
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>livre foncier</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c level="file" id="_227615">
+									<did>
+										<unitid>ESUPPL 4024</unitid>
+										<unittitle>Taille : rôles (1721, 1789), quittances (1720-1722).</unittitle>
+										<unitdate normal="1720/1789">1720-1789</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>rôle d'imposition</genreform>
+										<genreform>pièce comptable</genreform>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+										<subject>fiscalité directe d'Ancien Régime</subject>
+										<subject>recouvrement fiscal</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341283">
+									<did>
+										<unitid>ESUPPL 8603</unitid>
+										<unittitle>Vingtième : bordereaux, rôles (1767, 1769, 1788). Logement militaire et taille : rôles (1769). Capitation : rôles (1769, 1788).</unittitle>
+										<unitdate normal="1767/1788">1767-1788</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>rôle</genreform>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+										<subject>fiscalité directe d'Ancien Régime</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341284">
+									<did>
+										<unitid>ESUPPL 8604</unitid>
+										<unittitle>Comptes de la communauté : rôles, certificats de remise de quittances.</unittitle>
+										<unitdate normal="1769/1788">1769, 1788</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>rôle</genreform>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+										<subject>comptabilité publique</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341285">
+									<did>
+										<unitid>ESUPPL 8605</unitid>
+										<unittitle>Bois de la communauté : procès-verbal d'affermage (1726), acte de nomination d'un garde (1730), procès-verbal de dégradation du bois (1742).</unittitle>
+										<unitdate normal="1726/1742">1726-1742</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>procès-verbal</genreform>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+										<subject>bois</subject>
+										<subject>forêt</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>Cultes. Instruction publique. Assistance publique</unittitle>
+								</did>
+								<c level="file" id="_225885">
+									<did>
+										<unitid>ESUPPL 1754</unitid>
+										<unittitle>Confrérie du Très Saint-Sacrement établie dans l'église de Sainte-Mère : statuts (1698). Pièces de procédures (1765-1783).</unittitle>
+										<unitdate normal="1688/1783">1688-1783</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+										</p>
+									</processinfo>
+									<controlaccess>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Archives modernes (postérieures à 1789)</unittitle>
+							</did>
+							<c>
+								<did>
+									<unittitle>Bibliothèque administrative</unittitle>
+								</did>
+								<c level="file" id="_341211">
+									<did>
+										<unitid>ESUPPL 10101</unitid>
+										<unittitle>Journaux. - Abonnements : correspondance (1831-1864). Ouvrages. - Acquisitions : extrait du registre des délibérations, correspondance (1863).</unittitle>
+										<unitdate normal="1831/1864">1831-1864</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>correspondance</genreform>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+										<subject>bibliothèque</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>Administration générale de la commune</unittitle>
+								</did>
+								<c>
+									<did>
+										<unittitle>Conseil municipal</unittitle>
+									</did>
+									<c level="recordgrp" id="_341212">
+										<did>
+											<unitid>ESUPPL 4025-4028, 10102-10104</unitid>
+											<unittitle>Registres des délibérations.</unittitle>
+											<unitdate normal="1796/1980">an V-1980</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 02/06/2023 14:10:10
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>délibération</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>conseil municipal</subject>
+											<subject>administration communale</subject>
+										</controlaccess>
+										<c level="file" id="_227616">
+											<did>
+												<unitid>ESUPPL 4025</unitid>
+												<unittitle>an V-1834 (8 février).</unittitle>
+												<unitdate normal="1796/1834">1796-1834</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 01/06/2023 18:24:29
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>délibération</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>conseil municipal</subject>
+												<subject>administration communale</subject>
+											</controlaccess>
+										</c>
+										<c level="file" id="_227617">
+											<did>
+												<unitid>ESUPPL 4026</unitid>
+												<unittitle>1834 (16 mars)-1838 (5 janvier).</unittitle>
+												<unitdate normal="1834/1838">1834-1838</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 01/06/2023 18:26:23
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>délibération</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>conseil municipal</subject>
+												<subject>administration communale</subject>
+											</controlaccess>
+										</c>
+										<c level="file" id="_227618">
+											<did>
+												<unitid>ESUPPL 4027</unitid>
+												<unittitle>1838 (9 mai)-1854 (9 avril).</unittitle>
+												<unitdate normal="1838/1854">1838-1854</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 01/06/2023 18:27:41
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>délibération</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>conseil municipal</subject>
+												<subject>administration communale</subject>
+											</controlaccess>
+										</c>
+										<c level="file" id="_227619">
+											<did>
+												<unitid>ESUPPL 4028</unitid>
+												<unittitle>1854 (11 mai)-1878 (17 février).</unittitle>
+												<unitdate normal="1854/1878">1854-1878</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>délibération</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>conseil municipal</subject>
+												<subject>administration communale</subject>
+											</controlaccess>
+										</c>
+										<c level="file" id="_341213">
+											<did>
+												<unitid>ESUPPL 10102</unitid>
+												<unittitle>1878 (7 avril)-1908 (1er février).</unittitle>
+												<unitdate normal="1878/1908">1878-1908</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>délibération</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>conseil municipal</subject>
+												<subject>administration communale</subject>
+											</controlaccess>
+										</c>
+										<c level="file" id="_341214">
+											<did>
+												<unitid>ESUPPL 10103</unitid>
+												<unittitle>1908 (17 mai)-1940.</unittitle>
+												<unitdate normal="1908/1940">1908-1940</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>délibération</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>conseil municipal</subject>
+												<subject>administration communale</subject>
+											</controlaccess>
+										</c>
+										<c level="file" id="_341215">
+											<did>
+												<unitid>ESUPPL 10104</unitid>
+												<unittitle>1941-1980.</unittitle>
+												<unitdate normal="1941/1980">1941-1980</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>délibération</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>conseil municipal</subject>
+												<subject>administration communale</subject>
+											</controlaccess>
+										</c>
+									</c>
+								</c>
+								<c>
+									<did>
+										<unittitle>Actes de l'administration municipale</unittitle>
+									</did>
+									<c level="file" id="_227620">
+										<did>
+											<unitid>ESUPPL 4029</unitid>
+											<unittitle>Registre de correspondance.</unittitle>
+											<unitdate normal="1854/1862">1854-1862</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<genreform>registre du courrier</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>administration communale</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341216">
+										<did>
+											<unitid>ESUPPL 10105</unitid>
+											<unittitle>Correspondance.</unittitle>
+											<unitdate normal="1828/1866">1828-1866</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>administration communale</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c>
+									<did>
+										<unittitle>Contentieux</unittitle>
+									</did>
+									<c level="file" id="_341217">
+										<did>
+											<unitid>ESUPPL 10106</unitid>
+											<unittitle>Affaires relatives à des délimitations de terrains : correspondance, arrêté (1835-1866). Procès entre la commune et M. de Labusquette : correspondance (1835-1860).</unittitle>
+											<unitdate normal="1835/1866">1835-1866</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 06/05/2024 13:39:16
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>contentieux administratif</subject>
+											<subject>administration communale</subject>
+										</controlaccess>
+									</c>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>État civil</unittitle>
+								</did>
+								<c level="file" id="_227621">
+									<did>
+										<unitid>ESUPPL 4030</unitid>
+										<unittitle>Registre des naissances, mariages et décès.</unittitle>
+										<unitdate normal="1793/1806">an III-1806</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>répertoire civil</genreform>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+										<subject>état civil</subject>
+										<subject>naissance</subject>
+										<subject>mariage</subject>
+										<subject>décès</subject>
+									</controlaccess>
+								</c>
+								<c level="recordgrp" id="_341218">
+									<did>
+										<unitid>ESUPPL 10107, 10110, 10113</unitid>
+										<unittitle>Registres des naissances.</unittitle>
+										<unitdate normal="1807/1910">1807-1910</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 06/05/2024 11:18:13
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>répertoire civil</genreform>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+										<subject>état civil</subject>
+										<subject>naissance</subject>
+									</controlaccess>
+									<c level="file" id="_341219">
+										<did>
+											<unitid>ESUPPL 10107</unitid>
+											<unittitle>1807-1856.</unittitle>
+											<unitdate normal="1807/1856">1807-1856</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>répertoire civil</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>état civil</subject>
+											<subject>naissance</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341223">
+										<did>
+											<unitid>ESUPPL 10110</unitid>
+											<unittitle>1857-1890.</unittitle>
+											<unitdate normal="1811/1890">1811-1890</unitdate>
+										</did>
+										<scopecontent>
+											<p>dont publications de mariage (1811-1812).</p>
+										</scopecontent>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 05/06/2023 14:42:13
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>répertoire civil</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>état civil</subject>
+											<subject>naissance</subject>
+											<subject>mariage</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341227">
+										<did>
+											<unitid>ESUPPL 10113</unitid>
+											<unittitle>1891-1910.</unittitle>
+											<unitdate normal="1891/1910">1891-1910</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>répertoire civil</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>état civil</subject>
+											<subject>naissance</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c level="recordgrp" id="_341222">
+									<did>
+										<unitid>ESUPPL 10108, 10111, 10114</unitid>
+										<unittitle>Registres des mariages.</unittitle>
+										<unitdate normal="1807/1910">1807-1910</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 06/05/2024 11:20:43
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>répertoire civil</genreform>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+										<subject>état civil</subject>
+										<subject>mariage</subject>
+									</controlaccess>
+									<c level="file" id="_341220">
+										<did>
+											<unitid>ESUPPL 10108</unitid>
+											<unittitle>1807-1856.</unittitle>
+											<unitdate normal="1807/1856">1807-1856</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>répertoire civil</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>état civil</subject>
+											<subject>mariage</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341224">
+										<did>
+											<unitid>ESUPPL 10111</unitid>
+											<unittitle>1857-1890.</unittitle>
+											<unitdate normal="1857/1890">1857-1890</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>répertoire civil</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>état civil</subject>
+											<subject>mariage</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341228">
+										<did>
+											<unitid>ESUPPL 10114</unitid>
+											<unittitle>1891-1910.</unittitle>
+											<unitdate normal="1891/1910">1891-1910</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>répertoire civil</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>état civil</subject>
+											<subject>mariage</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c level="recordgrp" id="_341226">
+									<did>
+										<unitid>ESUPPL 10109, 10112, 10115</unitid>
+										<unittitle>Registres des décès.</unittitle>
+										<unitdate normal="1807/1910">1807-1910</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 06/05/2024 11:22:29
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>répertoire civil</genreform>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+										<subject>état civil</subject>
+										<subject>décès</subject>
+									</controlaccess>
+									<c level="file" id="_341221">
+										<did>
+											<unitid>ESUPPL 10109</unitid>
+											<unittitle>1807-1856.</unittitle>
+											<unitdate normal="1807/1856">1807-1856</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>répertoire civil</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>état civil</subject>
+											<subject>décès</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341225">
+										<did>
+											<unitid>ESUPPL 10112</unitid>
+											<unittitle>1857-1890.</unittitle>
+											<unitdate normal="1857/1890">1857-1890</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>répertoire civil</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>état civil</subject>
+											<subject>décès</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341229">
+										<did>
+											<unitid>ESUPPL 10115</unitid>
+											<unittitle>1891-1910.</unittitle>
+											<unitdate normal="1891/1910">1891-1910</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>répertoire civil</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>état civil</subject>
+											<subject>décès</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c level="file" id="_341230">
+									<did>
+										<unitid>ESUPPL 10116</unitid>
+										<unittitle>Tenue et envoi des registres (1823-1866) : circulaire, note, correspondance. Demandes de rectifications demandées par les habitants : correspondance (1854-1866).</unittitle>
+										<unitdate normal="1823/1866">1823-1866</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>correspondance</genreform>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+										<subject>état civil</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>Population. Économie sociale. Statistique</unittitle>
+								</did>
+								<c>
+									<did>
+										<unittitle>Population</unittitle>
+									</did>
+									<c level="file" id="_341231">
+										<did>
+											<unitid>ESUPPL 10117</unitid>
+											<unittitle>État de la population en mai 1828.</unittitle>
+											<unitdate normal="1828">1828</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>liste nominative</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>recensement de population</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341232">
+										<did>
+											<unitid>ESUPPL 10118</unitid>
+											<unittitle>Recensement quinquennal : listes nominatives.</unittitle>
+											<unitdate normal="1881/1946">1881-1946</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>liste nominative</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>recensement de population</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341233">
+										<did>
+											<unitid>ESUPPL 10119</unitid>
+											<unittitle>Dénombrement : tableaux statistiques, correspondance.</unittitle>
+											<unitdate normal="1866/1896">1866-1896</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>statistique</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>recensement de population</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341234">
+										<did>
+											<unitid>ESUPPL 10120</unitid>
+											<unittitle>Recensement du nombre de maisons d'habitations et des étrangers : tableau de recensement des étrangers résidents, circulaire, correspondance.</unittitle>
+											<unitdate normal="1821/1860">1821-1860</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>statistique</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>étranger</subject>
+											<subject>population</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c>
+									<did>
+										<unittitle>Agriculture</unittitle>
+									</did>
+									<c level="file" id="_341235">
+										<did>
+											<unitid>ESUPPL 10121</unitid>
+											<unittitle>Concours agricoles. - Organisation du prix pour les bêtes à cornes : avis du préfet (1821). Demande de renseignements sur l'engrais : correspondance (1821-1829). Apiculture : correspondance (1841). Cultures. - Demandes de renseignements sur les produits des récoltes en grains et des farineux alimentaires : correspondance (1860-1863). Commission cantonale de statistiques agricoles ; convocation (1863).</unittitle>
+											<unitdate normal="1821/1863">1821-1863</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>bétail</subject>
+											<subject>alimentation</subject>
+											<subject>céréale</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341258">
+										<did>
+											<unitid>ESUPPL 10142</unitid>
+											<unittitle>Calamités agricoles. - Informations et estimation des préjudices : correspondance (1832-1835).</unittitle>
+											<unitdate normal="1832/1835">1832-1835</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>cimetière</subject>
+											<subject>calamité agricole</subject>
+											<subject>météorologie</subject>
+											<subject>grêle</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c>
+									<did>
+										<unittitle>Subsistances</unittitle>
+									</did>
+									<c level="file" id="_341236">
+										<did>
+											<unitid>ESUPPL 10122</unitid>
+											<unittitle>Foires : correspondance (1824-1862).</unittitle>
+											<unitdate normal="1824/1862">1824-1862</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>foire</subject>
+											<subject>alimentation</subject>
+										</controlaccess>
+									</c>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>Contributions. Administrations financières</unittitle>
+								</did>
+								<c>
+									<did>
+										<unittitle>Impôts directs</unittitle>
+									</did>
+									<c level="file" id="_341287">
+										<did>
+											<unitid>ESUPPL 8607</unitid>
+											<unittitle>Cahier de dépouillement du rôle foncier de l'an V.</unittitle>
+											<unitdate normal="1796/1797">an V</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 06/06/2023 17:39:37
+											</p>
+										</processinfo>
+										<controlaccess>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>fiscalité</subject>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+									<c level="recordgrp" id="_358213">
+										<did>
+											<unitid>ESUPPL 1023 - 10129</unitid>
+											<unittitle>Cadastre.</unittitle>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par PONS validée le </p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice cadastrale</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>cadastre</subject>
+										</controlaccess>
+										<c level="file" id="_341243">
+											<did>
+												<unitid>ESUPPL 10128</unitid>
+												<unittitle>Préparation de la fusion des communes de Paravis, Sainte-Mère et Castet-Arrouy : plan figuratif des communes de Sainte-Mère, de Paravis et d'une partie de Castet-Arrouy.</unittitle>
+												<unitdate normal="1822">[1822]</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>plan</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>fiscalité</subject>
+											</controlaccess>
+										</c>
+										<c level="file" id="_341244">
+											<did>
+												<unitid>ESUPPL 10129</unitid>
+												<unittitle>Envois des matrices cadastrales au contrôleur : correspondance.</unittitle>
+												<unitdate normal="1841/1866">1841-1866</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>correspondance</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>fiscalité</subject>
+											</controlaccess>
+										</c>
+										<c level="recordgrp" id="_341238">
+											<did>
+												<unitid>ESUPPL 10123 - 10124, 10127</unitid>
+												<unittitle>Cadastre napoléonien.</unittitle>
+												<unitdate normal="1837/1906">1837-1906</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 06/05/2024 14:05:43
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>matrice cadastrale</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>cadastre</subject>
+											</controlaccess>
+											<c level="file" id="_341237">
+												<did>
+													<unitid>ESUPPL 10123</unitid>
+													<unittitle>État de sections.</unittitle>
+													<unitdate normal="1837/1867">1837-1867</unitdate>
+												</did>
+												<processinfo>
+													<p>Notice rédigée par bonnafous validée le </p>
+												</processinfo>
+												<controlaccess>
+													<genreform>registre</genreform>
+													<geogname>Sainte-Mère (Gers, France)</geogname>
+													<subject>cadastre</subject>
+												</controlaccess>
+											</c>
+											<c level="file" id="_341242">
+												<did>
+													<unitid>ESUPPL 10127</unitid>
+													<unittitle>Matrice des propriétés foncières.</unittitle>
+													<unitdate normal="1840/1903">1840-1903</unitdate>
+												</did>
+												<processinfo>
+													<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+													</p>
+												</processinfo>
+												<controlaccess>
+													<genreform>registre</genreform>
+													<geogname>Sainte-Mère (Gers, France)</geogname>
+													<subject>cadastre</subject>
+												</controlaccess>
+											</c>
+											<c level="file" id="_341239">
+												<did>
+													<unitid>ESUPPL 10124</unitid>
+													<unittitle>Matrice des propriétés bâties.</unittitle>
+													<unitdate normal="1882/1906">1882-1906</unitdate>
+												</did>
+												<processinfo>
+													<p>Notice rédigée par bonnafous validée le 06/05/2024 15:56:38
+													</p>
+												</processinfo>
+												<controlaccess>
+													<genreform>matrice cadastrale</genreform>
+													<geogname>Sainte-Mère (Gers, France)</geogname>
+													<subject>cadastre</subject>
+												</controlaccess>
+											</c>
+										</c>
+										<c level="recordgrp" id="_341295">
+											<did>
+												<unitid>ESUPPL 10125 - 10126</unitid>
+												<unittitle>Cadastre révisé (1910).</unittitle>
+												<unitdate normal="1793/1910">1793-1910</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par COMTE validée le 06/05/2024 14:06:36
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>matrice cadastrale</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>cadastre</subject>
+											</controlaccess>
+											<c level="file" id="_341240">
+												<did>
+													<unitid>ESUPPL 10125</unitid>
+													<unittitle>Matrice des propriétés bâties.</unittitle>
+													<unitdate normal="1914/1957">1914-1957</unitdate>
+												</did>
+												<processinfo>
+													<p>Notice rédigée par bonnafous validée le </p>
+												</processinfo>
+												<controlaccess>
+													<genreform>matrice cadastrale</genreform>
+													<geogname>Sainte-Mère (Gers, France)</geogname>
+													<subject>cadastre</subject>
+												</controlaccess>
+											</c>
+											<c level="file" id="_341241">
+												<did>
+													<unitid>ESUPPL 10126</unitid>
+													<unittitle>Matrice des propriétés non bâties.</unittitle>
+													<unitdate normal="1914/1957">1914-1957</unitdate>
+												</did>
+												<processinfo>
+													<p>Notice rédigée par bonnafous validée le </p>
+												</processinfo>
+												<controlaccess>
+													<genreform>matrice cadastrale</genreform>
+													<geogname>Sainte-Mère (Gers, France)</geogname>
+													<subject>cadastre</subject>
+												</controlaccess>
+											</c>
+										</c>
+									</c>
+									<c level="recordgrp" id="_341245">
+										<did>
+											<unitid>ESUPPL 10130 - 10132</unitid>
+											<unittitle>Contributions directes. - Contribution foncière, des portes et fenêtres, personnelle et mobilière, des patentes, sur les voitures, les chevaux, taxes sur les gardes-chasse, les chiens, taxe d'habitation, etc. : matrices.</unittitle>
+											<unitdate normal="1842/1946">1842-1946</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice d'imposition</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>fiscalité</subject>
+										</controlaccess>
+										<c level="file" id="_341246">
+											<did>
+												<unitid>ESUPPL 10130</unitid>
+												<unittitle>1842-1844.</unittitle>
+												<unitdate normal="1842/1844">1842-1844</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>matrice d'imposition</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>fiscalité</subject>
+											</controlaccess>
+										</c>
+										<c level="file" id="_341247">
+											<did>
+												<unitid>ESUPPL 10131</unitid>
+												<unittitle>1845-1931.</unittitle>
+												<unitdate normal="1845/1931">1845-1931</unitdate>
+											</did>
+											<scopecontent>
+												<p>Lacunes des années1883-1885, 1890, 1895.</p>
+											</scopecontent>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>matrice d'imposition</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>fiscalité</subject>
+											</controlaccess>
+										</c>
+										<c level="file" id="_341248">
+											<did>
+												<unitid>ESUPPL 10132</unitid>
+												<unittitle>1936-1946.</unittitle>
+												<unitdate normal="1936/1946">1936-1946</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>matrice d'imposition</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>fiscalité</subject>
+											</controlaccess>
+										</c>
+									</c>
+									<c level="recordgrp" id="_341293">
+										<did>
+											<unitid>ESUPPL 10133 - 10134</unitid>
+											<unittitle>Contribuables assujettis à l'impôt.</unittitle>
+											<unitdate normal="1816/1969">1816-1969</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par COMTE validée le 05/06/2023 15:00:06
+											</p>
+										</processinfo>
+										<controlaccess>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>fiscalité</subject>
+										</controlaccess>
+										<c level="file" id="_341250">
+											<did>
+												<unitid>ESUPPL 10134</unitid>
+												<unittitle>Contribuables : liste nominative [1820]. Contribution personnelle et mobilière : état du montant des rôles (1816). Habitants assujettis à la patente : état de la population (1818).</unittitle>
+												<unitdate normal="1816/1820">1816-1820</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 01/06/2023 18:48:02
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>liste nominative</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>fiscalité</subject>
+												<subject>contribuable</subject>
+												<subject>taxe professionnelle</subject>
+											</controlaccess>
+										</c>
+										<c level="file" id="_341249">
+											<did>
+												<unitid>ESUPPL 10133</unitid>
+												<unittitle>Déclarations des constructions nouvelles, de reconstruction et d'affectation de terrains à des usages commerciaux ou industriels : registre.</unittitle>
+												<unitdate normal="1891/1969">1891-1969</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 09/07/2024 14:54:20
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>matrice d'imposition</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<geogname>Paravis (Sainte-Mère et Castet-Arrouy, Gers, France)</geogname>
+												<geogname>Castet-Arrouy (Gers, France)</geogname>
+												<subject>fiscalité</subject>
+												<subject>construction</subject>
+											</controlaccess>
+										</c>
+									</c>
+									<c level="file" id="_341251">
+										<did>
+											<unitid>ESUPPL 10135</unitid>
+											<unittitle>Répartiteurs. - Nominations ; correspondance (1815-1832). Transmission des rôles de Sainte-Mère, Paravis, Sempesserre, Gimbrède au sous-préfet : correspondance (1824-1833). Nomination d'un propriétaire de la localité chargée de représenter avec le maire la commune à l'assemblée cantonale pour servir à une nouvelle la répartition de la contribution foncière : arrêté (1824). Visite du contrôleur pour la tournée générale des mutations : correspondance (1841-1867).</unittitle>
+											<unitdate normal="1815/1867">1815-1867</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 06/05/2024 15:42:58
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Paravis (Sainte-Mère et Castet-Arrouy, Gers, France)</geogname>
+											<geogname>Sempesserre (Gers, France)</geogname>
+											<geogname>Gimbrède (Gers, France)</geogname>
+											<subject>fiscalité</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c>
+									<did>
+										<unittitle>Rapports de la commune avec les diverses administrations au point de vue financier</unittitle>
+									</did>
+									<c level="file" id="_341252">
+										<did>
+											<unitid>ESUPPL 10136</unitid>
+											<unittitle>Formalités du timbre et de l'enregistrement : circulaire ministérielle, correspondance (1823-1863). Poids et mesures. - Vérification : correspondance (1831-1835).</unittitle>
+											<unitdate normal="1823/1863">1823-1863</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 01/06/2023 17:14:58
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>enregistrement</subject>
+										</controlaccess>
+									</c>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>Affaires militaires</unittitle>
+								</did>
+								<c>
+									<did>
+										<unittitle>Recrutement</unittitle>
+									</did>
+									<c level="file" id="_341253">
+										<did>
+											<unitid>ESUPPL 10137</unitid>
+											<unittitle>Recensement des classes 1819-1823, 1826, 1829-1832 : tableaux de recensement.</unittitle>
+											<unitdate normal="1829/1832">1829-1832</unitdate>
+										</did>
+										<scopecontent>
+											<p>Lacunes : 1824, 1825, 1827, 1828.</p>
+										</scopecontent>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 01/06/2023 19:00:47
+											</p>
+										</processinfo>
+										<controlaccess>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>militaire</subject>
+											<subject>armée</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341254">
+										<did>
+											<unitid>ESUPPL 10138</unitid>
+											<unittitle>Certificats : correspondance (1817-1862). Mise en activité des classes : extrait des registres des notifications de lettres de mise en activité, correspondance (1828-1841). Réfractaires : procès-verbal, correspondance (1810-1866). Ordres de route : liste extraite du registre des notifications des ordres de route, correspondance (1837-1866).</unittitle>
+											<unitdate normal="1810/1866">1810-1866</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 01/06/2023 19:02:48
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<genreform>procès-verbal</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>armée</subject>
+											<subject>militaire</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c>
+									<did>
+										<unittitle>Administration militaire</unittitle>
+									</did>
+									<c level="file" id="_341255">
+										<did>
+											<unitid>ESUPPL 10139</unitid>
+											<unittitle>Garnison : correspondance (1815). Liste des officiers, sous-officiers et caporaux (1846). Officiers, sous-officiers et soldats mis en retraite entre 1834 et 1864 : correspondance (1866).</unittitle>
+											<unitdate normal="1815/1866">1815-1866</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>armée</subject>
+											<subject>officier militaire</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c>
+									<did>
+										<unittitle>Garde nationale et sapeurs-pompiers</unittitle>
+									</did>
+									<c level="recordgrp" id="_341294">
+										<did>
+											<unitid>ESUPPL 8608, 10140 - 10141</unitid>
+											<unittitle>Garde nationale.</unittitle>
+											<unitdate normal="1813/1848">1813-1848</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par COMTE validée le </p>
+										</processinfo>
+										<controlaccess>
+											<genreform>délibération</genreform>
+											<genreform>liste nominative</genreform>
+											<genreform>correspondance</genreform>
+											<subject>garde nationale</subject>
+											<subject>militaire</subject>
+										</controlaccess>
+										<c level="file" id="_341288">
+											<did>
+												<unitid>ESUPPL 8608</unitid>
+												<unittitle>Compagnie de Sainte-Mère . - Élection et nomination des officiers, caporaux, etc : registre des procès-verbaux.</unittitle>
+												<unitdate normal="1813/1848">1813-1848</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 02/06/2023 14:18:27
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>délibération</genreform>
+												<genreform>correspondance</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>garde nationale</subject>
+											</controlaccess>
+										</c>
+										<c level="file" id="_341256">
+											<did>
+												<unitid>ESUPPL 10140</unitid>
+												<unittitle>Recensement des troupes, inscription : listes nominatives du contrôle matricule et du contrôle général du service ordinaire et de la réserve,</unittitle>
+												<unitdate normal="1831/1841">1831-1841</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 02/06/2023 14:18:51
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>liste nominative</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>armée</subject>
+												<subject>garde nationale</subject>
+												<subject>militaire</subject>
+												<subject>mobilisation</subject>
+												<subject>conscription</subject>
+											</controlaccess>
+										</c>
+										<c level="file" id="_341257">
+											<did>
+												<unitid>ESUPPL 10141</unitid>
+												<unittitle>Correspondance.</unittitle>
+												<unitdate normal="1831/1833">1831-1833</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>correspondance</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>armée</subject>
+												<subject>garde nationale</subject>
+												<subject>militaire</subject>
+												<subject>officier militaire</subject>
+												<subject>organisation de l'armée</subject>
+											</controlaccess>
+										</c>
+									</c>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>Élections et personnel</unittitle>
+								</did>
+								<c>
+									<did>
+										<unittitle>Élections</unittitle>
+									</did>
+									<c level="file" id="_341260">
+										<did>
+											<unitid>ESUPPL 10144</unitid>
+											<unittitle>Conseil municipal. - Nomination des membres : arrêtés, correspondance.</unittitle>
+											<unitdate normal="1824/1866">1824-1866</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 06/05/2024 15:48:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>élection municipale</subject>
+											<subject>conseil municipal</subject>
+											<subject>maire</subject>
+											<subject>arrondissement</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_227622">
+										<did>
+											<unitid>ESUPPL 4031</unitid>
+											<unittitle>Commission de révision des listes électorales : registres des procès-verbaux.</unittitle>
+											<unitdate normal="1885/1939">1885-1939</unitdate>
+										</did>
+										<scopecontent>
+											<p>À l'envers du registre : registre des dépenses de la commune et du bureau de bienfaisance (1863-1904).</p>
+										</scopecontent>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 06/05/2024 15:49:05
+											</p>
+										</processinfo>
+										<controlaccess>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+										</controlaccess>
+									</c>
+								</c>
+								<c>
+									<did>
+										<unittitle>Personnel municipal</unittitle>
+									</did>
+									<c level="file" id="_341261">
+										<did>
+											<unitid>ESUPPL 10145</unitid>
+											<unittitle>Gardes-champêtres et gardes forestiers. - Nomination et prise de fonction : correspondance.</unittitle>
+											<unitdate normal="1817/1866">1817-1866</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>forêt communale</subject>
+										</controlaccess>
+									</c>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>Finances de la commune</unittitle>
+								</did>
+								<c>
+									<did>
+										<unittitle>Comptabilité</unittitle>
+									</did>
+									<c level="file" id="_341262">
+										<did>
+											<unitid>ESUPPL 10146</unitid>
+											<unittitle>État des recettes et des dépenses : extrait du registre des délibérations, compte-courant à la caisse des dépôts et consignations, correspondance (an IX-1823). Dépenses, remboursements et crédits extraordinaires : arrêté du préfet, correspondance (an III-1863). Pièces comptables. - Demande de transmission au receveur ou au sous-préfet : correspondance (1822-1860).</unittitle>
+											<unitdate normal="1795/1863">an III-1863</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le </p>
+										</processinfo>
+										<controlaccess>
+											<genreform>compte financier</genreform>
+											<genreform>budget</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>comptabilité publique</subject>
+											<subject>finances communales</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c>
+									<did>
+										<unittitle>Revenus et charges de la commune</unittitle>
+									</did>
+									<c level="file" id="_341263">
+										<did>
+											<unitid>ESUPPL 10147</unitid>
+											<unittitle>Décomptes aux percepteurs : avis du conseiller de préfecture (1815). Perception : procès-verbal, correspondance (1828-1866). Projet d'emprunt : correspondance (1860).</unittitle>
+											<unitdate normal="1815/1863">1815-1863</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>comptabilité publique</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341264">
+										<did>
+											<unitid>ESUPPL 10148</unitid>
+											<unittitle>Bois : pièces comptables, correspondance (1822-1823). Droit de chasse : extrait du registre des délibérations (1819).</unittitle>
+											<unitdate normal="1819/1823">1819-1823</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>pièce comptable</genreform>
+											<genreform>délibération</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>comptabilité publique</subject>
+											<subject>finances communales</subject>
+											<subject>forêt communale</subject>
+											<subject>droits d'usage</subject>
+											<subject>biens communaux</subject>
+										</controlaccess>
+									</c>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>Édifices communaux. Monuments et établissements publics</unittitle>
+								</did>
+								<c>
+									<did>
+										<unittitle>Édifices publics</unittitle>
+									</did>
+									<c level="file" id="_341265">
+										<did>
+											<unitid>ESUPPL 10149</unitid>
+											<unittitle>Monument aux morts. - Édification : extrait du registre des délibérations, croquis.</unittitle>
+											<unitdate normal="1920/1921">1920-1921</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>avant-projet</genreform>
+											<genreform>délibération</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>commémoration</subject>
+											<subject>biens communaux</subject>
+											<subject>Guerre 1914-1918</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c>
+									<did>
+										<unittitle>Édifices du culte et cimetières</unittitle>
+									</did>
+									<c level="file" id="_341266">
+										<did>
+											<unitid>ESUPPL 10150</unitid>
+											<unittitle>Presbytère. - Donation, travaux et location : baux et correspondance (1822-1860 ; 1934). Églises de Saint-Laurent et de Sainte-Mère. - Travaux et vente : extrait du registre des délibérations, procès-verbal d'adjudication au rabais des réparations, correspondance (1824-1838).</unittitle>
+											<unitdate normal="1822/1934">1822-1934</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 06/05/2024 14:37:00
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<genreform>procès-verbal</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>biens communaux</subject>
+											<subject>presbytère</subject>
+											<subject>édifice cultuel</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c>
+									<did>
+										<unittitle>Édifices à usage d'établissements d'enseignement, de sciences et d'art</unittitle>
+									</did>
+									<c level="file" id="_341277">
+										<did>
+											<unitid>ESUPPL 10161</unitid>
+											<unittitle>Mairie-école. - Alimentation en eau potable : correspondance ; terrain, acquisition : promesse de vente, extraits du registre des délibérations, procès-verbal descriptif et estimatif ; projet d'un préau : devis (1839-1913) ; travaux de maçonnerie et d'assainissement : devis descriptifs et estimatifs, extrait du registre des délibérations (1843-1903) ; projet de l'architecte Bouyssou : extrait du registre des délibérations, correspondance (1949-1953) ; projets-types de groupes scolaires : programme, tableau (1954).</unittitle>
+											<unitdate normal="1839/1954">1839-1954</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>pièce comptable</genreform>
+											<genreform>délibération</genreform>
+											<genreform>programme</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>école</subject>
+											<subject>biens communaux</subject>
+											<subject>eau potable</subject>
+											<subject>construction</subject>
+										</controlaccess>
+									</c>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>Biens communaux. Terres. Bois. Eaux</unittitle>
+								</did>
+								<c>
+									<did>
+										<unittitle>Bois</unittitle>
+									</did>
+									<c level="file" id="_341267">
+										<did>
+											<unitid>ESUPPL 10151</unitid>
+											<unittitle>Bois communal. - Projet de vente, estimation de superficie (1832-1866). Vente de coupes : correspondance (1860-1863). Travaux d'aménagement et élagage : correspondance (1860-1863).</unittitle>
+											<unitdate normal="1832/1866">1832-1866</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>biens communaux</subject>
+											<subject>forêt communale</subject>
+											<subject>coupe de bois</subject>
+											<subject>aménagement du territoire</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c>
+									<did>
+										<unittitle>Eaux</unittitle>
+									</did>
+									<c level="file" id="_341268">
+										<did>
+											<unitid>ESUPPL 10152</unitid>
+											<unittitle>Puits communal : correspondance.</unittitle>
+											<unitdate normal="1866">1866</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>biens communaux</subject>
+											<subject>eau</subject>
+										</controlaccess>
+									</c>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>Travaux publics. Voirie. Moyens de transport. Régime des eaux</unittitle>
+								</did>
+								<c>
+									<did>
+										<unittitle>Travaux publics et voirie en général</unittitle>
+									</did>
+									<c level="file" id="_341269">
+										<did>
+											<unitid>ESUPPL 10153</unitid>
+											<unittitle>Chemins vicinaux. - Classement au rang des chemins de grande communication des chemins de Lectoure à Auvillar et d'Astaffort à Auvillar : extraits du registre des délibérations, correspondance (1836-1841) ; travaux : correspondance ; extractions de matériaux : correspondance (1839-1866) ; subventions accordées par le préfet : arrêté, correspondance (1860-1863).</unittitle>
+											<unitdate normal="1836/1866">1836-1866</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 06/05/2024 15:50:21
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>délibération</genreform>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<geogname>Lectoure (Gers, France)</geogname>
+											<subject>voie communale</subject>
+											<subject>route départementale</subject>
+											<subject>chemin rural</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c>
+									<did>
+										<unittitle>Moyens de transport et travaux divers</unittitle>
+									</did>
+									<c level="file" id="_341270">
+										<did>
+											<unitid>ESUPPL 10154</unitid>
+											<unittitle>Terrains. - Expropriation : correspondance (1860). Chemin de fer. - Enquête et projet : correspondance (1864). Voitures : correspondance (1832).</unittitle>
+											<unitdate normal="1832/1864">1832-1864</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>transport ferroviaire</subject>
+											<subject>véhicule automobile</subject>
+											<subject>propriété publique</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341271">
+										<did>
+											<unitid>ESUPPL 10155</unitid>
+											<unittitle>Distribution d'énergie électrique, concession : contrat, bordereau, cahier des charges, plans d'électrification du secteur nord-est et des réseaux basse tension, extrait du registre des délibérations, correspondance.</unittitle>
+											<unitdate normal="1925/1943">1925-1943</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 05/06/2023 15:03:09
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>contrat</genreform>
+											<genreform>cahier des charges</genreform>
+											<genreform>plan</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>distribution électrique</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c>
+									<did>
+										<unittitle>Navigation et régime des eaux</unittitle>
+									</did>
+									<c level="file" id="_341272">
+										<did>
+											<unitid>ESUPPL 10156</unitid>
+											<unittitle>Drainage d'un terrain : fiche de renseignements.</unittitle>
+											<unitdate normal="1856/1856">1856-1856</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>rapport</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>eau</subject>
+										</controlaccess>
+									</c>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>Cultes</unittitle>
+								</did>
+								<c>
+									<did>
+										<unittitle>Culte catholique</unittitle>
+									</did>
+									<c level="file" id="_341273">
+										<did>
+											<unitid>ESUPPL 10157</unitid>
+											<unittitle>Fabrique. - Budget : comptes de gestion, correspondance.</unittitle>
+											<unitdate normal="1841/1932">1841-1932</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 01/06/2023 19:12:46
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>pièce comptable</genreform>
+											<genreform>compte de gestion</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>fabrique d'église</subject>
+										</controlaccess>
+									</c>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>Assistance et prévoyance</unittitle>
+								</did>
+								<c>
+									<did>
+										<unittitle>Bureaux de bienfaisance, secours d'urgence</unittitle>
+									</did>
+									<c level="recordgrp" id="_358214">
+										<did>
+											<unitid>ESUPPL 4032, 10158</unitid>
+											<unittitle>Bureau de bienfaisance.</unittitle>
+											<unitdate normal="1835/1866">1835-1866</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par PONS validée le 06/05/2024 14:44:16
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>registre</genreform>
+											<genreform>délibération</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>structure communale d'aide sociale</subject>
+										</controlaccess>
+										<c level="file" id="_227623">
+											<did>
+												<unitid>ESUPPL 4032</unitid>
+												<unittitle>Registre des délibérations.</unittitle>
+												<unitdate normal="1836/1841">1836-1841</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>délibération</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>structure communale d'aide sociale</subject>
+											</controlaccess>
+										</c>
+										<c level="file" id="_341274">
+											<did>
+												<unitid>ESUPPL 10158</unitid>
+												<unittitle>Nomination des membres : correspondance (1835-1866). Subventions et dons : correspondance (1866).</unittitle>
+												<unitdate normal="1827/1866">1827-1866</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>correspondance</genreform>
+												<geogname>Sainte-Mère (Gers, France)</geogname>
+												<subject>action sociale</subject>
+											</controlaccess>
+										</c>
+									</c>
+								</c>
+								<c>
+									<did>
+										<unittitle>Établissements hospitaliers, hospitalisation</unittitle>
+									</did>
+									<c level="file" id="_341275">
+										<did>
+											<unitid>ESUPPL 10159</unitid>
+											<unittitle>Hospice de Lectoure. - Demandes d'hospitalisation des malades : correspondance.</unittitle>
+											<unitdate normal="1817/1863">1817-1863</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<geogname>Lectoure (Gers, France)</geogname>
+											<subject>établissement de santé</subject>
+											<subject>établissement médico social</subject>
+											<subject>secours</subject>
+											<subject>soins médicaux</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c>
+									<did>
+										<unittitle>Application des lois d'assistance et de prévoyance</unittitle>
+									</did>
+									<c level="file" id="_341276">
+										<did>
+											<unitid>ESUPPL 10160</unitid>
+											<unittitle>Vaccination des enfants et état des indigents : correspondance (1827). État des aveugles de la commune (1831). Remise des livrets de nourrices : correspondance (1860-1861). Soins d'un enfant à l'hospice d'Agen : correspondance (1839-1841). Secours à la veuve Mme Balancin : correspondance (1863).</unittitle>
+											<unitdate normal="1827/1863">1827-1863</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 06/05/2024 15:52:44
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>liste nominative</genreform>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>organisation sanitaire</subject>
+											<subject>vaccination</subject>
+											<subject>soins médicaux</subject>
+											<subject>secours</subject>
+											<subject>établissement médico social</subject>
+											<subject>enfant secouru</subject>
+											<subject>indigent</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341259">
+										<did>
+											<unitid>ESUPPL 10143</unitid>
+											<unittitle>Médecine gratuite : correspondance (1860). Participation et remise des récompenses honorifiques aux médecins : correspondance (1866).</unittitle>
+											<unitdate normal="1860/1866">1860-1866</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 06/05/2024 15:45:56
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>médecin</subject>
+											<subject>distinction honorifique</subject>
+										</controlaccess>
+									</c>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>Instruction publique. Sciences, lettres et arts</unittitle>
+								</did>
+								<c>
+									<did>
+										<unittitle>Instruction publique</unittitle>
+									</did>
+									<c level="file" id="_341278">
+										<did>
+											<unitid>ESUPPL 10162</unitid>
+											<unittitle>École gratuite. - Admission : correspondance (1860). Instituteur. - Traitement : correspondance (1863).</unittitle>
+											<unitdate normal="1860/1863">1860-1863</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>correspondance</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>école</subject>
+											<subject>enseignement élémentaire</subject>
+											<subject>instituteur</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341279">
+										<did>
+											<unitid>ESUPPL 10163</unitid>
+											<unittitle>Inventaires du mobilier et des archives scolaires.</unittitle>
+											<unitdate normal="1891/1976">1891, 1976</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>inventaire</genreform>
+											<geogname>Sainte-Mère (Gers, France)</geogname>
+											<subject>école</subject>
+											<subject>mobilier</subject>
+											<subject>patrimoine écrit</subject>
+										</controlaccess>
+									</c>
+								</c>
+							</c>
+							<c>
+								<did>
+									<unittitle>Pièces ne rentrant pas dans les séries précédentes</unittitle>
+								</did>
+								<c level="file" id="_227624">
+									<did>
+										<unitid>ESUPPL 4033</unitid>
+										<unittitle>Société populaire de Sainte-Mère : registre des séances.</unittitle>
+										<unitdate normal="1793/1794">1793-1794</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+										</p>
+									</processinfo>
+									<controlaccess>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341280">
+									<did>
+										<unitid>ESUPPL 10164</unitid>
+										<unittitle>Union fédérale des anciens combattants du Gers, sous-section de Sainte-Mère : registre des délibérations.</unittitle>
+										<unitdate normal="1933/1958">1933-1958</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 05/06/2023 15:03:39
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+										<subject>association</subject>
+										<subject>gens de guerre</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_341281">
+									<did>
+										<unitid>ESUPPL 10165</unitid>
+										<unittitle>Photographie d'une serre.</unittitle>
+										<unitdate normal="1920/1950">[1920-1950]</unitdate>
+										<origination label="producteur">Commune de Sainte-Mère</origination>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 08/06/2023 15:40:02
+										</p>
+									</processinfo>
+									<controlaccess>
+										<geogname>Sainte-Mère (Gers, France)</geogname>
+										<subject>espace vert</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+					</c>
+				</dsc>
+			</archdesc>
+		</ead>

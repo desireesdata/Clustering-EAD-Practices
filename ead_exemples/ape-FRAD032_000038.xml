@@ -1,0 +1,1730 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+		<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+			<eadid countrycode="FR" mainagencycode="FRAD032" identifier="FRAD032_000038" url="https://francearchives.fr/findingaid/89c4cf314190889f2fcd11963e4c690ea61cdbd4">FRAD032_000038</eadid>
+			<filedesc>
+				<titlestmt>
+					<titleproper>
+						Organisation de l'armée
+					</titleproper>
+					<subtitle>Répertoire numérique détaillé de la sous-série 2 R</subtitle>
+					<author/>
+				</titlestmt>
+				<publicationstmt>
+					<publisher>Archives départementales du Gers</publisher>
+					<date>21/09/2021</date>
+					<address>
+						<addressline>81 route de Pessan - 32001 Auch</addressline>
+					</address>
+				</publicationstmt>
+			</filedesc>
+			<profiledesc>
+				<creation>Cet instrument de recherche a été exporté au format XML depuis le progiciel de gestion d'archives Thot par les archives départementales du Gers.</creation>
+				<langusage>Instrument de recherche rédigé en <language langcode="fre">français</language>
+				</langusage>
+			</profiledesc>
+		</eadheader>
+		<archdesc level="fonds">
+			<did>
+				<unitid>2 R 1 - 85</unitid>
+				<unittitle>Organisation de l'armée.</unittitle>
+				<unitdate normal="1799/1940">1799-1940</unitdate>
+				<origination label="producteur">Gers. Préfecture</origination>
+			</did>
+			<acqinfo>
+				<p>Versement</p>
+			</acqinfo>
+			<relatedmaterial>
+				<p>Archives du Gers.</p>
+				<list><item>Série M : police générale.</item>
+				<item>Série O : casernes.</item>
+				<item>Série Y : registres d'écrou.</item>
+				</list><p>Archives nationales.</p>
+				<list><item>Série F 9 : affaires militaires.</item>
+				<item>Série F 23 : services extraordinaires engendrés par l'état de guerre.</item>
+				</list><p>Archives du service historique de la défense.</p>
+			</relatedmaterial>
+			<bibliography>
+				<p>Conseil général du Gers, La Grande guerre à la Une dans le Gers : exposition présentée du 14 novembre 2014 au 31 mars 2015, Auch : Conseil général du Gers, 2014.</p>
+			</bibliography>
+			<controlaccess>
+				<subject>organisation de l'armée</subject>
+			</controlaccess>
+			<dsc>
+				<c id="_221895">
+					<did>
+						<unitid>2 R 1 - 10</unitid>
+						<unittitle>Bâtiments et terrains militaires.</unittitle>
+						<unitdate normal="1799/1920">1799-1920</unitdate>
+					</did>
+					<controlaccess>
+						<geogname>Gers (Occitanie, France ; département)</geogname>
+						<subject>organisation de l'armée</subject>
+					</controlaccess>
+					<c id="_221896">
+						<did>
+							<unitid>2 R 1</unitid>
+							<unittitle>Service du génie : circulaires, instructions, notes, rapports (an VIII-1895). Direction du dépôt de la guerre : instructions, correspondance relatives à la confection de la carte topographique de la France (1816-1851).</unittitle>
+							<unitdate normal="1799/1895">an VIII-1895</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>génie militaire</subject>
+							<subject>organisation de l'armée</subject>
+						</controlaccess>
+					</c>
+					<c id="_221897">
+						<did>
+							<unitid>2 R 2</unitid>
+							<unittitle>Réparations à effectuer aux bâtiments militaires de la ville d'Auch (séminaire, grand quartier, petit quartier, bâtiment des Cordeliers) : états, devis (1811-1865). Registre de correspondance (1813-1816).</unittitle>
+							<unitdate normal="1811/1865">1811-1865</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Auch (Gers, France)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>équipement militaire</subject>
+						</controlaccess>
+					</c>
+					<c id="_221898">
+						<did>
+							<unitid>2 R 3 - 4</unitid>
+							<unittitle>Caserne de cavalerie à Auch.</unittitle>
+							<unitdate normal="1818/1875">1818-1875</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Auch (Gers, France)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>remonte militaire</subject>
+							<subject>caserne</subject>
+							<subject>armée de terre</subject>
+							<subject>équipement militaire</subject>
+						</controlaccess>
+						<c id="_221899">
+							<did>
+								<unitid>2 R 3</unitid>
+								<unittitle>Construction (anciennement petit quartier) : notes, délibérations, emprunt, correspondance, procès-verbaux d'adjudication des travaux, expropriations.</unittitle>
+								<unitdate normal="1818/1833">1818-1833</unitdate>
+							</did>
+							<controlaccess>
+								<geogname>Auch (Gers, France)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>remonte militaire</subject>
+								<subject>caserne</subject>
+								<subject>armée de terre</subject>
+								<subject>équipement militaire</subject>
+							</controlaccess>
+						</c>
+						<c id="_221900">
+							<did>
+								<unitid>2 R 4</unitid>
+								<unittitle>Extension : acquisitions de terrains, expropriations (1840-1852) ; cautionnements des entrepreneurs adjudicataires (1840-1875) ; litiges avec le sieur Blanchard charpentier (1826-1842).</unittitle>
+								<unitdate normal="1826/1875">1826-1875</unitdate>
+							</did>
+							<controlaccess>
+								<geogname>Auch (Gers, France)</geogname>
+								<persname>Blanchard (charpentier)</persname>
+								<subject>organisation de l'armée</subject>
+								<subject>remonte militaire</subject>
+								<subject>caserne</subject>
+								<subject>armée de terre</subject>
+								<subject>équipement militaire</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c id="_221901">
+						<did>
+							<unitid>2 R 5 - 7</unitid>
+							<unittitle>Dépôt de remonte à Auch.</unittitle>
+							<unitdate normal="1827/1875">1827-1875</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Auch (Gers, France)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>remonte militaire</subject>
+							<subject>armée de terre</subject>
+							<subject>équipement militaire</subject>
+						</controlaccess>
+						<c id="_221902">
+							<did>
+								<unitid>2 R 5</unitid>
+								<unittitle>Création : notes, instructions, rapports, inspections, plans (1827-1833) ; installation du dépôt au château du Garros : baux, correspondance, (1833-1845).</unittitle>
+								<unitdate normal="1827/1845">1827-1845</unitdate>
+							</did>
+							<controlaccess>
+								<geogname>Auch (Gers, France)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>remonte militaire</subject>
+								<subject>armée de terre</subject>
+								<subject>équipement militaire</subject>
+							</controlaccess>
+						</c>
+						<c id="_221903">
+							<did>
+								<unitid>2 R 6</unitid>
+								<unittitle>Acquisition du château du Garros, autres projets de dépôts : rapports, correspondance.</unittitle>
+								<unitdate normal="1846/1875">1846-1875</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>rapport</genreform>
+								<geogname>Auch (Gers, France)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>remonte militaire</subject>
+								<subject>armée de terre</subject>
+								<subject>équipement militaire</subject>
+							</controlaccess>
+						</c>
+						<c id="_221904">
+							<did>
+								<unitid>2 R 7</unitid>
+								<unittitle>Travaux effectués au château du Garros : états, devis, pièces comptables, correspondance.</unittitle>
+								<unitdate normal="1833/1864">1833-1864</unitdate>
+							</did>
+							<controlaccess>
+								<geogname>Auch (Gers, France)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>remonte militaire</subject>
+								<subject>armée de terre</subject>
+								<subject>équipement militaire</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c id="_221905">
+						<did>
+							<unitid>2 R 8</unitid>
+							<unittitle>Caserne d'infanterie à Auch, augmentation du casernement à Auch : circulaires, notes (1873-1874) ; construction de la caserne d'infanterie, achats des terrains, construction, cautionnements des entrepreneurs (1874-1879).</unittitle>
+							<unitdate normal="1873/1879">1873-1879</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Auch (Gers, France)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>caserne</subject>
+							<subject>armée de terre</subject>
+						</controlaccess>
+					</c>
+					<c id="_221906">
+						<did>
+							<unitid>2 R 9</unitid>
+							<unittitle>Extension de la caserne d'infanterie à Mirande : circulaires, notes, achats de terrains, expropriations, construction, (1874-1876) ; assainissement de la caserne Laubadère à Mirande (1890-1897) ; champ de tir de la garnison de Mirande à Lasserre-Berdoues : achats de terrains (1882-1887).</unittitle>
+							<unitdate normal="1874/1897">1874-1897</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Mirande (Gers, France)</geogname>
+							<geogname>Berdoues (Gers, France)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>caserne</subject>
+							<subject>armée de terre</subject>
+							<subject>terrain militaire</subject>
+						</controlaccess>
+					</c>
+					<c id="_221907">
+						<did>
+							<unitid>2 R 10</unitid>
+							<unittitle>Liquidation des terrains et immeubles réquisitionnés ou occupés pendant la guerre 1914-1918 : circulaires, correspondance.</unittitle>
+							<unitdate normal="1918/1920">1918-1920</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>armée de terre</subject>
+							<subject>terrain militaire</subject>
+							<subject>guerre</subject>
+							<subject>réquisitions militaires</subject>
+							<subject>Guerre 1914-1918</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c id="_221908">
+					<did>
+						<unitid>2 R 11 - 14</unitid>
+						<unittitle>Monuments aux morts et trophées de guerre.</unittitle>
+						<unitdate normal="1919/1929">1919-1929</unitdate>
+					</did>
+					<controlaccess>
+						<geogname>Gers (Occitanie, France ; département)</geogname>
+						<subject>organisation de l'armée</subject>
+						<subject>commémoration</subject>
+					</controlaccess>
+					<c id="_221909">
+						<did>
+							<unitid>2 R 11</unitid>
+							<unittitle>Monuments aux morts hors du département : instructions, circulaires (1919-1929) ; érection d'un monument aux morts : délibération des conseils municipaux (arrondissement de Condom) (1920-1924).</unittitle>
+							<unitdate normal="1919/1929">1919-1929</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>commémoration</subject>
+						</controlaccess>
+					</c>
+					<c id="_221910">
+						<did>
+							<unitid>2 R 12 - 13</unitid>
+							<unittitle>Monuments aux morts, inauguration : correspondance, dossier par commune.</unittitle>
+							<unitdate normal="1919/1931">1919-1931</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>commémoration</subject>
+						</controlaccess>
+						<c id="_221911">
+							<did>
+								<unitid>2 R 12</unitid>
+								<unittitle>Arrondissements : Auch, Condom.</unittitle>
+								<unitdate normal="1919/1927">1919-1927</unitdate>
+							</did>
+							<controlaccess>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>commémoration</subject>
+							</controlaccess>
+						</c>
+						<c id="_221912">
+							<did>
+								<unitid>2 R 13</unitid>
+								<unittitle>Arrondissements : Lectoure, Lombez, Mirande.</unittitle>
+								<unitdate normal="1919/1931">1919-1931</unitdate>
+							</did>
+							<controlaccess>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>commémoration</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c id="_221913">
+						<did>
+							<unitid>2 R 14</unitid>
+							<unittitle>Trophées de guerre, demandes des communes : correspondance.</unittitle>
+							<unitdate normal="1920/1923">1920-1923</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>commémoration</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c id="_221914">
+					<did>
+						<unitid>2 R 15 - 20</unitid>
+						<unittitle>Cantonnements, casernements, mouvements de troupes.</unittitle>
+						<unitdate normal="1828/1939">1828-1939</unitdate>
+					</did>
+					<controlaccess>
+						<geogname>Gers (Occitanie, France ; département)</geogname>
+						<subject>organisation de l'armée</subject>
+						<subject>armée de terre</subject>
+					</controlaccess>
+					<c id="_221915">
+						<did>
+							<unitid>2 R 15</unitid>
+							<unittitle>Casernement, répartition et emplacement des troupes de l'armée française.</unittitle>
+							<unitdate normal="1897/1937">1897-1937</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>armée de terre</subject>
+							<subject>logement</subject>
+							<subject>militaire</subject>
+						</controlaccess>
+					</c>
+					<c id="_221916">
+						<did>
+							<unitid>2 R 16</unitid>
+							<unittitle>Logement des troupes : registre des états de section de la commune de Vic-Fezensac pour le logement des militaires (1828-1837), tableau des ressources des communes (1930-1937).</unittitle>
+							<unitdate normal="1830/1937">1830-1937</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Vic-Fezensac (Gers, France)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>armée de terre</subject>
+							<subject>logement</subject>
+							<subject>militaire</subject>
+						</controlaccess>
+					</c>
+					<c id="_221917">
+						<did>
+							<unitid>2 R 17</unitid>
+							<unittitle>Cantonnements des troupes : notes, instructions, bulletins de mouvements, correspondance.</unittitle>
+							<unitdate normal="1828/1920">1828-1920</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>armée de terre</subject>
+							<subject>logement</subject>
+							<subject>militaire</subject>
+						</controlaccess>
+					</c>
+					<c id="_221918">
+						<did>
+							<unitid>2 R 18 - 19</unitid>
+							<unittitle>Cantonnements et passages des troupes dans le Gers : itinéraires, logements, correspondance avec les sous-préfets et les maires, frais de cantonnements, réclamations.</unittitle>
+							<unitdate normal="1830/1939">1830-1939</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>armée de terre</subject>
+							<subject>logement</subject>
+							<subject>militaire</subject>
+							<subject>maire</subject>
+							<subject>élu</subject>
+						</controlaccess>
+						<c id="_221919">
+							<did>
+								<unitid>2 R 18</unitid>
+								<unittitle>1830-1844.</unittitle>
+								<unitdate normal="1830/1844">1830-1844</unitdate>
+							</did>
+							<controlaccess>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>armée de terre</subject>
+								<subject>logement</subject>
+								<subject>militaire</subject>
+								<subject>maire</subject>
+								<subject>élu</subject>
+							</controlaccess>
+						</c>
+						<c id="_221920">
+							<did>
+								<unitid>2 R 19</unitid>
+								<unittitle>1845-1939.</unittitle>
+								<unitdate normal="1845/1939">1845-1939</unitdate>
+							</did>
+							<controlaccess>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>armée de terre</subject>
+								<subject>logement</subject>
+								<subject>militaire</subject>
+								<subject>maire</subject>
+								<subject>élu</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c id="_221921">
+						<did>
+							<unitid>2 R 20</unitid>
+							<unittitle>Opinions politiques des officiers et soldats résidant dans le Gers : fiches de renseignements.</unittitle>
+							<unitdate normal="1909/1911">1909-1911</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>armée de terre</subject>
+							<subject>officier militaire</subject>
+							<subject>militaire</subject>
+							<subject>opinion</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c id="_221922">
+					<did>
+						<unitid>2 R 21 - 39</unitid>
+						<unittitle>Ravitaillement de l'armée.</unittitle>
+						<unitdate normal="1808/1940">1808-1940</unitdate>
+					</did>
+					<controlaccess>
+						<geogname>Gers (Occitanie, France ; département)</geogname>
+						<subject>organisation de l'armée</subject>
+						<subject>ravitaillement militaire</subject>
+					</controlaccess>
+					<c id="_221923">
+						<did>
+							<unitid>2 R 21</unitid>
+							<unittitle>Ravitaillement de l'armée française en Catalogne : états nominatifs des boulangers et bouchers (1808), circulaire (1813). Registre de correspondance relative à la fourniture de fourrage (1810-1812).</unittitle>
+							<unitdate normal="1808/1813">1808-1813</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>liste nominative</genreform>
+							<geogname>Catalogne (Espagne)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>ravitaillement militaire</subject>
+							<subject>boucherie</subject>
+							<subject>boulangerie</subject>
+						</controlaccess>
+					</c>
+					<c id="_221924">
+						<did>
+							<unitid>2 R 22 - 25</unitid>
+							<unittitle>Plan départemental de ravitaillement.</unittitle>
+							<unitdate normal="1891/1904">1891-1904</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>ravitaillement militaire</subject>
+						</controlaccess>
+						<c id="_221925">
+							<did>
+								<unitid>2 R 22</unitid>
+								<unittitle>Enquêtes communales sur les produits agricoles, le bétail, les stocks commerciaux, les établissements industriels (classés par arrondissements).</unittitle>
+								<unitdate normal="1891">1891</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>statistique</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>ravitaillement militaire</subject>
+								<subject>bétail</subject>
+								<subject>agriculture</subject>
+								<subject>production agricole</subject>
+								<subject>bâtiment industriel</subject>
+							</controlaccess>
+						</c>
+						<c id="_221926">
+							<did>
+								<unitid>2 R 23 - 24</unitid>
+								<unittitle>Questionnaires communaux et appréciations sur l'état des récoltes.</unittitle>
+								<unitdate normal="1899">1899</unitdate>
+							</did>
+							<controlaccess>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>ravitaillement militaire</subject>
+								<subject>agriculture</subject>
+								<subject>production agricole</subject>
+							</controlaccess>
+							<c id="_221927">
+								<did>
+									<unitid>2 R 23</unitid>
+									<unittitle>Arrondissements : Auch, Condom, Lectoure.</unittitle>
+									<unitdate normal="1899">1899</unitdate>
+								</did>
+								<controlaccess>
+									<geogname>Gers (Occitanie, France ; département)</geogname>
+									<subject>organisation de l'armée</subject>
+									<subject>ravitaillement militaire</subject>
+									<subject>agriculture</subject>
+									<subject>production agricole</subject>
+								</controlaccess>
+							</c>
+							<c id="_221928">
+								<did>
+									<unitid>2 R 24</unitid>
+									<unittitle>Arrondissements : Lombez, Mirande.</unittitle>
+									<unitdate normal="1899">1899</unitdate>
+								</did>
+								<controlaccess>
+									<geogname>Gers (Occitanie, France ; département)</geogname>
+									<subject>organisation de l'armée</subject>
+									<subject>ravitaillement militaire</subject>
+									<subject>agriculture</subject>
+									<subject>production agricole</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c id="_221929">
+							<did>
+								<unitid>2 R 25</unitid>
+								<unittitle>Statistiques communales relatives aux stocks commerciaux et aux établissements industriels.</unittitle>
+								<unitdate normal="1904">1904</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>statistique</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>ravitaillement militaire</subject>
+								<subject>bâtiment industriel</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c id="_221930">
+						<did>
+							<unitid>2 R 26</unitid>
+							<unittitle>Organisation du service du ravitaillement : instructions, télégrammes, correspondance.</unittitle>
+							<unitdate normal="1898/1923">1898-1923</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>ravitaillement militaire</subject>
+						</controlaccess>
+					</c>
+					<c id="_221931">
+						<did>
+							<unitid>2 R 27</unitid>
+							<unittitle>Comité départemental de ravitaillement : registre des procès-verbaux (août 1909-juillet 1916, juillet 1921, décembre 1925-août 1940).</unittitle>
+							<unitdate normal="1909/1940">1909-1940</unitdate>
+							<physdesc>
+								<extent>Registre</extent>
+							</physdesc>
+						</did>
+						<controlaccess>
+							<genreform>procès-verbal</genreform>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>ravitaillement militaire</subject>
+						</controlaccess>
+					</c>
+					<c id="_221932">
+						<did>
+							<unitid>2 R 28</unitid>
+							<unittitle>Commissions d'évaluation et d'exploitation des ressources (à partir du 2 août 1914 commissions de réquisitions des ressources) : registre des procès-verbaux.</unittitle>
+							<unitdate normal="1909/1916">1909-1916</unitdate>
+							<physdesc>
+								<extent>Registre</extent>
+							</physdesc>
+						</did>
+						<controlaccess>
+							<genreform>procès-verbal</genreform>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>ravitaillement militaire</subject>
+						</controlaccess>
+					</c>
+					<c id="_221933">
+						<did>
+							<unitid>2 R 29</unitid>
+							<unittitle>Commissions de ravitaillement, personnels, nominations, démissions : états récapitulatifs, états nominatifs classés par commissions.</unittitle>
+							<unitdate normal="1908/1920">1908-1920</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>liste nominative</genreform>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>ravitaillement militaire</subject>
+							<subject>personnel</subject>
+						</controlaccess>
+					</c>
+					<c id="_221934">
+						<did>
+							<unitid>2 R 30</unitid>
+							<unittitle>Ravitaillement et réquisitions, contingents de denrées imposés au département du Gers : états, rapports, télégrammes, correspondance.</unittitle>
+							<unitdate normal="1914/1919">1914-1919</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>ravitaillement militaire</subject>
+							<subject>réquisitions militaires</subject>
+						</controlaccess>
+					</c>
+					<c id="_221935">
+						<did>
+							<unitid>2 R 31</unitid>
+							<unittitle>Ravitaillement, expéditions faites par les centres de réceptions : relevés journaliers.</unittitle>
+							<unitdate normal="1914/1915">1914-1915</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>ravitaillement militaire</subject>
+						</controlaccess>
+					</c>
+					<c id="_221936">
+						<did>
+							<unitid>2 R 32</unitid>
+							<unittitle>Ravitaillement du camp retranché de Paris, approvisionnements fournis par le département du Gers : états, télégrammes, tableaux.</unittitle>
+							<unitdate normal="1914/1915">1914-1915</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<geogname>Paris (Paris ; France)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>ravitaillement militaire</subject>
+						</controlaccess>
+					</c>
+					<c id="_221937">
+						<did>
+							<unitid>2 R 33</unitid>
+							<unittitle>Ravitaillement, ressources en blé : enquêtes communales.</unittitle>
+							<unitdate normal="1915">1915</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>ravitaillement militaire</subject>
+							<subject>céréale</subject>
+						</controlaccess>
+					</c>
+					<c id="_221938">
+						<did>
+							<unitid>2 R 34</unitid>
+							<unittitle>Ressources en bois de noyer : enquêtes communales (n'ont pas été conservés les états néants).</unittitle>
+							<unitdate normal="1915">1915</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>ravitaillement militaire</subject>
+							<subject>bois</subject>
+							<subject>sylviculture</subject>
+						</controlaccess>
+					</c>
+					<c id="_221939">
+						<did>
+							<unitid>2 R 35</unitid>
+							<unittitle>Recensement des scieries : enquêtes communales.</unittitle>
+							<unitdate normal="1915">1915</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>ravitaillement militaire</subject>
+							<subject>bois</subject>
+							<subject>industrie du bois</subject>
+							<subject>sylviculture</subject>
+						</controlaccess>
+					</c>
+					<c id="_221940">
+						<did>
+							<unitid>2 R 36</unitid>
+							<unittitle>Ravitaillement des armées. - Livraisons effectuées par le bureau permanent des céréales pour le compte de l'intendance : états.</unittitle>
+							<unitdate normal="1918/1920">1918-1920</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>ravitaillement militaire</subject>
+							<subject>céréale</subject>
+						</controlaccess>
+					</c>
+					<c id="_221941">
+						<did>
+							<unitid>2 R 37 - 38</unitid>
+							<unittitle>Comité départemental de ravitaillement, commissions permanentes : comptes rendus, statistiques agricoles.</unittitle>
+							<unitdate normal="1921/1940">1921-1940</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>statistique</genreform>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>ravitaillement militaire</subject>
+							<subject>agriculture</subject>
+							<subject>production agricole</subject>
+						</controlaccess>
+						<c id="_221942">
+							<did>
+								<unitid>2 R 37</unitid>
+								<unittitle>1921-1935.</unittitle>
+								<unitdate normal="1921/1935">1921-1935</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>statistique</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>ravitaillement militaire</subject>
+								<subject>agriculture</subject>
+								<subject>production agricole</subject>
+							</controlaccess>
+						</c>
+						<c id="_221943">
+							<did>
+								<unitid>2 R 38</unitid>
+								<unittitle>1936-1940.</unittitle>
+								<unitdate normal="1936/1940">1936-1940</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>statistique</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>ravitaillement militaire</subject>
+								<subject>agriculture</subject>
+								<subject>production agricole</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c id="_221944">
+						<did>
+							<unitid>2 R 39</unitid>
+							<unittitle>Commissions de réception, organisation : conférence (1937). Personnel, nominations, démissions (1921-1940).</unittitle>
+							<unitdate normal="1921/1940">1921-1940</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>ravitaillement militaire</subject>
+							<subject>personnel</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c id="_221945">
+					<did>
+						<unitid>2 R 40 - 44</unitid>
+						<unittitle>Remonte.</unittitle>
+						<unitdate normal="1808/1940">1808-1940</unitdate>
+					</did>
+					<controlaccess>
+						<geogname>Gers (Occitanie, France ; département)</geogname>
+						<subject>organisation de l'armée</subject>
+						<subject>remonte militaire</subject>
+					</controlaccess>
+					<c id="_221946">
+						<did>
+							<unitid>2 R 40</unitid>
+							<unittitle>Réquisition de chevaux pour l'armée d'Espagne : notes, instructions, correspondance (1808-1813), états des muletiers (1808-1809), procès-verbaux de réforme des chevaux et des mulets (1809-1811), comptabilité, réclamations (1808-1818).</unittitle>
+							<unitdate normal="1808/1818">1808-1818</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>remonte militaire</subject>
+							<subject>équidé</subject>
+							<subject>réquisitions militaires</subject>
+						</controlaccess>
+					</c>
+					<c id="_221947">
+						<did>
+							<unitid>2 R 41</unitid>
+							<unittitle>Instructions pour les dépôts de remonte (1832-1881). Achats de chevaux pour le dépôt de remonte du Garros : notes, rapports, correspondance, affiches (1828-1879).</unittitle>
+							<unitdate normal="1828/1881">1828-1881</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>rapport</genreform>
+							<genreform>affiche</genreform>
+							<geogname>Auch (Gers, France)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>remonte militaire</subject>
+							<subject>équidé</subject>
+						</controlaccess>
+					</c>
+					<c id="_221948">
+						<did>
+							<unitid>2 R 42</unitid>
+							<unittitle>Commissions de réquisitions hippomobiles : instructions, circulaires (1876-1925) ; désignation des personnels civils des commissions : états (1876-1938).</unittitle>
+							<unitdate normal="1876/1938">1876-1938</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>remonte militaire</subject>
+							<subject>réquisitions militaires</subject>
+							<subject>véhicule à traction animale</subject>
+							<subject>équidé</subject>
+						</controlaccess>
+					</c>
+					<c id="_221949">
+						<did>
+							<unitid>2 R 43</unitid>
+							<unittitle>Recensement des animaux et voitures hippomobiles : circulaires, demandes d'imprimés, affiches, correspondance.</unittitle>
+							<unitdate normal="1923/1939">1923-1939</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>affiche</genreform>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>remonte militaire</subject>
+							<subject>véhicule à traction animale</subject>
+							<subject>équidé</subject>
+						</controlaccess>
+					</c>
+					<c id="_221950">
+						<did>
+							<unitid>2 R 44</unitid>
+							<unittitle>Classement des chevaux et des voitures hippomobiles : circulaires, demandes d'imprimés, affiches, correspondance.</unittitle>
+							<unitdate normal="1924/1940">1924-1940</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>affiche</genreform>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>remonte militaire</subject>
+							<subject>véhicule à traction animale</subject>
+							<subject>équidé</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c id="_221951">
+					<did>
+						<unitid>2 R 45</unitid>
+						<unittitle>Munitions. - Création d'un dépôt de munitions à Auch : procédure d'expropriation.</unittitle>
+						<unitdate normal="1935/1940">1935-1940</unitdate>
+					</did>
+					<controlaccess>
+						<geogname>Gers (Occitanie, France ; département)</geogname>
+						<subject>organisation de l'armée</subject>
+						<subject>détention d'armes</subject>
+					</controlaccess>
+				</c>
+				<c id="_221952">
+					<did>
+						<unitid>2 R 46</unitid>
+						<unittitle>Pigeons voyageurs. - Recensement des pigeons voyageurs : feuilles de renseignements classées par arrondissement.</unittitle>
+						<unitdate normal="1925">1925</unitdate>
+					</did>
+					<controlaccess>
+						<geogname>Gers (Occitanie, France ; département)</geogname>
+						<subject>organisation de l'armée</subject>
+						<subject>pigeon voyageur</subject>
+						<subject>communications</subject>
+					</controlaccess>
+				</c>
+				<c id="_221953">
+					<did>
+						<unitid>2 R 47 - 52</unitid>
+						<unittitle>Hôpitaux militaires et assistance.</unittitle>
+						<unitdate normal="1888/1940">1888-1940</unitdate>
+					</did>
+					<controlaccess>
+						<geogname>Gers (Occitanie, France ; département)</geogname>
+						<subject>organisation de l'armée</subject>
+						<subject>service sanitaire militaire</subject>
+					</controlaccess>
+					<c id="_221954">
+						<did>
+							<unitid>2 R 47</unitid>
+							<unittitle>Organisation des ressources hospitalières en cas de conflit : circulaires, correspondance (1890-1899). Création d'hôpitaux auxiliaires en cas de conflit : extraits des registres des délibérations des communes concernées (1888).</unittitle>
+							<unitdate normal="1888/1899">1888-1899</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>service sanitaire militaire</subject>
+						</controlaccess>
+					</c>
+					<c id="_221955">
+						<did>
+							<unitid>2 R 48</unitid>
+							<unittitle>Hôpitaux temporaires durant la Première Guerre mondiale : rapports, correspondance (1914-1916). Désignation de médecins pour soigner la population civile (1914-1918). États nominatifs des militaires originaires du Gers hospitalisés hors du département et des militaires étrangers au département soignés dans le Gers (1914-1915).</unittitle>
+							<unitdate normal="1914/1918">1914-1918</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>liste nominative</genreform>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>service sanitaire militaire</subject>
+							<subject>militaire</subject>
+							<subject>guerre</subject>
+							<subject>médecin</subject>
+							<subject>soins médicaux</subject>
+							<subject>Guerre 1914-1918</subject>
+						</controlaccess>
+					</c>
+					<c id="_221956">
+						<did>
+							<unitid>2 R 49</unitid>
+							<unittitle>Allocations de soutien aux familles de mobilisés : arrêtés, circulaires, correspondance (1923-1940), situations mensuelles des paiements, renseignements statistiques (1938-1940).</unittitle>
+							<unitdate normal="1923/1940">1923-1940</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>statistique</genreform>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>militaire</subject>
+							<subject>réfugié de guerre</subject>
+							<subject>guerre</subject>
+							<subject>conscription</subject>
+							<subject>allocation militaire</subject>
+							<subject>mobilisation</subject>
+							<subject>Guerre 1939-1945</subject>
+						</controlaccess>
+					</c>
+					<c id="_221957">
+						<did>
+							<unitid>2 R 50 - 52</unitid>
+							<unittitle>Dossiers de demandes d'allocations de soutien aux familles de mobilisés (réfugiés du Haut-Rhin).</unittitle>
+							<unitdate normal="1939/1940">1939-1940</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<geogname>Haut-Rhin (Grand Est, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>militaire</subject>
+							<subject>réfugié de guerre</subject>
+							<subject>guerre</subject>
+							<subject>conscription</subject>
+							<subject>allocation militaire</subject>
+							<subject>mobilisation</subject>
+							<subject>Guerre 1939-1945</subject>
+						</controlaccess>
+						<c id="_221958">
+							<did>
+								<unitid>2 R 50</unitid>
+								<unittitle>1939 (septembre-octobre).</unittitle>
+								<unitdate normal="1939">1939 (septembre-octobre)</unitdate>
+							</did>
+							<controlaccess>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<geogname>Haut-Rhin (Grand Est, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>militaire</subject>
+								<subject>réfugié de guerre</subject>
+								<subject>guerre</subject>
+								<subject>conscription</subject>
+								<subject>allocation militaire</subject>
+								<subject>mobilisation</subject>
+								<subject>Guerre 1939-1945</subject>
+							</controlaccess>
+						</c>
+						<c id="_221959">
+							<did>
+								<unitid>2 R 51</unitid>
+								<unittitle>1939 (octobre-décembre).</unittitle>
+								<unitdate normal="1939">1939 (octobre-décembre)</unitdate>
+							</did>
+							<controlaccess>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<geogname>Haut-Rhin (Grand Est, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>militaire</subject>
+								<subject>réfugié de guerre</subject>
+								<subject>guerre</subject>
+								<subject>conscription</subject>
+								<subject>allocation militaire</subject>
+								<subject>mobilisation</subject>
+								<subject>Guerre 1939-1945</subject>
+							</controlaccess>
+						</c>
+						<c id="_221960">
+							<did>
+								<unitid>2 R 52</unitid>
+								<unittitle>1940 (janvier-juin).</unittitle>
+								<unitdate normal="1940">1940 (janvier-juin)</unitdate>
+							</did>
+							<controlaccess>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<geogname>Haut-Rhin (Grand Est, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>militaire</subject>
+								<subject>réfugié de guerre</subject>
+								<subject>guerre</subject>
+								<subject>conscription</subject>
+								<subject>allocation militaire</subject>
+								<subject>mobilisation</subject>
+								<subject>Guerre 1939-1945</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c id="_221961">
+					<did>
+						<unitid>2 R 53 - 84</unitid>
+						<unittitle>Déserteurs, insoumis, réfractaires.</unittitle>
+						<unitdate normal="1800/1929">1800-1929</unitdate>
+					</did>
+					<controlaccess>
+						<geogname>Gers (Occitanie, France ; département)</geogname>
+					</controlaccess>
+					<c id="_221962">
+						<did>
+							<unitid>2 R 53</unitid>
+							<unittitle>Généralités : instructions, circulaires (1807-1920) ; feuilles de recherches des déserteurs de la marine et des colonies (1876-1891) ; bulletins de recherches des déserteurs et insoumis des armées d'active de terre et de mer (1918-1922).</unittitle>
+							<unitdate normal="1807/1922">1807-1922</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>infraction militaire</subject>
+							<subject>conscription</subject>
+							<subject>recrutement militaire</subject>
+							<subject>militaire</subject>
+							<subject>colonie</subject>
+							<subject>armée de terre</subject>
+							<subject>marine</subject>
+						</controlaccess>
+					</c>
+					<c id="_221963">
+						<did>
+							<unitid>2 R 54 - 57</unitid>
+							<unittitle>Conseils de guerre spéciaux.</unittitle>
+							<unitdate normal="1800/1813">1800-1813</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>justice militaire</subject>
+							<subject>organisation de l'armée</subject>
+						</controlaccess>
+						<c id="_221964">
+							<did>
+								<unitid>2 R 54</unitid>
+								<unittitle>Arrondissement d'Auch : états nominatifs des conscrits qui doivent être poursuivis et condamnés comme réfractaires (an XII-1811) ; radiations de la liste des réfractaires, arrêtés du préfet (an XII-an XIII) ; extraits des registres des conseils de guerre portant jugement des conscrits déserteurs (an XI-1813).</unittitle>
+								<unitdate normal="1801/1813">an XI-1813</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<genreform>minute juridictionnelle</genreform>
+								<genreform>arrêté préfectoral</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>justice militaire</subject>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Consulat (1799-1804)</subject>
+								<subject>Guerres napoléoniennes (1800-1815)</subject>
+								<subject>Premier Empire (1804-1815)</subject>
+							</controlaccess>
+						</c>
+						<c id="_221965">
+							<did>
+								<unitid>2 R 55</unitid>
+								<unittitle>Arrondissement de Lectoure : extraits des registres des conseils de guerre portant jugements des conscrits déserteurs.</unittitle>
+								<unitdate normal="1808/1813">1808-1813</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>minute juridictionnelle</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>justice militaire</subject>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Guerres napoléoniennes (1800-1815)</subject>
+								<subject>Premier Empire (1804-1815)</subject>
+							</controlaccess>
+						</c>
+						<c id="_221966">
+							<did>
+								<unitid>2 R 56</unitid>
+								<unittitle>Arrondissement de Mirande : états nominatifs des conscrits qui doivent être poursuivis et condamnés comme réfractaires (an XII-1814) ; radiations de la liste des réfractaires, arrêtés du préfet (an XII-1809) ; états des frais d'expéditions des jugements rendus contre les déserteurs (1807-1810).</unittitle>
+								<unitdate normal="1802/1810">an XII-1810</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<genreform>arrêté préfectoral</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>justice militaire</subject>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Consulat (1799-1804)</subject>
+								<subject>Guerres napoléoniennes (1800-1815)</subject>
+								<subject>Premier Empire (1804-1815)</subject>
+							</controlaccess>
+						</c>
+						<c id="_221967">
+							<did>
+								<unitid>2 R 57</unitid>
+								<unittitle>Arrondissement de Mirande : jugements portant condamnation à l'amende pour les conscrits réfractaires, affiches (an XII-1813) ; extraits des registres des conseils de guerre portant jugement des conscrits réfractaires (an IX-1810).</unittitle>
+								<unitdate normal="1800/1813">an IX-1813</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>minute juridictionnelle</genreform>
+								<genreform>affiche</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>justice militaire</subject>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Consulat (1799-1804)</subject>
+								<subject>Guerres napoléoniennes (1800-1815)</subject>
+								<subject>Premier Empire (1804-1815)</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c id="_221968">
+						<did>
+							<unitid>2 R 58</unitid>
+							<unittitle>Recherche de déserteurs : feuilles de signalement (1806-1815) ; correspondance (1871-1880). Frais imposés aux plus hauts taxés de la commune de Touget pour une colonne mobile envoyée contre les déserteurs de cette commune : correspondance (1818-1824).</unittitle>
+							<unitdate normal="1806/1880">1806-1880</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Touget (Gers, France)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>infraction militaire</subject>
+							<subject>conscription</subject>
+							<subject>recrutement militaire</subject>
+							<subject>militaire</subject>
+						</controlaccess>
+					</c>
+					<c id="_221969">
+						<did>
+							<unitid>2 R 59</unitid>
+							<unittitle>Registres de signalement des déserteurs, conscription 1806-1814 (table alphabétique).</unittitle>
+							<unitdate normal="1806/1814">1806-1814</unitdate>
+							<physdesc>
+								<extent>Registre</extent>
+							</physdesc>
+						</did>
+						<controlaccess>
+							<genreform>table</genreform>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>infraction militaire</subject>
+							<subject>conscription</subject>
+							<subject>recrutement militaire</subject>
+							<subject>militaire</subject>
+							<subject>Guerres napoléoniennes (1800-1815)</subject>
+							<subject>Premier Empire (1804-1815)</subject>
+						</controlaccess>
+					</c>
+					<c id="_221970">
+						<did>
+							<unitid>2 R 60 - 63</unitid>
+							<unittitle>Registres des militaires signalés comme déserteurs (table alphabétique).</unittitle>
+							<unitdate normal="1809/1813">1809-1813</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>table</genreform>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>infraction militaire</subject>
+							<subject>conscription</subject>
+							<subject>recrutement militaire</subject>
+							<subject>militaire</subject>
+							<subject>Guerres napoléoniennes (1800-1815)</subject>
+							<subject>Premier Empire (1804-1815)</subject>
+						</controlaccess>
+						<c id="_221971">
+							<did>
+								<unitid>2 R 60</unitid>
+								<unittitle>1809-1810.</unittitle>
+								<unitdate normal="1809/1810">1809-1810</unitdate>
+								<physdesc>
+									<extent>Registre</extent>
+								</physdesc>
+							</did>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Guerres napoléoniennes (1800-1815)</subject>
+								<subject>Premier Empire (1804-1815)</subject>
+							</controlaccess>
+						</c>
+						<c id="_221972">
+							<did>
+								<unitid>2 R 61</unitid>
+								<unittitle>1811.</unittitle>
+								<unitdate normal="1811">1811</unitdate>
+								<physdesc>
+									<extent>Registre</extent>
+								</physdesc>
+							</did>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Guerres napoléoniennes (1800-1815)</subject>
+								<subject>Premier Empire (1804-1815)</subject>
+							</controlaccess>
+						</c>
+						<c id="_221973">
+							<did>
+								<unitid>2 R 62</unitid>
+								<unittitle>1812.</unittitle>
+								<unitdate normal="1812">1812</unitdate>
+								<physdesc>
+									<extent>Registre</extent>
+								</physdesc>
+							</did>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Guerres napoléoniennes (1800-1815)</subject>
+								<subject>Premier Empire (1804-1815)</subject>
+							</controlaccess>
+						</c>
+						<c id="_221974">
+							<did>
+								<unitid>2 R 63</unitid>
+								<unittitle>1813.</unittitle>
+								<unitdate normal="1813">1813</unitdate>
+								<physdesc>
+									<extent>Registre</extent>
+								</physdesc>
+							</did>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Guerres napoléoniennes (1800-1815)</subject>
+								<subject>Premier Empire (1804-1815)</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c id="_221975">
+						<did>
+							<unitid>2 R 64</unitid>
+							<unittitle>Registre des déserteurs signalés pour être poursuivis.</unittitle>
+							<unitdate normal="1815">1815</unitdate>
+							<physdesc>
+								<extent>Registre</extent>
+							</physdesc>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>infraction militaire</subject>
+							<subject>conscription</subject>
+							<subject>recrutement militaire</subject>
+							<subject>militaire</subject>
+							<subject>Guerres napoléoniennes (1800-1815)</subject>
+							<subject>Premier Empire (1804-1815)</subject>
+						</controlaccess>
+					</c>
+					<c id="_221976">
+						<did>
+							<unitid>2 R 65 - 67</unitid>
+							<unittitle>Registres des militaires signalés comme déserteurs (table alphabétique).</unittitle>
+							<unitdate normal="1815/1819">1815-1819</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>table</genreform>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>infraction militaire</subject>
+							<subject>conscription</subject>
+							<subject>recrutement militaire</subject>
+							<subject>militaire</subject>
+							<subject>Restauration (1815-1830)</subject>
+						</controlaccess>
+						<c id="_221977">
+							<did>
+								<unitid>2 R 65</unitid>
+								<unittitle>1815-1816.</unittitle>
+								<unitdate normal="1815/1816">1815-1816</unitdate>
+								<physdesc>
+									<extent>Registre</extent>
+								</physdesc>
+							</did>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Restauration (1815-1830)</subject>
+							</controlaccess>
+						</c>
+						<c id="_221978">
+							<did>
+								<unitid>2 R 66</unitid>
+								<unittitle>1817-1818.</unittitle>
+								<unitdate normal="1817/1818">1817-1818</unitdate>
+								<physdesc>
+									<extent>Registre</extent>
+								</physdesc>
+							</did>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Restauration (1815-1830)</subject>
+							</controlaccess>
+						</c>
+						<c id="_221979">
+							<did>
+								<unitid>2 R 67</unitid>
+								<unittitle>1819.</unittitle>
+								<unitdate normal="1819">1819</unitdate>
+								<physdesc>
+									<extent>Registre</extent>
+								</physdesc>
+							</did>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Restauration (1815-1830)</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c id="_221980">
+						<did>
+							<unitid>2 R 68</unitid>
+							<unittitle>Registre des déserteurs, arrondissement d'Auch.</unittitle>
+							<unitdate normal="1819">1819</unitdate>
+							<physdesc>
+								<extent>Registre</extent>
+							</physdesc>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>infraction militaire</subject>
+							<subject>conscription</subject>
+							<subject>recrutement militaire</subject>
+							<subject>militaire</subject>
+							<subject>Restauration (1815-1830)</subject>
+						</controlaccess>
+					</c>
+					<c id="_221981">
+						<did>
+							<unitid>2 R 69 - 76</unitid>
+							<unittitle>Registres des militaires signalés comme déserteurs (table alphabétique).</unittitle>
+							<unitdate normal="1820/1845">1820-1845</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>infraction militaire</subject>
+							<subject>conscription</subject>
+							<subject>recrutement militaire</subject>
+							<subject>militaire</subject>
+							<subject>Restauration (1815-1830)</subject>
+						</controlaccess>
+						<c id="_221982">
+							<did>
+								<unitid>2 R 69</unitid>
+								<unittitle>1820.</unittitle>
+								<unitdate normal="1820">1820</unitdate>
+								<physdesc>
+									<extent>Registre</extent>
+								</physdesc>
+							</did>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Restauration (1815-1830)</subject>
+							</controlaccess>
+						</c>
+						<c id="_221983">
+							<did>
+								<unitid>2 R 70</unitid>
+								<unittitle>1821.</unittitle>
+								<unitdate normal="1821">1821</unitdate>
+								<physdesc>
+									<extent>Registre</extent>
+								</physdesc>
+							</did>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Restauration (1815-1830)</subject>
+							</controlaccess>
+						</c>
+						<c id="_221984">
+							<did>
+								<unitid>2 R 71</unitid>
+								<unittitle>1822.</unittitle>
+								<unitdate normal="1822">1822</unitdate>
+								<physdesc>
+									<extent>Registre</extent>
+								</physdesc>
+							</did>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Restauration (1815-1830)</subject>
+							</controlaccess>
+						</c>
+						<c id="_221985">
+							<did>
+								<unitid>2 R 72</unitid>
+								<unittitle>1823.</unittitle>
+								<unitdate normal="1823">1823</unitdate>
+								<physdesc>
+									<extent>Registre</extent>
+								</physdesc>
+							</did>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Restauration (1815-1830)</subject>
+							</controlaccess>
+						</c>
+						<c id="_221986">
+							<did>
+								<unitid>2 R 73</unitid>
+								<unittitle>1824.</unittitle>
+								<unitdate normal="1824">1824</unitdate>
+								<physdesc>
+									<extent>Registre</extent>
+								</physdesc>
+							</did>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Restauration (1815-1830)</subject>
+							</controlaccess>
+						</c>
+						<c id="_221987">
+							<did>
+								<unitid>2 R 74</unitid>
+								<unittitle>1825.</unittitle>
+								<unitdate normal="1825">1825</unitdate>
+								<physdesc>
+									<extent>Registre</extent>
+								</physdesc>
+							</did>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Restauration (1815-1830)</subject>
+							</controlaccess>
+						</c>
+						<c id="_221988">
+							<did>
+								<unitid>2 R 75</unitid>
+								<unittitle>1826-1836.</unittitle>
+								<unitdate normal="1826/1836">1826-1836</unitdate>
+								<physdesc>
+									<extent>Registre</extent>
+								</physdesc>
+							</did>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Restauration (1815-1830)</subject>
+								<subject>Monarchie de juillet (1830-1848)</subject>
+							</controlaccess>
+						</c>
+						<c id="_221989">
+							<did>
+								<unitid>2 R 76</unitid>
+								<unittitle>1837-1845.</unittitle>
+								<unitdate normal="1837/1845">1837-1845</unitdate>
+								<physdesc>
+									<extent>Registre</extent>
+								</physdesc>
+							</did>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Monarchie de juillet (1830-1848)</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c id="_221990">
+						<did>
+							<unitid>2 R 77 - 78</unitid>
+							<unittitle>Feuilles de signalement des déserteurs.</unittitle>
+							<unitdate normal="1859/1898">1859-1898</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>infraction militaire</subject>
+							<subject>conscription</subject>
+							<subject>recrutement militaire</subject>
+							<subject>militaire</subject>
+						</controlaccess>
+						<c id="_221991">
+							<did>
+								<unitid>2 R 77</unitid>
+								<unittitle>1859-1880.</unittitle>
+								<unitdate normal="1859/1880">1859-1880</unitdate>
+							</did>
+							<controlaccess>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+							</controlaccess>
+						</c>
+						<c id="_221992">
+							<did>
+								<unitid>2 R 78</unitid>
+								<unittitle>1881-1898.</unittitle>
+								<unitdate normal="1881/1898">1881-1898</unitdate>
+							</did>
+							<controlaccess>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c id="_221993">
+						<did>
+							<unitid>2 R 79 - 84</unitid>
+							<unittitle>Insoumis.</unittitle>
+							<unitdate normal="1860/1922">1860-1922</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Gers (Occitanie, France ; département)</geogname>
+							<subject>organisation de l'armée</subject>
+							<subject>infraction militaire</subject>
+							<subject>conscription</subject>
+							<subject>recrutement militaire</subject>
+							<subject>militaire</subject>
+						</controlaccess>
+						<c id="_221994">
+							<did>
+								<unitid>2 R 79</unitid>
+								<unittitle>Listes nominatives (1873-1898) ; états annuels et feuilles de signalement des émigrants insoumis, classes 1869-1886 (1884-1889).</unittitle>
+								<unitdate normal="1873/1898">1873-1898</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+							</controlaccess>
+						</c>
+						<c id="_221995">
+							<did>
+								<unitid>2 R 80 - 83</unitid>
+								<unittitle>Feuilles de signalement des émigrants insoumis.</unittitle>
+								<unitdate normal="1860/1899">1860-1899</unitdate>
+							</did>
+							<controlaccess>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+							</controlaccess>
+							<c id="_221996">
+								<did>
+									<unitid>2 R 80</unitid>
+									<unittitle>Classes 1842-1866.</unittitle>
+									<unitdate normal="1860/1889">1860-1889</unitdate>
+								</did>
+								<controlaccess>
+									<geogname>Gers (Occitanie, France ; département)</geogname>
+									<subject>organisation de l'armée</subject>
+									<subject>infraction militaire</subject>
+									<subject>conscription</subject>
+									<subject>recrutement militaire</subject>
+									<subject>militaire</subject>
+								</controlaccess>
+							</c>
+							<c id="_221997">
+								<did>
+									<unitid>2 R 81</unitid>
+									<unittitle>Classes 1867-1872.</unittitle>
+									<unitdate normal="1868/1898">1868-1898</unitdate>
+								</did>
+								<controlaccess>
+									<geogname>Gers (Occitanie, France ; département)</geogname>
+									<subject>organisation de l'armée</subject>
+									<subject>infraction militaire</subject>
+									<subject>conscription</subject>
+									<subject>recrutement militaire</subject>
+									<subject>militaire</subject>
+								</controlaccess>
+							</c>
+							<c id="_221998">
+								<did>
+									<unitid>2 R 82</unitid>
+									<unittitle>Classes 1873-1884.</unittitle>
+									<unitdate normal="1875/1899">1875-1899</unitdate>
+								</did>
+								<controlaccess>
+									<geogname>Gers (Occitanie, France ; département)</geogname>
+									<subject>organisation de l'armée</subject>
+									<subject>infraction militaire</subject>
+									<subject>conscription</subject>
+									<subject>recrutement militaire</subject>
+									<subject>militaire</subject>
+								</controlaccess>
+							</c>
+							<c id="_221999">
+								<did>
+									<unitid>2 R 83</unitid>
+									<unittitle>Classes 1874-1897.</unittitle>
+									<unitdate normal="1887/1899">1887-1899</unitdate>
+								</did>
+								<controlaccess>
+									<geogname>Gers (Occitanie, France ; département)</geogname>
+									<subject>organisation de l'armée</subject>
+									<subject>infraction militaire</subject>
+									<subject>conscription</subject>
+									<subject>recrutement militaire</subject>
+									<subject>militaire</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c id="_222000">
+							<did>
+								<unitid>2 R 84</unitid>
+								<unittitle>Demandes de renseignements et enquêtes sur des déserteurs et des insoumis.</unittitle>
+								<unitdate normal="1914/1922">1914-1922</unitdate>
+							</did>
+							<controlaccess>
+								<geogname>Gers (Occitanie, France ; département)</geogname>
+								<subject>organisation de l'armée</subject>
+								<subject>infraction militaire</subject>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+								<subject>militaire</subject>
+								<subject>Guerre 1914-1918</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c id="_222001">
+					<did>
+						<unitid>2 R 85</unitid>
+						<unittitle>Réquisition de la troupe : circulaires relatives aux réquisitions de la troupe et de la gendarmerie.</unittitle>
+						<unitdate normal="1893/1923">1893-1923</unitdate>
+					</did>
+					<controlaccess>
+						<geogname>Gers (Occitanie, France ; département)</geogname>
+						<subject>organisation de l'armée</subject>
+						<subject>réquisitions militaires</subject>
+						<subject>armée</subject>
+						<subject>gendarmerie</subject>
+					</controlaccess>
+				</c>
+			</dsc>
+		</archdesc>
+	</ead>

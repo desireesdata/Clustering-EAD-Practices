@@ -1,5 +1,3 @@
-# Fichier : 30_spectral_clustering.jl
-
 using Clustering
 using LinearAlgebra
 using SparseArrays
@@ -9,29 +7,32 @@ using Statistics
 using Plots
 
 """
+    find_eigengap_k(λs::Vector) -> Int
+
+Trouve le k optimal en utilisant l'Eigengap Heuristic.
+"""
+function find_eigengap_k(λs::Vector)::Int
+    # On calcule les "sauts" (gaps) entre les valeurs propres consécutives
+    gaps = diff(real.(λs))
+    
+    # Le k optimal est l'index du plus grand saut
+    k = argmax(gaps)
+    
+    println("[INFO] Eigengap Heuristic suggère k = $k (basé sur le plus grand saut entre valeurs propres)")
+    return k
+end
+
+"""
     find_optimal_k(S::SparseMatrixCSC, D::Matrix; 
                    k_min::Int = 2, k_max::Int = 15, plot_results::Bool = true)
 
 Teste différents k pour le clustering spectral et retourne celui qui maximise le score de silhouette.
-
-Args:
-    S: Matrice de similarité creuse [n_docs, n_docs].
-    D: Matrice de distance dense [n_docs, n_docs].
-    k_min: La valeur minimale de k à tester.
-    k_max: La valeur maximale de k à tester.
-    plot_results: Booléen pour afficher ou non un graphique.
-
-Returns:
-    Tuple{Int, Vector{Float64}}: Un tuple contenant le k optimal et la liste des scores de silhouette.
 """
-# Fichier : 30_spectral_clustering.jl
-# ... (Les using restent les mêmes)
-
 function find_optimal_k(
     S::SparseMatrixCSC, 
     D::Matrix;
     k_min::Int = 2, 
-    k_max::Int = 15, 
+    k_max::Int = 30, 
     plot_results::Bool = true
 )::Tuple{Int, Vector{Float64}}
     
@@ -59,27 +60,50 @@ function find_optimal_k(
         end
         λs, X = eigs(L, nev=n_evecs, which=:SR) 
         X = real(X) 
+
+        # --- VISUALISATION EIGENGAP ---
+        println("[INFO] Affichage du graphique des valeurs propres pour l'Eigengap Heuristic...")
+        eig_plot = plot(
+            1:length(λs),
+            real.(λs),
+            marker=:circle,
+            title="Eigengap Heuristic",
+            xlabel="Index de la valeur propre",
+            ylabel="Valeur propre (partie réelle)",
+            legend=false,
+            grid=true
+        )
+        display(eig_plot)
+        savefig(eig_plot, "eigengap_plot.png")
+        println("[INFO] Graphique Eigengap sauvegardé dans eigengap_plot.png")
+        # --- FIN VISUALISATION ---
+
+        # --- DÉTECTION AUTOMATIQUE EIGENGAP ---
+        find_eigengap_k(λs)
+        # --- FIN DÉTECTION --- 
     catch e
         @warn "Erreur lors du calcul du Laplacien ou des vecteurs propres: $e"
         return -1, scores
     end
     
-    for k in ks
+   for k in ks
         try
             if k > size(X, 2)
-                 println("Stop : le nombre de clusters (k=$k) dépasse le nombre de vecteurs propres disponibles.")
-                 break
+                println("Stop : le nombre de clusters (k=$k) dépasse le nombre de vecteurs propres disponibles.")
+                break
             end
-            
+
             embedding = X[:, 1:k]
-            
+
+            # k-means sur l'embedding
             res_kmeans = kmeans(embedding', k; init=:kmpp)
             labels = res_kmeans.assignments
-            
+
             if length(unique(labels)) > 1
-                # Ligne corrigée : utilisation de la matrice d'embedding pour le score de silhouette
-                # L'embedding est une matrice (n_points x k), et la fonction l'attend en premier.
-                sil_scores = silhouettes(embedding', labels)
+                # --- MODIFICATION POUR TEST ---
+                # On utilise la matrice de distance d'origine (D) pour le calcul de la silhouette,
+                # afin de mimer le comportement de la version Python.
+                sil_scores = silhouettes(labels, D)
                 push!(scores, mean(sil_scores))
             else
                 push!(scores, -1.0)
@@ -102,6 +126,10 @@ function find_optimal_k(
                  title="Silhouette score selon k", legend=false)
         vline!([best_k], color=:red, linestyle=:dash, label="k optimal = $best_k")
         display(p)
+
+        # Exporter le graphique en PNG
+        savefig(p, "silhouette_plot.png")
+        println("[INFO] Graphique des scores de silhouette sauvegardé dans silhouette_plot.png")
     end
 
     return best_k, scores
@@ -130,4 +158,68 @@ function run_clustering(S::SparseMatrixCSC, k::Int)::Vector{Int}
     res_kmeans = kmeans(embedding', k; init=:kmpp)
     
     return res_kmeans.assignments
+end
+
+"""
+    cluster_with_eigengap(S::SparseMatrixCSC; k_max::Int = 30) -> Tuple{Vector{Int}, Int}
+
+Effectue le clustering spectral en déterminant k via l'Eigengap Heuristic.
+C'est la méthode recommandée, cohérente avec la version Python.
+
+Args:
+    S: Matrice de similarité creuse [n_docs, n_docs].
+    k_max: Le nombre maximum de valeurs propres à calculer.
+
+Returns:
+    Tuple{Vector{Int}, Int}: Un tuple contenant les labels des clusters et le k utilisé.
+"""
+function cluster_with_eigengap(S::SparseMatrixCSC; k_max::Int = 30)::Tuple{Vector{Int}, Int}
+    println("[INFO] Détermination de k par Eigengap Heuristic...")
+
+    if size(S, 1) < 2
+        @warn "Pas assez de documents pour le clustering."
+        return Int[], -1
+    end
+
+    local L, λs
+    try
+        D_diag = vec(sum(S, dims=2))
+        D_inv_sqrt = spdiagm(0 => 1 ./ sqrt.(D_diag .+ eps()))
+        L = I - D_inv_sqrt * S * D_inv_sqrt
+        
+        n_evecs = min(k_max, size(S, 1) - 1)
+        if n_evecs < 2
+             @warn "Pas assez de documents pour le clustering (n_evecs < 2)."
+             return Int[], -1
+        end
+        λs, _ = eigs(L, nev=n_evecs, which=:SR)
+    catch e
+        @warn "Erreur lors du calcul du Laplacien ou des vecteurs propres: $e"
+        return Int[], -1
+    end
+
+    # Visualiser et trouver k
+    println("[INFO] Affichage du graphique des valeurs propres pour l'Eigengap Heuristic...")
+    eig_plot = plot(
+        1:length(λs),
+        real.(λs),
+        marker=:circle,
+        title="Eigengap Heuristic",
+        xlabel="Index de la valeur propre",
+        ylabel="Valeur propre (partie réelle)",
+        legend=false,
+        grid=true
+    )
+    display(eig_plot)
+    savefig(eig_plot, "eigengap_plot.png")
+    println("[INFO] Graphique Eigengap sauvegardé dans eigengap_plot.png")
+    
+    # --- DÉTECTION AUTOMATIQUE EIGENGAP ---
+    k = find_eigengap_k(λs)
+
+    # Lancer le clustering final avec le k trouvé
+    println("[INFO] Lancement du clustering final avec k = $k...")
+    labels = run_clustering(S, k)
+    
+    return labels, k
 end

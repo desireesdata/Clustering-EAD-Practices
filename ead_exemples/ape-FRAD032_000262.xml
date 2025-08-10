@@ -1,0 +1,943 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:cpf="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+		<eadid url="https://www.archives32.fr/wp-content/uploads/2024/06/FRAD032_000262.pdf" countrycode="FR" mainagencycode="FRAD032" identifier="FRAD032_000262">FRAD032_000262</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Archives communales de Mont-d'Astarac</titleproper>
+				<subtitle>Répertoire méthodique</subtitle>
+				<author>élaboré par Solène Pons sous la direction de Pascal Geneste et Nadine Rouayroux</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives départementales du Gers</publisher>
+				<date>31/05/2024</date>
+				<address>
+					<addressline>81 route de Pessan - 32001 Auch</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Cet instrument de recherche a été exporté au format XML depuis le progiciel de gestion d'archives Thot par les archives départementales du Gers.</creation>
+			<langusage>Instrument de recherche rédigé en <language langcode="fre">français</language>
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="fonds">
+		<did>
+			<unitid>ESUPPL 679 - 683, 10966 - 10989</unitid>
+			<unittitle>Archives communales de Mont-d'Astarac</unittitle>
+			<unitdate normal="1728/2001">1728-2001</unitdate>
+			<origination label="producteur">Commune de Mont-d'Astarac</origination>
+			<physdesc>
+				</physdesc>
+			<langmaterial>La langue principale des documents composant le fonds est le français.</langmaterial>
+		</did>
+		<bioghist>
+			<p>Sous l'Ancien Régime, Mont-d'Astarac fut un temps le siège du comté d'Astarac avant son transfert à Castillon au Xe siècle. La seigneurie appartenait aux vicomtes d'Aure-Larboust jusqu'en 1571 puis elle est passée aux mains des familles Béon-Massés et Timbrune. Mont-d'Astarac était placé dans le ressort du parlement de Toulouse, dépendait successivement des sénéchaussées de Toulouse puis d'Auch à partir de 1639 et des généralités de Montauban puis d'Auch après la création de cette dernière en 1716. Du point de vue religieux, la paroisse faisait partie du diocèse d'Auch. La paroisse de Mont-d'Astarac dédiée à Saint-Laurent comprenait deux annexes - Manent et Lalanne-Arqué - et était rattachée au diocèse d'Auch.</p>
+			<p>À la Révolution, la commune fut chef de canton et dépendait du district de Mirande. Elle est ensuite placée dans l'arrondissement de Mirande et le canton de Masseube. Durant la Terreur, elle prend le nom de Montagnard. </p>
+			<p>Mont-d'Astarac est membre de la communauté de communes du Val-de-Gers dont le siège est à Seissan.</p>
+			<p>Au XXe siècle, des peintures murales datant du XVe siècle dans l'église Saint-Laurent sont redécouvertes. Elles sont classées Monuments historiques au titre d'objet le 23 février 1970. L'église est également inscrite aux Monuments historiques par arrêté du 18 juillet 1975 tout comme la porte de ville (arrêté du 17 juillet 1978) et le château de Salleneuve (arrêté du 20 décembre 1973).</p>
+		</bioghist>
+		<custodhist>
+			<p>Trois dépôts ont été effectués : un premier dépôt non daté (cotes ESUPPL 679-683), un second en 2022 puis un troisième en 2023 suite à l'inspection de la commune (cotes ESUPPL 10902-10903 et 10966-10989).</p>
+		</custodhist>
+		<acqinfo>
+			<p>Dépôts non daté, du 12 juillet 2022 (entrée n° 2022-078) et du 06 mars 2023 (entrée 2023-027).</p>
+		</acqinfo>
+		<scopecontent>
+			<p>Le fonds déposé comprend deux livres terriers (1742, 1767) pour la période antérieure à la Révolution française.</p>
+			<p>Pour la période moderne, le fonds est composé principalement des registres des délibérations du conseil municipal (1887-1957), des registres d'état civil (an II-1902) et de documents cadastraux. Il comprend également des documents relatifs aux contributions directes, aux élections politiques et aux biens communaux.</p>
+		</scopecontent>
+		<accruals>
+			<p>Le fonds est ouvert et s'accroît par dépôt de la commune.</p>
+		</accruals>
+		<arrangement>
+			<p>Le classement suit l'arrêté interministériel du 31 décembre 1926 portant règlement des archives des communes. La cotation des archives déposées des communes de moins de 2000 habitants se fait en continu dans la série ESUPPL.</p>
+		</arrangement>
+		<accessrestrict>
+			<p>La communicabilité des archives communales est soumise aux délais fixés par la loi du 15 juillet 2008 modifiant le code du patrimoine (article L 213-2, <extref xlink:type="simple" xlink:href="https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159942">legifrance.gouv.fr/codes/id/LEGISCTA000006159942</extref>). Cependant, même pour les documents communicables en application de la loi, le mauvais état matériel des documents ne permet pas d'assurer leur consultation en salle de lecture.</p>
+			<p>Les registres paroissiaux sont consultables sous forme de microfilm en salle de lecture. Les registres d'état civil, les tables décennales, les listes de recensement de population, les atlas cadastraux napoléoniens sont consultables sous forme numérique sur le site Internet des archives du Gers. Ces documents ne sont donc pas communiqués sous leur forme originale en salle de lecture.</p>
+		</accessrestrict>
+		<userestrict>
+			<p>Les documents dont l'état matériel le permet, sont reproductibles sous réserve de mentionner la cote des documents et l'institution de conservation en cas de publication.</p>
+			<p>Les documents reliés ne peuvent pas être photocopiés. Les reproductions de documents avec un appareil photographique sans flash sont autorisées en salle de lecture.</p>
+		</userestrict>
+		<relatedmaterial>
+			<p>I. Ancien Régime</p>
+			<list>
+				<item>série C : archives des administrations provinciales (intendance, subdélégations, élections, collecte) ;</item>
+				<item>sous-série 9 B : justice locale et seigneuriale de la sénéchaussée de Gascogne ;</item>
+				<item>série G : archives du clergé séculier (visites pastorales, procès-verbaux de visite et de vérification des réparations des églises du diocèse, archives des paroisses, fabrique d'église et cures) ;</item>
+				<item>séries E et I : archives des communautés d'habitants aux XVIe-XVIIIe siècles (chartes de coutumes, hommages, délibérations consulaires, documents financiers, livres terrier, compoix et cadastres, registres paroissiaux) ; archives de familles ;</item>
+				<item>sous-série 5 E : registres paroissiaux (fonds des sénéchaussées).</item>
+			</list>
+			<p>II. Période révolutionnaire</p>
+			<list>
+				<item>série L : justice, municipalités de canton, comités de surveillance, sociétés populaires ;</item>
+				<item>série Q : vente des biens nationaux. Yves Coustau, Dépouillement des procès-verbaux d'adjudication des biens nationaux de 1re origine et 2e origine, 1962, 2 volumes.</item>
+			</list>
+			<p>III. Période contemporaine</p>
+			<p>1. Série E</p>
+			<list>
+				<item>sous-série 5 E : registres d'état civil, tables décennales (fonds du greffe du tribunal de grande instance d'Auch).</item>
+			</list>
+			<p>2. Série M</p>
+			<list>
+				<item>sous-série 1 M : regroupement de communes, délimitation du territoire ;</item>
+				<item>sous-série 3 M : conseils municipaux, documents électoraux ;</item>
+				<item>sous-série 6 M : recensement de population, statistiques démographiques, naturalisations, état civil, agriculture.</item>
+			</list>
+			<p>3. Série O</p>
+			<list>
+				<item>sous-série 1 O : affaires communales, administration générale des communes, bâtiments et biens communaux, syndicats intercommunaux ;</item>
+				<item>sous-série 2 O : administration générale de la commune, travaux de construction et d'entretien sur les bâtiments communaux et les équipements collectifs, acquisition et aliénation des biens communaux, comptabilité communale, assistance et prévoyance ;</item>
+				<item>sous-série 3 O : voirie communale, chemins vicinaux ;</item>
+				<item>sous-série 4 O : dons et legs.</item>
+			</list>
+			<p>4. Série P</p>
+			<list>
+				<item>sous-série 3 P : délimitation cadastrale, documentation cadastrale ;</item>
+				<item>sous-série 6 P : postes.</item>
+			</list>
+			<p>5. Autres séries modernes</p>
+			<list>
+				<item>sous-série 2 R : monuments aux morts ;</item>
+				<item>série S : travaux publics (routes, chemins de fer, moulins, usines hydrauliques, électrification, mines, carrières, tourbières) ;</item>
+				<item>série T : ouvertures et fermetures d'école, affaires scolaires, dossiers d'instituteurs et institutrices, monographies scolaires, dossiers de classement au titre des monuments historiques ;</item>
+				<item>série V : conseils de fabrique, églises ;</item>
+				<item>série X : bureaux de bienfaisance.</item>
+			</list>
+			<p>6. Archives contemporaires (postérieures à 1940)</p>
+			<list>
+				<item>992 W, 1319 W : administration communale ;</item>
+				<item>1277 W : fermetures d'écoles.</item>
+			</list>
+			<p>IV. Archives notariales</p>
+			<list>
+				<item>sous-série 3 E : les archives des études notariales contiennent les éléments de l'histoire locale et des informations sur la vie des habitants ; on retrouve parfois dans les archives notariales des délibérations consulaires.</item>
+			</list>
+			<p>V. Archives privées, fonds entrés par voie extraordinaire</p>
+			<list>
+				<item>sous-série 1 J : pièces isolées et petits fonds ;</item>
+				<item>sous-série 14 J : papiers de Sylvain Daugé, prêtre et érudit local, notes sur des familles et des communes du Gers ; </item>
+				<item>sous-série 83 J : fonds de Macarez-Mainfroy, albums de cartes postales et photographies des communes du Gers ;</item>
+				<item>sous-série 88 J : fonds de Jean-Henri Ducos, dossiers documentaires sur les châteaux et maison-fortes du Gers ;</item>
+				<item>sous-série 101 J : fonds de Paul Mesplé, conservateur du musée des Augustins de Toulouse, albums de photographies des communes du Gers.</item>
+			</list>
+			<p>VI. Documents figurés</p>
+			<list>
+				<item>sous-série 1 Fi : cartes et plans ;</item>
+				<item>sous-série 2 Fi : dessins, gravures, estampes, lithographies, tirages photographiques ;</item>
+				<item>sous-série 6 Fi : cartes postales.</item>
+			</list>
+			<p>VII. Documentation</p>
+			<list>
+				<item>séries DAN et DAR : dossiers archéologiques et antiques ;</item>
+				<item>série CDOC : dossiers documentaires ;</item>
+				<item>série JX : presse locale ;</item>
+				<item>série PER : bulletins municipaux et paroissiaux ;</item>
+				<item>bibliothèque historique et administrative.</item>
+			</list>
+		</relatedmaterial>
+		<bibliography>
+			<p>Georges Courtès (dir.), Communes du département du Gers, vol. III : arrondissement de Mirande, Auch : Société archéologique et historique du Gers, 2004, p. 202-204.</p>
+			<p>Jean-Michel Lassure, Les peintures murales de l'église de Mont-d'Astarac, Saint-Girons, 1977.</p>
+			<p>Jean-Pierre Suau, Les Peintures murales gothiques de Mont-d'Astarac (Gers) : notes d'iconographie, Saint-Gaudens : Société des études du Comminges , 1989.</p>
+			<p>Jean-Pierre Suau, La Cène de l'église Saint-Laurent de Mont-d'Astarac (Gers), Auch : Imprimerie Th. Bouquet, 1995.</p>
+			<p>Sylvie Enfon-Duffard, Genève et évolution du réseau paroissial d'Astarac jusqu'au XIIIe siècle, Bulletin de la Société archéologique, historique, littéraire et scientifique du Gers, Auch : Imprimerie Th. Bouquet, 1998, p. 468-485.</p>
+		</bibliography>
+		<otherfindaid>
+			<p>Architerre, sources fiscales d'Ancien Régime (<extref xlink:type="simple" xlink:href="http://modelespace.univ-tlse2.fr">modelespace.univ-tlse2.fr</extref>).</p>
+		</otherfindaid>
+		<processinfo>
+			<p>Notice rédigée par Bonnafous validée le 13/06/2024 16:07:25
+			</p>
+		</processinfo>
+		<controlaccess>
+			<geogname>Mont-d'Astarac (Gers, France)</geogname>
+		</controlaccess>
+		<dsc>
+			<c>
+				<did>
+					<unittitle>Archives anciennes (antérieures à 1790)</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Administration communale</unittitle>
+					</did>
+					<c level="file" id="_224880">
+						<did>
+							<unitid>ESUPPL 683</unitid>
+							<unittitle>Délibérations consulaires (1729-1792). États des feux, familles et hommes qui composent la communauté (1729).</unittitle>
+							<unitdate normal="1729/1792">XVIIIe siècle</unitdate>
+							<origination label="producteur">Commune de Mont-d'Astarac</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>délibération</genreform>
+							<genreform>liste nominative</genreform>
+							<geogname>Mont-d'Astarac (Gers, France)</geogname>
+							<subject>administration communale</subject>
+							<subject>population</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Finances, impôts et comptabilité</unittitle>
+					</did>
+					<c level="file" id="_358879">
+						<did>
+							<unitid>ESUPPL 10966</unitid>
+							<unittitle>Taille et capitation : états, compte-rendu.</unittitle>
+							<unitdate normal="1728/1746">1728-1746</unitdate>
+							<origination label="producteur">Commune de Mont-d'Astarac</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le </p>
+						</processinfo>
+						<controlaccess>
+							<geogname>Mont-d'Astarac (Gers, France)</geogname>
+							<subject>capitation</subject>
+						</controlaccess>
+					</c>
+					<c level="recordgrp" id="_358880">
+						<did>
+							<unitid>ESUPPL 682, 10967</unitid>
+							<unittitle>Livres terrier.</unittitle>
+							<unitdate normal="1742/1767">1742, 1767</unitdate>
+							<origination label="producteur">Commune de Mont-d'Astarac</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le 30/05/2024 12:34:46
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>livre foncier</genreform>
+							<geogname>Mont-d'Astarac (Gers, France)</geogname>
+							<subject>cadastre</subject>
+						</controlaccess>
+						<c level="item" id="_358881">
+							<did>
+								<unitid>ESUPPL 10967</unitid>
+								<unittitle>1742.</unittitle>
+								<unitdate normal="1742">1742</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_224879">
+							<did>
+								<unitid>ESUPPL 682</unitid>
+								<unittitle>1767.</unittitle>
+								<unitdate normal="1767">1767</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 14/05/2024 17:48:05
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Documents divers</unittitle>
+					</did>
+					<c level="item" id="_358882">
+						<did>
+							<unitid>ESUPPL 10968</unitid>
+							<unittitle>Certificat d'assistance au cours public de thérapeutique chirurgicale délivré à Bernard Boyen.</unittitle>
+							<unitdate normal="1780">1780</unitdate>
+							<origination label="producteur">Commune de Mont-d'Astarac</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le 13/06/2024 15:51:40
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>certificat</genreform>
+							<geogname>Mont-d'Astarac (Gers, France)</geogname>
+						</controlaccess>
+					</c>
+				</c>
+			</c>
+			<c>
+				<did>
+					<unittitle>Archives modernes (postérieures à 1789)</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Administration générale de la commune</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Conseil municipal</unittitle>
+						</did>
+						<c level="recordgrp" id="_358883">
+							<did>
+								<unitid>ESUPPL 10902 - 10903</unitid>
+								<unittitle>Registres des délibérations.</unittitle>
+								<unitdate normal="1887/1957">1887-1957</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 13/06/2024 15:54:11
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre</genreform>
+								<genreform>délibération</genreform>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>administration communale</subject>
+								<subject>conseil municipal</subject>
+							</controlaccess>
+							<c level="item" id="_358884">
+								<did>
+									<unitid>ESUPPL 10902</unitid>
+									<unittitle>1887-1912.</unittitle>
+									<unitdate normal="1887/1912">1887-1912</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Mont-d'Astarac (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358885">
+								<did>
+									<unitid>ESUPPL 10903</unitid>
+									<unittitle>1912-1957.</unittitle>
+									<unitdate normal="1912/1957">1912-1957</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Mont-d'Astarac (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>État civil</unittitle>
+					</did>
+					<c level="recordgrp" id="_358886">
+						<did>
+							<unitid>ESUPPL 679, 10969 - 10970</unitid>
+							<unittitle>Registres des naissances.</unittitle>
+							<unitdate normal="1793/1872">an II-1872</unitdate>
+							<origination label="producteur">Commune de Mont-d'Astarac</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le 30/05/2024 12:32:38
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>répertoire civil</genreform>
+							<geogname>Mont-d'Astarac (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+						</controlaccess>
+						<c level="file" id="_358887">
+							<did>
+								<unitid>ESUPPL 10969</unitid>
+								<unittitle>an II-an IV, an VII.</unittitle>
+								<unitdate normal="1793/1798">1793-1798</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_224876">
+							<did>
+								<unitid>ESUPPL 679</unitid>
+								<unittitle>an V-an VI, an VIII-1832.</unittitle>
+								<unitdate normal="1796/1832">1796-1832</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 14/05/2024 17:49:26
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358888">
+							<did>
+								<unitid>ESUPPL 10970</unitid>
+								<unittitle>1833-1872.</unittitle>
+								<unitdate normal="1833/1872">1833-1872</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="recordgrp" id="_358889">
+						<did>
+							<unitid>ESUPPL 680, 10971</unitid>
+							<unittitle>Registres des mariages.</unittitle>
+							<unitdate normal="1793/1872">1793-1872</unitdate>
+							<origination label="producteur">Commune de Mont-d'Astarac</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le 30/05/2024 12:31:45
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>répertoire civil</genreform>
+							<geogname>Mont-d'Astarac (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>mariage</subject>
+						</controlaccess>
+						<c level="file" id="_224877">
+							<did>
+								<unitid>ESUPPL 680</unitid>
+								<unittitle>1793-1832.</unittitle>
+								<unitdate normal="1793/1832">1793-1832</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 14/05/2024 17:50:01
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358890">
+							<did>
+								<unitid>ESUPPL 10971</unitid>
+								<unittitle>1833-1872.</unittitle>
+								<unitdate normal="1833/1872">1833-1872</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="recordgrp" id="_358891">
+						<did>
+							<unitid>ESUPPL 681, 10972</unitid>
+							<unittitle>Registres des décès.</unittitle>
+							<unitdate normal="1793/1872">an III-1872</unitdate>
+							<origination label="producteur">Commune de Mont-d'Astarac</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le 30/05/2024 12:30:51
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>répertoire civil</genreform>
+							<geogname>Mont-d'Astarac (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>décès</subject>
+						</controlaccess>
+						<c level="file" id="_224878">
+							<did>
+								<unitid>ESUPPL 681</unitid>
+								<unittitle>an III-1832.</unittitle>
+								<unitdate normal="1794/1832">1794-1832</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 14/05/2024 17:50:36
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358892">
+							<did>
+								<unitid>ESUPPL 10972</unitid>
+								<unittitle>1833-1872.</unittitle>
+								<unitdate normal="1833/1872">1833-1872</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="recordgrp" id="_358893">
+						<did>
+							<unitid>ESUPPL 10973 - 10975</unitid>
+							<unittitle>Registres des naissances, mariages et décès.</unittitle>
+							<unitdate normal="1873/1902">1873-1902</unitdate>
+							<origination label="producteur">Commune de Mont-d'Astarac</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>répertoire civil</genreform>
+							<geogname>Mont-d'Astarac (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+						<c level="item" id="_358894">
+							<did>
+								<unitid>ESUPPL 10973</unitid>
+								<unittitle>1873-1882.</unittitle>
+								<unitdate normal="1873/1882">1873-1882</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358895">
+							<did>
+								<unitid>ESUPPL 10974</unitid>
+								<unittitle>1883-1892.</unittitle>
+								<unitdate normal="1800/1804">1800-1804</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358896">
+							<did>
+								<unitid>ESUPPL 10975</unitid>
+								<unittitle>1893-1902.</unittitle>
+								<unitdate normal="1893/1902">1893-1902</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="file" id="_358897">
+						<did>
+							<unitid>ESUPPL 10976</unitid>
+							<unittitle>Tables décennales des naissances, mariages et décès.</unittitle>
+							<unitdate normal="1802/1843">1802-1843</unitdate>
+							<origination label="producteur">Commune de Mont-d'Astarac</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>table</genreform>
+							<geogname>Mont-d'Astarac (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Contributions. Administrations financières</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Impôts directs</unittitle>
+						</did>
+						<c level="recordgrp" id="_358898">
+							<did>
+								<unitid>ESUPPL 10977 - 10984</unitid>
+								<unittitle>Cadastre.</unittitle>
+								<unitdate normal="1826/1986">1826-1986</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>cadastre</subject>
+								<subject>fiscalité immobilière</subject>
+							</controlaccess>
+							<c level="recordgrp" id="_358899">
+								<did>
+									<unitid>ESUPPL 10977 - 10980</unitid>
+									<unittitle>Cadastre napoléonien.</unittitle>
+									<unitdate normal="1826/1913">1826-1913</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 31/05/2024 14:28:29
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Mont-d'Astarac (Gers, France)</geogname>
+									<subject>cadastre</subject>
+									<subject>fiscalité immobilière</subject>
+								</controlaccess>
+								<c level="item" id="_358900">
+									<did>
+										<unitid>ESUPPL 10977</unitid>
+										<unittitle>Délimitation de la commune : procès-verbal.</unittitle>
+										<unitdate normal="1826">1826</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<geogname>Mont-d'Astarac (Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358901">
+									<did>
+										<unitid>ESUPPL 10978</unitid>
+										<unittitle>État de sections.</unittitle>
+										<unitdate normal="1826">1826</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>état de section</genreform>
+										<geogname>Mont-d'Astarac (Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358902">
+									<did>
+										<unitid>ESUPPL 10979</unitid>
+										<unittitle>Matrice de propriétés foncières.</unittitle>
+										<unitdate normal="1834/1913">1834-1913</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Mont-d'Astarac (Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358903">
+									<did>
+										<unitid>ESUPPL 10980</unitid>
+										<unittitle>Matrice des propriétés bâties.</unittitle>
+										<unitdate normal="1882/1911">1882-1911</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Mont-d'Astarac (Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c level="recordgrp" id="_358904">
+								<did>
+									<unitid>ESUPPL 10981 - 10982</unitid>
+									<unittitle>Cadastre révisé (1910).</unittitle>
+									<unitdate normal="1911/1931">1911-1931</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Mont-d'Astarac (Gers, France)</geogname>
+									<subject>cadastre</subject>
+									<subject>fiscalité immobilière</subject>
+									<subject>limite territoriale</subject>
+								</controlaccess>
+								<c level="item" id="_358905">
+									<did>
+										<unitid>ESUPPL 10981</unitid>
+										<unittitle>Matrice des propriétés bâties.</unittitle>
+										<unitdate normal="1911/1931">1911-1931</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Mont-d'Astarac (Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358906">
+									<did>
+										<unitid>ESUPPL 10982</unitid>
+										<unittitle>Matrice des propriétés non bâties.</unittitle>
+										<unitdate normal="1914/1931">1914-1931</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Mont-d'Astarac (Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c level="recordgrp" id="_358907">
+								<did>
+									<unitid>ESUPPL 10983 - 10984</unitid>
+									<unittitle>Cadastre rénové (1930).</unittitle>
+									<unitdate normal="1935/1986">1935-1986</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Mont-d'Astarac (Gers, France)</geogname>
+									<subject>cadastre</subject>
+									<subject>fiscalité immobilière</subject>
+								</controlaccess>
+								<c level="item" id="_358908">
+									<did>
+										<unitid>ESUPPL 10983</unitid>
+										<unittitle>État de sections des propriétés non bâties.</unittitle>
+										<unitdate normal="1935/1986">1935-1986</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>état de section</genreform>
+										<geogname>Mont-d'Astarac (Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358909">
+									<did>
+										<unitid>ESUPPL 10984</unitid>
+										<unittitle>Matrice des propriétés bâties et non bâties.</unittitle>
+										<unitdate normal="1935/1973">1935-1973</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Mont-d'Astarac (Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+						<c level="recordgrp" id="_358910">
+							<did>
+								<unitid>ESUPPL 10985 - 10987</unitid>
+								<unittitle>Contributions directes.</unittitle>
+								<unitdate normal="1931/2001">1931-2001</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>fiscalité</subject>
+								<subject>impôts locaux</subject>
+							</controlaccess>
+							<c level="file" id="_358911">
+								<did>
+									<unitid>ESUPPL 10985</unitid>
+									<unittitle>Contribution foncière, mobilière, et taxe d'habitation et autres taxes assimilées : copies des matrices générales.</unittitle>
+									<unitdate normal="1931/1967">1931-1967</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>rôle d'imposition</genreform>
+									<geogname>Mont-d'Astarac (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>impôts locaux</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358912">
+								<did>
+									<unitid>ESUPPL 10986</unitid>
+									<unittitle>Taxe foncière : copies des matrices.</unittitle>
+									<unitdate normal="1977/2001">1977, 1996-1998, 2000-2001</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 31/05/2024 13:53:14
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>rôle d'imposition</genreform>
+									<geogname>Mont-d'Astarac (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>impôts locaux</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358913">
+								<did>
+									<unitid>ESUPPL 10987</unitid>
+									<unittitle>Taxe d'habitation : copies des rôles.</unittitle>
+									<unitdate normal="1977/2001">1977-1980, 1996-2001</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>rôle d'imposition</genreform>
+									<geogname>Mont-d'Astarac (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>impôts locaux</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Élections et personnel</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Élections</unittitle>
+						</did>
+						<c level="item" id="_358914">
+							<did>
+								<unitid>ESUPPL 10988</unitid>
+								<unittitle>Élections politiques. - Organisation des opérations de vote et résultats, élections municipales : procès-verbal des opérations de l'assemblée électorale.</unittitle>
+								<unitdate normal="1947">1947</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 04/06/2024 15:59:46
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>procès-verbal d'élection</genreform>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>conseil municipal</subject>
+								<subject>élection municipale</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Biens communaux. Terres. Bois. Eaux</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Biens communaux</unittitle>
+						</did>
+						<c level="file" id="_358915">
+							<did>
+								<unitid>ESUPPL 10989</unitid>
+								<unittitle>Adjudication du bail à ferme des biens communaux : cahiers des charges, procès-verbaux d'adjudication, extraits du registre des délibérations du conseil municipal.</unittitle>
+								<unitdate normal="1946/1970">1946-1970</unitdate>
+								<origination label="producteur">Commune de Mont-d'Astarac</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Mont-d'Astarac (Gers, France)</geogname>
+								<subject>biens communaux</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+			</c>
+		</dsc>
+	</archdesc>
+</ead>

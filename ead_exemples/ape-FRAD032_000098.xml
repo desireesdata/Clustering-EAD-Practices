@@ -1,0 +1,2007 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:cpf="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+		<eadid url="https://www.archives32.fr/wp-content/uploads/2024/07/FRAD032_000098.pdf" countrycode="FR" mainagencycode="FRAD032" identifier="FRAD032_000098">FRAD032_000098</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Archives communales de La Romieu</titleproper>
+				<subtitle>Répertoire méthodique</subtitle>
+				<author>élaboré par Malvina Comte sous la direction de Pascal Geneste et Nadine Rouayroux</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives départementales du Gers</publisher>
+				<date>16/08/2023</date>
+				<address>
+					<addressline>81 route de Pessan - 32001 Auch</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Cet instrument de recherche a été exporté au format XML depuis le progiciel de gestion d'archives Thot par les archives départementales du Gers.</creation>
+			<langusage>Instrument de recherche rédigé en <language langcode="fre">français</language>
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="fonds" otherlevel="groupe-de-fonds">
+		<did>
+			<unitid>ESUPPL 773 - 776, 10259 - 10333, 10511 - 10512</unitid>
+			<unittitle>Archives communales de La Romieu</unittitle>
+			<unitdate normal="1629/2003">1629-2003</unitdate>
+			<origination label="producteur">Commune de La Romieu</origination>
+			<physdesc>
+				</physdesc>
+			<langmaterial>La langue principale des documents composant le fonds est le français.</langmaterial>
+		</did>
+		<bioghist>
+			<p>Située dans le canton et l'arrondissement de Condom, la commune de La Romieu jouxte celles de Gazaupouy, Lagarde-Fimarcon, Marsolan et Pouy-Roquelaure ; elle appartient aujourd'hui à la communauté de commune de la Lomagne gersoise. Elle est également membre de l'association des « Plus beaux villages de France » et constitue une étape importante au carrefour des chemins du Puy et de Rocamadour en direction de Saint-Jacques-de-Compostelle.</p>
+			<p>La commune actuelle résulte d'un regroupement des anciennes paroisses de Saint-Aignan et de Saint-Caprais ainsi que du rattachement de l'ancien village de Belmont en 1836.</p>
+			<p>Nommée « Larroumieu » jusqu'au XIXe siècle, sa toponymie fait référence au pèlerin de Rome, le « Roumiou » en gascon. L'ensemble médiéval date du XIe siècle et a été fondé par deux pèlerins du nom d'Albert et de son compagnon, de retour d'un pèlerinage à Rome en direction de Saint-Jacques-de-Compostelle. Ils choisirent de s'installer au coeur de la forêt de Fimarcon, où le vicomte de Lomagne fait don en 1082 d'un ensemble pour installer un prieuré bénédictin dépendant de l'abbaye Saint-Victor de Marseille. Ce prieuré connaît un renouveau au XIVe siècle, en 1317. Le camérier Arnaud d'Aux, originaire de ce lieu et cousin du pape d'Avignon Clément V, fonde dans ce village une « livrée » : un palais, la collégiale Saint-Pierre (1312-1318), un cloître et une chanoinie. La communauté bénédictine devient alors un collège composé de 14 chanoines réguliers.</p>
+			<p>Le bourg est dépendant du marquis de Fimarcon et connaît la domination anglaise à la fin du XIIIe siècle, jusqu'au XVe siècle (1279-1453). À cette période, La Romieu est un village dynamique qui bénéficie du passage des pèlerins et du développement du commerce. Or, en 1569, les troupes de Montgomery pillent une partie de la collégiale et le cloître est incendié.</p>
+			<p>Sous l'Ancien Régime, La Romieu dépendait du diocèse de Condom et était partagée en plusieurs paroisses. La paroisse principale comprend l'église paroissiale Notre-Dame, détruite au XIXe siècle et la collégiale Saint-Pierre.</p>
+			<p>À la Révolution, La Romieu perd certains bénéfices religieux comme la dispersion des chanoines et la fermeture du couvent des Clarisses. Cependant en 1790, la commune devient le chef-lieu d'un canton éphémère comprenant, entre autres, Abrin, Aurens, Belmont, Estrepouy, Gazaupouy, Laplagne, Goubbès, Saint-Aignan, Saint-Caprais et Téoulé.</p>
+			<p>Le nom de la commune « Larroumieu » est rectifié lors d'un décret daté du 14 mars 1857 et devient officiellement « La Romieu ».</p>
+			<p>Aux XIXe et XXe siècles, la commune bénéficie des bienfaits du commerce et organise des foires pour se développer. Malgré la baisse de la population au début du XXe siècle, La Romieu connaît un renouveau culturel ainsi que le développement des animations touristiques en 1950.</p>
+			<p>Le village possède un riche patrimoine architectural. Une partie de l'enceinte ainsi que la porte de la Fontaine ont été conservées. Les deux autres portes ont disparu. Au sein du village se trouve la plus ancienne église Saint-Jean de Rouède (citée en 1291), aujourd'hui utilisée comme gîte pour accueillir les pèlerins. La tour du Cardinal d'Aux, classée au titre des Monuments historiques en 1928, est le seul vestige du palais construit autrefois par le cardinal à proximité de la collégiale.</p>
+			<p>La collégiale Saint-Pierre est un ensemble gothique médiéval remarquable classé au Patrimoine mondial de l'Unesco en 1998, dans le cadre de l'inscription des chemins de Saint-Jacques-de-Compostelle. La vaste nef de l'église classée aux Monuments historiques depuis 1901 est flanquée de deux tours : le clocher de forme carrée, haut de 33 mètres, et la tour octogonale qui contient les anciennes salles capitulaire.</p>
+			<p>Le village compte également trois faubourgs : le faubourg de Bas, le faubourg de Haut, où se situaient l'ancien couvent des Clarisses et le château de Montpellier aujourd'hui disparu, et le faubourg de Miremont. Il reste également deux châteaux : le château de Madirac de style Renaissance et le château de Saint-Aignan construit au XIXe siècle. À cela s'ajoutent les nombreux puits, lavoirs ou encore des pigeonniers de la commune.</p>
+		</bioghist>
+		<custodhist>
+			<p>Un premier dépôt d'archives anciennes de La Romieu a été effectué à une date inconnue qui comprend :</p>
+			<list>
+				<item>les cahiers restaurés des actes de baptême, mariage et de sépulture de La Romieu datés entre 1643 et 1692 ;</item>
+				<item>les documents relatifs aux fabriques de La Romieu et de Saint-Aignan (fonctionnement, procès).</item>
+			</list>
+			<p>Un second dépôt a été organisé dans le cadre d'une inspection communale organisée en 2021 par Pascal Geneste, directeur des Archives départementales du Gers. Il comprend :</p>
+			<list>
+				<item>les archives fiscales antérieures à la Révolution conservées autrefois dans un placard de la salle du conseil (1940). Le livre terrier daté en 1629 de 805 folios a été conservé malgré des dommages au niveau de la reliure et du répertoire. Les registres d'arpentement des juridictions de La Romieu et de Belmont (fin du XVIIe siècle) ont été restaurés, avec une reliure récente ;</item>
+				<item>les registres paroissiaux de La Romieu entre 1664 et 1792, dont la période entre 1700 et 1750 est manquante. Les registres de la paroisse de Belmont et de ses paroisses annexes (Saint-Aignan et Saint-Caprais) débutent au XVIIIe siècle.</item>
+			</list>
+			<p>Certains documents anciens ont cependant été perdus, comme l'atteste le rapport d'une inspection communale réalisée en 1882 : des cahiers de délibérations consulaires (1781-1791), des actes isolés comme le testament d'un noble ou un livre de comptes d'un particulier.</p>
+			<p>Parmi les archives modernes, sont conservés neuf registres de délibérations du conseil municipal de 1838 à 1971, neuf cahiers des télégrammes officiels ainsi que 35 registres d'état civil et des tables décennales de La Romieu et de Belmont. Le registre daté entre 1797 et 1800 est cependant manquant. Les matrices cadastrales ainsi que l'état des sections ont été conservés et possèdent une reliure récente. Or, la matrice générale des contributions directes datées entre 1850 et 1894 sont en état correct ou moyen.</p>
+			<p>De plus, seul le registre des visas d'arrivées des étrangers a été déposé. Certains documents ont enfin disparu comme l'inventaire des archives de la commune de 1843 indique : état des mendiants, recensement de la population du XIXe siècle, ou encore les tableaux de recensement des classes de 1816 à 1842 et les listes électorales politiques.</p>
+		</custodhist>
+		<acqinfo>
+			<p>Dépôts non daté et du 24 septembre 2021 (entrée n° 2021-099).</p>
+		</acqinfo>
+		<scopecontent>
+			<p>Le fonds comprend des archives fiscales antérieures à la Révolution comme des livres terrier ou des registres d'arpentement de La Romieu et de l'ancienne commune de Belmont, datés du XVIIe siècle. Les registres paroissiaux de La Romieu, Belmont, Saint-Aignan et Saint-Caprais ont été en grande partie conservés malgré certaines lacunes. Les actes de la paroisse de Rignac - hameau rattaché à Pouy-Roquelaure - sont intégrés dans les registres de ce fonds. Il y a également des archives des fabriques de la Romieu et de Saint-Aignan à propos de leur fonctionnement ou dans le cadre de procédures judiciaires (fin XVIIe-XVIIIe siècle).</p>
+			<p>Les documents relatifs à la période moderne sont les registres de délibérations du conseil municipal jusqu'en 1937 et les arrêtés du maire (1847-1945). Les registres d'état civil de la Romieu (1793-1910) ainsi qu'un registre d'état civil de l'ancienne commune de Belmont (1797-1821) sont conservés.</p>
+			<p>Les archives fiscales comprennent les matrices cadastrales des propriétés bâties, non bâties et foncières, un état de sections et un procès-verbal sur la délimitation de la commune. En parallèle, il existe les matrices générales des contributions directes jusqu'en 1951.</p>
+			<p>Un cahier concernant les mandats de dépenses communales et hospitalières doit également être souligné (1904-1971).</p>
+			<p>De plus, les archives relatives à la police comportent un règlement de police de la commune (1851), une correspondance relative aux inspections des abattoirs ainsi que le registre des visas d'arrivée délivrés aux étrangers (1934-2003) consultable selon les règles de communicabilités en vigueur.</p>
+			<p>Enfin, des télégrammes officiels de la Première Guerre mondiale, rédigés sous la forme de cahiers, sont présents dans le fonds.</p>
+		</scopecontent>
+		<accruals>
+			<p>Le fonds est ouvert et s'accroit par dépôt de la commune.</p>
+		</accruals>
+		<arrangement>
+			<p>Le classement suit l'arrêté interministériel du 31 décembre 1926 portant règlement des archives des communes. La cotation des archives déposées des communes de moins de 2000 habitants se fait en continu dans la série ESUPPL.</p>
+		</arrangement>
+		<accessrestrict>
+			<p>La communicabilité des archives communales est soumise aux délais fixés par la loi du 15 juillet 2008 modifiant le code du patrimoine (article L 213-2, <extref xlink:type="simple" xlink:href="https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159942">legifrance.gouv.fr/codes/id/LEGISCTA000006159942</extref>). Cependant, même pour les documents communicables en application de la loi, le mauvais état matériel des documents ne permet pas d'assurer leur consultation en salle de lecture.</p>
+		</accessrestrict>
+		<userestrict>
+			<p>Les documents dont l'état matériel le permet, sont reproductibles sous réserve de mentionner la cote des documents et l'institution de conservation en cas de publication.</p>
+			<p>Les documents reliés ne peuvent pas être photocopiés. Les reproductions de documents avec un appareil photographique sans flash sont autorisées en salle de lecture.</p>
+		</userestrict>
+		<relatedmaterial>
+			<p>I. Ancien Régime</p>
+			<list>
+				<item>série C : archives des administrations provinciales (intendance, subdélégations, élections, collecte) ;</item>
+				<item>sous-série 9 B : justice locale et seigneuriale de la sénéchaussée de Gascogne ;</item>
+				<item>série G : archives du clergé séculier (visites pastorales, procès-verbaux de visite et de vérification des réparations des églises du diocèse, archives des paroisses, fabrique d'église et cures) ;</item>
+				<item>séries E et I : archives des communautés d'habitants aux XVIe-XVIIIe siècles (chartes de coutumes, hommages, délibérations consulaires, documents financiers, livres terrier, compoix et cadastres, registres paroissiaux) ; archives de familles ;</item>
+				<item>sous-série 5 E : registres paroissiaux (fonds des sénéchaussées).</item>
+			</list>
+			<p>II. Période révolutionnaire</p>
+			<list>
+				<item>série L : justice, municipalités de canton, comités de surveillance, sociétés populaires ;</item>
+				<item>série Q : vente des biens nationaux. Yves Coustau, Dépouillement des procès-verbaux d'adjudication des biens nationaux de 1re origine et 2e origine, 1962, 2 volumes.</item>
+			</list>
+			<p>III. Période contemporaine</p>
+			<p>1. Série E</p>
+			<list>
+				<item>sous-série 5 E : registres d'état civil, tables décennales (fonds du greffe du tribunal d'instance d'Auch).</item>
+			</list>
+			<p>2. Série M</p>
+			<list>
+				<item>sous-série 1 M : regroupement de communes, délimitation du territoire ;</item>
+				<item>sous-série 3 M : conseils municipaux, documents électoraux ;</item>
+				<item>sous-série 6 M : recensement de population, statistiques démographiques, naturalisations, état civil, agriculture.</item>
+			</list>
+			<p>3. Série O</p>
+			<list>
+				<item>sous-série 1 O : affaires communales, administration générale des communes, bâtiments et biens communaux, syndicats intercommunaux ;</item>
+				<item>sous-série 2 O : administration générale de la commune, travaux de construction et d'entretien sur les bâtiments communaux et les équipements collectifs, acquisition et aliénation des biens communaux, comptabilité communale, assistance et prévoyance ;</item>
+				<item>sous-série 3 O : voirie communale, chemins vicinaux ;</item>
+				<item>sous-série 4 O : dons et legs.</item>
+			</list>
+			<p>4. Série P</p>
+			<list>
+				<item>sous-série 3 P : délimitation cadastrale, documentation cadastrale ;</item>
+				<item>sous-série 6 P : postes.</item>
+			</list>
+			<p>5. Autres séries modernes</p>
+			<list>
+				<item>sous-série 2 R : monuments aux morts ;</item>
+				<item>série S : travaux publics (routes, chemins de fer, moulins, usines hydrauliques, électrification, mines, carrières, tourbières) ;</item>
+				<item>série T : ouvertures et fermetures d'école, affaires scolaires, dossiers d'instituteurs et institutrices, monographies scolaires, dossiers de classement au titre des monuments historiques ;</item>
+				<item>série V : conseils de fabrique, églises ;</item>
+				<item>série X : bureaux de bienfaisance.</item>
+			</list>
+			<p>6. Archives contemporaines (postérieures à 1940)</p>
+			<list>
+				<item>992 W, 1319 W : administration communale ;</item>
+				<item>1277 W : fermetures d'école.</item>
+			</list>
+			<p>IV. Archives notariales</p>
+			<list>
+				<item>sous-série 3 E : les archives des études notariales contiennent les éléments de l'histoire locale et des informations sur la vie des habitants ; on retrouve parfois dans les archives notariales des délibérations consulaires.</item>
+			</list>
+			<p>V. Archives privées, fonds entrés par voie extraordinaire</p>
+			<list>
+				<item>sous-série 1 J : pièces isolées et petits fonds ;</item>
+				<item>sous-série 14 J : papiers de Sylvain Daugé, prêtre et érudit local, notes sur des familles et des communes du Gers ; </item>
+				<item>sous-série 83 J : fonds de Macarez-Mainfroy, albums de cartes postales et photographies des communes du Gers ;</item>
+				<item>sous-série 88 J : fonds de Jean-Henri Ducos, dossiers documentaires sur les châteaux et maisons-fortes du Gers ;</item>
+				<item>sous-série 101 J : fonds de Paul Mesplé, conservateur du musée des Augustins de Toulouse, albums de photographies des communes du Gers.</item>
+			</list>
+			<p>VI. Documents figurés</p>
+			<list>
+				<item>sous-série 1 Fi : cartes et plans ;</item>
+				<item>sous-série 2 Fi : dessins, gravures, estampes, lithographies, tirages photographiques ;</item>
+				<item>sous-série 6 Fi : cartes postales.</item>
+			</list>
+			<p>VII. Documentation</p>
+			<list>
+				<item>séries DAN et DAR : dossiers archéologiques et antiques ;</item>
+				<item>série CDOC : dossiers documentaires ;</item>
+				<item>série JX : presse locale ;</item>
+				<item>série PER : bulletins municipaux et paroissiaux ;</item>
+				<item>bibliothèque historique et administrative.</item>
+			</list>
+		</relatedmaterial>
+		<bibliography>
+			<p>Bertrand Boquien, À la découverte des portes fortifiées du Gers, Sarrant : Association « La Renaissance du Donjon », 2000.</p>
+			<p>J-I. Broconat (abbé), La Romieu : étude archéologique et historique, [s.d], 23 p.</p>
+			<p>J-I. Broconat (abbé), « La Romieu. Partie historique - Appendices », Revue de l'Agenais, 1909, tome 36, p. 531-540 (<extref xlink:type="simple" xlink:href="https://gallica.bnf.fr/ark:/12148/bpt6k33888r/f539">gallica.bnf.fr/ark:/12148/bpt6k33888r/f539</extref>).</p>
+			<p>J-I. Broconat (abbé), Philippe Lauzun, La Roumieu, arrondissement de Condom, description et histoire, Agen, 1910.</p>
+			<p>Georges Courtès (dir.), Communes du département du Gers, vol. II : arrondissement de Condom, Auch, Société archéologique et historique du Gers, 2004, p. 51-53.</p>
+			<p>Ismaël Laffont et Dominique Moulette, La Romieu, Bouquet, 1991.</p>
+			<p>Evelyne Ugaglia, Bernard Pousthomis, « Découverte de poteries et verres dans le palais cardinalice de la Romieu (Gers) », Archéologie du Midi médiéval, tome 2, 1984, p. 137-150.</p>
+			<p>Evelyne Ugaglia, La collégiale Saint-Pierre de La Romieu, 2003, 32 p.</p>
+		</bibliography>
+		<otherfindaid>
+			<p>Architerre, sources fiscales d'Ancien Régime (<extref xlink:type="simple" xlink:href="http://modelespace.univ-tlse2.fr">modelespace.univ-tlse2.fr</extref>).</p>
+		</otherfindaid>
+		<processinfo>
+			<p>Notice rédigée par Bonnafous validée le </p>
+		</processinfo>
+		<controlaccess>
+			<geogname>La Romieu (Gers, France)</geogname>
+		</controlaccess>
+		<dsc>
+			<c level="fonds">
+				<did>
+					<unittitle>Belmont</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Archives anciennes (antérieures à 1790)</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Finances, impôts et comptabilité</unittitle>
+						</did>
+						<c level="file" id="_341570">
+							<did>
+								<unitid>ESUPPL 10261</unitid>
+								<unittitle>Cadastre : registre d'arpentement de la juridiction de Belmont.</unittitle>
+								<unitdate normal="1671/1673">1671-1673</unitdate>
+								<origination label="producteur">Belmont (La Romieu, Gers, France ; 1790-1836)</origination>
+							</did>
+							<scopecontent>
+								<p>Contient un extrait des registres du conseil d'État qui prescrit la réalisation de l'arpentement (1671).</p>
+							</scopecontent>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 09/07/2024 15:38:24
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<geogname>La Romieu (Gers, France)</geogname>
+								<geogname>Belmont (La Romieu, Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Cultes. Instruction publique. Assistance publique</unittitle>
+						</did>
+						<c level="recordgrp" id="_341574">
+							<did>
+								<unitid>ESUPPL 10264 - 10266</unitid>
+								<unittitle>Paroisse de Belmont et ses annexes : registres des baptêmes, mariages et sépultures.</unittitle>
+								<unitdate normal="1706/1796">1706-an VI</unitdate>
+								<origination label="producteur">Belmont (La Romieu, Gers, France ; 1790-1836)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>La Romieu (Gers, France)</geogname>
+								<geogname>La Romieu (Gers, France ; paroisse)</geogname>
+								<geogname>Belmont (La Romieu, Gers, France ; paroisse)</geogname>
+								<geogname>Rignac (Pouy-Roquelaure, Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+							<c level="file" id="_341575">
+								<did>
+									<unitid>ESUPPL 10264</unitid>
+									<unittitle>Paroisse de Belmont et annexes de Saint-Aignan et Rignac.</unittitle>
+									<unitdate normal="1706/1764">1706-1764</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre paroissial</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<geogname>Belmont (La Romieu, Gers, France ; paroisse)</geogname>
+									<geogname>Rignac (Pouy-Roquelaure, Gers, France ; paroisse)</geogname>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341576">
+								<did>
+									<unitid>ESUPPL 10265</unitid>
+									<unittitle>Paroisse de Belmont et annexe de Saint-Aignan (1765-1791) et commune de Belmont (1792-an V).</unittitle>
+									<unitdate normal="1765/1796">1765-an V</unitdate>
+								</did>
+								<scopecontent>
+									<p>Contient les actes de 1781 de la paroisse de Saint-Caprais.</p>
+								</scopecontent>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre paroissial</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<geogname>Belmont (La Romieu, Gers, France ; paroisse)</geogname>
+									<geogname>Rignac (Pouy-Roquelaure, Gers, France ; paroisse)</geogname>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341577">
+								<did>
+									<unitid>ESUPPL 10266</unitid>
+									<unittitle>Annexes de Rignac et Saint-Caprais.</unittitle>
+									<unitdate normal="1758/1792">1758-1792</unitdate>
+								</did>
+								<scopecontent>
+									<p>Les actes entre 1789 et 1792 sont intégrés entre la période de 1757 à 1758. Les actes de l'année 1781 sont inclus dans le registre paroissial de Belmont (ESUPPL 10265).</p>
+								</scopecontent>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre paroissial</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<geogname>La Romieu (Gers, France ; paroisse)</geogname>
+									<geogname>Rignac (Pouy-Roquelaure, Gers, France ; paroisse)</geogname>
+									<geogname>Saint-Caprais (La Romieu, Gers, France ; paroisse)</geogname>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="file" id="_224964">
+							<did>
+								<unitid>ESUPPL 774</unitid>
+								<unittitle>Registre des comptes de la fabrique de Saint-Agnan, annexe de Belmont.</unittitle>
+								<unitdate normal="1689/1790">1689-1790</unitdate>
+								<origination label="producteur">Belmont (La Romieu, Gers, France ; 1790-1836)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>La Romieu (Gers, France)</geogname>
+								<subject>fabrique d'église</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Archives modernes (postérieures à 1789)</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>État civil</unittitle>
+						</did>
+						<c level="file" id="_341637">
+							<did>
+								<unitid>ESUPPL 10313</unitid>
+								<unittitle>Registre des naissances, mariages et décès.</unittitle>
+								<unitdate normal="1797/1821">an VI-1821</unitdate>
+								<origination label="producteur">Belmont (La Romieu, Gers, France ; 1790-1836)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>La Romieu (Gers, France)</geogname>
+								<geogname>Belmont (La Romieu, Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Contributions. Administrations financières</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Impôts directs</unittitle>
+							</did>
+							<c level="file" id="_341642">
+								<did>
+									<unitid>ESUPPL 10317</unitid>
+									<unittitle>Matrice des propriétés foncières.</unittitle>
+									<unitdate normal="1828/1836">1828-1836</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>matrice cadastrale</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>cadastre</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+			</c>
+			<c level="fonds">
+				<did>
+					<unittitle>La Romieu</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Archives anciennes (antérieures à 1790)</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Finances, impôts et comptabilité</unittitle>
+						</did>
+						<c level="file" id="_341567">
+							<did>
+								<unitid>ESUPPL 10259</unitid>
+								<unittitle>Livre terrier.</unittitle>
+								<unitdate normal="1629/1639">1629-1639</unitdate>
+								<origination label="producteur">Commune de La Romieu</origination>
+							</did>
+							<scopecontent>
+								<p>Table alphabétique en fin de registre.</p>
+							</scopecontent>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<geogname>La Romieu (Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341569">
+							<did>
+								<unitid>ESUPPL 10260</unitid>
+								<unittitle>Cadastre : registre d'arpentement de la juridiction de La Romieu.</unittitle>
+								<unitdate normal="1673">1673</unitdate>
+								<origination label="producteur">Commune de La Romieu</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<geogname>La Romieu (Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Justice. Procédures. Police</unittitle>
+						</did>
+						<c level="file" id="_224965">
+							<did>
+								<unitid>ESUPPL 775</unitid>
+								<unittitle>Pièces de procédure concernant une affaire entre François d'Aux et la fabrique de La Romieu.</unittitle>
+								<unitdate normal="1782/1784">1782-1784</unitdate>
+								<origination label="producteur">Commune de La Romieu</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 23/04/2024 16:07:56
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>dossier de procédure</genreform>
+								<geogname>La Romieu (Gers, France)</geogname>
+								<subject>justice</subject>
+								<subject>fabrique d'église</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Cultes. Instruction publique. Assistance publique</unittitle>
+						</did>
+						<c level="recordgrp" id="_341571">
+							<did>
+								<unitid>ESUPPL 773, 10262 - 10263</unitid>
+								<unittitle>Paroisse de La Romieu : registres des baptêmes, mariages et sépultures.</unittitle>
+								<unitdate normal="1643/1792">1643-1792</unitdate>
+								<origination label="producteur">Commune de La Romieu</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 12/07/2023 17:08:25
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>La Romieu (Gers, France)</geogname>
+								<geogname>La Romieu (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+							<c level="file" id="_224963">
+								<did>
+									<unitid>ESUPPL 773</unitid>
+									<unittitle>1643-1692.</unittitle>
+									<unitdate normal="1643/1692">1643-1692</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 06/05/2024 10:51:06
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre paroissial</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341572">
+								<did>
+									<unitid>ESUPPL 10262</unitid>
+									<unittitle>1664-1699.</unittitle>
+									<unitdate normal="1664/1699">1664-1699</unitdate>
+								</did>
+								<scopecontent>
+									<p>Lacunes des années 1694 et 1695.</p>
+								</scopecontent>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 06/05/2024 10:51:29
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre paroissial</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<geogname>La Romieu (Gers, France ; paroisse)</geogname>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341573">
+								<did>
+									<unitid>ESUPPL 10263</unitid>
+									<unittitle>1751-1792.</unittitle>
+									<unitdate normal="1751/1792">1751-1792</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre paroissial</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<geogname>La Romieu (Gers, France ; paroisse)</geogname>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="file" id="_224966">
+							<did>
+								<unitid>ESUPPL 776</unitid>
+								<unittitle>Chapitre de La Romieu. - Imposition de la dîme : assiette des grains et états des revenus.</unittitle>
+								<unitdate normal="1737/1767">1737-1767</unitdate>
+								<origination label="producteur">Commune de La Romieu</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 06/05/2024 10:57:26
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>La Romieu (Gers, France)</geogname>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Archives modernes (postérieures à 1789)</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Administration générale de la commune</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Conseil municipal</unittitle>
+							</did>
+							<c level="recordgrp" id="_341578">
+								<did>
+									<unitid>ESUPPL 10267 - 10275</unitid>
+									<unittitle>Registres des délibérations.</unittitle>
+									<unitdate normal="1838/1971">1838-1971</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 16:30:06
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>conseil municipal</subject>
+									<subject>administration communale</subject>
+								</controlaccess>
+								<c level="file" id="_341579">
+									<did>
+										<unitid>ESUPPL 10267</unitid>
+										<unittitle>1838-1845.</unittitle>
+										<unitdate normal="1838/1845">1838 (6 mai)-1845 (12 novembre)</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>La Romieu (Gers, France)</geogname>
+										<subject>conseil municipal</subject>
+										<subject>administration communale</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341580">
+									<did>
+										<unitid>ESUPPL 10268</unitid>
+										<unittitle>1846-1855 (16 septembre).</unittitle>
+										<unitdate normal="1846/1855">1846-1855</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 06/05/2024 10:58:13
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>La Romieu (Gers, France)</geogname>
+										<subject>conseil municipal</subject>
+										<subject>administration communale</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341581">
+									<did>
+										<unitid>ESUPPL 10269</unitid>
+										<unittitle>1855 (09 décembre)-1863 (7 juin).</unittitle>
+										<unitdate normal="1855/1863">1855-1863</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 06/05/2024 10:58:51
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>La Romieu (Gers, France)</geogname>
+										<subject>conseil municipal</subject>
+										<subject>administration communale</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341582">
+									<did>
+										<unitid>ESUPPL 10270</unitid>
+										<unittitle>1863 (15 août)-1878 (28 janvier).</unittitle>
+										<unitdate normal="1863/1878">1863-1878</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 06/05/2024 10:59:10
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>La Romieu (Gers, France)</geogname>
+										<subject>conseil municipal</subject>
+										<subject>administration communale</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341583">
+									<did>
+										<unitid>ESUPPL 10271</unitid>
+										<unittitle>1878 (17 février)-1885 (14 mai).</unittitle>
+										<unitdate normal="1878/1885">1878-1885</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 06/05/2024 11:00:32
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>La Romieu (Gers, France)</geogname>
+										<subject>conseil municipal</subject>
+										<subject>administration communale</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341584">
+									<did>
+										<unitid>ESUPPL 10272</unitid>
+										<unittitle>1885 (15 juin)-1900.</unittitle>
+										<unitdate normal="1885/1900">1885-1900</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 06/05/2024 11:01:09
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>La Romieu (Gers, France)</geogname>
+										<subject>conseil municipal</subject>
+										<subject>administration communale</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341585">
+									<did>
+										<unitid>ESUPPL 10273</unitid>
+										<unittitle>1901-1917 (22 septembre).</unittitle>
+										<unitdate normal="1901/1917">1901-1917</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 06/05/2024 11:01:43
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>La Romieu (Gers, France)</geogname>
+										<subject>conseil municipal</subject>
+										<subject>administration communale</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341586">
+									<did>
+										<unitid>ESUPPL 10274</unitid>
+										<unittitle>1917 (8 novembre)-1933.</unittitle>
+										<unitdate normal="1917/1933">1917-1933</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 06/05/2024 11:02:12
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>La Romieu (Gers, France)</geogname>
+										<subject>conseil municipal</subject>
+										<subject>administration communale</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341587">
+									<did>
+										<unitid>ESUPPL 10275</unitid>
+										<unittitle>1934-1971 (23 septembre).</unittitle>
+										<unitdate normal="1934/1971">1934-1971</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 06/05/2024 11:03:04
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>La Romieu (Gers, France)</geogname>
+										<subject>conseil municipal</subject>
+										<subject>administration communale</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Actes de l'administration municipale</unittitle>
+							</did>
+							<c level="file" id="_341588">
+								<did>
+									<unitid>ESUPPL 10276</unitid>
+									<unittitle>Registre des arrêtés du maire.</unittitle>
+									<unitdate normal="1840/1945">1840-1945</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 16:30:52
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>arrêté du maire</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>maire</subject>
+									<subject>administration communale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341589">
+								<did>
+									<unitid>ESUPPL 10277</unitid>
+									<unittitle>Collection d'arrêtés et d'extraits du registre des arrêtés du maire.</unittitle>
+									<unitdate normal="1847/1945">1847-1945</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 06/05/2024 11:03:25
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>arrêté du maire</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>maire</subject>
+									<subject>administration communale</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>État civil</unittitle>
+						</did>
+						<c level="file" id="_341591">
+							<did>
+								<unitid>ESUPPL 10278</unitid>
+								<unittitle>Registre des naissances, mariages et décès.</unittitle>
+								<unitdate normal="1793/1796">an II-an V</unitdate>
+								<origination label="producteur">Commune de La Romieu</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 24/04/2024 09:32:28
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>La Romieu (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="recordgrp" id="_341592">
+							<did>
+								<unitid>ESUPPL 10279 , 10282, 10285, 102888, 10291, 10294, 10297, 10300, 10303, 10306, 10309</unitid>
+								<unittitle>Registres des naissances.</unittitle>
+								<unitdate normal="1800/1910">an IX-1910</unitdate>
+								<origination label="producteur">Commune de La Romieu</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 24/04/2024 09:35:12
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>La Romieu (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+							<c level="file" id="_341593">
+								<did>
+									<unitid>ESUPPL 10279</unitid>
+									<unittitle>an IX-1810.</unittitle>
+									<unitdate normal="1800/1810">an IX-1810</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:38:35
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341597">
+								<did>
+									<unitid>ESUPPL 10282</unitid>
+									<unittitle>1811-1820.</unittitle>
+									<unitdate normal="1811/1820">1811-1820</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:38:51
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341601">
+								<did>
+									<unitid>ESUPPL 10285</unitid>
+									<unittitle>1821-1830.</unittitle>
+									<unitdate normal="1821/1830">1821-1830</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:39:04
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341605">
+								<did>
+									<unitid>ESUPPL 10288</unitid>
+									<unittitle>1831-1840.</unittitle>
+									<unitdate normal="1831/1840">1831-1840</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:39:19
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341609">
+								<did>
+									<unitid>ESUPPL 10291</unitid>
+									<unittitle>1841-1850.</unittitle>
+									<unitdate normal="1841/1850">1841-1850</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:39:36
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341613">
+								<did>
+									<unitid>ESUPPL 10294</unitid>
+									<unittitle>1851-1860.</unittitle>
+									<unitdate normal="1851/1860">1851-1860</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 16/06/2023 09:51:53
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341617">
+								<did>
+									<unitid>ESUPPL 10297</unitid>
+									<unittitle>1861-1870.</unittitle>
+									<unitdate normal="1861/1870">1861-1870</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:40:03
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341621">
+								<did>
+									<unitid>ESUPPL 10300</unitid>
+									<unittitle>1871-1880.</unittitle>
+									<unitdate normal="1871/1880">1871-1880</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:40:16
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341625">
+								<did>
+									<unitid>ESUPPL 10303</unitid>
+									<unittitle>1881-1890.</unittitle>
+									<unitdate normal="1881/1890">1881-1890</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:40:29
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341629">
+								<did>
+									<unitid>ESUPPL 10306</unitid>
+									<unittitle>1891-1900.</unittitle>
+									<unitdate normal="1891/1900">1891-1900</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:40:43
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341633">
+								<did>
+									<unitid>ESUPPL 10309</unitid>
+									<unittitle>1901-1910.</unittitle>
+									<unitdate normal="1901/1910">1901-1910</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:40:58
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="recordgrp" id="_341596">
+							<did>
+								<unitid>ESUPPL 10280, 10283, 10286, 10289, 10292, 10295, 10298, 10301, 10304, 10307, 10310</unitid>
+								<unittitle>Registres des mariages.</unittitle>
+								<unitdate normal="1800/1910">an IX-1910</unitdate>
+								<origination label="producteur">Commune de La Romieu</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 24/04/2024 09:48:44
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>La Romieu (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+							<c level="file" id="_341594">
+								<did>
+									<unitid>ESUPPL 10280</unitid>
+									<unittitle>an IX-1810.</unittitle>
+									<unitdate normal="1800/1810">1800-1810</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:49:05
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>mariage</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341598">
+								<did>
+									<unitid>ESUPPL 10283</unitid>
+									<unittitle>1811-1820.</unittitle>
+									<unitdate normal="1811/1820">1811-1820</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:49:35
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>mariage</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341602">
+								<did>
+									<unitid>ESUPPL 10286</unitid>
+									<unittitle>1821-1830.</unittitle>
+									<unitdate normal="1821/1830">1821-1830</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:49:49
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>mariage</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341606">
+								<did>
+									<unitid>ESUPPL 10289</unitid>
+									<unittitle>1831-1840.</unittitle>
+									<unitdate normal="1831/1840">1831-1840</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:50:03
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>mariage</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341610">
+								<did>
+									<unitid>ESUPPL 10292</unitid>
+									<unittitle>1841-1850.</unittitle>
+									<unitdate normal="1841/1850">1841-1850</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:50:17
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>mariage</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341614">
+								<did>
+									<unitid>ESUPPL 10295</unitid>
+									<unittitle>1851-1860.</unittitle>
+									<unitdate normal="1851/1860">1851-1860</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:50:32
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>mariage</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341618">
+								<did>
+									<unitid>ESUPPL 10298</unitid>
+									<unittitle>1861-1870.</unittitle>
+									<unitdate normal="1861/1870">1861-1870</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:50:46
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>mariage</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341622">
+								<did>
+									<unitid>ESUPPL 10301</unitid>
+									<unittitle>1871-1880.</unittitle>
+									<unitdate normal="1871/1880">1871-1880</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 10:18:31
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>mariage</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341626">
+								<did>
+									<unitid>ESUPPL 10304</unitid>
+									<unittitle>1881-1890.</unittitle>
+									<unitdate normal="1881/1890">1881-1890</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:50:59
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>mariage</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341630">
+								<did>
+									<unitid>ESUPPL 10307</unitid>
+									<unittitle>1891-1900.</unittitle>
+									<unitdate normal="1891/1900">1891-1900</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:51:12
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>mariage</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341634">
+								<did>
+									<unitid>ESUPPL 10310</unitid>
+									<unittitle>1901-1910.</unittitle>
+									<unitdate normal="1901/1910">1901-1910</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:51:25
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>mariage</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="recordgrp" id="_341600">
+							<did>
+								<unitid>ESUPPL 10281, 10284, 10287, 10290, 10293, 10296, 10299, 10302, 10305, 10308, 10311</unitid>
+								<unittitle>Registres des décès.</unittitle>
+								<unitdate normal="1800/1910">an IX-1910</unitdate>
+								<origination label="producteur">Commune de La Romieu</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 24/04/2024 09:53:19
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>La Romieu (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+							<c level="file" id="_341595">
+								<did>
+									<unitid>ESUPPL 10281</unitid>
+									<unittitle>an IX-1810.</unittitle>
+									<unitdate normal="1800/1810">1800-1810</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:53:40
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341599">
+								<did>
+									<unitid>ESUPPL 10284</unitid>
+									<unittitle>1811-1820.</unittitle>
+									<unitdate normal="1811/1820">1811-1820</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:53:57
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341603">
+								<did>
+									<unitid>ESUPPL 10287</unitid>
+									<unittitle>1821-1830.</unittitle>
+									<unitdate normal="1821/1830">1821-1830</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:54:10
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341607">
+								<did>
+									<unitid>ESUPPL 10290</unitid>
+									<unittitle>1831-1840.</unittitle>
+									<unitdate normal="1831/1840">1831-1840</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:54:23
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341611">
+								<did>
+									<unitid>ESUPPL 10293</unitid>
+									<unittitle>1841-1850.</unittitle>
+									<unitdate normal="1841/1850">1841-1850</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:55:16
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341615">
+								<did>
+									<unitid>ESUPPL 10296</unitid>
+									<unittitle>1851-1860.</unittitle>
+									<unitdate normal="1851/1860">1851-1860</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:55:29
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341619">
+								<did>
+									<unitid>ESUPPL 10299</unitid>
+									<unittitle>1861-1870.</unittitle>
+									<unitdate normal="1861/1870">1861-1870</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:55:43
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341623">
+								<did>
+									<unitid>ESUPPL 10302</unitid>
+									<unittitle>1871-1880.</unittitle>
+									<unitdate normal="1871/1880">1871-1880</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 10:18:56
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341627">
+								<did>
+									<unitid>ESUPPL 10305</unitid>
+									<unittitle>1881-1890.</unittitle>
+									<unitdate normal="1881/1890">1881-1890</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:55:55
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341631">
+								<did>
+									<unitid>ESUPPL 10308</unitid>
+									<unittitle>1891-1900.</unittitle>
+									<unitdate normal="1891/1900">1891-1900</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:56:11
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341635">
+								<did>
+									<unitid>ESUPPL 10311</unitid>
+									<unittitle>1901-1910.</unittitle>
+									<unitdate normal="1901/1910">1901-1910</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 09:56:24
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="file" id="_341636">
+							<did>
+								<unitid>ESUPPL 10312</unitid>
+								<unittitle>Tables décennales des naissances, mariages, décès.</unittitle>
+								<unitdate normal="1793/1852">an I-1852</unitdate>
+								<origination label="producteur">Commune de La Romieu</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 24/04/2024 09:47:22
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>La Romieu (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Population. Économie sociale. Statistique</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Subsistances</unittitle>
+							</did>
+							<c level="file" id="_341638">
+								<did>
+									<unitid>ESUPPL 10314</unitid>
+									<unittitle>Foires et marchés d'approvisionnement. - Taxation de la viande, du pain et des denrées : correspondance. </unittitle>
+									<unitdate normal="1920/1921">1920-1921</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 16:35:29
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>manifestation commerciale</subject>
+									<subject>viande</subject>
+									<subject>commerce alimentaire</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Contributions. Administrations financières</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Impôts directs</unittitle>
+							</did>
+							<c level="recordgrp" id="_341590">
+								<did>
+									<unitid>ESUPPL 10315 - 10324</unitid>
+									<unittitle>Cadastre.</unittitle>
+									<unitdate normal="1825/1966">1825-1966</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 10:09:51
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>matrice cadastrale</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>cadastre</subject>
+								</controlaccess>
+								<c level="recordgrp" id="_341608">
+									<did>
+										<unitid>ESUPPL 10315 - 10319</unitid>
+										<unittitle>Cadastre napoléonien.</unittitle>
+										<unitdate normal="1825/1913">1825-1913</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 24/04/2024 10:07:05
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>La Romieu (Gers, France)</geogname>
+										<subject>fiscalité</subject>
+										<subject>cadastre</subject>
+									</controlaccess>
+									<c level="file" id="_341639">
+										<did>
+											<unitid>ESUPPL 10315</unitid>
+											<unittitle>Délimitation de la commune : procès-verbal.</unittitle>
+											<unitdate normal="1825">1825</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 24/04/2024 09:58:50
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>procès-verbal</genreform>
+											<geogname>La Romieu (Gers, France)</geogname>
+											<subject>administration communale</subject>
+											<subject>limite territoriale</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341640">
+										<did>
+											<unitid>ESUPPL 10316</unitid>
+											<unittitle>État de sections.</unittitle>
+											<unitdate normal="1828/1913">1828-1913</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le </p>
+										</processinfo>
+										<controlaccess>
+											<genreform>état de section</genreform>
+											<geogname>La Romieu (Gers, France)</geogname>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+									<c level="recordgrp" id="_341641">
+										<did>
+											<unitid>ESUPPL 10318 - 10319</unitid>
+											<unittitle>Matrices des propriétés foncières.</unittitle>
+											<unitdate normal="1829/1913">1829-1913</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 24/04/2024 10:11:22
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice cadastrale</genreform>
+											<geogname>La Romieu (Gers, France)</geogname>
+											<subject>cadastre</subject>
+										</controlaccess>
+										<c level="file" id="_341643">
+											<did>
+												<unitid>ESUPPL 10318</unitid>
+												<unittitle>Volume 1, folios n°1-579.</unittitle>
+												<unitdate normal="1829/1913">1829-1913</unitdate>
+											</did>
+											<scopecontent>
+												<p>contient également les augmentations et les diminutions et le registre des constructions.</p>
+											</scopecontent>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 24/04/2024 10:12:10
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>matrice cadastrale</genreform>
+												<geogname>La Romieu (Gers, France)</geogname>
+												<subject>cadastre</subject>
+											</controlaccess>
+										</c>
+										<c level="file" id="_341644">
+											<did>
+												<unitid>ESUPPL 10319</unitid>
+												<unittitle>Volume 2, folios n°580-1158.</unittitle>
+												<unitdate normal="1829/1913">1829-1913</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 24/04/2024 10:12:34
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>matrice cadastrale</genreform>
+												<geogname>La Romieu (Gers, France)</geogname>
+												<subject>cadastre</subject>
+											</controlaccess>
+										</c>
+									</c>
+								</c>
+								<c level="recordgrp" id="_341612">
+									<did>
+										<unitid>ESUPPL 10320 - 10322</unitid>
+										<unittitle>Cadastre révisé (1910).</unittitle>
+										<unitdate normal="1910/1966">1910-1966</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 16/06/2023 09:52:52
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>La Romieu (Gers, France)</geogname>
+										<subject>fiscalité</subject>
+										<subject>cadastre</subject>
+									</controlaccess>
+									<c level="file" id="_341645">
+										<did>
+											<unitid>ESUPPL 10320</unitid>
+											<unittitle>Matrice des propriétés bâties.</unittitle>
+											<unitdate normal="1911/1966">1911-1966</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 24/04/2024 10:15:41
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice cadastrale</genreform>
+											<geogname>La Romieu (Gers, France)</geogname>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+									<c level="recordgrp" id="_341646">
+										<did>
+											<unitid>ESUPPL 10321 - 10322</unitid>
+											<unittitle>Matrices des propriétés non bâties.</unittitle>
+											<unitdate normal="1914/1966">1914-1966</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 24/04/2024 10:15:57
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice cadastrale</genreform>
+											<geogname>La Romieu (Gers, France)</geogname>
+											<subject>cadastre</subject>
+										</controlaccess>
+										<c level="file" id="_341647">
+											<did>
+												<unitid>ESUPPL 10321</unitid>
+												<unittitle>Volume 1, folios n°1-500.</unittitle>
+												<unitdate normal="1914/1966">1914-1966</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 24/04/2024 10:16:28
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>matrice cadastrale</genreform>
+												<geogname>La Romieu (Gers, France)</geogname>
+												<subject>cadastre</subject>
+											</controlaccess>
+										</c>
+										<c level="file" id="_341648">
+											<did>
+												<unitid>ESUPPL 10322</unitid>
+												<unittitle>Volume 2, folios n°501-971.</unittitle>
+												<unitdate normal="1914/1966">1914-1966</unitdate>
+											</did>
+											<processinfo>
+												<p>Notice rédigée par bonnafous validée le 24/04/2024 10:16:40
+												</p>
+											</processinfo>
+											<controlaccess>
+												<genreform>matrice cadastrale</genreform>
+												<geogname>La Romieu (Gers, France)</geogname>
+												<subject>cadastre</subject>
+											</controlaccess>
+										</c>
+									</c>
+								</c>
+							</c>
+							<c level="recordgrp" id="_341604">
+								<did>
+									<unitid>ESUPPL 10323 - 10324</unitid>
+									<unittitle>Contributions directes.</unittitle>
+									<unitdate normal="1850/1951">1850-1951</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 10:02:28
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>impôts locaux</subject>
+								</controlaccess>
+								<c level="file" id="_341649">
+									<did>
+										<unitid>ESUPPL 10323</unitid>
+										<unittitle>Contributions foncière, perso-mobilière et des portes et fenêtres : matrice générale.</unittitle>
+										<unitdate normal="1850/1894">1850-1873, 1891-1894</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 24/04/2024 10:04:05
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice d'imposition</genreform>
+										<geogname>La Romieu (Gers, France)</geogname>
+										<subject>fiscalité</subject>
+										<subject>fiscalité immobilière</subject>
+										<subject>évaluation foncière</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341650">
+									<did>
+										<unitid>ESUPPL 10324</unitid>
+										<unittitle>Contribution foncière des propriétés bâties et non bâties, taxe des biens de mainmorte, contribution mobilière et taxe d'habitation, contribution des patentes et taxe sur la valeur locative des locaux professionnels, taxe sur les chiens, taxe sur les voitures, chevaux, mules et mulets, taxe sur les domestiques, précepteurs et gouvernantes, taxe sur les instruments de musique à clavier, taxe des prestations : copie de la matrice générale.</unittitle>
+										<unitdate normal="1942/1951">1942-1951</unitdate>
+									</did>
+									<scopecontent>
+										<p>1942-1946 et 1947-1951.</p>
+									</scopecontent>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 24/04/2024 10:02:47
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice d'imposition</genreform>
+										<geogname>La Romieu (Gers, France)</geogname>
+										<subject>fiscalité</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c level="file" id="_341660">
+								<did>
+									<unitid>ESUPPL 10511</unitid>
+									<unittitle>Répartiteurs et classificateurs. - Nomination : arrêtés.</unittitle>
+									<unitdate normal="1909/1933">1909-1933</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 10:00:15
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>texte officiel</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Affaires militaires</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Mesures d'exception et faits de guerre</unittitle>
+							</did>
+							<c level="file" id="_341651">
+								<did>
+									<unitid>ESUPPL 10325</unitid>
+									<unittitle>Première Guerre mondiale (1914-1918) : télégrammes officiels.</unittitle>
+									<unitdate normal="1914/1916">1914-1916</unitdate>
+								</did>
+								<scopecontent>
+									<p>Cahiers numéros 1 à 6, 10, 11-12.</p>
+								</scopecontent>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 16:40:37
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>télégramme</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>opération militaire</subject>
+									<subject>Époque contemporaine</subject>
+									<subject>20e siècle</subject>
+									<subject>Guerre 1914-1918</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Police. Hygiène publique. Justice</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Police locale</unittitle>
+							</did>
+							<c level="file" id="_341652">
+								<did>
+									<unitid>ESUPPL 10326</unitid>
+									<unittitle>Règlement général de police.</unittitle>
+									<unitdate normal="1851">1851</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>règlement</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>police</subject>
+									<subject>maintien de l'ordre</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Police générale</unittitle>
+							</did>
+							<c level="file" id="_341653">
+								<did>
+									<unitid>ESUPPL 10327</unitid>
+									<unittitle>Contrôle des étrangers : registre des visas d'arrivée.</unittitle>
+									<unitdate normal="1934/2003">1934-2003</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 16:48:46
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>police</subject>
+									<subject>étranger</subject>
+									<subject>police administrative</subject>
+									<subject>maintien de l'ordre</subject>
+									<subject>séjour des étrangers</subject>
+									<subject>circulation des personnes</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Hygiène publique et salubrité</unittitle>
+							</did>
+							<c level="file" id="_341654">
+								<did>
+									<unitid>ESUPPL 10328</unitid>
+									<unittitle>Viandes de boucherie et abattoirs. - Inspection : correspondance.</unittitle>
+									<unitdate normal="1853/1930">1853-1930</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 24/04/2024 10:23:30
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>viande</subject>
+									<subject>boucherie</subject>
+									<subject>abattoir</subject>
+									<subject>surveillance des bâtiments</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Élections et personnel</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Élections</unittitle>
+							</did>
+							<c level="file" id="_341655">
+								<did>
+									<unitid>ESUPPL 10329</unitid>
+									<unittitle>Élections politiques. - Organisation des opérations de vote et résultats, élections municipales : procès-verbal.</unittitle>
+									<unitdate normal="1840">1840</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 16:54:32
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>procès-verbal d'élection</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>élection politique</subject>
+									<subject>conseil municipal</subject>
+									<subject>élection municipale</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Personnel municipal</unittitle>
+							</did>
+							<c level="file" id="_341656">
+								<did>
+									<unitid>ESUPPL 10330</unitid>
+									<unittitle>Secrétaire de la mairie et cantonnier communal assermenté. - Nomination et démission : correspondance.</unittitle>
+									<unitdate normal="1927/1945">1927-1945</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 16:55:27
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>élection</subject>
+									<subject>personnel</subject>
+									<subject>garde particulier</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Finances de la commune</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Revenus et charges de la commune</unittitle>
+							</did>
+							<c level="file" id="_341657">
+								<did>
+									<unitid>ESUPPL 10331</unitid>
+									<unittitle>Mandats des dépenses délivrés par le receveur municipal pour des dépenses communales et hospitalières.</unittitle>
+									<unitdate normal="1904/1971">1904-1971</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 16:56:17
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>comptabilité publique</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Biens communaux. Terres. Bois. Eaux</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Eaux</unittitle>
+							</did>
+							<c level="file" id="_341658">
+								<did>
+									<unitid>ESUPPL 10332</unitid>
+									<unittitle>Curage de la mare communale. - Contentieux : correspondance.</unittitle>
+									<unitdate normal="1912/1915">1912-1915</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 16:57:15
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<subject>eau</subject>
+									<subject>contentieux administratif</subject>
+									<subject>administration communale</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Travaux publics. Voirie. Moyens de transport. Régime des eaux</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Travaux publics et voirie en général</unittitle>
+							</did>
+							<c level="file" id="_341661">
+								<did>
+									<unitid>ESUPPL 10512</unitid>
+									<unittitle>Chemins de Ligardes et de Gazaupouy, travaux : correspondance.</unittitle>
+									<unitdate normal="1851">1851</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+									<geogname>Gazaupouy (Gers, France)</geogname>
+									<geogname>Ligardes (Gers, France)</geogname>
+									<subject>voie communale</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Assistance et prévoyance</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Bureaux de bienfaisance, secours d'urgence</unittitle>
+							</did>
+							<c level="file" id="_341659">
+								<did>
+									<unitid>ESUPPL 10333</unitid>
+									<unittitle>Immeuble appartenant au bureau de bienfaisance. - Renouvellement du bail : contrat, extrait du registre des délibérations.</unittitle>
+									<unitdate normal="1940">1940</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 23/04/2024 16:59:40
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>contrat</genreform>
+									<genreform>délibération</genreform>
+									<geogname>La Romieu (Gers, France)</geogname>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+			</c>
+		</dsc>
+	</archdesc>
+</ead>

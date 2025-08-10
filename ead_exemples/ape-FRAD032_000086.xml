@@ -1,0 +1,1975 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:cpf="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+		<eadid url="https://www.archives32.fr/wp-content/uploads/2024/06/FRAD032_000086-2.pdf" countrycode="FR" mainagencycode="FRAD032" identifier="FRAD032_000086">FRAD032_000086</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Archives communales de Cazaux-Savès</titleproper>
+				<subtitle>Répertoire méthodique</subtitle>
+				<author>élaboré par Solène Pons sous la direction de Pascal Geneste et Nadine Rouayroux</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives départementales du Gers</publisher>
+				<address>
+					<addressline>81 route de Pessan - 32001 Auch</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Cet instrument de recherche a été exporté au format XML depuis le progiciel de gestion d'archives Thot par les archives départementales du Gers.</creation>
+			<langusage>Instrument de recherche rédigé en <language langcode="fre">français</language>
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="fonds">
+		<did>
+			<unitid>ESUPPL 2265 - 2272, 10446 - 10487, 11163 - 11216</unitid>
+			<unittitle>Archives communales de Cazaux-Savès</unittitle>
+			<unitdate normal="1638/1963">1638-1963</unitdate>
+			<origination label="producteur">Commune de Cazaux-Savès</origination>
+			<physdesc>
+				</physdesc>
+		</did>
+		<bioghist>
+			<p>Sous l'Ancien Régime, Cazaux relevait de la vicomté de Fezensaguet, était placé dans le ressort du parlement de Toulouse et a successivement dépendu des sénéchaussées de Lectoure puis d'Auch à partir de 1639 et des généralités de Montauban puis d'Auch après la création de cette dernière en 1716. Du point de vue religieux, la paroisse faisait partie du diocèse de Lombez.</p>
+			<p>À la Révolution, la commune est placée dans le district de L'Isle-Jourdain puis l'arrondissement de Lombez et le canton de Samatan. Suite à la réforme de 1926 qui supprime l'arrondissement de Lombez, la commune est placée dans l'arrondissement d'Auch.</p>
+			<p>Cazaux-Savès est membre de la communauté de communes du Savès dont le siège est à Lombez.</p>
+			<p>L'église paroissiale, dédiée à Sainte-Madeleine, a été bâtie au XVIIIe siècle et restaurée au XIXe siècle.</p>
+			<p>Sur la commune est érigé le château de Caumont dont la construction remonte au XVIe siècle. Il a été construit sur les vestiges d'un ancien château-fort. Le château entre dans la famille Nogaret de La Valette par mariage au XVIe siècle. En 1839, Armand de Castelbajac, ambassadeur de Napoléon III, devient propriétaire du château où il décède en 1864. Le château est protégé au titre des Monuments historiques par inscription en 1947 puis par classement en 1984. Il est encore aujourd'hui la propriété de la famille de Castelbajac.</p>
+		</bioghist>
+		<custodhist>
+			<p>Un premier dépôt a été effectué en 1988 aux Archives départementales puis un second en 2021 suite à l'inspection de la commune.</p>
+		</custodhist>
+		<acqinfo>
+			<p>Dépôt du 28 juillet 1988 (cotes ESUPPL 2265-2272) et dépôt du 09 septembre 2021 (entrée n° 2021-088, cotes ESUPPL 10446-10487 et ESUPPL 11163- 11216).</p>
+		</acqinfo>
+		<scopecontent>
+			<p>Le fonds déposé comprend, pour la période antérieure à la Révolution, les registres de baptêmes, mariages et sépultures (1638-1793), un livre terrier (1670), des délibérations consulaires (1707-1780) ainsi que des documents relatifs aux impositions.</p>
+			<p>Pour la période moderne, le fonds est composé des registres des délibérations du conseil municipal (an IX-1963), de documents cadastraux (1834-1965), de documents relatifs aux contributions directes (1805-1926), aux élections politiques, aux finances de la commune et à la gestion du bureau de bienfaisance.</p>
+			<p>Les registres d'état-civil recouvrent la période de 1793 à 1903, les tables décennales allant de 1793 à 1923.</p>
+		</scopecontent>
+		<accruals>
+			<p>Le fonds est ouvert et s'accroît par dépôt de la commune.</p>
+		</accruals>
+		<arrangement>
+			<p>Le classement suit l'arrêté interministériel du 31 décembre 1926 portant règlement des archives des communes. La cotation des archives déposées des communes de moins de 2000 habitants se fait en continu dans la série ESUPPL.</p>
+		</arrangement>
+		<accessrestrict>
+			<p>La communicabilité des archives communales est soumise aux délais fixés par la loi du 15 juillet 2008 modifiant le code du patrimoine (article L 213-2, <extref xlink:type="simple" xlink:href="https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159942">legifrance.gouv.fr/codes/id/LEGISCTA000006159942</extref>). Cependant, même pour les documents communicables en application de la loi, le mauvais état matériel des documents ne permet pas d'assurer leur consultation en salle de lecture.</p>
+			<p>Les registres paroissiaux sont consultables sous forme de microfilm en salle de lecture. Les registres d'état civil, les tables décennales, les listes de recensement de population, les atlas cadastraux napoléoniens sont consultables sous forme numérique sur le site Internet des archives du Gers. Ces documents ne sont donc pas communiqués sous leur forme originale en salle de lecture.</p>
+		</accessrestrict>
+		<userestrict>
+			<p>Les documents dont l'état matériel le permet, sont reproductibles sous réserve de mentionner la cote des documents et l'institution de conservation en cas de publication.</p>
+			<p>Les documents reliés ne peuvent pas être photocopiés. Les reproductions de documents avec un appareil photographique sans flash sont autorisées en salle de lecture.</p>
+		</userestrict>
+		<relatedmaterial>
+			<p>I. Ancien Régime</p>
+			<list>
+				<item>série C : archives des administrations provinciales (intendance, subdélégations, élections, collecte) ;</item>
+				<item>sous-série 9 B : justice locale et seigneuriale de la sénéchaussée de Gascogne ;</item>
+				<item>série G : archives du clergé séculier (visites pastorales, procès-verbaux de visite et de vérification des réparations des églises du diocèse, archives des paroisses, fabrique d'église et cures) ;</item>
+				<item>séries E et I : archives des communautés d'habitants aux XVIe-XVIIIe siècles (chartes de coutumes, hommages, délibérations consulaires, documents financiers, livres terrier, compoix et cadastres, registres paroissiaux) ; archives de familles ;</item>
+				<item>sous-série 5 E : registres paroissiaux (fonds des sénéchaussées).</item>
+			</list>
+			<p>II. Période révolutionnaire</p>
+			<list>
+				<item>série L : justice, municipalités de canton, comités de surveillance, sociétés populaires ;</item>
+				<item>série Q : vente des biens nationaux. Yves Coustau, Dépouillement des procès-verbaux d'adjudication des biens nationaux de 1re origine et 2e origine, 1962, 2 volumes.</item>
+			</list>
+			<p>III. Période contemporaine</p>
+			<p>1. Série E</p>
+			<list>
+				<item>sous-série 5 E : registres d'état civil, tables décennales (fonds du greffe du tribunal de grande instance d'Auch).</item>
+			</list>
+			<p>2. Série M</p>
+			<list>
+				<item>sous-série 1 M : regroupement de communes, délimitation du territoire ;</item>
+				<item>sous-série 3 M : conseils municipaux, documents électoraux ;</item>
+				<item>sous-série 6 M : recensement de population, statistiques démographiques, naturalisations, état civil, agriculture.</item>
+			</list>
+			<p>3. Série O</p>
+			<list>
+				<item>sous-série 1 O : affaires communales, administration générale des communes, bâtiments et biens communaux, syndicats intercommunaux ;</item>
+				<item>sous-série 2 O : administration générale de la commune, travaux de construction et d'entretien sur les bâtiments communaux et les équipements collectifs, acquisition et aliénation des biens communaux, comptabilité communale, assistance et prévoyance ;</item>
+				<item>sous-série 3 O : voirie communale, chemins vicinaux ;</item>
+				<item>sous-série 4 O : dons et legs.</item>
+			</list>
+			<p>4. Série P</p>
+			<list>
+				<item>sous-série 3 P : délimitation cadastrale, documentation cadastrale ;</item>
+				<item>sous-série 6 P : postes.</item>
+			</list>
+			<p>5. Autres séries modernes</p>
+			<list>
+				<item>sous-série 2 R : monuments aux morts ;</item>
+				<item>série S : travaux publics (routes, chemins de fer, moulins, usines hydrauliques, électrification, mines, carrières, tourbières) ;</item>
+				<item>série T : ouvertures et fermetures d'école, affaires scolaires, dossiers d'instituteurs et institutrices, monographies scolaires, dossiers de classement au titre des monuments historiques ;</item>
+				<item>série V : conseils de fabrique, églises ;</item>
+				<item>série X : bureaux de bienfaisance.</item>
+			</list>
+			<p>6. Archives contemporaires (postérieures à 1940)</p>
+			<list>
+				<item>992 W, 1319 W : administration communale ;</item>
+				<item>1277 W : fermetures d'écoles.</item>
+			</list>
+			<p>IV. Archives notariales</p>
+			<list>
+				<item>sous-série 3 E : les archives des études notariales contiennent les éléments de l'histoire locale et des informations sur la vie des habitants ; on retrouve parfois dans les archives notariales des délibérations consulaires.</item>
+			</list>
+			<p>V. Archives privées, fonds entrés par voie extraordinaire</p>
+			<list>
+				<item>sous-série 1 J : pièces isolées et petits fonds ;</item>
+				<item>sous-série 14 J : papiers de Sylvain Daugé, prêtre et érudit local, notes sur des familles et des communes du Gers ; </item>
+				<item>sous-série 83 J : fonds de Macarez-Mainfroy, albums de cartes postales et photographies des communes du Gers ;</item>
+				<item>sous-série 88 J : fonds de Jean-Henri Ducos, dossiers documentaires sur les châteaux et maison-fortes du Gers ;</item>
+				<item>sous-série 101 J : fonds de Paul Mesplé, conservateur du musée des Augustins de Toulouse, albums de photographies des communes du Gers.</item>
+			</list>
+			<p>VI. Documents figurés</p>
+			<list>
+				<item>sous-série 1 Fi : cartes et plans ;</item>
+				<item>sous-série 2 Fi : dessins, gravures, estampes, lithographies, tirages photographiques ;</item>
+				<item>sous-série 6 Fi : cartes postales.</item>
+			</list>
+			<p>VII. Documentation</p>
+			<list>
+				<item>séries DAN et DAR : dossiers archéologiques et antiques ;</item>
+				<item>série CDOC : dossiers documentaires ;</item>
+				<item>série JX : presse locale ;</item>
+				<item>série PER : bulletins municipaux et paroissiaux ;</item>
+				<item>bibliothèque historique et administrative.</item>
+			</list>
+		</relatedmaterial>
+		<bibliography>
+			<p>Georges Courtès (dir.), Communes du département du Gers, vol. I : arrondissement d'Auch, Auch : Société archéologique et historique du Gers, 2004, p. 332-334.</p>
+			<p>Marquis de Castelbajac, « Le château de Caumont (Gers) », Bulletin de la Société archéologique, historique, littéraire et scientifique du Gers, Auch : Imprimerie Th. Bouquet, 1911, p. 224-241.</p>
+		</bibliography>
+		<otherfindaid>
+			<p>Architerre, sources fiscales d'Ancien Régime (<extref xlink:type="simple" xlink:href="http://modelespace.univ-tlse2.fr">modelespace.univ-tlse2.fr</extref>).</p>
+		</otherfindaid>
+		<controlaccess>
+			<geogname>Cazaux-Savès (Gers, France)</geogname>
+		</controlaccess>
+		<dsc>
+			<c>
+				<did>
+					<unittitle>Archives anciennes (antérieures à 1790)</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Administration communale</unittitle>
+					</did>
+					<c level="file" id="_226358">
+						<did>
+							<unitid>ESUPPL 2265</unitid>
+							<unittitle>Délibérations consulaires.</unittitle>
+							<unitdate normal="1707/1780">1707-1780</unitdate>
+							<origination label="producteur">Commune de Cazaux-Savès</origination>
+						</did>
+						<controlaccess>
+							<genreform>délibération</genreform>
+							<geogname>Cazaux-Savès (Gers, France)</geogname>
+							<subject>administration communale</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Finances, impôts et comptabilité</unittitle>
+					</did>
+					<c level="item" id="_226360">
+						<did>
+							<unitid>ESUPPL 2267</unitid>
+							<unittitle>Livre terrier.</unittitle>
+							<unitdate normal="1670">1670</unitdate>
+							<origination label="producteur">Commune de Cazaux-Savès</origination>
+						</did>
+						<controlaccess>
+							<genreform>livre foncier</genreform>
+							<geogname>Cazaux-Savès (Gers, France)</geogname>
+							<subject>cadastre</subject>
+						</controlaccess>
+					</c>
+					<c level="file" id="_226361">
+						<did>
+							<unitid>ESUPPL 2268</unitid>
+							<unittitle>Mande de la taille : ordonnance (1688). Compte des recettes et des dépenses (1687). Pièces justificatives comptables (1676-1715). Taille : rôle (1714).</unittitle>
+							<unitdate normal="1676/1714">1676-1714</unitdate>
+							<origination label="producteur">Commune de Cazaux-Savès</origination>
+						</did>
+						<controlaccess>
+							<geogname>Cazaux-Savès (Gers, France)</geogname>
+							<subject>fiscalité directe d'Ancien Régime</subject>
+						</controlaccess>
+					</c>
+					<c level="file" id="_226364">
+						<did>
+							<unitid>ESUPPL 2271</unitid>
+							<unittitle>Taille et capitation sur les biens nobles, ecclésiastiques et privilégiés : rôle (1789). Pièces de procédures (1793). Réparation de l'église, clôture du cimetière, retrait des « tas de fumier » de la ville : demandes du curé (1790). Liste des enfants au secours de la patrie [fin XVIIIe siècle]. Présence au corps de bataillon du Gers : attestations (an II). Découverte d'un noyé : note (1792).</unittitle>
+							<unitdate normal="1789/1794">1789-an II</unitdate>
+							<origination label="producteur">Commune de Cazaux-Savès</origination>
+						</did>
+						<controlaccess>
+							<genreform>rôle d'imposition</genreform>
+							<geogname>Cazaux-Savès (Gers, France)</geogname>
+							<subject>fiscalité directe d'Ancien Régime</subject>
+							<subject>recouvrement fiscal</subject>
+							<subject>justice seigneuriale</subject>
+							<subject>édifice cultuel</subject>
+							<subject>cimetière</subject>
+							<subject>décès</subject>
+							<subject>hygiène</subject>
+							<subject>déchet animal</subject>
+							<subject>enfant</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Cultes. Instruction publique. Assistance publique</unittitle>
+					</did>
+					<c level="recordgrp" id="_360651">
+						<did>
+							<unitid>ESUPPL 2269, 10446 - 10448</unitid>
+							<unittitle>Paroisse de Cazaux : registres des baptêmes, mariages et sépultures.</unittitle>
+							<unitdate normal="1638/1793">1638-1793</unitdate>
+							<origination label="producteur">Commune de Cazaux-Savès</origination>
+						</did>
+						<controlaccess>
+							<genreform>registre paroissial</genreform>
+							<geogname>Cazaux-Savès (Gers, France)</geogname>
+							<geogname>Cazaux-Savès (Gers, France ; paroisse)</geogname>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+						<c level="file" id="_226362">
+							<did>
+								<unitid>ESUPPL 2269</unitid>
+								<unittitle>1638, 1668-1699.</unittitle>
+								<unitdate normal="1638/1699">1638-1699</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<genreform>table</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<geogname>Cazaux-Savès (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360652">
+							<did>
+								<unitid>ESUPPL 10446</unitid>
+								<unittitle>1700-1729.</unittitle>
+								<unitdate normal="1700/1729">1700-1729</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<geogname>Cazaux-Savès (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360653">
+							<did>
+								<unitid>ESUPPL 10447</unitid>
+								<unittitle>1730-1750.</unittitle>
+								<unitdate normal="1730/1750">1730-1750</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<geogname>Cazaux-Savès (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360654">
+							<did>
+								<unitid>ESUPPL 10448</unitid>
+								<unittitle>1780-1793.</unittitle>
+								<unitdate normal="1780/1793">1780-an II</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<geogname>Cazaux-Savès (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+			</c>
+			<c>
+				<did>
+					<unittitle>Archives modernes (postérieures à 1789)</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Lois et actes du pouvoir central</unittitle>
+					</did>
+					<c level="file" id="_226365">
+						<did>
+							<unitid>ESUPPL 2272</unitid>
+							<unittitle>Instructions et arrêtés du préfet du Gers. Décrets de la Convention.</unittitle>
+							<unitdate normal="1793/1831">an II, an IX-1831</unitdate>
+							<origination label="producteur">Commune de Cazaux-Savès</origination>
+						</did>
+						<controlaccess>
+							<genreform>texte officiel</genreform>
+							<genreform>circulaire</genreform>
+							<geogname>Cazaux-Savès (Gers, France)</geogname>
+							<subject>administration préfectorale</subject>
+							<subject>administration centrale</subject>
+							<subject>Révolution de 1789</subject>
+							<subject>Convention nationale (1792-1795)</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Administration générale de la commune</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Conseil municipal</unittitle>
+						</did>
+						<c level="recordgrp" id="_360655">
+							<did>
+								<unitid>ESUPPL 2266, 10484 - 10487</unitid>
+								<unittitle>Registres des délibérations.</unittitle>
+								<unitdate normal="1800/1963">1800-1963</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>délibération</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>administration communale</subject>
+								<subject>conseil municipal</subject>
+							</controlaccess>
+							<c level="item" id="_226359">
+								<did>
+									<unitid>ESUPPL 2266</unitid>
+									<unittitle>an IX-1817 (11 mai).</unittitle>
+									<unitdate normal="1800/1817">1800-1817</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_360656">
+								<did>
+									<unitid>ESUPPL 10484</unitid>
+									<unittitle>1817-1845.</unittitle>
+									<unitdate normal="1817/1845">1817-1845</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_360657">
+								<did>
+									<unitid>ESUPPL 10485</unitid>
+									<unittitle>1846-1865.</unittitle>
+									<unitdate normal="1846/1865">1846-1865</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_360658">
+								<did>
+									<unitid>ESUPPL 10486</unitid>
+									<unittitle>1865-1900.</unittitle>
+									<unitdate normal="1865/1900">1865-1900</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_360659">
+								<did>
+									<unitid>ESUPPL 10487</unitid>
+									<unittitle>1900-1963.</unittitle>
+									<unitdate normal="1900/1963">1900-1963</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Actes de l'administration municipale</unittitle>
+						</did>
+						<c level="file" id="_360660">
+							<did>
+								<unitid>ESUPPL 11216</unitid>
+								<unittitle>Correspondance.</unittitle>
+								<unitdate normal="1879/1946">1879-1946</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>correspondance</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>administration communale</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>État civil</unittitle>
+					</did>
+					<c level="recordgrp" id="_360661">
+						<did>
+							<unitid>ESUPPL 10449, 10452, 10455, 10458, 10461, 10464, 10467, 10468, 10471, 10474, 10477, 10480</unitid>
+							<unittitle>Registres des naissances.</unittitle>
+							<unitdate normal="1793/1903">an III-1903</unitdate>
+							<origination label="producteur">Commune de Cazaux-Savès</origination>
+						</did>
+						<controlaccess>
+							<genreform>répertoire civil</genreform>
+							<geogname>Cazaux-Savès (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+						</controlaccess>
+						<c level="item" id="_360762">
+							<did>
+								<unitid>ESUPPL 10449</unitid>
+								<unittitle>an III-an X.</unittitle>
+								<unitdate normal="1793/1803">1793-1803</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360663">
+							<did>
+								<unitid>ESUPPL 10452</unitid>
+								<unittitle>an XI-1812.</unittitle>
+								<unitdate normal="1803/1812">1803-1812</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360664">
+							<did>
+								<unitid>ESUPPL 10455</unitid>
+								<unittitle>1813-1822.</unittitle>
+								<unitdate normal="1813/1822">1813-1822</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360665">
+							<did>
+								<unitid>ESUPPL 10458</unitid>
+								<unittitle>1823-1832.</unittitle>
+								<unitdate normal="1823/1832">1823-1832</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360666">
+							<did>
+								<unitid>ESUPPL 10461</unitid>
+								<unittitle>1833-1842.</unittitle>
+								<unitdate normal="1833/1842">1833-1842</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360667">
+							<did>
+								<unitid>ESUPPL 10464</unitid>
+								<unittitle>1843-1854.</unittitle>
+								<unitdate normal="1843/1854">1843-1854</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360668">
+							<did>
+								<unitid>ESUPPL 10467</unitid>
+								<unittitle>1855-1856.</unittitle>
+								<unitdate normal="1855/1856">1855-1856</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360669">
+							<did>
+								<unitid>ESUPPL 10468</unitid>
+								<unittitle>1857-1864.</unittitle>
+								<unitdate normal="1857/1864">1857-1864</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360670">
+							<did>
+								<unitid>ESUPPL 10471</unitid>
+								<unittitle>1865-1874.</unittitle>
+								<unitdate normal="1865/1874">1865-1874</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360671">
+							<did>
+								<unitid>ESUPPL 10474</unitid>
+								<unittitle>1875-1884.</unittitle>
+								<unitdate normal="1875/1884">1875-1884</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360672">
+							<did>
+								<unitid>ESUPPL 10477</unitid>
+								<unittitle>1885-1894.</unittitle>
+								<unitdate normal="1885/1894">1885-1894</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360673">
+							<did>
+								<unitid>ESUPPL 10480</unitid>
+								<unittitle>1894-1903.</unittitle>
+								<unitdate normal="1894/1903">1894-1903</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="recordgrp" id="_360674">
+						<did>
+							<unitid>ESUPPL 10450, 10453, 10456, 10459, 10462, 10465, 10469, 10472, 10475, 10478, 10481</unitid>
+							<unittitle>Registres des mariages.</unittitle>
+							<unitdate normal="1793/1903">an II-1903</unitdate>
+							<origination label="producteur">Commune de Cazaux-Savès</origination>
+						</did>
+						<controlaccess>
+							<genreform>répertoire</genreform>
+							<geogname>Cazaux-Savès (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>mariage</subject>
+						</controlaccess>
+						<c level="item" id="_360766">
+							<did>
+								<unitid>ESUPPL 10450</unitid>
+								<unittitle>an II-an XI.</unittitle>
+								<unitdate normal="1793/1803">1793-1803</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360676">
+							<did>
+								<unitid>ESUPPL 10453</unitid>
+								<unittitle>an XII-1812.</unittitle>
+								<unitdate normal="1804/1812">1804-1812</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360677">
+							<did>
+								<unitid>ESUPPL 10456</unitid>
+								<unittitle>1813-1822.</unittitle>
+								<unitdate normal="1813/1822">1813-1822</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360678">
+							<did>
+								<unitid>ESUPPL 10459</unitid>
+								<unittitle>1823-1832.</unittitle>
+								<unitdate normal="1823/1832">1823-1832</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360679">
+							<did>
+								<unitid>ESUPPL 10462</unitid>
+								<unittitle>1833-1842.</unittitle>
+								<unitdate normal="1833/1842">1833-1842</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360680">
+							<did>
+								<unitid>ESUPPL 10465</unitid>
+								<unittitle>1843-1856.</unittitle>
+								<unitdate normal="1843/1856">1843-1856</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360681">
+							<did>
+								<unitid>ESUPPL 10469</unitid>
+								<unittitle>1857-1864.</unittitle>
+								<unitdate normal="1857/1864">1857-1864</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360682">
+							<did>
+								<unitid>ESUPPL 10472</unitid>
+								<unittitle>1865-1874.</unittitle>
+								<unitdate normal="1865/1874">1865-1874</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360683">
+							<did>
+								<unitid>ESUPPL 10475</unitid>
+								<unittitle>1875-1884.</unittitle>
+								<unitdate normal="1875/1884">1875-1884</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360684">
+							<did>
+								<unitid>ESUPPL 10478</unitid>
+								<unittitle>1885-1894.</unittitle>
+								<unitdate normal="1885/1894">1885-1894</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360685">
+							<did>
+								<unitid>ESUPPL 10481</unitid>
+								<unittitle>1894-1903.</unittitle>
+								<unitdate normal="1894/1903">1894-1903</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="recordgrp" id="_360686">
+						<did>
+							<unitid>ESUPPL 10451, 10454, 10457, 10460, 10463, 10466, 10470, 10473, 10476, 10479, 10482</unitid>
+							<unittitle>Registres des décès.</unittitle>
+							<unitdate normal="1793/1903">an I-1903</unitdate>
+							<origination label="producteur">Commune de Cazaux-Savès</origination>
+						</did>
+						<controlaccess>
+							<genreform>répertoire civil</genreform>
+							<geogname>Cazaux-Savès (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>décès</subject>
+						</controlaccess>
+						<c level="item" id="_360765">
+							<did>
+								<unitid>ESUPPL 10451</unitid>
+								<unittitle>an I-an X.</unittitle>
+								<unitdate normal="1792/1803">1792-1803</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360688">
+							<did>
+								<unitid>ESUPPL 10454</unitid>
+								<unittitle>an XI-1812.</unittitle>
+								<unitdate normal="1803/1812">1803-1812</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360689">
+							<did>
+								<unitid>ESUPPL 10457</unitid>
+								<unittitle>1813-1822.</unittitle>
+								<unitdate normal="1813/1822">1813-1822</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360690">
+							<did>
+								<unitid>ESUPPL 10460</unitid>
+								<unittitle>1823-1832.</unittitle>
+								<unitdate normal="1823/1832">1823-1832</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360691">
+							<did>
+								<unitid>ESUPPL 10463</unitid>
+								<unittitle>1833-1842.</unittitle>
+								<unitdate normal="1833/1842">1833-1842</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360692">
+							<did>
+								<unitid>ESUPPL 10466</unitid>
+								<unittitle>1843-1856.</unittitle>
+								<unitdate normal="1843/1856">1843-1856</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360693">
+							<did>
+								<unitid>ESUPPL 10470</unitid>
+								<unittitle>1857-1864.</unittitle>
+								<unitdate normal="1857/1864">1857-1864</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360694">
+							<did>
+								<unitid>ESUPPL 10473</unitid>
+								<unittitle>1865-1874.</unittitle>
+								<unitdate normal="1865/1874">1865-1874</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360695">
+							<did>
+								<unitid>ESUPPL 10476</unitid>
+								<unittitle>1875-1884.</unittitle>
+								<unitdate normal="1875/1884">1875-1884</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360696">
+							<did>
+								<unitid>ESUPPL 10479</unitid>
+								<unittitle>1885-1894.</unittitle>
+								<unitdate normal="1885/1894">1885-1894</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_360697">
+							<did>
+								<unitid>ESUPPL 10482</unitid>
+								<unittitle>1894-1903.</unittitle>
+								<unitdate normal="1894/1903">1894-1903</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="file" id="_226363">
+						<did>
+							<unitid>ESUPPL 2270</unitid>
+							<unittitle>Tables décennales des naissances et décès.</unittitle>
+							<unitdate normal="1792/1802">an I-an X, 1814</unitdate>
+							<origination label="producteur">Commune de Cazaux-Savès</origination>
+						</did>
+						<scopecontent>
+							<p>Contient également le procès-verbal de la proclamation par la commune de Louis XVIII roi de France (1814).</p>
+						</scopecontent>
+						<controlaccess>
+							<genreform>table</genreform>
+							<geogname>Cazaux-Savès (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+							<subject>décès</subject>
+						</controlaccess>
+					</c>
+					<c level="file" id="_360698">
+						<did>
+							<unitid>ESUPPL 10483</unitid>
+							<unittitle>Tables décennales des naissances, mariages et décès.</unittitle>
+							<unitdate normal="1793/1923">an II-1923</unitdate>
+							<origination label="producteur">Commune de Cazaux-Savès</origination>
+						</did>
+						<controlaccess>
+							<genreform>table</genreform>
+							<geogname>Cazaux-Savès (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Population. Économie sociale. Statistique</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Population</unittitle>
+						</did>
+						<c level="file" id="_360768">
+							<did>
+								<unitid>ESUPPL 11163</unitid>
+								<unittitle>Mouvement de la population : tableaux.</unittitle>
+								<unitdate normal="1853/1871">1853-1871</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>statistique</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>population</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Agriculture</unittitle>
+						</did>
+						<c level="file" id="_360769">
+							<did>
+								<unitid>ESUPPL 11164</unitid>
+								<unittitle>Viticulture. - Situations de récoltes : bulletins nominatifs de déclaration.</unittitle>
+								<unitdate normal="1907/1934">1907-1934</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>viticulture</subject>
+								<subject>production agricole</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Subsistances</unittitle>
+						</did>
+						<c level="file" id="_360701">
+							<did>
+								<unitid>ESUPPL 11165</unitid>
+								<unittitle>Pain à prix réduit : bons de pain à prix réduit, bordereaux présentant le décompte des bons de pain, certificat de conformité d'un bordereau.</unittitle>
+								<unitdate normal="1920/1921">1920-1921</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>boulangerie</subject>
+								<subject>céréale</subject>
+								<subject>prix</subject>
+								<subject>production agricole</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_360702">
+							<did>
+								<unitid>ESUPPL 11166</unitid>
+								<unittitle>Sucre : carnet de bons.</unittitle>
+								<unitdate normal="1921">1921</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>sucre</subject>
+								<subject>rationnement</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Contributions. Administrations financières</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Impôts directs</unittitle>
+						</did>
+						<c level="recordgrp" id="_360703">
+							<did>
+								<unitid>ESUPPL 11167 - 11173</unitid>
+								<unittitle>Cadastre.</unittitle>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+							<c level="item" id="_360704">
+								<did>
+									<unitid>ESUPPL 11167</unitid>
+									<unittitle>Livre des mutations de propriétés.</unittitle>
+									<unitdate normal="1819/1834">1819-1834</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>livre foncier</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>cadastre</subject>
+								</controlaccess>
+							</c>
+							<c level="recordgrp" id="_360705">
+								<did>
+									<unitid>ESUPPL 11168 - 11171</unitid>
+									<unittitle>Cadastre napoléonien.</unittitle>
+									<unitdate normal="1834/1910">1834-1910</unitdate>
+								</did>
+								<controlaccess>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>cadastre</subject>
+								</controlaccess>
+								<c level="item" id="_360706">
+									<did>
+										<unitid>ESUPPL 11168</unitid>
+										<unittitle>Atlas.</unittitle>
+										<unitdate normal="1834">1834</unitdate>
+									</did>
+									<controlaccess>
+										<genreform>atlas</genreform>
+										<geogname>Cazaux-Savès (Gers, France)</geogname>
+										<subject>cadastre</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_360707">
+									<did>
+										<unitid>ESUPPL 11169</unitid>
+										<unittitle>Etat de sections.</unittitle>
+										<unitdate normal="1834">1834</unitdate>
+									</did>
+									<controlaccess>
+										<genreform>état de section</genreform>
+										<geogname>Cazaux-Savès (Gers, France)</geogname>
+										<subject>cadastre</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_360708">
+									<did>
+										<unitid>ESUPPL 11170</unitid>
+										<unittitle>Matrice des propriétés foncières.</unittitle>
+										<unitdate normal="1835/1910">1835-1910</unitdate>
+									</did>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Cazaux-Savès (Gers, France)</geogname>
+										<subject>cadastre</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_360709">
+									<did>
+										<unitid>ESUPPL 11171</unitid>
+										<unittitle>Matrice des propriétés bâties.</unittitle>
+										<unitdate normal="1882/1910">1882-1910</unitdate>
+									</did>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Cazaux-Savès (Gers, France)</geogname>
+										<subject>cadastre</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c level="recordgrp" id="_360710">
+								<did>
+									<unitid>ESUPPL 11172 - 11173</unitid>
+									<unittitle>Cadastre révisé (1910).</unittitle>
+								</did>
+								<c level="item" id="_360711">
+									<did>
+										<unitid>ESUPPL 11172</unitid>
+										<unittitle>Matrice des propriétés bâties.</unittitle>
+										<unitdate normal="1911/1965">1911-1965</unitdate>
+									</did>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Cazaux-Savès (Gers, France)</geogname>
+										<subject>cadastre</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_360712">
+									<did>
+										<unitid>ESUPPL 11173</unitid>
+										<unittitle>Matrice des propriétés non bâties.</unittitle>
+										<unitdate normal="1914/1965">1914-1965</unitdate>
+									</did>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Cazaux-Savès (Gers, France)</geogname>
+										<subject>cadastre</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+						<c level="recordgrp" id="_360713">
+							<did>
+								<unitid>ESUPPL 11174 - 11177</unitid>
+								<unittitle>Contributions directes. - Contribution foncière, contribution personnelle-mobilière, contribution des portes et fenêtres et des patentes.</unittitle>
+								<unitdate normal="1805/1926">an XIV-1926</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>impôts locaux</subject>
+								<subject>fiscalité</subject>
+							</controlaccess>
+							<c level="recordgrp" id="_360714">
+								<did>
+									<unitid>ESUPPL 11174 - 11175</unitid>
+									<unittitle>Matrices générales.</unittitle>
+									<unitdate normal="1829/1926">1829-1926</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>rôle d'imposition</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>impôts locaux</subject>
+								</controlaccess>
+								<c level="file" id="_360715">
+									<did>
+										<unitid>ESUPPL 11174</unitid>
+										<unittitle>1829-1845.</unittitle>
+										<unitdate normal="1829/1845">1829-1845</unitdate>
+									</did>
+									<controlaccess>
+										<genreform>rôle d'imposition</genreform>
+										<geogname>Cazaux-Savès (Gers, France)</geogname>
+										<subject>fiscalité</subject>
+										<subject>impôts locaux</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_360716">
+									<did>
+										<unitid>ESUPPL 11175</unitid>
+										<unittitle>1850-1926.</unittitle>
+										<unitdate normal="1850/1926">1850-1926</unitdate>
+									</did>
+									<controlaccess>
+										<genreform>rôle d'imposition</genreform>
+										<geogname>Cazaux-Savès (Gers, France)</geogname>
+										<subject>fiscalité</subject>
+										<subject>impôts locaux</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c level="file" id="_360717">
+								<did>
+									<unitid>ESUPPL 11176</unitid>
+									<unittitle>Mandements.</unittitle>
+									<unitdate normal="1805/1851">an XIV-1851</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>pièce comptable</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>impôts locaux</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_360718">
+								<did>
+									<unitid>ESUPPL 11177</unitid>
+									<unittitle>Tableaux de répartition entre l'État, du Département et de la commune.</unittitle>
+									<unitdate normal="1881/1911">1881-1911</unitdate>
+								</did>
+								<controlaccess>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>impôts locaux</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="item" id="_360719">
+							<did>
+								<unitid>ESUPPL 11178</unitid>
+								<unittitle>Déclarations des constructions nouvelles, de reconstruction et d'affectation de terrains à des usages commerciaux ou industriels : registre.</unittitle>
+								<unitdate normal="1891/1962">1891-1962</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>fiscalité</subject>
+								<subject>contribuable</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_360720">
+							<did>
+								<unitid>ESUPPL 11179</unitid>
+								<unittitle>Taxe sur les chiens : rôles.</unittitle>
+								<unitdate normal="1867/1872">1867-1872</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>rôle d'imposition</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>fiscalité</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_360721">
+							<did>
+								<unitid>ESUPPL 11180</unitid>
+								<unittitle>Répartiteurs et classificateurs. - Nomination : arrêtés préfectoraux, état de présentation des candidats, correspondance.</unittitle>
+								<unitdate normal="1911/1931">1911-1931</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>fonctionnaire de l'État</subject>
+								<subject>recouvrement fiscal</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Affaires militaires</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Recrutement</unittitle>
+						</did>
+						<c level="file" id="_360722">
+							<did>
+								<unitid>ESUPPL 11181</unitid>
+								<unittitle>Recensement des classes de 1816 à 1950 : tableaux de recensement.</unittitle>
+								<unitdate normal="1816/1950">1816-1950</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<scopecontent>
+								<p>Lacunes des classes 1823, 1833, 1845, 1891, 1893, 1899, 1901, 1903, 1914, 1935-1944 et 1946.</p>
+							</scopecontent>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>recrutement militaire</subject>
+								<subject>conscription</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_360723">
+							<did>
+								<unitid>ESUPPL 11182</unitid>
+								<unittitle>Armée territoriale. - Recensement des classes de 1855 à 1866 : tableaux de recensement.</unittitle>
+								<unitdate normal="1855/1866">1855-1866</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>recrutement militaire</subject>
+								<subject>conscription</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Administration militaire</unittitle>
+						</did>
+						<c level="file" id="_360724">
+							<did>
+								<unitid>ESUPPL 11183</unitid>
+								<unittitle>Recensement des chevaux, mulets, voitures attelées et automobiles : registres de déclarations des chevaux, juments et mulets de tout âge (1881-1912), listes de recensement des chevaux, juments et mulets ayant atteint l'âge prescrit par la loi (1880-1913), registres de déclaration des voitures attelées (1892-1907), registres de recensement des voitures attelées susceptibles d'être requises (1880-1921), listes de recensement des voitures automobiles (1911-1915), tableaux de classement des chevaux, juments, mulets et véhicules susceptibles d'être requis (1878-1924), registres de déclaration des véhicules (1910-1925), registres uniques des chevaux, juments, mulets ainsi que les véhicules hippomobiles et des bâts (1914-1939), listes nominatives de recensement des véhicules automobiles ou remorques (sd) ; feuilles de déclarations des chevaux, jument, mulets et mules (1938).</unittitle>
+								<unitdate normal="1878/1939">1878-1939, s.d.</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>équidé</subject>
+								<subject>remonte militaire</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_360725">
+							<did>
+								<unitid>ESUPPL 11184</unitid>
+								<unittitle>Logement et cantonnement des troupes : états des ressources que présente la commune.</unittitle>
+								<unitdate normal="1878/1914">1878-1884, 1914</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>armée</subject>
+								<subject>logement</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Mesures d'exception et faits de guerre</unittitle>
+						</did>
+						<c level="file" id="_360726">
+							<did>
+								<unitid>ESUPPL 11185</unitid>
+								<unittitle>Première Guerre mondiale (1914-1918). - Réquisition des chevaux, juments, mules et mulets : bulletins de réquisition.</unittitle>
+								<unitdate normal="1914/1918">1914-1918</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>équidé</subject>
+								<subject>remonte militaire</subject>
+								<subject>réquisitions militaires</subject>
+								<subject>Époque contemporaine</subject>
+								<subject>20e siècle</subject>
+								<subject>Guerre 1914-1918</subject>
+							</controlaccess>
+						</c>
+						<c level="recordgrp" id="_360727">
+							<did>
+								<unitid>ESUPPL 11186 - 11190</unitid>
+								<unittitle>Seconde Guerre mondiale (1939-1945).</unittitle>
+								<unitdate normal="1939/1946">1939-1946</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>guerre</subject>
+								<subject>Époque contemporaine</subject>
+								<subject>20e siècle</subject>
+								<subject>Guerre 1939-1945</subject>
+							</controlaccess>
+							<c level="recordgrp" id="_360728">
+								<did>
+									<unitid>ESUPPL 11186 - 11189</unitid>
+									<unittitle>Ravitaillement et réquisition.</unittitle>
+									<unitdate normal="1939/1946">1939-1946</unitdate>
+								</did>
+								<controlaccess>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>ravitaillement</subject>
+									<subject>réquisitions militaires</subject>
+									<subject>guerre</subject>
+									<subject>Époque contemporaine</subject>
+									<subject>20e siècle</subject>
+									<subject>Guerre 1939-1945</subject>
+								</controlaccess>
+								<c level="file" id="_360729">
+									<did>
+										<unitid>ESUPPL 11186</unitid>
+										<unittitle>Registres des titres et des cartes d'alimentation.</unittitle>
+										<unitdate normal="1945/1946">1945-1946</unitdate>
+									</did>
+									<controlaccess>
+										<geogname>Cazaux-Savès (Gers, France)</geogname>
+										<subject>alimentation</subject>
+										<subject>guerre</subject>
+										<subject>ravitaillement</subject>
+										<subject>Époque contemporaine</subject>
+										<subject>20e siècle</subject>
+										<subject>Guerre 1939-1945</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_360730">
+									<did>
+										<unitid>ESUPPL 11187</unitid>
+										<unittitle>Impositions en pommes de terre, en légumes secs et en foin : carnets des ordres de production et de livraison, état des réquisitions, correspondance.</unittitle>
+										<unitdate normal="1939/1945">[1939-1945]</unitdate>
+									</did>
+									<controlaccess>
+										<geogname>Cazaux-Savès (Gers, France)</geogname>
+										<subject>production agricole</subject>
+										<subject>ravitaillement</subject>
+										<subject>guerre</subject>
+										<subject>Époque contemporaine</subject>
+										<subject>20e siècle</subject>
+										<subject>Guerre 1939-1945</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_360731">
+									<did>
+										<unitid>ESUPPL 11188</unitid>
+										<unittitle>Aciers, fonte et fer : carnet des bons d'achat destinés aux agriculteurs.</unittitle>
+										<unitdate normal="1942">1942</unitdate>
+									</did>
+									<controlaccess>
+										<geogname>Cazaux-Savès (Gers, France)</geogname>
+										<subject>ravitaillement</subject>
+										<subject>guerre</subject>
+										<subject>métallurgie</subject>
+										<subject>Époque contemporaine</subject>
+										<subject>20e siècle</subject>
+										<subject>Guerre 1939-1945</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_360732">
+									<did>
+										<unitid>ESUPPL 11189</unitid>
+										<unittitle>Articles textiles et chaussures : cahiers d'attribution.</unittitle>
+										<unitdate normal="1943">1943</unitdate>
+									</did>
+									<controlaccess>
+										<geogname>Cazaux-Savès (Gers, France)</geogname>
+										<subject>guerre</subject>
+										<subject>ravitaillement</subject>
+										<subject>vêtement</subject>
+										<subject>Époque contemporaine</subject>
+										<subject>20e siècle</subject>
+										<subject>Guerre 1939-1945</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c level="item" id="_360733">
+								<did>
+									<unitid>ESUPPL 11190</unitid>
+									<unittitle>États généraux de la Renaissance française : cahier de doléances.</unittitle>
+									<unitdate normal="1945">1945</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>cahier de doléances</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>Époque contemporaine</subject>
+									<subject>20e siècle</subject>
+									<subject>Libération (1944-1945)</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Police. Hygiène publique. Justice</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Police générale</unittitle>
+						</did>
+						<c level="file" id="_360734">
+							<did>
+								<unitid>ESUPPL 11191</unitid>
+								<unittitle>Passeports pour l'intérieur.</unittitle>
+								<unitdate normal="1808/1853">1808-1853</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>passeport</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>circulation des personnes</subject>
+								<subject>surveillance du territoire</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Élections et personnel</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Élections</unittitle>
+						</did>
+						<c level="file" id="_360770">
+							<did>
+								<unitid>ESUPPL 11192</unitid>
+								<unittitle>Listes électorales.</unittitle>
+								<unitdate normal="1832/1935">1832-1848, 1912, 1921-1935, s.d.</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>liste électorale</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>élection politique</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_360771">
+							<did>
+								<unitid>ESUPPL 11193</unitid>
+								<unittitle>Élections politiques. - Organisation des opérations de vote et résultats, élections municipales : procès-verbaux des opérations de l'assemblée électorale, procès-verbaux constatant l'élection des conseillers municipaux, du maire et adjoint, procès-verbaux d'installation des conseillers municipaux (1831-1947) ; élections au conseil d'arrondissement : procès-verbaux des opérations de l'assemblée électorale (1861-1937) ; élections au conseil général : procès-verbaux des opérations de l'assemblée électorale (1864-1945), élections législatives : procès-verbaux des opérations de l'assemblée électorale (1869-1936) ; élections sénatoriales : procès-verbaux des opérations de l'assemblée électorale (1887, 1919) ; plébiscite et référendums : procès-verbaux des opérations électorales (1851-1958) ; élections générales de 1945 : procès-verbaux des opérations électorales (1945).</unittitle>
+								<unitdate normal="1931/1947">1931-1947</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>élection politique</subject>
+								<subject>élection municipale</subject>
+								<subject>élection législative</subject>
+								<subject>élection au conseil d'arrondissement</subject>
+								<subject>élection sénatoriale</subject>
+								<subject>référendum</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Personnel municipal</unittitle>
+						</did>
+						<c level="file" id="_360772">
+							<did>
+								<unitid>ESUPPL 11194</unitid>
+								<unittitle>Receveur. - Traitement : décompte pour servir à la fixation et à la révision du traitement.</unittitle>
+								<unitdate normal="1867/1926">1867-1926</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>fonctionnaire territorial</subject>
+								<subject>rémunération</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Finances de la commune</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Comptabilité</unittitle>
+						</did>
+						<c level="file" id="_360773">
+							<did>
+								<unitid>ESUPPL 11195</unitid>
+								<unittitle>Budgets : budgets, budgets primitifs, chapitres additionnels, budgets supplémentaires et délibérations relatives au règlement définitif des recettes et des dépenses.</unittitle>
+								<unitdate normal="1804/1950">an XIII-1871, 1900-1950</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>budget</genreform>
+								<genreform>budget primitif</genreform>
+								<genreform>budget supplémentaire</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>finances communales</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_360774">
+							<did>
+								<unitid>ESUPPL 11196</unitid>
+								<unittitle>Livres de détails des recettes et des dépenses.</unittitle>
+								<unitdate normal="1911/1932">1911-1932</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>livre comptable</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>finances communales</subject>
+								<subject>comptabilité publique</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_360775">
+							<did>
+								<unitid>ESUPPL 11197</unitid>
+								<unittitle>Bordereaux détaillé des recettes et des dépenses.</unittitle>
+								<unitdate normal="1864/1908">1864-1908</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>finances communales</subject>
+								<subject>comptabilité publique</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_360776">
+							<did>
+								<unitid>ESUPPL 11198</unitid>
+								<unittitle>Comptes administratifs.</unittitle>
+								<unitdate normal="1808/1950">1808-1871, 1929-1950</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>compte administratif</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>finances communales</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_360777">
+							<did>
+								<unitid>ESUPPL 11199</unitid>
+								<unittitle>Comptes de gestion.</unittitle>
+								<unitdate normal="1862/1944">1862-1944</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<genreform>compte de gestion</genreform>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>finances communales</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_360778">
+							<did>
+								<unitid>ESUPPL 11200</unitid>
+								<unittitle>Approbation des comptes par le conseil de préfecture : arrêtés.</unittitle>
+								<unitdate normal="1829/1864">1829-1864</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>finances communales</subject>
+								<subject>comptabilité publique</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Revenus et charges de la commune</unittitle>
+						</did>
+						<c level="file" id="_360779">
+							<did>
+								<unitid>ESUPPL 11201</unitid>
+								<unittitle>Emprunt de 1971 francs contracté auprès de la Caisse des dépôts et consignations : contrat.</unittitle>
+								<unitdate normal="1897">1897</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>comptabilité publique</subject>
+								<subject>dette publique</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Édifices communaux. Monuments et établissements publics</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Édifices publics</unittitle>
+						</did>
+						<c level="file" id="_360780">
+							<did>
+								<unitid>ESUPPL 11202</unitid>
+								<unittitle>Mairie. - Réparations : mandat de paiement (1938). Monuments aux morts. - Édification : reçu (1929).</unittitle>
+								<unitdate normal="1929/1938">1929, 1938</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>hôtel de ville</subject>
+								<subject>commémoration</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Travaux publics. Voirie. Moyens de transport. Régime des eaux</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Travaux publics et voirie en général</unittitle>
+						</did>
+						<c level="recordgrp" id="_360781">
+							<did>
+								<unitid>ESUPPL 11203 - 11205</unitid>
+								<unittitle>Chemins vicinaux.</unittitle>
+								<unitdate normal="1867/1955">1867-1955</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>réseau routier</subject>
+							</controlaccess>
+							<c level="file" id="_360782">
+								<did>
+									<unitid>ESUPPL 11203</unitid>
+									<unittitle>Budgets : budgets, chapitres additionnels, délibération relative à l'emploi des ressources</unittitle>
+									<unitdate normal="1875/1955">1875-1955</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>budget</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>réseau routier</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_360783">
+								<did>
+									<unitid>ESUPPL 11204</unitid>
+									<unittitle>Comptes.</unittitle>
+									<unitdate normal="1884/1924">1884-1924</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>compte financier</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>réseau routier</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_360749">
+								<did>
+									<unitid>ESUPPL 11205</unitid>
+									<unittitle>Travaux de réparation et entretien des chemins : rôles de prestation en argent ou en nature (1867-1872) et registre des déclarations d'option (1891).</unittitle>
+									<unitdate normal="1867/1891">1867-1891</unitdate>
+								</did>
+								<controlaccess>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>réseau routier</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Cultes</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Culte catholique</unittitle>
+						</did>
+						<c level="recordgrp" id="_360800">
+							<did>
+								<unitid>ESUPPL 11206 - 11208</unitid>
+								<unittitle>Conseil de fabrique puis conseil paroissial.</unittitle>
+								<unitdate normal="1853/1935">1853-1935</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>fabrique d'église</subject>
+							</controlaccess>
+							<c level="item" id="_360750">
+								<did>
+									<unitid>ESUPPL 11206</unitid>
+									<unittitle>Registre des procès-verbaux.</unittitle>
+									<unitdate normal="1888/1935">1888-1935</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>procès-verbal</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>fabrique d'église</subject>
+								</controlaccess>
+							</c>
+							<c level="recordgrp" id="_360751">
+								<did>
+									<unitid>ESUPPL 11207 - 11208</unitid>
+									<unittitle>Registres-journaux des recettes et des dépenses.</unittitle>
+									<unitdate normal="1853/1906">1853-1906</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>livre comptable</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>fabrique d'église</subject>
+								</controlaccess>
+								<c level="item" id="_360752">
+									<did>
+										<unitid>ESUPPL 11207</unitid>
+										<unittitle>1853-1894.</unittitle>
+										<unitdate normal="1853/1894">1853-1894</unitdate>
+									</did>
+									<controlaccess>
+										<genreform>livre comptable</genreform>
+										<geogname>Cazaux-Savès (Gers, France)</geogname>
+										<subject>fabrique d'église</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_360753">
+									<did>
+										<unitid>ESUPPL 11208</unitid>
+										<unittitle>1894-1906.</unittitle>
+										<unitdate normal="1894/1906">1894-1906</unitdate>
+									</did>
+									<controlaccess>
+										<genreform>livre comptable</genreform>
+										<geogname>Cazaux-Savès (Gers, France)</geogname>
+										<subject>fabrique d'église</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Assistance et prévoyance</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Bureaux de bienfaisance, secours d'urgence</unittitle>
+						</did>
+						<c level="recordgrp" id="_360754">
+							<did>
+								<unitid>ESUPPL 11209 - 11214</unitid>
+								<unittitle>Bureau de bienfaisance.</unittitle>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>structure communale d'aide sociale</subject>
+							</controlaccess>
+							<c level="item" id="_360755">
+								<did>
+									<unitid>ESUPPL 11209</unitid>
+									<unittitle>Commission administrative : délibérations.</unittitle>
+									<unitdate normal="1903/1904">1903-1904</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>structure communale d'aide sociale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_360756">
+								<did>
+									<unitid>ESUPPL 11210</unitid>
+									<unittitle>Budgets, chapitres additionnels (1934-1937) et état de la situation financière (1938).</unittitle>
+									<unitdate normal="1934/1938">1934-1938</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>budget</genreform>
+									<genreform>budget supplémentaire</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>structure communale d'aide sociale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_360757">
+								<did>
+									<unitid>ESUPPL 11211</unitid>
+									<unittitle>Livres de détails des recettes et des dépenses.</unittitle>
+									<unitdate normal="1911/1932">1911-1932</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>livre comptable</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>structure communale d'aide sociale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_360758">
+								<did>
+									<unitid>ESUPPL 11212</unitid>
+									<unittitle>Bordereaux détaillés des recettes et des dépenses.</unittitle>
+									<unitdate normal="1880/1908">1880-1908</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>pièce comptable</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>structure communale d'aide sociale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_360759">
+								<did>
+									<unitid>ESUPPL 11213</unitid>
+									<unittitle>Comptes administratifs.</unittitle>
+									<unitdate normal="1913/1935">1913, 1930, 1933, 1935</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>compte administratif</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>structure communale d'aide sociale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_360760">
+								<did>
+									<unitid>ESUPPL 11214</unitid>
+									<unittitle>Comptes de gestion.</unittitle>
+									<unitdate normal="1880/1941">1880-1941</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>compte de gestion</genreform>
+									<geogname>Cazaux-Savès (Gers, France)</geogname>
+									<subject>structure communale d'aide sociale</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Application des lois d'assistance et de prévoyance</unittitle>
+						</did>
+						<c level="file" id="_360761">
+							<did>
+								<unitid>ESUPPL 11215</unitid>
+								<unittitle>Allocations et pensions militaires . - Allocations militaires : fiches des bénéficiaires (1940) ; retraite du combattant : fiches des bénéficiaires (1930-1943) ; allocations provisoire d'attente : fiches des bénéficiaires (1938-1941) ; pension aux ascendants de militaires ou délégations familiales : fiches des bénéficiaires et bulletins individuels (1939-1943).</unittitle>
+								<unitdate normal="1930/1943">1930-1943</unitdate>
+								<origination label="producteur">Commune de Cazaux-Savès</origination>
+							</did>
+							<controlaccess>
+								<geogname>Cazaux-Savès (Gers, France)</geogname>
+								<subject>allocation militaire</subject>
+								<subject>militaire</subject>
+								<subject>assurance vieillesse</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+			</c>
+		</dsc>
+	</archdesc>
+</ead>

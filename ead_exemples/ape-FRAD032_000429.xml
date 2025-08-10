@@ -1,0 +1,1260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:cpf="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+		<eadid url="https://www.archives32.fr/wp-content/uploads/2024/06/FRAD032_000429.pdf" countrycode="FR" mainagencycode="FRAD032" identifier="FRAD032_000429">FRAD032_000429</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Archives communales de Castelnau-sur-l'Auvignon</titleproper>
+				<subtitle>Répertoire numérique</subtitle>
+				<author>élaboré par Solène Pons sous la direction de Pascal Geneste et Nadine Rouayroux</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives départementales du Gers</publisher>
+				<date>22/05/2024</date>
+				<address>
+					<addressline>81 route de Pessan - 32001 Auch</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Cet instrument de recherche a été exporté au format XML depuis le progiciel de gestion d'archives Thot par les archives départementales du Gers.</creation>
+			<langusage>Instrument de recherche rédigé en <language langcode="fre">français</language>
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="fonds" otherlevel="groupe-de-fonds">
+		<did>
+			<unitid>ESUPPL 10921 - 10965</unitid>
+			<unittitle>Archives communales de Castelnau-sur-l'Auvignon</unittitle>
+			<unitdate normal="1692/1977">1692-1977</unitdate>
+			<origination label="producteur">Castelnau-sur-l'Auvignon (Gers, France)</origination>
+			<physdesc>
+				</physdesc>
+			<langmaterial>Français</langmaterial>
+		</did>
+		<bioghist>
+			<p>Castelnau construit autour du château féodal, à l'état de ruine aujourd'hui, était le siège de la seigneurie de Firmacon. Sous l'Ancien Régime, le village était placé dans la généralité et parlement de Bordeaux et dépendait de la sénéchaussée de Gascogne puis de celle de Condom à partir de 1550. Du point de vue religieux, la paroisse relevait du diocèse de Condom. La cité prend son nom actuel à la Révolution ; elle se nommait antérieurement Castelnau-de-Loubères.</p>
+			<p>Par une ordonnance royale du 26 juin 1836, la commune voisine d'Abrin qui relevait du canton de Valence lui est rattachée. Le chef-lieu de la nouvelle commune est fixé à Castelnau-sur-l'Auvignon.</p>
+			<p>Abrin fut le siège d'une commanderie de l'Ordre de Malte fondée au XIIe siècle à proximité des chemins de Saint-Jacques de Compostelle. Elle comprenait un couvent, une église et une métairie. Durant les guerres de Religion, les protestants dévastèrent l'église et détruisirent une grande partie des bâtiments. De l'église, ne subsistent que deux arcades, inscrites partiellement au titre des Monuments historiques par arrêté du 10 décembre 1929. De plus, Jean de Lomagne, seigneur de Firmacon (décédé en 1365), désigne dans son testament, l'église d'Abrin pour y établir la sépulture familiale. L'église est passée dans le domaine privé. La paroisse d'Abrin comprenait une annexe Aurens. </p>
+			<p>Le village a été entièrement détruit le 21 juin 1944 lors de combats de libération du Gers. Depuis fin 1942, il abritait un réseau de résistants et un maquis. Ne subsistent que le donjon du château médiéval et une partie de l'église de Castelnau-sur-l'Auvignon. Un monument aux morts commémore cette tragédie. Le village a été reconstruit dans les années 1950. L'une des cloches de l'église paroissiale datant de 1571 est classée aux Monuments historiques au titre d'objet le 11 juillet 1942.</p>
+		</bioghist>
+		<custodhist>
+			<p>Un unique dépôt a été effectué en 2023 aux Archives départementales suite à l'inspection de la commune.</p>
+		</custodhist>
+		<acqinfo>
+			<p>Dépôt du 27 juin 2023 (entrée n° 2023-148).</p>
+		</acqinfo>
+		<scopecontent>
+			<p>Le fonds déposé comprend pour la période d'Ancien Régime les registres de baptêmes, mariages et sépultures des paroisses de Castelnau (1692-1792) et de Sainte-Germaine (1718-1792).</p>
+			<p>Pour la période moderne, le fonds est composé des registres des délibérations du conseil municipal (1831-1965) et du bureau de bienfaisance (1891-1942). Les registres d'état civil recouvrent la période de 1793 à 1859. Les matrices du cadastre napoléonien et du cadastre de 1910 sont également conservés.</p>
+			<p>Enfin, il faut noter la présence de l'ampliation de la citation pour l'attribution de la Croix de guerre de 1944 ainsi que les dossiers de reconstruction de la commune (1945-1952) et d'érection du monument aux morts (1951).</p>
+			<p>Quelques documents d'archives de l'ancienne commune d'Abrin sont également présents dans le fonds : les registres d'état civil de 1793 à 1836 ainsi que des documents cadastraux comme la table des propriétaires et le registre des mutations.</p>
+		</scopecontent>
+		<accruals>
+			<p>Le fonds est ouvert et s'accroît par dépôt de la commune.</p>
+		</accruals>
+		<arrangement>
+			<p>Le classement suit l'arrêté interministériel du 31 décembre 1926 portant règlement des archives des communes. La cotation des archives déposées des communes de moins de 2000 habitants se fait en continu dans la série ESUPPL.</p>
+		</arrangement>
+		<accessrestrict>
+			<p>La communicabilité des archives communales est soumise aux délais fixés par la loi du 15 juillet 2008 modifiant le code du patrimoine (article L 213-2, <extref xlink:type="simple" xlink:href="https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159942">legifrance.gouv.fr/codes/id/LEGISCTA000006159942</extref>). Cependant, même pour les documents communicables en application de la loi, le mauvais état matériel des documents ne permet pas d'assurer leur consultation en salle de lecture.</p>
+		</accessrestrict>
+		<userestrict>
+			<p>Les documents dont l'état matériel le permet sont reproductibles sous réserve de mentionner la cote des documents et l'institution de conservation en cas de publication.</p>
+			<p>Les documents reliés ne peuvent pas être photocopiés. Les reproductions de documents avec un appareil photographique sans flash sont autorisées en salle de lecture.</p>
+		</userestrict>
+		<relatedmaterial>
+			<p>I. Ancien Régime</p>
+			<list>
+				<item>série C : archives des administrations provinciales (intendance, subdélégations, élections, collecte) ;</item>
+				<item>sous-série 9 B : justice locale et seigneuriale de la sénéchaussée de Gascogne ;</item>
+				<item>série G : archives du clergé séculier (visites pastorales, procès-verbaux de visite et de vérification des réparations des églises du diocèse, archives des paroisses, fabriques d'église et cures) ;</item>
+				<item>séries E et I : archives des communautés d'habitants aux XVIe-XVIIIe siècles (chartes de coutumes, hommages, délibérations consulaires, documents financiers, livres terrier, compoix et cadastres, registres paroissiaux) ; archives de familles ;</item>
+				<item>sous-série 5 E : registres paroissiaux (fonds des sénéchaussées).</item>
+			</list>
+			<p>II. Période révolutionnaire</p>
+			<list>
+				<item>série L : justice, municipalités de canton, comités de surveillance, sociétés populaires ;</item>
+				<item>série Q : vente des biens nationaux. Yves Coustau, Dépouillement des procès-verbaux d'adjudication des biens nationaux de 1re origine et 2e origine, 1962, 2 volumes.</item>
+			</list>
+			<p>III. Période contemporaine</p>
+			<p>1. Série E</p>
+			<list>
+				<item>sous-série 5 E : registres d'état civil, tables décennales (fonds du greffe du tribunal de grande instance d'Auch).</item>
+			</list>
+			<p>2. Série M</p>
+			<list>
+				<item>sous-série 1 M : regroupement de communes, délimitation du territoire ;</item>
+				<item>sous-série 3 M : conseils municipaux, documents électoraux ;</item>
+				<item>sous-série 6 M : recensement de population, statistiques démographiques, naturalisations, état civil, agriculture.</item>
+			</list>
+			<p>3. Série O</p>
+			<list>
+				<item>sous-série 1 O : affaires communales, administration générale des communes, bâtiments et biens communaux, syndicats intercommunaux ;</item>
+				<item>sous-série 2 O : administration générale de la commune, travaux de construction et d'entretien sur les bâtiments communaux et les équipements collectifs, acquisition et aliénation des biens communaux, comptabilité communale, assistance et prévoyance ; </item>
+				<item>sous-série 3 O : voirie communale, chemins vicinaux ;</item>
+				<item>sous-série 4 O : dons et legs.</item>
+			</list>
+			<p>4. Série P</p>
+			<list>
+				<item>sous-série 3 P : délimitation cadastrale, documentation cadastrale ;</item>
+				<item>sous-série 6 P : postes.</item>
+			</list>
+			<p>5. Autres séries modernes</p>
+			<list>
+				<item>sous-série 2 R : monuments aux morts ;</item>
+				<item>série S : travaux publics (routes, chemins de fer, moulins, usines hydrauliques, électrification, mines, carrières, tourbières) ;</item>
+				<item>série T : ouvertures et fermetures d'école, affaires scolaires, dossiers d'instituteurs et institutrices, monographies scolaires, dossiers de classement au titre des monuments historiques ;</item>
+				<item>série V : conseils de fabrique, églises ;</item>
+				<item>série X : bureaux de bienfaisance.</item>
+			</list>
+			<p>6. Archives contemporaines (postérieures à 1940)</p>
+			<list>
+				<item>sous-série 1 W : cabinet du préfet du Gers (1939-1945), en particulier la cote 1 W / 365 relative aux victimes civiles et miliaires ;</item>
+				<item>992 W, 1319 W : administration communale ;</item>
+				<item>1277 W : fermetures d'écoles.</item>
+			</list>
+			<p>IV. Archives notariales</p>
+			<list>
+				<item>sous-série 3 E : les archives des études notariales contiennent les éléments de l'histoire locale et des informations sur la vie des habitants ; on retrouve parfois dans les archives notariales des délibérations consulaires.</item>
+			</list>
+			<p>V. Archives privées, fonds entrés par voie extraordinaire</p>
+			<list>
+				<item>sous-série 1 J : pièces isolées et petits fonds ;</item>
+				<item>sous-série 14 J : papiers de Sylvain Daugé, prêtre et érudit local, notes sur des familles et des communes du Gers ;</item>
+				<item>sous-série 83 J : fonds de Macarez-Mainfroy, albums de cartes postales et photographies des communes du Gers ;</item>
+				<item>sous-série 88 J : fonds de Jean-Henri Ducos, dossiers documentaires sur les châteaux et maison-fortes du Gers ;</item>
+				<item>sous-série 101 J : fonds de Paul Mesplé, conservateur du musée des Augustins de Toulouse, albums de photographies des communes du Gers.</item>
+			</list>
+			<p>VI. Documents figurés</p>
+			<list>
+				<item>sous-série 1 Fi : cartes et plans ;</item>
+				<item>sous-série 2 Fi : dessins, gravures, estampes, lithographies, tirages photographiques ;</item>
+				<item>sous-série 6 Fi : cartes postales.</item>
+			</list>
+			<p>VII. Documentation</p>
+			<list>
+				<item>séries DAN et DAR : dossiers archéologiques et antiques ;</item>
+				<item>série CDOC : dossiers documentaires ;</item>
+				<item>série JX : presse locale ;</item>
+				<item>série PER : bulletins municipaux et paroissiaux ;</item>
+				<item>bibliothèque historique et administrative.</item>
+			</list>
+		</relatedmaterial>
+		<bibliography>
+			<p>Georges Courtès (dir.), Communes du département du Gers, vol. II : arrondissement de Condom, Auch : Société archéologique et historique du Gers, 2004, p. 32-34.</p>
+			<p>Sylvain Daugé, Les ruines du château des marquis de Firmacon à Castelnau-sur-l'Auvignon, Agen : imprimerie Moderne, 1923.</p>
+			<p>Sylvain Daugé, « La commanderie d'Abrin », Bulletin de la Société archéologique, historique, littéraire et scientifique du GersAuch : Société archéologique et historique du Gers, 1921, p. 15-21.</p>
+			<p>Sylvain Daugé, La vieille cloche de Castelnau-sur-l'Auvignon, Bulletin de la Société archéologique, historique, littéraire et scientifique du Gers, Auch : Société archéologique et historique du Gers, 1918, p. 58-61.</p>
+		</bibliography>
+		<otherfindaid>
+			<p>Architerre, sources fiscales d'Ancien Régime (<extref xlink:type="simple" xlink:href="http://modelespace.univ-tlse2.fr">modelespace.univ-tlse2.fr</extref>).</p>
+		</otherfindaid>
+		<processinfo>
+			<p>Notice rédigée par PONS validée le </p>
+		</processinfo>
+		<controlaccess>
+			<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+			<geogname>Abrin (Castelnau-sur-l'Auvignon, Gers, France)</geogname>
+		</controlaccess>
+		<dsc>
+			<c>
+				<did>
+					<unittitle>Abrin</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Archives modernes (postérieures à 1789)</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>État civil</unittitle>
+						</did>
+						<c level="file" id="_358634">
+							<did>
+								<unitid>ESUPPL 10921</unitid>
+								<unittitle>Registres des naissances.</unittitle>
+								<unitdate normal="1794/1836">an III-an XIII, 1806-1829, 1831-1836</unitdate>
+								<origination label="producteur">Abrin (Castelnau-sur-l'Auvignon, Gers, France ; 1790-1836)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 23/05/2024 09:43:22
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+								<geogname>Abrin (Castelnau-sur-l'Auvignon, Gers, France)</geogname>
+								<subject>naissance</subject>
+								<subject>état civil</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358635">
+							<did>
+								<unitid>ESUPPL 10922</unitid>
+								<unittitle>Registres des mariages.</unittitle>
+								<unitdate normal="1793/1836">an II-an VI, an IX, an XI-XIII, 1808-1836</unitdate>
+								<origination label="producteur">Abrin (Castelnau-sur-l'Auvignon, Gers, France ; 1790-1836)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 23/05/2024 09:44:51
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+								<geogname>Abrin (Castelnau-sur-l'Auvignon, Gers, France)</geogname>
+								<subject>mariage</subject>
+								<subject>état civil</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358636">
+							<did>
+								<unitid>ESUPPL 10923</unitid>
+								<unittitle>Registres des décès.</unittitle>
+								<unitdate normal="1793/1836">an II-an XIV, 1806-1836</unitdate>
+								<origination label="producteur">Abrin (Castelnau-sur-l'Auvignon, Gers, France ; 1790-1836)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 23/05/2024 09:46:05
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+								<geogname>Abrin (Castelnau-sur-l'Auvignon, Gers, France)</geogname>
+								<subject>décès</subject>
+								<subject>état civil</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358637">
+							<did>
+								<unitid>ESUPPL 10924</unitid>
+								<unittitle>Tables alphabétiques (1821-1823) et décennales (1813-1836) des naissances, mariages et décès.</unittitle>
+								<unitdate normal="1813/1836">1813-1836</unitdate>
+								<origination label="producteur">Abrin (Castelnau-sur-l'Auvignon, Gers, France ; 1790-1836)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 23/05/2024 09:47:41
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+								<geogname>Abrin (Castelnau-sur-l'Auvignon, Gers, France)</geogname>
+								<subject>état civil</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Contributions. Administrations financières</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Impôts directs</unittitle>
+							</did>
+							<c level="recordgrp" id="_358638">
+								<did>
+									<unitid>ESUPPL 10925 - 10926</unitid>
+									<unittitle>Cadastre.</unittitle>
+									<unitdate normal="1812/1836">[1812-1836]</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 23/05/2024 09:50:25
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<geogname>Abrin (Castelnau-sur-l'Auvignon, Gers, France)</geogname>
+									<subject>cadastre</subject>
+									<subject>fiscalité immobilière</subject>
+									<subject>Époque contemporaine</subject>
+									<subject>19e siècle</subject>
+								</controlaccess>
+								<c level="item" id="_358639">
+									<did>
+										<unitid>ESUPPL 10925</unitid>
+										<unittitle>Table alphabétique des propriétaires.</unittitle>
+										<unitdate normal="1812/1836">[1812-1836]</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 23/05/2024 09:51:45
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>table</genreform>
+										<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+										<geogname>Abrin (Castelnau-sur-l'Auvignon, Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+										<subject>Époque contemporaine</subject>
+										<subject>19e siècle</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358640">
+									<did>
+										<unitid>ESUPPL 10926</unitid>
+										<unittitle>Registre des mutations.</unittitle>
+										<unitdate normal="1812/1836">[1812-1836]</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 23/05/2024 09:52:44
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>registre</genreform>
+										<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+										<geogname>Abrin (Castelnau-sur-l'Auvignon, Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+										<subject>Époque contemporaine</subject>
+										<subject>19e siècle</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+					</c>
+				</c>
+			</c>
+			<c>
+				<did>
+					<unittitle>Castelnau-sur-l'Auvignon</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Archives anciennes (antérieures à 1790)</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Cultes. Instruction publique. Assistance publique</unittitle>
+						</did>
+						<c level="file" id="_358641">
+							<did>
+								<unitid>ESUPPL 10927</unitid>
+								<unittitle>Paroisse de Castelnau : registres des baptêmes, mariages et sépultures.</unittitle>
+								<unitdate normal="1692/1792">1692, 1694-1703, 1711, 1750-1776, 1778-1782, 1784-1790, 1792</unitdate>
+								<origination label="producteur">Castelnau-sur-l'Auvignon (Gers, France)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 23/05/2024 09:54:37
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+								<geogname>Castelnau-sur-l'Auvignon (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358642">
+							<did>
+								<unitid>ESUPPL 10928</unitid>
+								<unittitle>Paroisse de Sainte-Germaine : registres des baptêmes, mariages et sépultures.</unittitle>
+								<unitdate normal="1718/1792">1718-1729, 1731-1745, 1747-1759-1776, 1778-1792</unitdate>
+								<origination label="producteur">Castelnau-sur-l'Auvignon (Gers, France)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 23/05/2024 09:55:43
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+								<geogname>Sainte-Germaine (Condom, Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Archives modernes (postérieures à 1789)</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Administration générale de la commune</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Conseil municipal</unittitle>
+							</did>
+							<c level="recordgrp" id="_358643">
+								<did>
+									<unitid>ESUPPL 10929 - 10935</unitid>
+									<unittitle>Registres des délibérations.</unittitle>
+									<unitdate normal="1831/1965">1831-1965</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 23/05/2024 09:57:24
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+								<c level="file" id="_358644">
+									<did>
+										<unitid>ESUPPL 10929</unitid>
+										<unittitle>1831-1836.</unittitle>
+										<unitdate normal="1831/1836">1831-1836</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 23/05/2024 09:57:55
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+										<subject>administration communale</subject>
+										<subject>conseil municipal</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358645">
+									<did>
+										<unitid>ESUPPL 10930</unitid>
+										<unittitle>1838 (12 avril)-1846 (11 octobre).</unittitle>
+										<unitdate normal="1838/1846">1838-1846</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 23/05/2024 09:58:27
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+										<subject>administration communale</subject>
+										<subject>conseil municipal</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358646">
+									<did>
+										<unitid>ESUPPL 10931</unitid>
+										<unittitle>1846 (25 octobre)-1859 (17 décembre).</unittitle>
+										<unitdate normal="1846/1859">1846-1859</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 23/05/2024 09:59:14
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+										<subject>administration communale</subject>
+										<subject>conseil municipal</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358647">
+									<did>
+										<unitid>ESUPPL 10932</unitid>
+										<unittitle>1859 (21 décembre)-1874 (8 février).</unittitle>
+										<unitdate normal="1859/1874">1859-1874</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 23/05/2024 09:59:44
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+										<subject>administration communale</subject>
+										<subject>conseil municipal</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358648">
+									<did>
+										<unitid>ESUPPL 10933</unitid>
+										<unittitle>1874 (8 mars)-1891 (1er mars).</unittitle>
+										<unitdate normal="1874/1891">1874-1891</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 23/05/2024 10:00:22
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+										<subject>administration communale</subject>
+										<subject>conseil municipal</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358649">
+									<did>
+										<unitid>ESUPPL 10934</unitid>
+										<unittitle>1891 (19 juin)-1936.</unittitle>
+										<unitdate normal="1891/1936">1891-1936</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 23/05/2024 10:00:54
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+										<subject>administration communale</subject>
+										<subject>conseil municipal</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358650">
+									<did>
+										<unitid>ESUPPL 10935</unitid>
+										<unittitle>1944 (25 septembre)-1965 (13 juin).</unittitle>
+										<unitdate normal="1944/1965">1944-1965</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 23/05/2024 10:01:25
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+										<subject>administration communale</subject>
+										<subject>conseil municipal</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Actes de l'administration municipale</unittitle>
+							</did>
+							<c level="file" id="_358651">
+								<did>
+									<unitid>ESUPPL 10936</unitid>
+									<unittitle>Correspondance reçue et envoyée.</unittitle>
+									<unitdate normal="1834/1954">1834-1954</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 23/05/2024 10:02:56
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>administration communale</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Administration de la commune</unittitle>
+							</did>
+							<c level="item" id="_358652">
+								<did>
+									<unitid>ESUPPL 10937</unitid>
+									<unittitle>Inventaire du mobilier et des archives : procès-verbal de récolement.</unittitle>
+									<unitdate normal="1843">1843</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 23/05/2024 10:04:59
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>inventaire</genreform>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>patrimoine écrit</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358653">
+								<did>
+									<unitid>ESUPPL 10938</unitid>
+									<unittitle>Révision du nom de la commune : correspondance.</unittitle>
+									<unitdate normal="1951">1951</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 23/05/2024 10:05:50
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>administration communale</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>État civil</unittitle>
+						</did>
+						<c level="recordgrp" id="_358654">
+							<did>
+								<unitid>ESUPPL 10939 - 10940</unitid>
+								<unittitle>Registres des naissances, mariages et décès.</unittitle>
+								<unitdate normal="1793/1810">1793-1810</unitdate>
+								<origination label="producteur">Castelnau-sur-l'Auvignon (Gers, France)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 23/05/2024 10:06:48
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+								<subject>état civil</subject>
+							</controlaccess>
+							<c level="file" id="_358655">
+								<did>
+									<unitid>ESUPPL 10939</unitid>
+									<unittitle>1793-an V.</unittitle>
+									<unitdate normal="1793/1797">1793-an V</unitdate>
+								</did>
+								<scopecontent>
+									<p>Contient également les publications de mariages et actes préliminaires de divorces (1793-an IV).</p>
+								</scopecontent>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 23/05/2024 10:07:36
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+									<subject>état civil</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358656">
+								<did>
+									<unitid>ESUPPL 10940</unitid>
+									<unittitle>an VI-1810.</unittitle>
+									<unitdate normal="1797/1810">an VI-1810</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 23/05/2024 10:08:42
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+									<subject>état civil</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="file" id="_358657">
+							<did>
+								<unitid>ESUPPL 10941</unitid>
+								<unittitle>Registres des naissances.</unittitle>
+								<unitdate normal="1811/1866">1811-1859, 1866</unitdate>
+								<origination label="producteur">Castelnau-sur-l'Auvignon (Gers, France)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 23/05/2024 10:11:11
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358658">
+							<did>
+								<unitid>ESUPPL 10942</unitid>
+								<unittitle>Registres des mariages.</unittitle>
+								<unitdate normal="1811/1859">1811-1859</unitdate>
+								<origination label="producteur">Castelnau-sur-l'Auvignon (Gers, France)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 23/05/2024 10:11:49
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358659">
+							<did>
+								<unitid>ESUPPL 10943</unitid>
+								<unittitle>Registres des décès.</unittitle>
+								<unitdate normal="1811/1859">1811-1859</unitdate>
+								<origination label="producteur">Castelnau-sur-l'Auvignon (Gers, France)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 23/05/2024 10:12:22
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358660">
+							<did>
+								<unitid>ESUPPL 10944</unitid>
+								<unittitle>Tables alphabétiques des naissances, mariages et décès.</unittitle>
+								<unitdate normal="1807/1825">1807, 1821-1823, 1825</unitdate>
+								<origination label="producteur">Castelnau-sur-l'Auvignon (Gers, France)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 23/05/2024 10:12:59
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358661">
+							<did>
+								<unitid>ESUPPL 10945</unitid>
+								<unittitle>Registre des publications de mariages.</unittitle>
+								<unitdate normal="1891">1891</unitdate>
+								<origination label="producteur">Castelnau-sur-l'Auvignon (Gers, France)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 23/05/2024 10:14:36
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre</genreform>
+								<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Population. Économie sociale. Statistique</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Travail</unittitle>
+							</did>
+							<c level="item" id="_358662">
+								<did>
+									<unitid>ESUPPL 10946</unitid>
+									<unittitle>Registre de délivrance des livrets ouvriers.</unittitle>
+									<unitdate normal="1861/1897">1861-1897</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 23/05/2024 10:15:36
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>ouvrier</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Contributions. Administrations financières</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Impôts directs</unittitle>
+							</did>
+							<c level="recordgrp" id="_358663">
+								<did>
+									<unitid>ESUPPL 10947 - 10955</unitid>
+									<unittitle>Cadastre.</unittitle>
+									<unitdate normal="1826/1968">1826-1968</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 23/05/2024 10:17:09
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>cadastre</subject>
+									<subject>fiscalité immobilière</subject>
+									<subject>Époque contemporaine</subject>
+									<subject>19e siècle</subject>
+								</controlaccess>
+								<c level="recordgrp" id="_358664">
+									<did>
+										<unitid>ESUPPL 10947 - 10950</unitid>
+										<unittitle>Cadastre napoléonien.</unittitle>
+										<unitdate normal="1826/1910">[1826]-1911</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 23/05/2024 10:19:09
+										</p>
+									</processinfo>
+									<controlaccess>
+										<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+										<subject>Époque contemporaine</subject>
+										<subject>19e siècle</subject>
+									</controlaccess>
+									<c level="item" id="_358665">
+										<did>
+											<unitid>ESUPPL 10947</unitid>
+											<unittitle>Atlas.</unittitle>
+											<unitdate normal="1826">[1826]</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par PONS validée le 23/05/2024 10:20:13
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>atlas</genreform>
+											<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+											<subject>cadastre</subject>
+											<subject>fiscalité</subject>
+											<subject>Époque contemporaine</subject>
+											<subject>19e siècle</subject>
+										</controlaccess>
+									</c>
+									<c level="item" id="_358666">
+										<did>
+											<unitid>ESUPPL 10948</unitid>
+											<unittitle>État de sections.</unittitle>
+											<unitdate normal="1826">[1826]</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par PONS validée le 23/05/2024 10:22:21
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>état de section</genreform>
+											<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+											<subject>cadastre</subject>
+											<subject>fiscalité</subject>
+											<subject>Époque contemporaine</subject>
+											<subject>19e siècle</subject>
+										</controlaccess>
+									</c>
+									<c level="item" id="_358667">
+										<did>
+											<unitid>ESUPPL 10949</unitid>
+											<unittitle>Matrice des propriétés foncières.</unittitle>
+											<unitdate normal="1827/1910">1827-1910</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par PONS validée le 23/05/2024 10:23:15
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice cadastrale</genreform>
+											<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+											<subject>cadastre</subject>
+											<subject>fiscalité immobilière</subject>
+											<subject>Époque contemporaine</subject>
+											<subject>19e siècle</subject>
+										</controlaccess>
+									</c>
+									<c level="item" id="_358668">
+										<did>
+											<unitid>ESUPPL 10950</unitid>
+											<unittitle>Matrice des propriétés bâties.</unittitle>
+											<unitdate normal="1882/1911">1882-1911</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par PONS validée le 23/05/2024 10:18:32
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice cadastrale</genreform>
+											<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+											<subject>cadastre</subject>
+											<subject>fiscalité immobilière</subject>
+											<subject>Époque contemporaine</subject>
+											<subject>19e siècle</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c level="recordgrp" id="_358669">
+									<did>
+										<unitid>ESUPPL 10951 - 10952</unitid>
+										<unittitle>Cadastre révisé (1910).</unittitle>
+										<unitdate normal="1911/1968">1911-1968</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 23/05/2024 10:24:20
+										</p>
+									</processinfo>
+									<controlaccess>
+										<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+										<subject>Époque contemporaine</subject>
+										<subject>20e siècle</subject>
+									</controlaccess>
+									<c level="item" id="_358670">
+										<did>
+											<unitid>ESUPPL 10951</unitid>
+											<unittitle>Matrice des propriétés non bâties.</unittitle>
+											<unitdate normal="1913/1968">1913-1968</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par PONS validée le 23/05/2024 10:25:02
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice cadastrale</genreform>
+											<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+											<subject>cadastre</subject>
+											<subject>fiscalité immobilière</subject>
+											<subject>Époque contemporaine</subject>
+											<subject>20e siècle</subject>
+										</controlaccess>
+									</c>
+									<c level="item" id="_358671">
+										<did>
+											<unitid>ESUPPL 10952</unitid>
+											<unittitle>Matrice des propriétés bâties.</unittitle>
+											<unitdate normal="1911/1968">1911-1968</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par PONS validée le 23/05/2024 10:25:39
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice cadastrale</genreform>
+											<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+											<subject>cadastre</subject>
+											<subject>fiscalité immobilière</subject>
+											<subject>Époque contemporaine</subject>
+											<subject>20e siècle</subject>
+										</controlaccess>
+									</c>
+								</c>
+							</c>
+							<c level="recordgrp" id="_358672">
+								<did>
+									<unitid>ESUPPL 10953 - 10954</unitid>
+									<unittitle>Contributions directes.</unittitle>
+									<unitdate normal="1904/1977">1904-1977</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 23/05/2024 10:26:47
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>impôts locaux</subject>
+								</controlaccess>
+								<c level="file" id="_358673">
+									<did>
+										<unitid>ESUPPL 10953</unitid>
+										<unittitle>Contributions foncière, personnelle-mobilière et des portes et fenêtres : copies des matrices générales.</unittitle>
+										<unitdate normal="1904/1921">1904-1921</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 23/05/2024 10:27:34
+										</p>
+									</processinfo>
+									<controlaccess>
+										<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+										<subject>fiscalité</subject>
+										<subject>impôts locaux</subject>
+										<subject>taxe foncière</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_358674">
+									<did>
+										<unitid>ESUPPL 10954</unitid>
+										<unittitle>Contribution foncière, mobilière, et taxes d'enlèvement des ordures ménagères, d'habitation et autres taxes assimilées : copies des matrices générales.</unittitle>
+										<unitdate normal="1931/1977">1931-1977</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 23/05/2024 10:28:14
+										</p>
+									</processinfo>
+									<controlaccess>
+										<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+										<subject>fiscalité</subject>
+										<subject>impôts locaux</subject>
+										<subject>taxe foncière</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c level="item" id="_358675">
+								<did>
+									<unitid>ESUPPL 10955</unitid>
+									<unittitle>Rétribution scolaire : rôle.</unittitle>
+									<unitdate normal="1877">1877</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 23/05/2024 10:28:53
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>rôle d'imposition</genreform>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Affaires militaires</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Mesures d'exception et faits de guerre</unittitle>
+							</did>
+							<c level="recordgrp" id="_358676">
+								<did>
+									<unitid>ESUPPL 10956 - 10958</unitid>
+									<unittitle>Seconde Guerre mondiale (1939-1945).</unittitle>
+									<unitdate normal="1944/1952">1944-1952</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 22/05/2024 16:09:08
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>guerre</subject>
+									<subject>distinction honorifique</subject>
+									<subject>Guerre 1939-1945</subject>
+								</controlaccess>
+								<c level="file" id="_358677">
+									<did>
+										<unitid>ESUPPL 10956</unitid>
+										<unittitle>Ravitaillement : registres des titres et cartes d'alimentation.</unittitle>
+										<unitdate normal="1944/1945">1944-1945</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 23/05/2024 10:30:24
+										</p>
+									</processinfo>
+									<controlaccess>
+										<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+										<subject>guerre</subject>
+										<subject>ravitaillement</subject>
+										<subject>Guerre 1939-1945</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358678">
+									<did>
+										<unitid>ESUPPL 10957</unitid>
+										<unittitle>Attribution de la Croix de Guerre : ampliation de la citation.</unittitle>
+										<unitdate normal="1948">1948</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 23/05/2024 10:31:04
+										</p>
+									</processinfo>
+									<controlaccess>
+										<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+										<subject>guerre</subject>
+										<subject>distinction honorifique</subject>
+										<subject>Guerre 1939-1945</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_358679">
+									<did>
+										<unitid>ESUPPL 10958</unitid>
+										<unittitle>Reconstruction de la commune. - Déclaration de la commune comme étant sinistrée : arrêté ministériel (1945) ; dossier du projet : arrêtés préfectoraux et ministériels, procès-verbal d'enquête, délibération du conseil municipal, rapport, programme, plans, correspondance (1945-1949) ; achèvement : rapport de l'architecte (1952).</unittitle>
+										<unitdate normal="1945/1952">1945-1952</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 23/05/2024 10:31:32
+										</p>
+									</processinfo>
+									<controlaccess>
+										<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+										<subject>guerre</subject>
+										<subject>reconstruction</subject>
+										<subject>dommages de guerre</subject>
+										<subject>Guerre 1939-1945</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Police. Hygiène publique. Justice</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Hygiène publique et salubrité</unittitle>
+							</did>
+							<c level="item" id="_358680">
+								<did>
+									<unitid>ESUPPL 10959</unitid>
+									<unittitle>Vaccination : liste des personnes vaccinées.</unittitle>
+									<unitdate normal="1939">1939</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 23/05/2024 10:32:12
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>vaccination</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Finances de la commune</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Comptabilité</unittitle>
+							</did>
+							<c level="file" id="_358681">
+								<did>
+									<unitid>ESUPPL 10960</unitid>
+									<unittitle>Budgets : délibérations relatives au règlement définitif des recettes et dépenses.</unittitle>
+									<unitdate normal="1888">1888</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 28/05/2024 16:42:44
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>finances communales</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Édifices communaux. Monuments et établissements publics</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Édifices publics</unittitle>
+							</did>
+							<c level="file" id="_358682">
+								<did>
+									<unitid>ESUPPL 10961</unitid>
+									<unittitle>Mairie-école. - Reconstruction : avant-projet, cahier des charges, devis descriptif et estimatif, plans, soumission, arrêtés préfectoraux, procès-verbal de réception, correspondance.</unittitle>
+									<unitdate normal="1950/1953">1950-1953</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 28/05/2024 16:43:44
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>hôtel de ville</subject>
+									<subject>école</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358683">
+								<did>
+									<unitid>ESUPPL 10962</unitid>
+									<unittitle>Monument à la mémoire des morts tombés pour la libération de la France. - Érection : notice explicative, devis, plans, extrait du registre des délibérations du conseil municipal, arrêté préfectoral, correspondance.</unittitle>
+									<unitdate normal="1951">1951</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 28/05/2024 16:45:15
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>commémoration</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Travaux publics. Voirie. Moyens de transport. Régime des eaux</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Moyens de transport et travaux divers</unittitle>
+							</did>
+							<c level="file" id="_358684">
+								<did>
+									<unitid>ESUPPL 10963</unitid>
+									<unittitle>Électrification. - Distribution d'énergie électrique, concession : cahier des charges, polices d'abonnement, plans, promesses de vente, extrait du registre des délibérations du conseil municipal, marché de gré à gré.</unittitle>
+									<unitdate normal="1954/1955">1954-1955</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 28/05/2024 16:46:15
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>distribution électrique</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Assistance et prévoyance</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Bureaux de bienfaisance, secours d'urgence</unittitle>
+							</did>
+							<c level="item" id="_358685">
+								<did>
+									<unitid>ESUPPL 10964</unitid>
+									<unittitle>Bureau de bienfaisance : registre des délibérations.</unittitle>
+									<unitdate normal="1891/1942">1891-1942</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 28/05/2024 16:47:33
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>structure communale d'aide sociale</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Instruction publique. Sciences, lettres et arts</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Instruction publique</unittitle>
+							</did>
+							<c level="file" id="_358686">
+								<did>
+									<unitid>ESUPPL 10965</unitid>
+									<unittitle>Caisse des écoles : statuts.</unittitle>
+									<unitdate normal="1930">1930</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 28/05/2024 16:48:41
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Castelnau-sur-l'Auvignon (Gers, France)</geogname>
+									<subject>école</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+			</c>
+		</dsc>
+	</archdesc>
+</ead>

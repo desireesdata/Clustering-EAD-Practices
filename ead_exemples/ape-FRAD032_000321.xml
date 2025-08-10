@@ -1,0 +1,1361 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:cpf="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+		<eadid url="https://www.archives32.fr/wp-content/uploads/2024/06/FRAD032_000321-2.pdf" countrycode="FR" mainagencycode="FRAD032" identifier="FRAD032_000321">FRAD032_000321</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Archives communales de Saint-Blancard</titleproper>
+				<subtitle>Répertoire méthodique</subtitle>
+				<author>élaboré par Solène Pons sous la direction de Pascal Geneste et Nadine Rouayroux</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives départementales du Gers</publisher>
+				<date>31/05/2024</date>
+				<address>
+					<addressline>81 route de Pessan - 32001 Auch</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Cet instrument de recherche a été exporté au format XML depuis le progiciel de gestion d'archives Thot par les archives départementales du Gers.</creation>
+			<langusage>Instrument de recherche rédigé en <language langcode="fre">français</language>
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="fonds">
+		<did>
+			<unitid>ESUPPL 717 - 718, 3228-3231, 5917, 11115 - 11162</unitid>
+			<unittitle>Archives communales de Saint-Blancard</unittitle>
+			<unitdate normal="1601/1963">1601-1963</unitdate>
+			<origination label="producteur">Commune de Saint-Blancard</origination>
+			<physdesc>
+				</physdesc>
+			<langmaterial>Français</langmaterial>
+		</did>
+		<bioghist>
+			<p>Sous l'Ancien Régime, Saint-Blancard relevait du comté d'Astarac, était placé dans le ressort du parlement de Toulouse et dépendait successivement des sénéchaussées de Toulouse puis d'Auch à partir de 1639 et des généralités de Montauban puis d'Auch après la création de cette dernière en 1716. Du point de vue religieux, la paroisse faisait partie du diocèse d'Auch.</p>
+			<p>À la Révolution, la commune est placée dans le district de Mirande puis l'arrondissement de Mirande et le canton de Masseube.</p>
+			<p>Saint-Blancard est membre de la communauté de communes du Val-de-Gers dont le siège est à Seissan.</p>
+			<p>Sur la commune est érigé le château de Saint-Blancard dont la construction remonte au XIVe siècle. Il subit un important incendie en 1888 et il est en partie reconstruit par Henri de Gontaut-Biran, marquis de Saint Blancard (1813-1897). Un donjon est alors créé, des décors intérieurs néo-gothiques sont réalisés et les murailles ouest et sud sont abattues.</p>
+			<p>Le château joue un rôle important durant les deux conflits mondiaux : il est transformé en hôpital lors de la Première Guerre mondiale puis accueille une partie des collections du Département des antiquités égyptiennes du musée du Louvre au cours de la Seconde Guerre mondiale.</p>
+			<p>Saint-Blancard fut le fief de la maison comtale de Comminges. Le château entre dans la famille de Gontaut-Biron au XVIe siècle par mariage et le demeure jusqu'en 1959, date à laquelle il est vendu et transformé en centre de convalescence. Le château, classé au titre des Monuments historiques depuis 2005, est aujourd'hui la propriété d'une société britannique.</p>
+		</bioghist>
+		<custodhist>
+			<p>Le fonds a été déposé aux Archives départementales en plusieurs fois : un premier dépôt a été effectué en 1938 (cotes ESUPPL 717 et 718) et un second (cotes ESUPPL 3228-3231) en 1991 suite à l'inspection de la commune. Un dernier dépôt a été réalisé en 2021 suite à une nouvelle inspection de la commune (cotes ESUPPL 11115-11123, 11126-11159).</p>
+			<p>La réception du fonds privé 114 J (famille de Gontaut-Biron) en 2023 a permis de réintégrer les articles ESUPPL 11124-11125 et 11160-11162 dans le fonds communal car il s'agissait d'archives publiques appartenant à la commune.</p>
+		</custodhist>
+		<acqinfo>
+			<p>Dépôts de 1938, de 1991 et du 08 juin 2021. Réintégration d'articles issus d'un fonds privé en 2023.</p>
+		</acqinfo>
+		<scopecontent>
+			<p>Le fonds déposé comprend un livre terrier et un registre des délibérations consulaires pour la période antérieure à la Révolution française.</p>
+			<p>Pour la période moderne, le fonds est composé principalement des registres des délibérations du conseil municipal (1791-1949) et du bureau de bienfaisance (1890-1946) et de documents cadastraux. Il comprend également des documents d'ordre militaire et relatifs à la Seconde Guerre mondiale, des documents concernant les étrangers et le contrôle de la population ainsi que des dossiers de travaux sur les bâtiments communaux.</p>
+			<p>L'état civil est conservé en mairie.</p>
+		</scopecontent>
+		<accruals>
+			<p>Le fonds est ouvert et s'accroît par dépôt de la commune.</p>
+		</accruals>
+		<arrangement>
+			<p>Le classement suit l'arrêté interministériel du 31 décembre 1926 portant règlement des archives des communes. La cotation des archives déposées des communes de moins de 2000 habitants se fait en continu dans la série ESUPPL.</p>
+		</arrangement>
+		<accessrestrict>
+			<p>La communicabilité des archives communales est soumise aux délais fixés par la loi du 15 juillet 2008 modifiant le code du patrimoine (article L 213-2, <extref xlink:type="simple" xlink:href="https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159942">legifrance.gouv.fr/codes/id/LEGISCTA000006159942</extref>). Cependant, même pour les documents communicables en application de la loi, le mauvais état matériel des documents ne permet pas d'assurer leur consultation en salle de lecture.</p>
+		</accessrestrict>
+		<userestrict>
+			<p>Les documents dont l'état matériel le permet sont reproductibles sous réserve de mentionner la cote des documents et l'institution de conservation en cas de publication.</p>
+			<p>Les documents reliés ne peuvent pas être photocopiés. Les reproductions de documents avec un appareil photographique sans flash sont autorisées en salle de lecture.</p>
+		</userestrict>
+		<relatedmaterial>
+			<p>I. Ancien Régime</p>
+			<list>
+				<item>série C : archives des administrations provinciales (intendance, subdélégations, élections, collecte) ;</item>
+				<item>sous-série 9 B : justice locale et seigneuriale de la sénéchaussée de Gascogne ;</item>
+				<item>série G : archives du clergé séculier (visites pastorales, procès-verbaux de visite et de vérification des réparations des églises du diocèse, archives des paroisses, fabrique d'église et cures) ;</item>
+				<item>séries E et I : archives des communautés d'habitants aux XVIe-XVIIIe siècles (chartes de coutumes, hommages, délibérations consulaires, documents financiers, livres terrier, compoix et cadastres, registres paroissiaux) ; archives de familles ;</item>
+				<item>sous-série 5 E : registres paroissiaux (fonds des sénéchaussées).</item>
+			</list>
+			<p>II. Période révolutionnaire</p>
+			<list>
+				<item>série L : justice, municipalités de canton, comités de surveillance, sociétés populaires ;</item>
+				<item>série Q : vente des biens nationaux. Yves Coustau, Dépouillement des procès-verbaux d'adjudication des biens nationaux de 1re origine et 2e origine, 1962, 2 volumes.</item>
+			</list>
+			<p>III. Période contemporaine</p>
+			<p>1. Série E</p>
+			<list>
+				<item>sous-série 5 E : registres d'état civil, tables décennales (fonds du greffe du tribunal de grande instance d'Auch).</item>
+			</list>
+			<p>2. Série M</p>
+			<list>
+				<item>sous-série 1 M : regroupement de communes, délimitation du territoire ;</item>
+				<item>sous-série 3 M : conseils municipaux, documents électoraux ;</item>
+				<item>sous-série 6 M : recensement de population, statistiques démographiques, naturalisations, état civil, agriculture.</item>
+			</list>
+			<p>3. Série O</p>
+			<list>
+				<item>sous-série 1 O : affaires communales, administration générale des communes, bâtiments et biens communaux, syndicats intercommunaux ;</item>
+				<item>sous-série 2 O : administration générale de la commune, travaux de construction et d'entretien sur les bâtiments communaux et les équipements collectifs, acquisition et aliénation des biens communaux, comptabilité communale, assistance et prévoyance ;</item>
+				<item>sous-série 3 O : voirie communale, chemins vicinaux ;</item>
+				<item>sous-série 4 O : dons et legs.</item>
+			</list>
+			<p>4. Série P</p>
+			<list>
+				<item>sous-série 3 P : délimitation cadastrale, documentation cadastrale ;</item>
+				<item>sous-série 6 P : postes.</item>
+			</list>
+			<p>5. Autres séries modernes</p>
+			<list>
+				<item>sous-série 2 R : monuments aux morts ;</item>
+				<item>série S : travaux publics (routes, chemins de fer, moulins, usines hydrauliques, électrification, mines, carrières, tourbières) ;</item>
+				<item>série T : ouvertures et fermetures d'école, affaires scolaires, dossiers d'instituteurs et institutrices, monographies scolaires, dossiers de classement au titre des monuments historiques ;</item>
+				<item>série V : conseils de fabrique, églises ;</item>
+				<item>série X : bureaux de bienfaisance.</item>
+			</list>
+			<p>6. Archives contemporaires (postérieures à 1940)</p>
+			<list>
+				<item>992 W, 1319 W : administration communale ;</item>
+				<item>1277 W : fermetures d'écoles.</item>
+			</list>
+			<p>IV. Archives notariales</p>
+			<list>
+				<item>sous-série 3 E : les archives des études notariales contiennent les éléments de l'histoire locale et des informations sur la vie des habitants ; on retrouve parfois dans les archives notariales des délibérations consulaires.</item>
+			</list>
+			<p>V. Archives privées, fonds entrés par voie extraordinaire</p>
+			<list>
+				<item>sous-série 1 J : pièces isolées et petits fonds ;</item>
+				<item>sous-série 14 J : papiers de Sylvain Daugé, prêtre et érudit local, notes sur des familles et des communes du Gers ; </item>
+				<item>sous-série 83 J : fonds de Macarez-Mainfroy, albums de cartes postales et photographies des communes du Gers ;</item>
+				<item>sous-série 88 J : fonds de Jean-Henri Ducos, dossiers documentaires sur les châteaux et maison-fortes du Gers ;</item>
+				<item>sous-série 101 J : fonds de Paul Mesplé, conservateur du musée des Augustins de Toulouse, albums de photographies des communes du Gers ;</item>
+				<item>sous-série 114 J : fonds de la famille de Gontaut-Biron concernant Saint-Blancard.</item>
+			</list>
+			<p>VI. Documents figurés</p>
+			<list>
+				<item>sous-série 1 Fi : cartes et plans ;</item>
+				<item>sous-série 2 Fi : dessins, gravures, estampes, lithographies, tirages photographiques ;</item>
+				<item>sous-série 6 Fi : cartes postales.</item>
+			</list>
+			<p>VII. Documentation</p>
+			<list>
+				<item>séries DAN et DAR : dossiers archéologiques et antiques ;</item>
+				<item>série CDOC : dossiers documentaires ;</item>
+				<item>série JX : presse locale ;</item>
+				<item>série PER : bulletins municipaux et paroissiaux ;</item>
+				<item>bibliothèque historique et administrative.</item>
+			</list>
+		</relatedmaterial>
+		<bibliography>
+			<p>Jules Carsalade du Pont, Gontaut-Biron, marquis de Saint-Blancard, Auch, 1897.</p>
+			<p>Georges Courtès (dir.), Communes du département du Gers, vol. III : arrondissement de Mirande, Auch : Société archéologique et historique du Gers, 2004, p. 216-218.</p>
+			<p>Jean-Louis Dufo et Claude Woock, Saint-Blancard au fil des ans, Miélan : imprimerie Service de Gascogne, 1986.</p>
+			<p>Jean-Michel Lassure, « À propos des fouilles archéologiques effectuées en 1889 dans la cour du château de Saint-Blancard (Gers) », Bulletin de la Société archéologique, historique, littéraire et scientifique du Gers, Auch : Imprimerie Th. Bouquet, 3e trimestre 1977, p. 343-360.</p>
+			<p>Jean-Michel Lassure et Jean-Pierre Suzzoni, « Une production de l'atelier de sculpteurs de Saint-Bertrand de Comminges : le retable de Saint-Blancard (Gers) », Bulletin de la Société archéologique, historique, littéraire et scientifique du Gers, Auch : Imprimerie Th. Bouquet, 1er trimestre 1991, p. 43-65.</p>
+		</bibliography>
+		<otherfindaid>
+			<p>Architerre, sources fiscales d'Ancien Régime (<extref xlink:type="simple" xlink:href="http://modelespace.univ-tlse2.fr">modelespace.univ-tlse2.fr</extref>).</p>
+		</otherfindaid>
+		<processinfo>
+			<p>Notice rédigée par Bonnafous validée le </p>
+		</processinfo>
+		<controlaccess>
+			<geogname>Saint-Blancard (Gers, France)</geogname>
+		</controlaccess>
+		<dsc>
+			<c>
+				<did>
+					<unittitle>Archives anciennes (antérieures à 1790)</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Administration communale</unittitle>
+					</did>
+					<c level="item" id="_358916">
+						<did>
+							<unitid>ESUPPL 11115</unitid>
+							<unittitle>Registre des délibérations consulaires.</unittitle>
+							<unitdate normal="1744/1777">1744-1777</unitdate>
+							<origination label="producteur">Commune de Saint-Blancard</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>registre</genreform>
+							<geogname>Saint-Blancard (Gers, France)</geogname>
+							<subject>administration communale</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Finances, impôts et comptabilité</unittitle>
+					</did>
+					<c level="file" id="_224911">
+						<did>
+							<unitid>ESUPPL 717</unitid>
+							<unittitle>Livre terrier.</unittitle>
+							<unitdate normal="1662">1662</unitdate>
+							<origination label="producteur">Commune de Saint-Blancard</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le 04/06/2024 15:43:53
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>livre foncier</genreform>
+							<geogname>Saint-Blancard (Gers, France)</geogname>
+							<subject>cadastre</subject>
+						</controlaccess>
+					</c>
+					<c level="file" id="_224912">
+						<did>
+							<unitid>ESUPPL 718</unitid>
+							<unittitle>Muancier.</unittitle>
+							<unitdate normal="1601/1789">[XVIIe siècle-XVIIIe siècle]</unitdate>
+							<origination label="producteur">Commune de Saint-Blancard</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le 31/05/2024 11:56:32
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>livre foncier</genreform>
+							<geogname>Saint-Blancard (Gers, France)</geogname>
+							<subject>cadastre</subject>
+						</controlaccess>
+					</c>
+				</c>
+			</c>
+			<c>
+				<did>
+					<unittitle>Archives modernes (postérieures à 1789)</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Administration générale de la commune</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Conseil municipal</unittitle>
+						</did>
+						<c level="recordgrp" id="_358917">
+							<did>
+								<unitid>ESUPPL 11116 - 11122</unitid>
+								<unittitle>Registres des délibérations.</unittitle>
+								<unitdate normal="1791/1949">1791-1949</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre</genreform>
+								<genreform>délibération</genreform>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>administration communale</subject>
+								<subject>conseil municipal</subject>
+							</controlaccess>
+							<c level="item" id="_358918">
+								<did>
+									<unitid>ESUPPL 11116</unitid>
+									<unittitle>1791-1846 (19 novembre).</unittitle>
+									<unitdate normal="1791/1846">1791-1846</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 31/05/2024 15:08:09
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358919">
+								<did>
+									<unitid>ESUPPL 11117</unitid>
+									<unittitle>1847-1859 (8 mai).</unittitle>
+									<unitdate normal="1847/1859">1847-1859</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358920">
+								<did>
+									<unitid>ESUPPL 11118</unitid>
+									<unittitle>1859 (8 mai)-1879.</unittitle>
+									<unitdate normal="1859/1879">1859-1879</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358921">
+								<did>
+									<unitid>ESUPPL 11119</unitid>
+									<unittitle>1880-1903 (20 octobre).</unittitle>
+									<unitdate normal="1880/1903">1880-1903</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358922">
+								<did>
+									<unitid>ESUPPL 11120</unitid>
+									<unittitle>1904 (27 mars)-1925 (6 septembre).</unittitle>
+									<unitdate normal="1904/1925">1904-1925</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 13/06/2024 14:46:07
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358923">
+								<did>
+									<unitid>ESUPPL 11121</unitid>
+									<unittitle>1925 (6 septembre)-1933.</unittitle>
+									<unitdate normal="1925/1933">1925-1933</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358924">
+								<did>
+									<unitid>ESUPPL 11122</unitid>
+									<unittitle>1934-1949.</unittitle>
+									<unitdate normal="1934/1949">1934-1949</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Actes de l'administration municipale</unittitle>
+						</did>
+						<c level="file" id="_358925">
+							<did>
+								<unitid>ESUPPL 11123</unitid>
+								<unittitle>Correspondance.</unittitle>
+								<unitdate normal="1932/1950">1932-1950</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>correspondance</genreform>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>administration communale</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Contentieux</unittitle>
+						</did>
+						<c level="file" id="_358926">
+							<did>
+								<unitid>ESUPPL 11124</unitid>
+								<unittitle>Votation d'une somme de 200 francs par le conseil municipal pour l'entretien et la surveillance des immeubles et objets cultuels de la commune suite à la loi du 9 décembre 1905. - Contentieux porté au Conseil d'État suite à l'annulation par arrêté préfectoral de la délibération municipale du 21 juillet 1907 : extraits du registre des délibérations du conseil municipal, copie de la décision du Conseil d'État, articles de presse, revues, correspondance.</unittitle>
+								<unitdate normal="1907/1912">1907-1912</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 31/05/2024 15:18:00
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>contentieux administratif</subject>
+								<subject>église</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358927">
+							<did>
+								<unitid>ESUPPL 11125</unitid>
+								<unittitle>Nomination et entretien d'un gardien pour le presbytère par le conseil municipal. - Contentieux porté au Conseil d'État suite à l'annulation par arrêté préfectoral de la délibération municipale du 26 décembre 1908 : extraits du registre des délibérations du conseil municipal, copie de la décision du Conseil d'État, commentaire de la décision du Conseil d'État, articles de presse, revues, correspondance.</unittitle>
+								<unitdate normal="1908/1914">1908-1914</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 30/05/2024 12:17:08
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>contentieux administratif</subject>
+								<subject>presbytère</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Population. Économie sociale. Statistique</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Population</unittitle>
+						</did>
+						<c level="file" id="_358928">
+							<did>
+								<unitid>ESUPPL 11126</unitid>
+								<unittitle>Recensement quinquennal : listes nominatives.</unittitle>
+								<unitdate normal="1921/1931">1921-1931</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>population</subject>
+								<subject>recensement de population</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358929">
+							<did>
+								<unitid>ESUPPL 11127</unitid>
+								<unittitle>Recensement par famille : fiches de renseignement.</unittitle>
+								<unitdate>[XXe siècle]</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 13/06/2024 14:46:51
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>population</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Commerce et industrie</unittitle>
+						</did>
+						<c level="file" id="_358930">
+							<did>
+								<unitid>ESUPPL 11128</unitid>
+								<unittitle>Situation économique de la commune : questionnaire.</unittitle>
+								<unitdate normal="1949">1949</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 31/05/2024 16:17:44
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>économie</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Agriculture</unittitle>
+						</did>
+						<c level="file" id="_358931">
+							<did>
+								<unitid>ESUPPL 11129</unitid>
+								<unittitle>Situation des récoltes : états des déclarations des producteurs de vins.</unittitle>
+								<unitdate normal="1943">1943, s.d.</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>statistique</genreform>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>production agricole</subject>
+								<subject>viticulture</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Contributions. Administrations financières</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Impôts directs</unittitle>
+						</did>
+						<c level="recordgrp" id="_358932">
+							<did>
+								<unitid>ESUPPL 3228-3231, 11130 - 11131</unitid>
+								<unittitle>Cadastre.</unittitle>
+								<unitdate normal="1828/1935">1828-1935</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 31/05/2024 11:43:53
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>cadastre</subject>
+								<subject>fiscalité immobilière</subject>
+							</controlaccess>
+							<c level="recordgrp" id="_358974">
+								<did>
+									<unitid>ESUPPL 3228-3231</unitid>
+									<unittitle>Cadastre napoléonien.</unittitle>
+									<unitdate normal="1828/1914">1828-1914</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 31/05/2024 11:45:11
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>cadastre</subject>
+									<subject>fiscalité immobilière</subject>
+								</controlaccess>
+								<c level="file" id="_226987">
+									<did>
+										<unitid>ESUPPL 3228</unitid>
+										<unittitle>Plan cadastral.</unittitle>
+										<unitdate normal="1828">1828</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 31/05/2024 11:42:54
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>plan cadastral</genreform>
+										<geogname>Saint-Blancard (Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_226988">
+									<did>
+										<unitid>ESUPPL 3230</unitid>
+										<unittitle>État de sections.</unittitle>
+										<unitdate normal="1828">[1828]</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 31/05/2024 11:27:41
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>état de section</genreform>
+										<geogname>Saint-Blancard (Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358973">
+									<did>
+										<unitid>ESUPPL 3229</unitid>
+										<unittitle>Matrice des propriétés foncières.</unittitle>
+										<unitdate normal="1830/1914">1830-1914</unitdate>
+									</did>
+									<scopecontent>
+										<p>Contient le registre des augmentations et diminutions (1835-1914).</p>
+									</scopecontent>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 31/05/2024 11:26:35
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Saint-Blancard (Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_226989">
+									<did>
+										<unitid>ESUPPL 3231</unitid>
+										<unittitle>Matrice des propriétés bâties</unittitle>
+										<unitdate normal="1882/1911">1882-1911</unitdate>
+									</did>
+									<scopecontent>
+										<p>Contient aussi le dossier de la révision des évaluations foncières des propriétés non bâties (1935) et des fragments de documents cadastraux (s.d.).</p>
+									</scopecontent>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 31/05/2024 11:42:19
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Saint-Blancard (Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c level="recordgrp" id="_358975">
+								<did>
+									<unitid>ESUPPL 11130 - 11131</unitid>
+									<unittitle>Cadastre rénové (1910).</unittitle>
+									<unitdate normal="1910/1935">1910-1935</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 31/05/2024 11:47:26
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>cadastre</subject>
+									<subject>fiscalité immobilière</subject>
+								</controlaccess>
+								<c level="item" id="_358933">
+									<did>
+										<unitid>ESUPPL 11130</unitid>
+										<unittitle>Matrice des propriétés bâties.</unittitle>
+										<unitdate normal="1910/1935">1910-1935</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Saint-Blancard (Gers, France)</geogname>
+										<subject>cadastre</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358934">
+									<did>
+										<unitid>ESUPPL 11131</unitid>
+										<unittitle>Matrice des propriétés non bâties.</unittitle>
+										<unitdate normal="1914/1935">1914-1935</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Saint-Blancard (Gers, France)</geogname>
+										<subject>cadastre</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+						<c level="recordgrp" id="_358935">
+							<did>
+								<unitid>ESUPPL 11132 - 11133</unitid>
+								<unittitle>Contributions directes.</unittitle>
+								<unitdate normal="1850/1942">1850-1942</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 30/05/2024 12:14:27
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>fiscalité</subject>
+								<subject>impôts locaux</subject>
+							</controlaccess>
+							<c level="file" id="_358936">
+								<did>
+									<unitid>ESUPPL 11132</unitid>
+									<unittitle>Contribution foncière, personnelle-mobilière, portes et fenêtres et taxe d'habitation et autres taxes assimilées : matrices générales.</unittitle>
+									<unitdate normal="1850/1912">1850-1912</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>rôle d'imposition</genreform>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>impôts locaux</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358937">
+								<did>
+									<unitid>ESUPPL 11133</unitid>
+									<unittitle>Contribution foncière, mobilière, taxe sur les chevaux, mules et mulets : copies des matrices générales.</unittitle>
+									<unitdate normal="1931/1942">1931-1942</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>rôle d'imposition</genreform>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>impôts locaux</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="file" id="_358938">
+							<did>
+								<unitid>ESUPPL 11134</unitid>
+								<unittitle>Répartiteurs. - Nomination : arrêtés préfectoraux.</unittitle>
+								<unitdate normal="1928/1929">1928-1929</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>recouvrement fiscal</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Affaires militaires</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Mesures d'exception et faits de guerre</unittitle>
+						</did>
+						<c level="recordgrp" id="_358939">
+							<did>
+								<unitid>ESUPPL 11135 - 11136</unitid>
+								<unittitle>Seconde Guerre mondiale (1939-1945). - Ravitaillement et réquisitions.</unittitle>
+								<unitdate normal="1941/1949">1941-1949</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 30/05/2024 12:23:38
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>guerre</subject>
+								<subject>ravitaillement</subject>
+								<subject>Époque contemporaine</subject>
+								<subject>20e siècle</subject>
+								<subject>Guerre 1939-1945</subject>
+							</controlaccess>
+							<c level="item" id="_358941">
+								<did>
+									<unitid>ESUPPL 11135</unitid>
+									<unittitle>Registre des titres d'alimentation.</unittitle>
+									<unitdate normal="1945/1946">1945-1946</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>guerre</subject>
+									<subject>ravitaillement</subject>
+									<subject>alimentation</subject>
+									<subject>Époque contemporaine</subject>
+									<subject>20e siècle</subject>
+									<subject>Guerre 1939-1945</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358942">
+								<did>
+									<unitid>ESUPPL 11136</unitid>
+									<unittitle>Vélomoteurs et motos : liste des propriétaires (1949) ; attribution de carburant : listes des bénéficiaires (s.d.) ; récupération des ferrailles : carnet de coupons (1941).</unittitle>
+									<unitdate normal="1941/1949">1941-1949</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 30/05/2024 12:23:52
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>guerre</subject>
+									<subject>ravitaillement</subject>
+									<subject>hydrocarbure</subject>
+									<subject>voiture</subject>
+									<subject>Époque contemporaine</subject>
+									<subject>20e siècle</subject>
+									<subject>Guerre 1939-1945</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Police. Hygiène publique. Justice</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Police générale</unittitle>
+						</did>
+						<c level="recordgrp" id="_358943">
+							<did>
+								<unitid>ESUPPL 11137 - 11145</unitid>
+								<unittitle>Contrôle des étrangers.</unittitle>
+								<unitdate normal="1907/1963">1907-1963</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>correspondance</genreform>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>étranger</subject>
+								<subject>surveillance des personnes</subject>
+							</controlaccess>
+							<c level="item" id="_358944">
+								<did>
+									<unitid>ESUPPL 11137</unitid>
+									<unittitle>Instructions et correspondance.</unittitle>
+									<unitdate normal="1940/1948">1940-1948</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>surveillance des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358945">
+								<did>
+									<unitid>ESUPPL 11138</unitid>
+									<unittitle>Registre des visas d'arrivée.</unittitle>
+									<unitdate normal="1934/1963">1934-1963</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>surveillance des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358946">
+								<did>
+									<unitid>ESUPPL 11139</unitid>
+									<unittitle>Registre des visas de départ.</unittitle>
+									<unitdate normal="1934/1961">1934-1961</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>surveillance des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358947">
+								<did>
+									<unitid>ESUPPL 11140</unitid>
+									<unittitle>Registre spécial mentionnant les visas accordés.</unittitle>
+									<unitdate normal="1917/1931">1917-1931</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>surveillance des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358948">
+								<did>
+									<unitid>ESUPPL 11141</unitid>
+									<unittitle>Souches du registre d'immatriculation.</unittitle>
+									<unitdate normal="1907/1927">1907-1927</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>surveillance des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358949">
+								<did>
+									<unitid>ESUPPL 11142</unitid>
+									<unittitle>Registre des demandes de cartes d'identité.</unittitle>
+									<unitdate normal="1934/1938">1934-1938</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>surveillance des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358950">
+								<did>
+									<unitid>ESUPPL 11143</unitid>
+									<unittitle>Demandes de carte ou renouvellement de carte d'identité et de carte d'identité de travailleur : certificats d'embauche et de travail, contrats de travail, baux de métayage, certificats de nationalité, attestations, correspondance.</unittitle>
+									<unitdate normal="1935/1958">1935-1958</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>surveillance des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358951">
+								<did>
+									<unitid>ESUPPL 11144</unitid>
+									<unittitle>Souches et récépissés des demandes ou renouvellement de carte d'identité.</unittitle>
+									<unitdate normal="1935/1949">1935-1949</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>surveillance des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358952">
+								<did>
+									<unitid>ESUPPL 11145</unitid>
+									<unittitle>Souches et récépissés des demandes ou renouvellement de carte d'identité de travailleur agricole ou industriel.</unittitle>
+									<unitdate normal="1943/1950">1943-1950</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>surveillance des personnes</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Finances de la commune</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Comptabilité</unittitle>
+						</did>
+						<c level="file" id="_358953">
+							<did>
+								<unitid>ESUPPL 11146</unitid>
+								<unittitle>Livres de détail des recettes et dépenses.</unittitle>
+								<unitdate normal="1938/1949">1938, 1940-1949</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>comptabilité publique</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358954">
+							<did>
+								<unitid>ESUPPL 11147</unitid>
+								<unittitle>Carnet d'ordonnancement des dépenses.</unittitle>
+								<unitdate normal="1949/1955">1949-1955</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>comptabilité publique</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Édifices communaux. Monuments et établissements publics</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Édifices publics</unittitle>
+						</did>
+						<c level="file" id="_358955">
+							<did>
+								<unitid>ESUPPL 11148</unitid>
+								<unittitle>Projet de création d'une place et d'un terrain d'athlétisme : plan.</unittitle>
+								<unitdate normal="1927">1927</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>plan</genreform>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>installation sportive</subject>
+								<subject>place publique</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358956">
+							<did>
+								<unitid>ESUPPL 11149</unitid>
+								<unittitle>Foyer familial. - Construction : plans, devis, avant-métré, cahier des charges, rapport, barème des prix, correspondance.</unittitle>
+								<unitdate normal="1947">1947</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 13/06/2024 14:47:28
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>salle des fêtes</subject>
+								<subject>construction</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Édifices du culte et cimetières</unittitle>
+						</did>
+						<c level="item" id="_358957">
+							<did>
+								<unitid>ESUPPL 11150</unitid>
+								<unittitle>Presbytère. - Échange d'un terrain entre la commune et M. Lozen : procès-verbal d'arpentement.</unittitle>
+								<unitdate normal="1872">1872</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>presbytère</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Édifices à usage d'établissements d'enseignement, de sciences et d'art</unittitle>
+						</did>
+						<c level="file" id="_358958">
+							<did>
+								<unitid>ESUPPL 11151</unitid>
+								<unittitle>Maison d'école. - Construction : actes de vente, procès-verbal de reconnaissance et réception provisoire des travaux, correspondance.</unittitle>
+								<unitdate normal="1880/1889">1880-1889</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>école</subject>
+								<subject>construction</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358959">
+							<did>
+								<unitid>ESUPPL 11152</unitid>
+								<unittitle>École des filles. - Construction : arrêté préfectoral, extraits du registre des délibérations du conseil municipal, délibération du conseil général, cahier des charges, procès-verbal d'adjudication, arrêté ministériel, correspondance.</unittitle>
+								<unitdate normal="1902/1913">1902-1913</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 31/05/2024 11:59:51
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>école</subject>
+								<subject>construction</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_360861">
+							<did>
+								<unitid>ESUPPL 5917</unitid>
+								<unittitle>École privée des filles : plans.</unittitle>
+								<unitdate normal="1920">1920</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 20/06/2024 15:09:44
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>enseignement privé</subject>
+								<subject>construction</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358960">
+							<did>
+								<unitid>ESUPPL 11153</unitid>
+								<unittitle>Transformation de l'école des garçons en groupe scolaire : métré, plans, devis, cahier des charges, devis, bordereau des prix, extrait du registre des délibérations du conseil municipal, correspondance.</unittitle>
+								<unitdate normal="1912/1913">1912-1913</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>école</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358961">
+							<did>
+								<unitid>ESUPPL 11154</unitid>
+								<unittitle>Aménagement d'un terrain provisoire d'éducation physique et sportive : exposé, devis, avant-métré, plans.</unittitle>
+								<unitdate normal="1942">1942</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>installation sportive</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358962">
+							<did>
+								<unitid>ESUPPL 11155</unitid>
+								<unittitle>Groupe scolaire. - Avant-projet de construction : exposé, notes, plans.</unittitle>
+								<unitdate normal="1945/1949">1945-1949</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>école</subject>
+								<subject>construction</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Biens communaux. Terres. Bois. Eaux</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Propriétés et droits divers</unittitle>
+						</did>
+						<c level="file" id="_358963">
+							<did>
+								<unitid>ESUPPL 11156</unitid>
+								<unittitle>Concessions au cimetière : règlement (1939), titres de concession (1884-1948).</unittitle>
+								<unitdate normal="1884/1948">1884-1948</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>cimetière</subject>
+								<subject>concession funéraire</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Travaux publics. Voirie. Moyens de transport. Régime des eaux</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Travaux publics et voirie en général</unittitle>
+						</did>
+						<c level="item" id="_358964">
+							<did>
+								<unitid>ESUPPL 11157</unitid>
+								<unittitle>Budget des chemins vicinaux : chapitres additionnels au budget.</unittitle>
+								<unitdate normal="1949">1949</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>réseau routier</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Assistance et prévoyance</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Bureaux de bienfaisance, secours d'urgence</unittitle>
+						</did>
+						<c level="recordgrp" id="_358965">
+							<did>
+								<unitid>ESUPPL 11158 - 11160</unitid>
+								<unittitle>Bureau de bienfaisance.</unittitle>
+								<unitdate normal="1890/1946">1890-1946</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+							</controlaccess>
+							<c level="item" id="_358966">
+								<did>
+									<unitid>ESUPPL 11158</unitid>
+									<unittitle>Registre des délibérations.</unittitle>
+									<unitdate normal="1890/1946">1890-1946</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358967">
+								<did>
+									<unitid>ESUPPL 11159</unitid>
+									<unittitle>Règlement intérieur.</unittitle>
+									<unitdate normal="1928">1928</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>règlement intérieur</genreform>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358968">
+								<did>
+									<unitid>ESUPPL 11160</unitid>
+									<unittitle>Attibution des biens de la fabrique de l'église au bureau : ampliation du décret du ministère de l'Intérieur et des Cultes, notes, correspondance.</unittitle>
+									<unitdate normal="1911">1911</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Saint-Blancard (Gers, France)</geogname>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Application des lois d'assistance et de prévoyance</unittitle>
+						</did>
+						<c level="file" id="_358969">
+							<did>
+								<unitid>ESUPPL 11161</unitid>
+								<unittitle>Assistance aux vieillards. - Bénéficiaires : dossiers individuels, liste des bénéficiaires, extraits du registres des délibérations, correspondance.</unittitle>
+								<unitdate normal="1908/1912">1908-1912</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>personne âgée</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Instruction publique. Sciences, lettres et arts</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Instruction publique</unittitle>
+						</did>
+						<c level="file" id="_358970">
+							<did>
+								<unitid>ESUPPL 11162</unitid>
+								<unittitle>Ouverture d'une école privée pour filles : articles de presse, pétition, correspondance.</unittitle>
+								<unitdate normal="1903/1912">1903-1912</unitdate>
+								<origination label="producteur">Commune de Saint-Blancard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Blancard (Gers, France)</geogname>
+								<subject>école</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+			</c>
+		</dsc>
+	</archdesc>
+</ead>

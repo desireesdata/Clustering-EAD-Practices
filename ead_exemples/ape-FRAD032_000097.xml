@@ -1,0 +1,2778 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:cpf="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+		<eadid url="https://www.archives32.fr/wp-content/uploads/2024/07/FRAD032_000097.pdf" countrycode="FR" mainagencycode="FRAD032" identifier="FRAD032_000097">FRAD032_000097</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Archives communales de Pouy-Roquelaure</titleproper>
+				<subtitle>Répertoire méthodique</subtitle>
+				<author>élaboré par Michèle Macé-Ramète et Malvina Comte sous la direction de Pascal Geneste et Nadine Rouayroux</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives départementales du Gers</publisher>
+				<address>
+					<addressline>81 route de Pessan - 32001 Auch</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Cet instrument de recherche a été exporté au format XML depuis le progiciel de gestion d'archives Thot par les archives départementales du Gers.</creation>
+			<langusage>Instrument de recherche rédigé en <language langcode="fre">français</language>
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="fonds" otherlevel="groupe-de-fonds">
+		<did>
+			<unitid>ESUPPL 2500 - 2501, 10334 - 10445</unitid>
+			<unittitle>Archives communales de Pouy-Roquelaure</unittitle>
+			<unitdate normal="1598/2005">1598-2005</unitdate>
+			<origination label="producteur">Commune de Pouy-Roquelaure</origination>
+			<physdesc>
+				</physdesc>
+			<langmaterial>Français</langmaterial>
+		</did>
+		<bioghist>
+			<p>Pouy-Roquelaure est un ancien castelnau. En 1303, les seigneurs de Pouy-Carejelard accordent une charte de coutumes aux habitants. Au XVIIe siècle, la commune est intégrée au marquisat de Lagarde-Fimarcon.</p>
+			<p>Sous l'Ancien Régime, elle dépend des généralité et parlement de Bordeaux et de la sénéchaussée de Condom. Du point de vue religieux, elle relève du diocèse de Lectoure. </p>
+			<p>La commune actuelle est née de la fusion, en 1791, des deux paroisses, Pouy et Roquelaure. En 1823, selon l'ordonnance royale du 28 mai, la commune de Rignac est intégrée à Pouy-Roquelaure.</p>
+			<p>Le patrimoine de Pouy-Roquelaure comprend des châteaux, des restes de fortifications ainsi que des églises. L'église paroissiale de Pouy de style néo-gothique a été reconstruite au XIXe siècle. Elle est dédiée à Saint-Fabien et à Saint-Sébastien. Celle de Roquelaure a été transformée en chapelle pour le château, tandis que celle de Rignac  appartenant à une propriété privée  est désaffectée en 1973.</p>
+			<p>La commune fait partie de la communauté de commune de la Lomagne gersoise dont le siège est à Fleurance.</p>
+		</bioghist>
+		<custodhist>
+			<p>Un premier dépôt est effectué aux Archives départementales en 1989, comprenant seulement un terrier du XVIIe siècle ainsi qu'un registre d'état civil (1792-1802). Le cadastre napoléonien, quant à lui, est déposé en 2014. Un troisième dépôt est réalisé en 2021 suite à l'inspection de la commune en 2020 par le directeur des Archives départementales.</p>
+		</custodhist>
+		<acqinfo>
+			<p>Dépôts de 1989, du 18 décembre 2014 (entrée n° 2014-47) et du 23 septembre 2021 (entrée n° 2021-096).</p>
+		</acqinfo>
+		<scopecontent>
+			<p>Le fonds comprend des archives fiscales antérieures à la Révolution française telles que des livres terriers des juridictions de Pouy-Roquelaure et de Rignac des XVIe et XVIIe siècles. Les registres paroissiaux de Pouy et Roquelaure datent de 1667 à 1793. Une partie des registres de baptêmes, mariages et sépultures de l'ancienne paroisse de Rignac se trouve dans le fonds communal de La Romieu.</p>
+			<p>Pour la période moderne, les registres de délibérations du conseil municipal (1818-1952). Les registres d'état civil de Pouy-Roquelaure sont au complet de 1792 à 1903 ainsi que leurs tables décennales intégrées. Il existe aussi deux registres d'état civil de Rignac, avant son intégration avec Pouy-Roquelaure en 1823.</p>
+			<p>Les listes et statistiques relatives au recensement de la population sont également consultables. À cela s'ajoutent les archives axées sur la thématique de l'agriculture qui est représentée à Pouy-Roquelaure : statistiques agricoles, correspondance portée sur l'élevage, tableau de recensement des récoltes et de la viticulture.</p>
+			<p>Les archives fiscales existantes de la commune sont les états des sections, les rôles, livres de mutations de propriétés de Pouy-Roquelaure et de Rignac, mais aussi les matrices cadastrales. La correspondance recouvre plusieurs thèmes tels que la rétribution scolaire, la nomination des répartiteurs ou encore les instructions données sur les poids et les mesures.</p>
+			<p>Enfin, le fonds comprend des archives relatives à l'assistance, en particulier sur le bureau de bienfaisance, les mesures de secours portées aux démunis et aux pauvres. Il existe aussi des documents portés sur la gestion des ateliers de charité au milieu du XIXe siècle. L'instruction publique est représentée au sein de ce fonds au sujet des instituteurs mais aussi des élèves, des mesures prises pour les diplômes, la création d'une bibliothèque scolaire ainsi que pour les pupilles de la Nation.</p>
+			<p>Il existe également les registres paroissiaux des paroisses séparées de Pouy et de Roquelaure, qui recouvrent la période du XVIIIe siècle. Une lacune totale en 1792 ainsi qu'une lacune partielle en 1793 sont à signaler.</p>
+			<p>Les registres de délibérations ainsi que l'état civil de Pouy-Roquelaure et de l'ancienne commune de Rignac sont au complet. Parmi les archives relatives à la population et aux statistiques, le recensement nominatif de 1836 à 1931 a été conservé dans son intégralité, comme le révèle les premières listes signalées dans l'inventaire des archives de la commune dressé en 1843.</p>
+			<p>La statistique qui correspond au mouvement de la population de la commune présente des manques pour les années 1875, 1879-1884, 1886-1887, 1889-1891. Il en est de même pour les documents qui représentent les élections politiques et professionnelles. Malgré la présence des arrêtés à propos des nominations des maires, les listes électorales politiques ont disparu, excepté une liasse nominative qui nous renseigne sur la conception de ces listes. Il est à noter des manques des années 1919, 1921-1926, 1930 pour les élections professionnelles du tribunal de commerce d'Auch.</p>
+			<p>Néanmoins, de nombreux documents éparses ou des registres de différentes thématiques (militaire, agricole, édifices publics, police, réseaux routiers ou encore instruction publique) sont à souligner. Les registres relatifs au cadastre et aux contributions directes en général ont été conservés. Leur état est cependant parfois médiocre suite aux multiples manipulations causées par leur utilité administrative et fiscale.</p>
+			<p>Des plans et dessins sont également possibles à la consultation, dont ceux de l'église de Rignac et de la mairie-école. Ce dernier a été restauré et protégé sous film polyester pour une meilleure conservation.</p>
+		</scopecontent>
+		<accruals>
+			<p>Le fonds est ouvert et s'accroît par dépôt de la commune.</p>
+		</accruals>
+		<arrangement>
+			<p>Le classement suit l'arrêté interministériel du 31 décembre 1926 portant règlement des archives des communes. La cotation des archives déposées des communes de moins de 2000 habitants se fait en continu dans la série ESUPPL.</p>
+		</arrangement>
+		<accessrestrict>
+			<p>La communicabilité des archives communales est soumise aux délais fixés par la loi du 15 juillet 2008 modifiant le code du patrimoine (article L 213-2, <extref xlink:type="simple" xlink:href="https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159942">legifrance.gouv.fr/codes/id/LEGISCTA000006159942</extref>). Cependant, même pour les documents communicables en application de la loi, le mauvais état matériel des documents ne permet pas d'assurer leur consultation en salle de lecture.</p>
+		</accessrestrict>
+		<userestrict>
+			<p>Les documents dont l'état matériel le permet, sont reproductibles sous réserve de mentionner la cote des documents et l'institution de conservation en cas de publication.</p>
+			<p>Les documents reliés ne peuvent pas être photocopiés. Les reproductions de documents avec un appareil photographique sans flash sont autorisées en salle de lecture.</p>
+		</userestrict>
+		<relatedmaterial>
+			<p>I. Ancien Régime</p>
+			<list>
+				<item>série C : archives des administrations provinciales (intendance, subdélégations, élections, collecte) ;</item>
+				<item>sous-série 9 B : justice locale et seigneuriale de la sénéchaussée de Gascogne ;</item>
+				<item>série G : archives du clergé séculier (visites pastorales, procès-verbaux de visite et de vérification des réparations des églises du diocèse, archives des paroisses, fabrique d'église et cures) ;</item>
+				<item>séries E et I : archives des communautés d'habitants aux XVIe-XVIIIe siècles (chartes de coutumes, hommages, délibérations consulaires, documents financiers, livres terrier, compoix et cadastres, registres paroissiaux) ; archives de familles ;</item>
+				<item>sous-série 5 E : registres paroissiaux (fonds des sénéchaussées).</item>
+			</list>
+			<p>II. Période révolutionnaire</p>
+			<list>
+				<item>série L : justice, municipalités de canton, comités de surveillance, sociétés populaires ;</item>
+				<item>série Q : vente des biens nationaux. Yves Coustau, Dépouillement des procès-verbaux d'adjudication des biens nationaux de 1re origine et 2e origine, 1962, 2 volumes.</item>
+			</list>
+			<p>III. Période contemporaine</p>
+			<p>1. Série E</p>
+			<list>
+				<item>sous-série 5 E : registres d'état civil, tables décennales (fonds du greffe du tribunal d'instance d'Auch).</item>
+			</list>
+			<p>2. Série M</p>
+			<list>
+				<item>sous-série 1 M : regroupement de communes, délimitation du territoire ;</item>
+				<item>sous-série 3 M : conseils municipaux, documents électoraux ;</item>
+				<item>sous-série 6 M : recensement de population, statistiques démographiques, naturalisations, état civil, agriculture.</item>
+			</list>
+			<p>3. Série O</p>
+			<list>
+				<item>sous-série 1 O : affaires communales, administration générale des communes, bâtiments et biens communaux, syndicats intercommunaux ;</item>
+				<item>sous-série 2 O : administration générale de la commune, travaux de construction et d'entretien sur les bâtiments communaux et les équipements collectifs, acquisition et aliénation des biens communaux, comptabilité communale, assistance et prévoyance ;</item>
+				<item>sous-série 3 O : voirie communale, chemins vicinaux ;</item>
+				<item>sous-série 4 O : dons et legs.</item>
+			</list>
+			<p>4. Série P</p>
+			<list>
+				<item>sous-série 3 P : délimitation cadastrale, documentation cadastrale ;</item>
+				<item>sous-série 6 P : postes.</item>
+			</list>
+			<p>5. Autres séries modernes</p>
+			<list>
+				<item>sous-série 2 R : monuments aux morts ;</item>
+				<item>série S : travaux publics (routes, chemins de fer, moulins, usines hydrauliques, électrification, mines, carrières, tourbières) ;</item>
+				<item>série T : ouvertures et fermetures d'école, affaires scolaires, dossiers d'instituteurs et institutrices, monographies scolaires, dossiers de classement au titre des monuments historiques ;</item>
+				<item>série V : conseils de fabrique, églises ;</item>
+				<item>série X : bureaux de bienfaisance.</item>
+			</list>
+			<p>6. Archives contemporaines (postérieures à 1940)</p>
+			<list>
+				<item>992 W, 1319 W : administration communale ;</item>
+				<item>1277 W : fermetures d'école.</item>
+			</list>
+			<p>IV. Archives notariales</p>
+			<list>
+				<item>sous-série 3 E : les archives des études notariales contiennent les éléments de l'histoire locale et des informations sur la vie des habitants ; on retrouve parfois dans les archives notariales des délibérations consulaires.</item>
+			</list>
+			<p>V. Archives privées, fonds entrés par voie extraordinaire</p>
+			<list>
+				<item>sous-série 1 J : pièces isolées et petits fonds ;</item>
+				<item>sous-série 14 J : papiers de Sylvain Daugé, prêtre et érudit local, notes sur des familles et des communes du Gers ; </item>
+				<item>sous-série 83 J : fonds de Macarez-Mainfroy, albums de cartes postales et photographies des communes du Gers ;</item>
+				<item>sous-série 88 J : fonds de Jean-Henri Ducos, dossiers documentaires sur les châteaux et maisons-fortes du Gers ; </item>
+				<item>sous-série 101 J : fonds de Paul Mesplé, conservateur du musée des Augustins de Toulouse, albums de photographies des communes du Gers.</item>
+			</list>
+			<p>VI. Documents figurés</p>
+			<list>
+				<item>sous-série 1 Fi : cartes et plans ;</item>
+				<item>sous-série 2 Fi : dessins, gravures, estampes, lithographies, tirages photographiques ;</item>
+				<item>sous-série 6 Fi : cartes postales.</item>
+			</list>
+			<p>VII. Documentation</p>
+			<list>
+				<item>séries DAN et DAR : dossiers archéologiques et antiques ;</item>
+				<item>série CDOC : dossiers documentaires ;</item>
+				<item>série JX : presse locale ;</item>
+				<item>série PER : bulletins municipaux et paroissiaux ;</item>
+				<item>bibliothèque historique et administrative.</item>
+			</list>
+		</relatedmaterial>
+		<bibliography>
+			<p>Centre généalogique du Gers, Les mariages célébrés à Pouy-Roquelaure de 1793 à 1894, d'après les registres de l'état civil, Auch : Archives départementales du Gers, 1995.</p>
+			<p>Georges Courtès (dir.), Communes du département du Gers, vol. II : arrondissement de Condom, Auch : Société archéologique et historique du Gers, 2004, p. 205-207.</p>
+			<p>Mairie de Pouy Roquelaure, Bulletin municipal de Pouy-Roquelaure, Gers : Mairie de Pouy Roquelaure, 2012.</p>
+			<p>Ferdinand Mauquié, Les suzerains de Fimarcon, d'après les recherches et les notes de M. Bernard Lafitte, curé de Caussens, Auch : Imprimerie centrale, 1908 (<extref xlink:type="simple" xlink:href="https://gallica.bnf.fr/ark:/12148/bpt6k165130b">gallica.bnf.fr/ark:/12148/bpt6k165130b</extref>).</p>
+		</bibliography>
+		<otherfindaid>
+			<p>Architerre, sources fiscales d'Ancien Régime (<extref xlink:type="simple" xlink:href="http://modelespace.univ-tlse2.fr">modelespace.univ-tlse2.fr</extref>).</p>
+		</otherfindaid>
+		<processinfo>
+			<p>Notice rédigée par bonnafous validée le 09/07/2024 15:13:04
+			</p>
+		</processinfo>
+		<controlaccess>
+			<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+		</controlaccess>
+		<dsc>
+			<c level="fonds">
+				<did>
+					<unittitle>Rignac</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Archives anciennes (antérieures à 1790)</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Finances, impôts et comptabilité</unittitle>
+						</did>
+						<c level="file" id="_341446">
+							<did>
+								<unitid>ESUPPL 10336</unitid>
+								<unittitle>Livre terrier.</unittitle>
+								<unitdate normal="1673">1673</unitdate>
+								<origination label="producteur">Rignac (Pouy-Roquelaure, Gers, France ; 1790-1823)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+								<geogname>Rignac (Pouy-Roquelaure, Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Archives modernes (postérieures à 1789)</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>État civil</unittitle>
+						</did>
+						<c level="recordgrp" id="_341479">
+							<did>
+								<unitid>ESUPPL 10364 - 10365</unitid>
+								<unittitle>Registres des naissances, mariages et décès.</unittitle>
+								<unitdate normal="1793/1823">1793-1823</unitdate>
+								<origination label="producteur">Rignac (Pouy-Roquelaure, Gers, France ; 1790-1823)</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+								<geogname>Rignac (Pouy-Roquelaure, Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+							<c level="file" id="_341480">
+								<did>
+									<unitid>ESUPPL 10364</unitid>
+									<unittitle>1793-1802.</unittitle>
+									<unitdate normal="1793/1802">1793-an X</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<geogname>Rignac (Pouy-Roquelaure, Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341481">
+								<did>
+									<unitid>ESUPPL 10365</unitid>
+									<unittitle>1802-1823.</unittitle>
+									<unitdate normal="1802/1823">an XI-1823</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<geogname>Rignac (Pouy-Roquelaure, Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Contributions. Administrations financières</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Impôts directs</unittitle>
+							</did>
+							<c level="file" id="_341496">
+								<did>
+									<unitid>ESUPPL 10379</unitid>
+									<unittitle>Livre des mutations de propriétés.</unittitle>
+									<unitdate normal="1820/1825">1820-1825</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<geogname>Rignac (Pouy-Roquelaure, Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>fiscalité immobilière</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+			</c>
+			<c level="fonds">
+				<did>
+					<unittitle>Pouy-Roquelaure</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Archives anciennes (antérieures à 1790)</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Finances, impôts et comptabilité</unittitle>
+						</did>
+						<c level="file" id="_341443">
+							<did>
+								<unitid>ESUPPL 10334</unitid>
+								<unittitle>Cadastre : livre de charges et décharges de la juridiction de Pouy-Roquelaure.</unittitle>
+								<unitdate normal="1598/1613">1598-1613</unitdate>
+								<origination label="producteur">Commune de Pouy-Roquelaure</origination>
+							</did>
+							<scopecontent>
+								<p>Répertoire en fin de registre.</p>
+							</scopecontent>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 14/05/2024 14:34:55
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341662">
+							<did>
+								<unitid>ESUPPL 2500, 10335</unitid>
+								<unittitle>Livres terriers.</unittitle>
+								<unitdate normal="1650/1750">[1650-1750]</unitdate>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par COMTE validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<subject>cadastre</subject>
+							</controlaccess>
+							<c level="file" id="_341447">
+								<did>
+									<unitid>ESUPPL 2500</unitid>
+									<unittitle>1650.</unittitle>
+									<unitdate normal="1650">[1650]</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>livre foncier</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>cadastre</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341445">
+								<did>
+									<unitid>ESUPPL 10335</unitid>
+									<unittitle>1670-1750.</unittitle>
+									<unitdate normal="1670/1750">[1670-1750]</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>livre foncier</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>cadastre</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Cultes. Instruction publique. Assistance publique</unittitle>
+						</did>
+						<c level="file" id="_341449">
+							<did>
+								<unitid>ESUPPL 10337</unitid>
+								<unittitle>Paroisse de Saint-Martin de Roquelaure : registres des baptêmes, mariages et sépultures.</unittitle>
+								<unitdate normal="1686/1793">1686-1793</unitdate>
+								<origination label="producteur">Commune de Pouy-Roquelaure</origination>
+							</did>
+							<scopecontent>
+								<p>Lacune de l'année 1792 et lacune partielle de l'année 1793.</p>
+							</scopecontent>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 14/05/2024 16:56:57
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+								<geogname>Roquelaure (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="recordgrp" id="_341448">
+							<did>
+								<unitid>ESUPPL 10338 - 10339</unitid>
+								<unittitle>Paroisse de Saint-Blaise de Pouy : registres des baptêmes, mariages et sépultures.</unittitle>
+								<unitdate normal="1686/1791">1686-1791</unitdate>
+								<origination label="producteur">Commune de Pouy-Roquelaure</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 14/05/2024 14:35:48
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+							<c level="file" id="_341450">
+								<did>
+									<unitid>ESUPPL 10338</unitid>
+									<unittitle>1686-1730.</unittitle>
+									<unitdate normal="1686/1730">1686-1730</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 16:58:12
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre paroissial</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341451">
+								<did>
+									<unitid>ESUPPL 10339</unitid>
+									<unittitle>1732-1791.</unittitle>
+									<unitdate normal="1732/1791">1732-1791</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre paroissial</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Archives modernes (postérieures à 1789)</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Lois et actes du pouvoir central</unittitle>
+						</did>
+						<c level="file" id="_341452">
+							<did>
+								<unitid>ESUPPL 10340</unitid>
+								<unittitle>Caisses de retraites : projet de loi (1849). Discours de l'empereur Napoléon III lors de l'ouverture de la session législative du 18 janvier 1858 (1858). Rapport à l'empereur Napoléon III d'Adolphe Billault, ministre de l'Intérieur : extrait du journal Le Moniteur universel (1858). Dons et offrandes à la patrie : correspondance (1848).</unittitle>
+								<unitdate normal="1848/1858">1848-1858</unitdate>
+								<origination label="producteur">Commune de Pouy-Roquelaure</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>texte officiel</genreform>
+								<genreform>correspondance</genreform>
+								<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+								<persname>Bonaparte, Louis-Napoléon (1808-1873 : empereur des Français)</persname>
+								<subject>État</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Actes de l'administration départementale</unittitle>
+						</did>
+						<c level="file" id="_341453">
+							<did>
+								<unitid>ESUPPL 10341</unitid>
+								<unittitle>Projet de chemin de fer dans la vallée du Gers. - Enquête : correspondance.</unittitle>
+								<unitdate normal="1850">[1850]</unitdate>
+								<origination label="producteur">Commune de Pouy-Roquelaure</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 14/05/2024 14:38:21
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>correspondance</genreform>
+								<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+								<subject>ligne de chemin de fer</subject>
+								<subject>travaux d'utilité publique</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Bibliothèque administrative</unittitle>
+						</did>
+						<c level="file" id="_341454">
+							<did>
+								<unitid>ESUPPL 10342</unitid>
+								<unittitle>Discours de Jean-Baptiste Dupin, général d'Empire, au gouvernement provisoire de la République.</unittitle>
+								<unitdate normal="1848">1848</unitdate>
+								<origination label="producteur">Commune de Pouy-Roquelaure</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 14/05/2024 17:01:34
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>discours</genreform>
+								<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+								<persname>Dupin, Jean-Baptiste (1772-1863 ; général d'Empire français)</persname>
+								<subject>vie politique</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Administration générale de la commune</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Conseil municipal</unittitle>
+							</did>
+							<c level="recordgrp" id="_341455">
+								<did>
+									<unitid>ESUPPL 10343 - 10348</unitid>
+									<unittitle>Registres des délibérations.</unittitle>
+									<unitdate normal="1788/1952">1788-1952</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 14:39:26
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>conseil municipal</subject>
+									<subject>administration communale</subject>
+								</controlaccess>
+								<c level="file" id="_341456">
+									<did>
+										<unitid>ESUPPL 10343</unitid>
+										<unittitle>1788-1821.</unittitle>
+										<unitdate normal="1788/1821">1788-1821</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 14/05/2024 17:03:27
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>conseil municipal</subject>
+										<subject>administration communale</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341457">
+									<did>
+										<unitid>ESUPPL 10344</unitid>
+										<unittitle>1818-1855 (10 novembre).</unittitle>
+										<unitdate normal="1818/1855">1818-1855</unitdate>
+									</did>
+									<scopecontent>
+										<p>En tête-bêche : rôles (1788-1789), notifications des lettres de mise en activité (1821-1823).</p>
+									</scopecontent>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 14/05/2024 17:21:39
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>conseil municipal</subject>
+										<subject>administration communale</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341458">
+									<did>
+										<unitid>ESUPPL 10345</unitid>
+										<unittitle>1855 (11 novembre)-1861 (3 février).</unittitle>
+										<unitdate normal="1855/1861">1855-1861</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 14/05/2024 17:04:32
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>conseil municipal</subject>
+										<subject>administration communale</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341459">
+									<did>
+										<unitid>ESUPPL 10346</unitid>
+										<unittitle>1861 (15 mai)-1888 (6 juin).</unittitle>
+										<unitdate normal="1861/1888">1861-1888</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 14/05/2024 17:05:16
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>conseil municipal</subject>
+										<subject>administration communale</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341460">
+									<did>
+										<unitid>ESUPPL 10347</unitid>
+										<unittitle>1888 (6 août)-1911 (1er octobre).</unittitle>
+										<unitdate normal="1888/1911">1888-1911</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 14/05/2024 17:05:41
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>conseil municipal</subject>
+										<subject>administration communale</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341461">
+									<did>
+										<unitid>ESUPPL 10348</unitid>
+										<unittitle>1911 (26 novembre)-1952.</unittitle>
+										<unitdate normal="1911/1952">1911-1952</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 14/05/2024 17:06:02
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>conseil municipal</subject>
+										<subject>administration communale</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Actes de l'administration municipale</unittitle>
+							</did>
+							<c level="recordgrp" id="_341462">
+								<did>
+									<unitid>ESUPPL 10349 - 10350</unitid>
+									<unittitle>Correspondance.</unittitle>
+									<unitdate normal="1826/1893">1826-1893</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 14:41:36
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>administration communale</subject>
+								</controlaccess>
+								<c level="file" id="_341463">
+									<did>
+										<unitid>ESUPPL 10349</unitid>
+										<unittitle>Entre le préfet du Gers et le maire.</unittitle>
+										<unitdate normal="1826/1868">1826-1868</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>correspondance</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>administration communale</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341464">
+									<did>
+										<unitid>ESUPPL 10350</unitid>
+										<unittitle>Entre le sous-préfet de Lectoure et le maire.</unittitle>
+										<unitdate normal="1828/1893">1828-1893</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>correspondance</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>administration communale</subject>
+										<subject>maire</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Administration de la commune</unittitle>
+							</did>
+							<c level="file" id="_341465">
+								<did>
+									<unitid>ESUPPL 10351</unitid>
+									<unittitle>Délimitation du territoire. - Fusion de la commune de Rignac à Pouy-Roquelaure : extrait de l'ordonnance royale, correspondance (1823) ; rectifications : correspondance (1824).</unittitle>
+									<unitdate normal="1823/1824">1823-1824</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 14:42:55
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>texte officiel</genreform>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<geogname>Rignac (Pouy-Roquelaure, Gers, France)</geogname>
+									<subject>commune</subject>
+									<subject>administration communale</subject>
+									<subject>limite territoriale</subject>
+									<subject>regroupement de communes</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341466">
+								<did>
+									<unitid>ESUPPL 10352</unitid>
+									<unittitle>Inventaire des archives : correspondance.</unittitle>
+									<unitdate normal="1855">1855</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 14:44:10
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>patrimoine écrit</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Contentieux</unittitle>
+							</did>
+							<c level="file" id="_341467">
+								<did>
+									<unitid>ESUPPL 10353</unitid>
+									<unittitle>Poursuites et amendes contre la mairie : correspondance.</unittitle>
+									<unitdate normal="1846/1854">1846-1854</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>contentieux administratif</subject>
+									<subject>maire</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>État civil</unittitle>
+						</did>
+						<c level="recordgrp" id="_341468">
+							<did>
+								<unitid>ESUPPL 2501, 10354 - 10363</unitid>
+								<unittitle>Registres des naissances, mariages et décès.</unittitle>
+								<unitdate normal="1802/1903">an III-1903</unitdate>
+								<origination label="producteur">Commune de Pouy-Roquelaure</origination>
+							</did>
+							<scopecontent>
+								<p>Dont tables décennales.</p>
+							</scopecontent>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 03/10/2023 16:05:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+							<c level="file" id="_341565">
+								<did>
+									<unitid>ESUPPL 2501</unitid>
+									<unittitle>an III-an XIII.</unittitle>
+									<unitdate normal="1794/1805">an III-an XIII</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341469">
+								<did>
+									<unitid>ESUPPL 10354</unitid>
+									<unittitle>an XIV-1812.</unittitle>
+									<unitdate normal="1805/1812">an XIV-1812</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 16/06/2023 12:42:00
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<genreform>table</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341470">
+								<did>
+									<unitid>ESUPPL 10355</unitid>
+									<unittitle>1813-1822.</unittitle>
+									<unitdate normal="1813/1822">1813-1822</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341471">
+								<did>
+									<unitid>ESUPPL 10356</unitid>
+									<unittitle>1823-1832.</unittitle>
+									<unitdate normal="1823/1832">1823-1832</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341472">
+								<did>
+									<unitid>ESUPPL 10357</unitid>
+									<unittitle>1833-1842.</unittitle>
+									<unitdate normal="1833/1842">1833-1842</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341473">
+								<did>
+									<unitid>ESUPPL 10358</unitid>
+									<unittitle>1843-1856.</unittitle>
+									<unitdate normal="1843/1856">1843-1856</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341474">
+								<did>
+									<unitid>ESUPPL 10359</unitid>
+									<unittitle>1857-1863.</unittitle>
+									<unitdate normal="1857/1863">1857-1863</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341475">
+								<did>
+									<unitid>ESUPPL 10360</unitid>
+									<unittitle>1864-1873.</unittitle>
+									<unitdate normal="1864/1873">1864-1873</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341476">
+								<did>
+									<unitid>ESUPPL 10361</unitid>
+									<unittitle>1874-1882.</unittitle>
+									<unitdate normal="1874/1882">1874-1882</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 17:06:53
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341477">
+								<did>
+									<unitid>ESUPPL 10362</unitid>
+									<unittitle>1883-1893.</unittitle>
+									<unitdate normal="1883/1893">1883-1893</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 17:07:18
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341478">
+								<did>
+									<unitid>ESUPPL 10363</unitid>
+									<unittitle>1894-1903.</unittitle>
+									<unitdate normal="1894/1903">1894-1903</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>répertoire civil</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>état civil</subject>
+									<subject>naissance</subject>
+									<subject>mariage</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="file" id="_341482">
+							<did>
+								<unitid>ESUPPL 10366</unitid>
+								<unittitle>Pièces relatives à l'état civil : promesses de mariage, extrait d'un jugement, correspondance (1847-1927). Remise des doubles des registres : correspondance (1814-1852).</unittitle>
+								<unitdate normal="1814/1927">1814-1927</unitdate>
+								<origination label="producteur">Commune de Pouy-Roquelaure</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le 14/05/2024 14:49:12
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>correspondance</genreform>
+								<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>enregistrement judiciaire</subject>
+								<subject>administration communale</subject>
+								<subject>mariage</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Population. Économie sociale. Statistique</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Population</unittitle>
+							</did>
+							<c level="file" id="_341483">
+								<did>
+									<unitid>ESUPPL 10367</unitid>
+									<unittitle>Mouvement de la population : tableaux.</unittitle>
+									<unitdate normal="1873/1892">1873-1892</unitdate>
+								</did>
+								<scopecontent>
+									<p>Statistiques des années 1873-1874, 1876-1878, 1885,1888, 1892.</p>
+								</scopecontent>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 17:08:11
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>statistique</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>population</subject>
+									<subject>démographie</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341484">
+								<did>
+									<unitid>ESUPPL 10368</unitid>
+									<unittitle>Recensement quinquennal : listes nominatives.</unittitle>
+									<unitdate normal="1836/1931">1836-1931</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 14:50:05
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>liste nominative</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>population</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Agriculture</unittitle>
+							</did>
+							<c level="file" id="_341485">
+								<did>
+									<unitid>ESUPPL 10369</unitid>
+									<unittitle>Élevage. - Concours de poulains : arrêté municipal (1847). Bovins et chevaux : correspondance (1846-1869) .</unittitle>
+									<unitdate normal="1846/1869">1846-1869</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 14:51:20
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>arrêté du maire</genreform>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>agriculture</subject>
+									<subject>production agricole</subject>
+									<subject>élevage</subject>
+									<subject>reproduction animale</subject>
+									<subject>équidé</subject>
+									<subject>bétail</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341486">
+								<did>
+									<unitid>ESUPPL 10370</unitid>
+									<unittitle>Situation des récoltes. - Céréales : listes nominatives, bordereaux de production, correspondance (1853-1858, 1920-1921, 1944, 1947, 1953) ; vins : relevés de déclaration (1943, 1947-1950).</unittitle>
+									<unitdate normal="1853/1953">1853-1953</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 17:08:58
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>questionnaire d'enquête</genreform>
+									<genreform>liste nominative</genreform>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>agriculture</subject>
+									<subject>production agricole</subject>
+									<subject>céréale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341487">
+								<did>
+									<unitid>ESUPPL 10371</unitid>
+									<unittitle>Viticulture : registres de déclaration de récolte.</unittitle>
+									<unitdate normal="1935/1940">1935-1940</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 14:53:52
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>agriculture</subject>
+									<subject>production agricole</subject>
+									<subject>viticulture</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341488">
+								<did>
+									<unitid>ESUPPL 10372</unitid>
+									<unittitle>Impôt sur les bénéfices d'exploitation agricole. - Réduction en faveur des producteurs de blé et de seigle : déclarations nominatives.</unittitle>
+									<unitdate normal="1948">1948</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 14:55:19
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>déclaration fiscale</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>agriculture</subject>
+									<subject>production agricole</subject>
+									<subject>céréale</subject>
+									<subject>fiscalité</subject>
+									<subject>impôt sur les bénéfices</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Subsistances</unittitle>
+							</did>
+							<c level="file" id="_341489">
+								<did>
+									<unitid>ESUPPL 10373</unitid>
+									<unittitle>Foires. - Location de la place : procès-verbal d'adjudication, extraits du registre des délibérations, cahier des charges.</unittitle>
+									<unitdate normal="1863/1873">1863-1873</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 14:56:48
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>procès-verbal</genreform>
+									<genreform>cahier des charges</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>manifestation commerciale</subject>
+									<subject>place publique</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341490">
+								<did>
+									<unitid>ESUPPL 10374</unitid>
+									<unittitle>Boulangerie : correspondance.</unittitle>
+									<unitdate normal="1847/1855">1847-1855</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 14:57:15
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>boulangerie</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Statistique générale</unittitle>
+							</did>
+							<c level="file" id="_341491">
+								<did>
+									<unitid>ESUPPL 10375</unitid>
+									<unittitle>Commission de statistique du canton de Lectoure. - Création : arrêté.</unittitle>
+									<unitdate normal="1852">1852</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 14:57:47
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>arrêté du maire</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>population</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Contributions. Administrations financières</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Impôts directs</unittitle>
+							</did>
+							<c level="file" id="_341495">
+								<did>
+									<unitid>ESUPPL 10378</unitid>
+									<unittitle>Livre des mutations de propriétés.</unittitle>
+									<unitdate normal="1820/1825">1820-1825</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>fiscalité immobilière</subject>
+								</controlaccess>
+							</c>
+							<c level="recordgrp" id="_358217">
+								<did>
+									<unitid>ESUPPL 10376, 10380-10383</unitid>
+									<unittitle>Cadastre.</unittitle>
+									<unitdate normal="1826/1970">1826-1970</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>matrice cadastrale</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>fiscalité immobilière</subject>
+									<subject>cadastre</subject>
+								</controlaccess>
+								<c level="recordgrp" id="_358218">
+									<did>
+										<unitid>ESUPPL 10376, 10380-10381</unitid>
+										<unittitle>Cadastre napoléonien.</unittitle>
+										<unitdate normal="1826/1911">1826-1911</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 14/05/2024 15:01:55
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>fiscalité</subject>
+										<subject>fiscalité immobilière</subject>
+										<subject>cadastre</subject>
+									</controlaccess>
+									<c level="file" id="_341492">
+										<did>
+											<unitid>ESUPPL 10376</unitid>
+											<unittitle>État de sections.</unittitle>
+											<unitdate normal="1826">1826</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le </p>
+										</processinfo>
+										<controlaccess>
+											<genreform>état de section</genreform>
+											<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+											<subject>fiscalité immobilière</subject>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341497">
+										<did>
+											<unitid>ESUPPL 10380</unitid>
+											<unittitle>Matrice des propriétés foncières.</unittitle>
+											<unitdate normal="1826/1910">1826-1910</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 14/05/2024 15:03:06
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice cadastrale</genreform>
+											<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+											<subject>fiscalité</subject>
+											<subject>fiscalité immobilière</subject>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341499">
+										<did>
+											<unitid>ESUPPL 10381</unitid>
+											<unittitle>Matrice des propriétés bâties.</unittitle>
+											<unitdate normal="1882/1911">1882-1911</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 14/05/2024 15:03:51
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice cadastrale</genreform>
+											<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+											<subject>fiscalité</subject>
+											<subject>fiscalité immobilière</subject>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c level="recordgrp" id="_341498">
+									<did>
+										<unitid>ESUPPL 10381 - 10382</unitid>
+										<unittitle>Cadastre révisé (1910).</unittitle>
+										<unitdate normal="1910/1970">1910-1970</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 14/05/2024 15:06:18
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>fiscalité</subject>
+										<subject>fiscalité immobilière</subject>
+										<subject>cadastre</subject>
+									</controlaccess>
+									<c level="file" id="_341500">
+										<did>
+											<unitid>ESUPPL 10382</unitid>
+											<unittitle>Matrice des propriétés bâties.</unittitle>
+											<unitdate normal="1914/1970">1914-1970</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 14/05/2024 15:04:19
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice cadastrale</genreform>
+											<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+											<subject>fiscalité</subject>
+											<subject>fiscalité immobilière</subject>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_341501">
+										<did>
+											<unitid>ESUPPL 10383</unitid>
+											<unittitle>Matrice des propriétés non bâties.</unittitle>
+											<unitdate normal="1914/1970">1914-1970</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par bonnafous validée le 14/05/2024 15:06:36
+											</p>
+										</processinfo>
+										<controlaccess>
+											<genreform>matrice cadastrale</genreform>
+											<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+											<subject>fiscalité</subject>
+											<subject>cadastre</subject>
+										</controlaccess>
+									</c>
+								</c>
+							</c>
+							<c level="file" id="_341493">
+								<did>
+									<unitid>ESUPPL 10377</unitid>
+									<unittitle>Contributions directes : rôles.</unittitle>
+									<unitdate normal="1851/1852">1851-1852</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>rôle</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341503">
+								<did>
+									<unitid>ESUPPL 10385</unitid>
+									<unittitle>Rétribution scolaire : correspondance.</unittitle>
+									<unitdate normal="1841/1854">1841-1854</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>école</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341502">
+								<did>
+									<unitid>ESUPPL 10384</unitid>
+									<unittitle>Répartiteurs et commissaires-experts. - Nomination : arrêtés, correspondance.</unittitle>
+									<unitdate normal="1844/1891">1844-1891</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:07:01
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>arrêté du maire</genreform>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>personnel</subject>
+									<subject>recouvrement fiscal</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Rapports de la commune avec les diverses administrations au point de vue financier</unittitle>
+							</did>
+							<c level="file" id="_341504">
+								<did>
+									<unitid>ESUPPL 10386</unitid>
+									<unittitle>Contribution personnelle et mobilière : mandement de l'administration municipale de Saint-Mézard (an VIII, 1845). Base des cotisations. - Révision : correspondance (1832). Réduction des contributions : bordereau, correspondance (1832-1852).</unittitle>
+									<unitdate normal="1800/1845">an VIII-1845</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:13:42
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341505">
+								<did>
+									<unitid>ESUPPL 10387</unitid>
+									<unittitle>Poids et mesures : arrêté du préfet.</unittitle>
+									<unitdate normal="1812">1812</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:14:20
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>texte officiel</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<geogname>Saint-Mézard (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>poids-et-mesures</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Affaires militaires</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Recrutement</unittitle>
+							</did>
+							<c level="file" id="_341506">
+								<did>
+									<unitid>ESUPPL 10388</unitid>
+									<unittitle>Modèle de certificat relatif aux frères de soldats : correspondance.</unittitle>
+									<unitdate normal="1811/1852">1811-1852</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:17:51
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>militaire</subject>
+									<subject>recrutement militaire</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341507">
+								<did>
+									<unitid>ESUPPL 10389</unitid>
+									<unittitle>Recrutement de la classe de 1846 : état de répartition entre les cantons du Gers.</unittitle>
+									<unitdate normal="1846">1846</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:18:32
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>statistique</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>militaire</subject>
+									<subject>recrutement militaire</subject>
+									<subject>conscription</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341508">
+								<did>
+									<unitid>ESUPPL 10390</unitid>
+									<unittitle>Recensement des classes : correspondance.</unittitle>
+									<unitdate normal="1828/1862">1828-1862</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:18:54
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>militaire</subject>
+									<subject>recrutement militaire</subject>
+									<subject>conscription</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341509">
+								<did>
+									<unitid>ESUPPL 10391</unitid>
+									<unittitle>Mise en activité : circulaire, correspondance.</unittitle>
+									<unitdate normal="1828/1854">1828-1854</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:19:11
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>circulaire</genreform>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>militaire</subject>
+									<subject>recrutement militaire</subject>
+									<subject>conscription</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341510">
+								<did>
+									<unitid>ESUPPL 10392</unitid>
+									<unittitle>Insoumis et réfractaires : circulaire.</unittitle>
+									<unitdate normal="1825">1825</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:19:26
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>circulaire</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>militaire</subject>
+									<subject>recrutement militaire</subject>
+									<subject>conscription</subject>
+									<subject>infraction militaire</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341511">
+								<did>
+									<unitid>ESUPPL 10393</unitid>
+									<unittitle>Allocations. - Allocation journalière : correspondance (1923). Soutien de famille : extrait du registre des décisions du conseil cantonal de Lectoure (1924).</unittitle>
+									<unitdate normal="1923/1924">1923-1924</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:20:23
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<geogname>Lectoure, Canton de (Gers, France ; 1790-2015)</geogname>
+									<subject>militaire</subject>
+									<subject>allocation militaire</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341512">
+								<did>
+									<unitid>ESUPPL 10394</unitid>
+									<unittitle>Recensement des classes 1948, 1949 et 1950 : tableaux de recensement.</unittitle>
+									<unitdate normal="1948/1950">1948-1950</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:21:04
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>statistique</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>militaire</subject>
+									<subject>recrutement militaire</subject>
+									<subject>recensement de population</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341513">
+								<did>
+									<unitid>ESUPPL 10395</unitid>
+									<unittitle>Congés des soldats : correspondance.</unittitle>
+									<unitdate normal="1845/1854">1845-1854</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>militaire</subject>
+									<subject>officier militaire</subject>
+									<subject>conscription</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341514">
+								<did>
+									<unitid>ESUPPL 10396</unitid>
+									<unittitle>Décès de soldats : extraits des actes de décès (1913). Rôle des maires : livret (1914).</unittitle>
+									<unitdate normal="1913/1914">1913-1914</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:21:52
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>militaire</subject>
+									<subject>officier militaire</subject>
+									<subject>décès</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Administration militaire</unittitle>
+							</did>
+							<c level="file" id="_341515">
+								<did>
+									<unitid>ESUPPL 10397</unitid>
+									<unittitle>Chevaux, juments et des mules et mulets : listes, tableau de classement, procès-verbal (1893, 1898). Voitures attelées : listes de recensement, tableau de classement (1893).</unittitle>
+									<unitdate normal="1893/1898">1893-1898</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:22:31
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>statistique</genreform>
+									<genreform>liste nominative</genreform>
+									<genreform>procès-verbal</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>militaire</subject>
+									<subject>équipement militaire</subject>
+									<subject>équidé</subject>
+									<subject>transport</subject>
+									<subject>véhicule automobile</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341516">
+								<did>
+									<unitid>ESUPPL 10398</unitid>
+									<unittitle>Mariages de soldats : correspondance.</unittitle>
+									<unitdate normal="1853">1853</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:22:55
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>militaire</subject>
+									<subject>officier militaire</subject>
+									<subject>mariage</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Garde nationale et sapeurs-pompiers</unittitle>
+							</did>
+							<c level="file" id="_341517">
+								<did>
+									<unitid>ESUPPL 10399</unitid>
+									<unittitle>Soldats de la garde nationale : bulletins individuels.</unittitle>
+									<unitdate normal="1948/1950">1948-1950</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>militaire</subject>
+									<subject>garde nationale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341518">
+								<did>
+									<unitid>ESUPPL 10400</unitid>
+									<unittitle>Garde nationale : correspondance (1868). État de l'armement : correspondance (1851).</unittitle>
+									<unitdate normal="1851/1868">1851-1868</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:23:52
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>militaire</subject>
+									<subject>garde nationale</subject>
+									<subject>recrutement militaire</subject>
+									<subject>organisation de l'armée</subject>
+									<subject>équipement militaire</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Police. Hygiène publique. Justice</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Police locale</unittitle>
+							</did>
+							<c level="file" id="_341519">
+								<did>
+									<unitid>ESUPPL 10401</unitid>
+									<unittitle>Commissariat de police de Lectoure. - Installation : arrêté du préfet (1853) ; traitement et frais de bureau : extrait du registre des délibérations du conseil municipal (1853) ; intervention dans les lieux non autorisés : correspondance (1854).</unittitle>
+									<unitdate normal="1853/1854">1853-1854</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:24:51
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>texte officiel</genreform>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>police</subject>
+									<subject>police administrative</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341520">
+								<did>
+									<unitid>ESUPPL 10402</unitid>
+									<unittitle>Débit de boissons : correspondance.</unittitle>
+									<unitdate normal="1853">1853</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:25:04
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>police</subject>
+									<subject>débit de boissons</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Police générale</unittitle>
+							</did>
+							<c level="file" id="_341521">
+								<did>
+									<unitid>ESUPPL 10403</unitid>
+									<unittitle>Surveillance de voyageurs : circulaire du préfet.</unittitle>
+									<unitdate normal="1812">1812</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:27:27
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>circulaire</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>police</subject>
+									<subject>surveillance du territoire</subject>
+									<subject>circulation des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341522">
+								<did>
+									<unitid>ESUPPL 10404</unitid>
+									<unittitle>Opinions politiques suspectes. - Surveillance et demande de renseignements : correspondance.</unittitle>
+									<unitdate normal="1854">1854</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:28:00
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>police</subject>
+									<subject>opinion</subject>
+									<subject>surveillance du territoire</subject>
+									<subject>vie politique</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341523">
+								<did>
+									<unitid>ESUPPL 10405</unitid>
+									<unittitle>Cercle de l'Union : questionnaire d'enquête.</unittitle>
+									<unitdate normal="1885">1885</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:28:12
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>questionnaire d'enquête</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>police</subject>
+									<subject>fondation</subject>
+								</controlaccess>
+							</c>
+							<c level="recordgrp" id="_358219">
+								<did>
+									<unitid>ESUPPL 10406 - 10409</unitid>
+									<unittitle>Contrôle des étrangers.</unittitle>
+									<unitdate normal="1927/1985">1927-1985</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 14/05/2024 15:34:37
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>police</subject>
+									<subject>police administrative</subject>
+									<subject>étranger</subject>
+									<subject>circulation des personnes</subject>
+								</controlaccess>
+								<c level="file" id="_341524">
+									<did>
+										<unitid>ESUPPL 10406</unitid>
+										<unittitle>Ressortissants espagnol, demande de nationalité française : correspondance.</unittitle>
+										<unitdate normal="1927/1931">1927-1931</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 14/05/2024 15:31:15
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>correspondance</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>police</subject>
+										<subject>police administrative</subject>
+										<subject>étranger</subject>
+										<subject>naturalisation</subject>
+										<subject>circulation des personnes</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341525">
+									<did>
+										<unitid>ESUPPL 10407</unitid>
+										<unittitle>Registre des visas de départ.</unittitle>
+										<unitdate normal="1934/1978">1934-1978</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 14/05/2024 15:32:01
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>registre</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>police</subject>
+										<subject>étranger</subject>
+										<subject>police administrative</subject>
+										<subject>circulation des personnes</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341526">
+									<did>
+										<unitid>ESUPPL 10408</unitid>
+										<unittitle>Registre des demandes de cartes d'identité.</unittitle>
+										<unitdate normal="1936/1985">1936-1985</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 14/05/2024 15:32:35
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>registre</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>police</subject>
+										<subject>étranger</subject>
+										<subject>police administrative</subject>
+										<subject>circulation des personnes</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341527">
+									<did>
+										<unitid>ESUPPL 10409</unitid>
+										<unittitle>Nationalité française : déclaration.</unittitle>
+										<unitdate normal="1940">1940</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 14/05/2024 15:33:00
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>déclaration</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>police</subject>
+										<subject>étranger</subject>
+										<subject>naturalisation</subject>
+										<subject>police administrative</subject>
+										<subject>circulation des personnes</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Justice</unittitle>
+							</did>
+							<c level="file" id="_341528">
+								<did>
+									<unitid>ESUPPL 10410</unitid>
+									<unittitle>Condamnations et plaintes des administrés : correspondance.</unittitle>
+									<unitdate normal="1826/1893">1826-1893</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:25:38
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>contentieux administratif</subject>
+									<subject>contentieux fiscal</subject>
+									<subject>juridiction</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Répression</unittitle>
+							</did>
+							<c level="file" id="_341529">
+								<did>
+									<unitid>ESUPPL 10411</unitid>
+									<unittitle>Dépôt de mendicité. - Entretien : extrait du registre des délibérations du conseil municipal.</unittitle>
+									<unitdate normal="1851">1851</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 15/06/2023 17:42:13
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>mendicité</subject>
+									<subject>établissement pénitentiaire</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Hygiène publique et salubrité</unittitle>
+							</did>
+							<c level="file" id="_341531">
+								<did>
+									<unitid>ESUPPL 10413</unitid>
+									<unittitle>Liste des médecins, pharmaciens et herboristes du département.</unittitle>
+									<unitdate normal="1848">1848</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:26:46
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>liste nominative</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>profession médicale</subject>
+									<subject>médecin</subject>
+									<subject>pharmacien</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341530">
+								<did>
+									<unitid>ESUPPL 10412</unitid>
+									<unittitle>Conseil d'hygiène et de salubrité : correspondance.</unittitle>
+									<unitdate normal="1849/1851">1849-1851</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:27:02
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>hygiène</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Élections et personnel</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Élections</unittitle>
+							</did>
+							<c level="file" id="_341532">
+								<did>
+									<unitid>ESUPPL 10414</unitid>
+									<unittitle>Confection et révision des listes électorales : formulaires d'inscription, correspondance.</unittitle>
+									<unitdate normal="1846/1850">1846-1850</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:36:18
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>élection politique</subject>
+									<subject>électeur</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341533">
+								<did>
+									<unitid>ESUPPL 10415</unitid>
+									<unittitle>Élections politiques. - Organisation des opérations de vote et résultats, élections municipales : circulaire, arrêtés, procès-verbaux d'installation, correspondance.</unittitle>
+									<unitdate normal="1813/1930">1813-1930</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:36:56
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>texte officiel</genreform>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>élection politique</subject>
+									<subject>conseil municipal</subject>
+									<subject>maire</subject>
+									<subject>conseiller municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341534">
+								<did>
+									<unitid>ESUPPL 10416</unitid>
+									<unittitle>Élections socio-professionnelles. - Organisation des opérations de vote et résultats, élections de la chambre du commerce : liste des électeurs (1908-1939, 1994) ; tribunal de commerce : liste des électeurs (1930).</unittitle>
+									<unitdate normal="1908/1995">1908-1995</unitdate>
+								</did>
+								<scopecontent>
+									<p>Lacunes : 1913, 1920, 1927-1929, 1931.</p>
+								</scopecontent>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:37:53
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>liste électorale</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<geogname>Auch (Gers, France)</geogname>
+									<subject>élection professionnelle</subject>
+									<subject>chambre consulaire</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Personnel municipal</unittitle>
+							</did>
+							<c level="file" id="_341535">
+								<did>
+									<unitid>ESUPPL 10417</unitid>
+									<unittitle>Garde-champêtre. - Traitement : correspondance.</unittitle>
+									<unitdate normal="1833/1855">1833-1855</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:35:17
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>personnel</subject>
+									<subject>garde particulier</subject>
+									<subject>rémunération</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Finances de la commune</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Comptabilité</unittitle>
+							</did>
+							<c level="file" id="_341536">
+								<did>
+									<unitid>ESUPPL 10418</unitid>
+									<unittitle>Comptes de gestion.</unittitle>
+									<unitdate normal="1845/1852">1845-1852</unitdate>
+								</did>
+								<scopecontent>
+									<p>Comptes de gestion communal (1845, 1852) et du bureau de bienfaisance (1852).</p>
+								</scopecontent>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>compte de gestion</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>comptabilité publique</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341537">
+								<did>
+									<unitid>ESUPPL 10419</unitid>
+									<unittitle>Dépenses, suivi de mandats : liste.</unittitle>
+									<unitdate normal="1852">1852</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>pièce comptable</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>comptabilité publique</subject>
+									<subject>dépense de fonctionnement</subject>
+									<subject>dépense d'investissement</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341538">
+								<did>
+									<unitid>ESUPPL 10420</unitid>
+									<unittitle>Budgets (1880-1881), budgets primitifs (1946-1950).</unittitle>
+									<unitdate normal="1880/1950">1880-1950</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:39:00
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>budget</genreform>
+									<genreform>budget primitif</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>comptabilité publique</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Édifices communaux. Monuments et établissements publics</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Édifices publics</unittitle>
+							</did>
+							<c level="file" id="_341539">
+								<did>
+									<unitid>ESUPPL 10421</unitid>
+									<unittitle>Travaux : correspondance (1858-1883). Vente des biens en friche : correspondance (1819-1822).</unittitle>
+									<unitdate normal="1819/1883">1819-1883</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:39:41
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>établissement recevant du public</subject>
+									<subject>vente publique immobilière</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Édifices du culte et cimetières</unittitle>
+							</did>
+							<c level="file" id="_341540">
+								<did>
+									<unitid>ESUPPL 10422</unitid>
+									<unittitle>Église de Rignac. - Travaux : devis estimatifs, état des réparations, extraits du registre des délibérations du conseil municipal, dessin, correspondance (1841-1881). Clôture du cimetière. - Travaux : correspondance (1867-1869).</unittitle>
+									<unitdate normal="1841/1881">1841-1881</unitdate>
+									<physdesc>
+										<dimensions>Échelle : 0,01/1 mètre.</dimensions>
+									</physdesc>
+								</did>
+								<scopecontent>
+									<p>Dessin de l'église réalisé par le conducteur des ponts et chaussées (1879).</p>
+								</scopecontent>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:40:34
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>pièce comptable</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<geogname>Rignac (Pouy-Roquelaure, Gers, France)</geogname>
+									<subject>édifice cultuel</subject>
+									<subject>cimetière</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Édifices à usage d'établissements d'enseignement, de sciences et d'art</unittitle>
+							</did>
+							<c level="recordgrp" id="_358220">
+								<did>
+									<unitid>ESUPPL 10423, 10423 1</unitid>
+									<unittitle>Mairie-école.</unittitle>
+									<unitdate normal="1837/1886">1837-1886</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 14/05/2024 15:44:13
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>école</subject>
+									<subject>construction scolaire</subject>
+									<subject>hôtel de ville</subject>
+									<subject>dépense d'investissement</subject>
+								</controlaccess>
+								<c level="file" id="_341541">
+									<did>
+										<unitid>ESUPPL 10423</unitid>
+										<unittitle>Construction : cahier des charges, devis estimatif, bordereaux des prix, rapport (1878-1880) ; dépenses des travaux : extraits du registre des délibérations, pièces comptables, devis estimatif, certificat, procès-verbal d'une vente aux enchères, correspondance (1837-1886).</unittitle>
+										<unitdate normal="1837/1886">1837-1886</unitdate>
+									</did>
+									<scopecontent>
+										<p>Projet mené par M. Gentil, architecte départemental du Gers.</p>
+									</scopecontent>
+									<separatedmaterial>
+										<p>ESUPPL 10423/1 - Plan calque d'une mairie école.</p>
+									</separatedmaterial>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 14/05/2024 15:45:01
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>cahier des charges</genreform>
+										<genreform>pièce comptable</genreform>
+										<genreform>procès-verbal</genreform>
+										<genreform>délibération</genreform>
+										<genreform>correspondance</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>école</subject>
+										<subject>construction scolaire</subject>
+										<subject>dépense d'investissement</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_341566">
+									<did>
+										<unitid>ESUPPL 10423 1</unitid>
+										<unittitle>Plan.</unittitle>
+										<unitdate normal="1879/1880">1879-1880</unitdate>
+										<materialspec>0,01 / 1 mètre</materialspec>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par COMTE validée le 14/05/2024 15:45:19
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>plan</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>école</subject>
+										<subject>construction scolaire</subject>
+										<subject>hôtel de ville</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Biens communaux. Terres. Bois. Eaux</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Bois</unittitle>
+							</did>
+							<c level="file" id="_341543">
+								<did>
+									<unitid>ESUPPL 10424</unitid>
+									<unittitle>Bois communal. - Défrichement : correspondance.</unittitle>
+									<unitdate normal="1853">1853</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:46:19
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>forêt communale</subject>
+									<subject>défrichement</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Travaux publics. Voirie. Moyens de transport. Régime des eaux</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Travaux publics et voirie en général</unittitle>
+							</did>
+							<c level="recordgrp" id="_358221">
+								<did>
+									<unitid>ESUPPL 10425 - 10427</unitid>
+									<unittitle>Chemins vicinaux.</unittitle>
+									<unitdate normal="1836/1925">1836-1925</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 14/05/2024 15:55:06
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>chemin rural</subject>
+									<subject>voie de communication</subject>
+									<subject>réseau routier</subject>
+								</controlaccess>
+								<c level="file" id="_341544">
+									<did>
+										<unitid>ESUPPL 10425</unitid>
+										<unittitle>Grêle, réparations : correspondance, arrêté.</unittitle>
+										<unitdate normal="1840/1846">1840-1846</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 14/05/2024 15:48:21
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>texte officiel</genreform>
+										<genreform>correspondance</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>calamité agricole</subject>
+										<subject>grêle</subject>
+										<subject>voie de communication</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341545">
+									<did>
+										<unitid>ESUPPL 10426</unitid>
+										<unittitle>Mesures : règlement, correspondance (1836, 1925). Tableau général (1845, 1844). Construction. - Travaux et rectification : arrêté, note, extrait du registre des délibérations, procès-verbal, plan calque, correspondance (1841-1887). Dépenses et subventions : arrêté, correspondance (1841-1868). Souscription pour le chemin n° 9 de Ligardes à Pouy-Roquelaure : listes nominatives (1880-1886).</unittitle>
+										<unitdate normal="1836/1925">1836-1925</unitdate>
+									</did>
+									<scopecontent>
+										<p>Contient un plan calque d'une section de la commune et du chemin vicinal n° 9.</p>
+									</scopecontent>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 14/05/2024 15:53:20
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>texte officiel</genreform>
+										<genreform>correspondance</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<geogname>Ligardes (Gers, France)</geogname>
+										<subject>dépense de fonctionnement</subject>
+										<subject>voie de communication</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_341546">
+									<did>
+										<unitid>ESUPPL 10427</unitid>
+										<unittitle>Chemin rural de Pomara, classement au rang de chemin vicinal : rapport de l'ingénieur, procès-verbal de l'enquête, plans.</unittitle>
+										<unitdate normal="1840/1887">1840-1887</unitdate>
+									</did>
+									<scopecontent>
+										<p>Comprend un plan du chemin vicinal du hameau Jouangoux à Pomarau (1840) et un plan dressé par l'ingénieur en 1887 (échelle : 1/10 000).</p>
+									</scopecontent>
+									<processinfo>
+										<p>Notice rédigée par bonnafous validée le 14/05/2024 15:53:53
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>rapport</genreform>
+										<genreform>procès-verbal</genreform>
+										<genreform>plan</genreform>
+										<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+										<subject>chemin rural</subject>
+										<subject>voie de communication</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c level="file" id="_341547">
+								<did>
+									<unitid>ESUPPL 10428</unitid>
+									<unittitle>Routes impériales et départementales. - Travaux : correspondance (1838-1855) ; classement au rang des routes départementales : correspondance (1850).</unittitle>
+									<unitdate normal="1838/1855">1838-1855</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:56:02
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>route départementale</subject>
+									<subject>réseau routier</subject>
+									<subject>voie de communication</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Moyens de transport et travaux divers</unittitle>
+							</did>
+							<c level="file" id="_341548">
+								<did>
+									<unitid>ESUPPL 10429</unitid>
+									<unittitle>Électrification. - Distribution d'énergie publique : contrat de concession, cahier des charges, tableau, formulaire, extrait du registre des délibérations, plans, correspondance (1924-1955). Réseau haute et basse tension, projet du syndicat intercommunal d'électrification : mémoire, plans, croquis, état de renseignements, notice (1953).</unittitle>
+									<unitdate normal="1924/2005">1924-2005</unitdate>
+								</did>
+								<scopecontent>
+									<p>Comprend également une lettre du syndicat d'électrification du Gers adressée au maire à propos de la distribution d'énergie (2005).</p>
+								</scopecontent>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 09/07/2024 15:24:59
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>contrat</genreform>
+									<genreform>cahier des charges</genreform>
+									<genreform>plan</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>réseau de distribution</subject>
+									<subject>distribution électrique</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Assistance et prévoyance</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Bureaux de bienfaisance, secours d'urgence</unittitle>
+							</did>
+							<c level="file" id="_341549">
+								<did>
+									<unitid>ESUPPL 10430</unitid>
+									<unittitle>Bureaux de bienfaisance et d'assistance. - Nomination du personnel : correspondance.</unittitle>
+									<unitdate normal="1853/1928">1853-1928</unitdate>
+								</did>
+								<scopecontent>
+									<p>Bureau de bienfaisance (1853-1867). Bureau d'assistance (1923-1928).</p>
+								</scopecontent>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:56:49
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>structure communale d'aide sociale</subject>
+									<subject>personnel</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341550">
+								<did>
+									<unitid>ESUPPL 10431</unitid>
+									<unittitle>Malades, veuves, enfants abandonnés, mères célibataires. - Demandes de secours : correspondance.</unittitle>
+									<unitdate normal="1847/1869">1847-1869</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:57:11
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>secours</subject>
+									<subject>protection sociale</subject>
+									<subject>enfant secouru</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341551">
+								<did>
+									<unitid>ESUPPL 10432</unitid>
+									<unittitle>Mendiants et indigents : états nominatifs.</unittitle>
+									<unitdate normal="1841">1841</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:57:28
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>statistique</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>mendicité</subject>
+									<subject>étranger</subject>
+									<subject>indigent</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Oeuvres charitables</unittitle>
+							</did>
+							<c level="file" id="_341552">
+								<did>
+									<unitid>ESUPPL 10433</unitid>
+									<unittitle>Comptes des ateliers de charité. - Ssubventions et dépenses : état des dépenses des ouvriers, correspondance (1847-1855). Dons accordés à la mairie en faveur des indigents, des pauvres et des mutilés de guerre : correspondance (1855-1875).</unittitle>
+									<unitdate normal="1847/1875">1847-1875</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:58:00
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>atelier de charité</subject>
+									<subject>invalide de guerre</subject>
+									<subject>indigent</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Établissements hospitaliers, hospitalisation</unittitle>
+							</did>
+							<c level="file" id="_341553">
+								<did>
+									<unitid>ESUPPL 10434</unitid>
+									<unittitle>Aliénés : correspondance.</unittitle>
+									<unitdate normal="1891">1891</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>maladie mentale</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c>
+							<did>
+								<unittitle>Application des lois d'assistance et de prévoyance</unittitle>
+							</did>
+							<c level="file" id="_341554">
+								<did>
+									<unitid>ESUPPL 10435</unitid>
+									<unittitle>Sociétés de secours mutuels : statuts.</unittitle>
+									<unitdate normal="1867">1867</unitdate>
+								</did>
+								<scopecontent>
+									<p>Impression des statuts de la société de secours mutuels, F.-A Cocharaux, imprimeur de la préfecture, Auch, 1867.</p>
+								</scopecontent>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>statut</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>société mutualiste</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341555">
+								<did>
+									<unitid>ESUPPL 10436</unitid>
+									<unittitle>Service des médecins des pauvres : quittances.</unittitle>
+									<unitdate normal="1858/1860">1858-1860</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:58:55
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>pièce comptable</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>médecin</subject>
+									<subject>indigent</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341556">
+								<did>
+									<unitid>ESUPPL 10437</unitid>
+									<unittitle>Soins médicaux réservés aux mutilés et réformés de la guerre : listes nominatives.</unittitle>
+									<unitdate normal="1919">1919</unitdate>
+								</did>
+								<scopecontent>
+									<p>Aucun nom mentionné.</p>
+								</scopecontent>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>liste nominative</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>soins médicaux</subject>
+									<subject>invalide de guerre</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Instruction publique. Sciences, lettres et arts</unittitle>
+						</did>
+						<c>
+							<did>
+								<unittitle>Instruction publique</unittitle>
+							</did>
+							<c level="file" id="_341557">
+								<did>
+									<unitid>ESUPPL 10438</unitid>
+									<unittitle>Instituteurs. - Nomination : correspondance (1841-1875) ; traitement : correspondance (1853-1854).</unittitle>
+									<unitdate normal="1841/1875">1841-1875</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 15:59:33
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>école</subject>
+									<subject>instituteur</subject>
+									<subject>rémunération</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341558">
+								<did>
+									<unitid>ESUPPL 10439</unitid>
+									<unittitle>Admission gratuite : correspondance.</unittitle>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 16:02:12
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>école</subject>
+									<subject>élève</subject>
+									<subject>enseignement élémentaire</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341559">
+								<did>
+									<unitid>ESUPPL 10440</unitid>
+									<unittitle>Comité supérieur d'instruction primaire de Lectoure et de surveillance de Pouy-Roquelaure : correspondance.</unittitle>
+									<unitdate normal="1841/1851">1841-1851</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<geogname>Lectoure, Canton de (Gers, France ; 1790-2015)</geogname>
+									<subject>école</subject>
+									<subject>enseignement élémentaire</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341560">
+								<did>
+									<unitid>ESUPPL 10441</unitid>
+									<unittitle>Surveillance : circulaire, arrêté, correspondance (1848-1855). Inspection scolaire : correspondance (1841-1854).</unittitle>
+									<unitdate normal="1848/1855">1848-1855</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 16:02:40
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>texte officiel</genreform>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>école</subject>
+									<subject>enseignement élémentaire</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341561">
+								<did>
+									<unitid>ESUPPL 10442</unitid>
+									<unittitle>Bibliothèque scolaire. - Création : correspondance du préfet.</unittitle>
+									<unitdate normal="1867">1867</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 16:02:57
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>école</subject>
+									<subject>bibliothèque scolaire</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341562">
+								<did>
+									<unitid>ESUPPL 10443</unitid>
+									<unittitle>Fusils d'école : correspondance.</unittitle>
+									<unitdate normal="1885">1885</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>école</subject>
+									<subject>bataillon scolaire</subject>
+									<subject>vie scolaire</subject>
+									<subject>enseignement élémentaire</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341563">
+								<did>
+									<unitid>ESUPPL 10444</unitid>
+									<unittitle>Collège royal d'Auch. - Attribution de bourse : arrêté (1846). Élève en pharmacie : correspondance (1850).</unittitle>
+									<unitdate normal="1846/1850">1846-1850</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 16:04:07
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<geogname>Auch (Gers, France)</geogname>
+									<subject>école</subject>
+									<subject>examen</subject>
+									<subject>pharmacien</subject>
+									<subject>bourse d'études</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_341564">
+								<did>
+									<unitid>ESUPPL 10445</unitid>
+									<unittitle>Pupilles de la nation : circulaire (1918) ; demandes : correspondance (1918-1920).</unittitle>
+									<unitdate normal="1918/1920">1918-1920</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par bonnafous validée le 14/05/2024 16:04:33
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>correspondance</genreform>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<subject>militaire</subject>
+									<subject>pupille de la nation</subject>
+									<subject>victime de guerre</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+			</c>
+		</dsc>
+	</archdesc>
+</ead>

@@ -44,6 +44,20 @@ ead_clustering/
 ├── utils.py                ← outils divers
 ```
 
-## Prochainement : implémentation en Julia
+## Implémentation en Julia
 
 Pour traitement de gros lots de données, Julia est parfait car ce langage gère le spectral clustering (contrairement à Go par exemple) et est performant ! 
+
+Basé sur la méthode d'Eigengap plutôt que la silhouette (moins de granularité et plus de stabilité ?)
+
+Faire :
+
+```shell
+julia
+```
+puis
+
+```julia
+include("main.jl")
+
+```

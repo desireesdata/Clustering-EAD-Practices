@@ -1,0 +1,3267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+		<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+			<eadid countrycode="FR" mainagencycode="FRAD032" identifier="FRAD032_000036" url="https://francearchives.fr/findingaid/4a55c3ff896e5fcf4cff99fb5a5b6ca51c5a7e12">FRAD032_000036</eadid>
+			<filedesc>
+				<titlestmt>
+					<titleproper>
+						Anciens combattants et victimes de guerre
+					</titleproper>
+					<subtitle>Répertoire numérique détaillé de la sous-série 3 R</subtitle>
+					<author>par P. Préneron (s.d.) et Lionel Macé-Ramète ; rétroconverti par Eugénie Bonnafous (2021) sous la direction de Pascal Geneste et Aurélie Goustans</author>
+				</titlestmt>
+				<publicationstmt>
+					<publisher>Archives départementales du Gers</publisher>
+					<date>21/09/2021</date>
+					<address>
+						<addressline>81 route de Pessan - 32001 Auch</addressline>
+					</address>
+				</publicationstmt>
+			</filedesc>
+			<profiledesc>
+				<creation>Cet instrument de recherche a été exporté au format XML depuis le progiciel de gestion d'archives Thot par les archives départementales du Gers.</creation>
+				<langusage>Instrument de recherche rédigé en <language langcode="fre">français</language>
+				</langusage>
+			</profiledesc>
+		</eadheader>
+		<archdesc level="fonds">
+			<did>
+				<unitid>3 R 1 - 220</unitid>
+				<unittitle>Anciens combattants et victimes de guerre.</unittitle>
+				<unitdate normal="1802/1953">1802-1953</unitdate>
+				<origination label="producteur">Office national des anciens combattants et victimes de guerre du Gers</origination>
+			</did>
+			<acqinfo>
+				<p>Versement</p>
+			</acqinfo>
+			<relatedmaterial>
+				<p>Archives du Gers.</p>
+				<list><item>Série M : police générale.</item>
+				<item>Série O : casernes.</item>
+				<item>Série Y : registres d'écrou.</item>
+				</list><p>Archives nationales.</p>
+				<list><item>Série F 9 : affaires militaires.</item>
+				<item>Série F 23 : services extraordinaires engendrés par l'état de guerre.</item>
+				</list><p>Archives du service historique de la défense.</p>
+			</relatedmaterial>
+			<bibliography>
+				<p>Conseil général du Gers, La Grande guerre à la Une dans le Gers : exposition présentée du 14 novembre 2014 au 31 mars 2015, Auch : Conseil général du Gers, 2014.</p>
+				<p>Pierre Debofle, « Les prisonniers de guerre dans le Gers : des guerres de l'Empire à  la Première Guerre mondiale, Bulletin de la société archéologique du Gers, 3e trimestre 1996, 1er trimestre 1997.</p>
+			</bibliography>
+			<controlaccess>
+				<subject>ancien combattant</subject>
+				<subject>victime de guerre</subject>
+				<subject>invalide de guerre</subject>
+				<subject>pupille de la nation</subject>
+				<subject>prisonnier de guerre</subject>
+				<subject>militaire</subject>
+			</controlaccess>
+			<dsc>
+				<c id="_218428">
+					<did>
+						<unitid>3 R 1 - 3</unitid>
+						<unittitle>Secours et pensions aux anciens soldats.</unittitle>
+						<unitdate normal="1802/1923">1802-1923</unitdate>
+					</did>
+					<controlaccess>
+						<subject>ancien combattant</subject>
+						<subject>militaire</subject>
+					</controlaccess>
+					<c id="_218429">
+						<did>
+							<unitid>3 R 1</unitid>
+							<unittitle>Soldes de retraites, pensions : instructions, états trimestriels, correspondance (1806-1824) ; demandes de gratifications (an XI-1825).</unittitle>
+							<unitdate normal="1802/1825">an XI-1825</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>dossier de pension</genreform>
+							<subject>ancien combattant</subject>
+							<subject>militaire</subject>
+						</controlaccess>
+					</c>
+					<c id="_218430">
+						<did>
+							<unitid>3 R 2</unitid>
+							<unittitle>Demandes de secours des anciens soldats du Premier Empire : bordereaux d'envois (1850-1852), états des réclamations. Demandes de pensions classées par arrondissements (Auch - Condom - Lectoure) (1849-1852).</unittitle>
+							<unitdate normal="1849/1852">1849-1852</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>dossier de pension</genreform>
+							<subject>ancien combattant</subject>
+							<subject>militaire</subject>
+						</controlaccess>
+					</c>
+					<c id="_218431">
+						<did>
+							<unitid>3 R 3</unitid>
+							<unittitle>Loi sur les pensions du 31 mars 1919 : instructions, correspondance (1919-1923), demandes individuelles de secours (1919-1923).</unittitle>
+							<unitdate normal="1919/1923">1919-1923</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>dossier de pension</genreform>
+							<subject>ancien combattant</subject>
+							<subject>militaire</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c id="_218432">
+					<did>
+						<unitid>3 R 4 - 7</unitid>
+						<unittitle>Prisonniers de guerre français, cimetières militaires, militaires décédés.</unittitle>
+						<unitdate normal="1871/1935">1871-1935</unitdate>
+					</did>
+					<c id="_218433">
+						<did>
+							<unitid>3 R 4</unitid>
+							<unittitle>Prisonniers de guerre français : états nominatifs des militaires internés en Suisse ; relevés des militaires originaires du département du Gers.</unittitle>
+							<unitdate normal="1871">1871</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>liste nominative</genreform>
+							<subject>prisonnier de guerre</subject>
+							<subject>militaire</subject>
+						</controlaccess>
+					</c>
+					<c id="_218434">
+						<did>
+							<unitid>3 R 5</unitid>
+							<unittitle>Prisonniers et disparus : états nominatifs (1915) ; enquêtes de gendarmerie (1917).</unittitle>
+							<unitdate normal="1915/1917">1915-1917</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>liste nominative</genreform>
+							<genreform>rapport de gendarmerie</genreform>
+							<subject>prisonnier de guerre</subject>
+						</controlaccess>
+					</c>
+					<c id="_218435">
+						<did>
+							<unitid>3 R 6</unitid>
+							<unittitle>Cimetières militaires, instructions (1919-1925) ; extension du cimetière de Barran pour la création d'un cimetière militaire, rapport (1916). Exhumations et transports de corps : arrêtés, circulaires, correspondance (1914-1935) ; rapatriements des corps de militaires : listes nominatives des convois (1921-1922) ; visites des familles de militaires aux cimetières des champs de batailles et ossuaires : correspondance (1921-1935).</unittitle>
+							<unitdate normal="1914/1935">1914-1935</unitdate>
+						</did>
+						<controlaccess>
+							<geogname>Barran (Gers, France)</geogname>
+							<subject>cimetière militaire</subject>
+							<subject>militaire</subject>
+							<subject>concession funéraire</subject>
+							<subject>transport de corps</subject>
+						</controlaccess>
+					</c>
+					<c id="_218436">
+						<did>
+							<unitid>3 R 7</unitid>
+							<unittitle>Diplômes d'honneur des militaires morts pour la patrie : circulaires, correspondance (1916-1924) ; récépissés nominatifs de réceptions des diplômes (1916-1924).</unittitle>
+							<unitdate normal="1916/1924">1916-1924</unitdate>
+						</did>
+						<controlaccess>
+							<subject>distinction honorifique</subject>
+							<subject>mort pour la France</subject>
+							<subject>militaire</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c id="_218437">
+					<did>
+						<unitid>3 R 8 - 22</unitid>
+						<unittitle>Invalides, mutilés, victimes de la guerre.</unittitle>
+						<unitdate normal="1915/1947">1915-1947</unitdate>
+					</did>
+					<controlaccess>
+						<subject>victime de la guerre</subject>
+						<subject>invalide de guerre</subject>
+					</controlaccess>
+					<c id="_218438">
+						<did>
+							<unitid>3 R 8 - 21</unitid>
+							<unittitle>Soins aux victimes de la guerre.</unittitle>
+							<unitdate normal="1915/1947">1915-1947</unitdate>
+						</did>
+						<controlaccess>
+							<subject>victime de la guerre</subject>
+							<subject>soins médicaux</subject>
+						</controlaccess>
+						<c id="_218439">
+							<did>
+								<unitid>3 R 8</unitid>
+								<unittitle>Circulaires, imprimés, correspondance.</unittitle>
+								<unitdate normal="1915/1938">1915-1938</unitdate>
+							</did>
+							<controlaccess>
+								<subject>victime de la guerre</subject>
+								<subject>soins médicaux</subject>
+							</controlaccess>
+						</c>
+						<c id="_218440">
+							<did>
+								<unitid>3 R 9 - 10</unitid>
+								<unittitle>Commission tripartite départementale de surveillance et de contrôle des soins gratuits aux victimes de la guerre : registre des procès-verbaux des délibérations.</unittitle>
+								<unitdate normal="1923/1933">1923-1933</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>registre</genreform>
+								<genreform>délibération</genreform>
+								<subject>victime de la guerre</subject>
+								<subject>soins médicaux</subject>
+							</controlaccess>
+							<c id="_218441">
+								<did>
+									<unitid>3 R 9</unitid>
+									<unittitle>1923 (mars)-1927 (décembre).</unittitle>
+									<unitdate normal="1923/1927">1923 (mars)-1927 (décembre)</unitdate>
+									<physdesc>
+										<extent>Registre</extent>
+									</physdesc>
+								</did>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<subject>victime de la guerre</subject>
+									<subject>soins médicaux</subject>
+								</controlaccess>
+							</c>
+							<c id="_218442">
+								<did>
+									<unitid>3 R 10</unitid>
+									<unittitle>1928 (janvier)-1933 (décembre).</unittitle>
+									<unitdate normal="1928/1933">1928 (janvier)-1933 (décembre)</unitdate>
+									<physdesc>
+										<extent>Registre</extent>
+									</physdesc>
+								</did>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<subject>victime de la guerre</subject>
+									<subject>soins médicaux</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c id="_218443">
+							<did>
+								<unitid>3 R 11 - 16</unitid>
+								<unittitle>États communaux des bénéficiaires de soins gratuits (application de l'article 64 de la loi du 31 mars 1919).</unittitle>
+								<unitdate normal="1922/1928">1922-1928</unitdate>
+							</did>
+							<scopecontent>
+								<p>Les états néants et les états contenant les mêmes renseignements d'une année à l'autre n'ont pas été conservés.</p>
+							</scopecontent>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<subject>victime de la guerre</subject>
+								<subject>soins médicaux</subject>
+							</controlaccess>
+							<c id="_218444">
+								<did>
+									<unitid>3 R 11 - 12</unitid>
+									<unittitle>Arrondissement d'Auch.</unittitle>
+									<unitdate normal="1922/1928">1922-1928</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>liste nominative</genreform>
+									<subject>victime de la guerre</subject>
+									<subject>soins médicaux</subject>
+								</controlaccess>
+								<c id="_218445">
+									<did>
+										<unitid>3 R 11</unitid>
+										<unittitle>Cantons d'Auch-nord, Auch-sud, Cologne, Gimont, L'Isle-Jourdain.</unittitle>
+										<unitdate normal="1922/1928">1922-1928</unitdate>
+									</did>
+									<controlaccess>
+										<genreform>liste nominative</genreform>
+										<subject>victime de la guerre</subject>
+										<subject>soins médicaux</subject>
+									</controlaccess>
+								</c>
+								<c id="_218446">
+									<did>
+										<unitid>3 R 12</unitid>
+										<unittitle>Cantons de, Jegun, Lombez, Samatan, Saramon, Vic-Fezensac.</unittitle>
+										<unitdate normal="1922/1928">1922-1928</unitdate>
+									</did>
+									<controlaccess>
+										<genreform>liste nominative</genreform>
+										<subject>victime de la guerre</subject>
+										<subject>soins médicaux</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c id="_218447">
+								<did>
+									<unitid>3 R 13 - 14</unitid>
+									<unittitle>Arrondissement de Condom.</unittitle>
+									<unitdate normal="1922/1928">1922-1928</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>liste nominative</genreform>
+									<subject>victime de la guerre</subject>
+									<subject>soins médicaux</subject>
+								</controlaccess>
+								<c id="_218448">
+									<did>
+										<unitid>3 R 13</unitid>
+										<unittitle>Cantons de, Condom, Cazaubon, Eauze, Fleurance, Lectoure.</unittitle>
+										<unitdate normal="1922/1928">1922-1928</unitdate>
+									</did>
+									<controlaccess>
+										<genreform>liste nominative</genreform>
+										<subject>victime de la guerre</subject>
+										<subject>soins médicaux</subject>
+									</controlaccess>
+								</c>
+								<c id="_218449">
+									<did>
+										<unitid>3 R 14</unitid>
+										<unittitle>Cantons de Mauvezin, Miradoux, Montréal, Nogaro, Saint-Clar, Valence.</unittitle>
+										<unitdate normal="1922/1928">1922-1928</unitdate>
+									</did>
+									<controlaccess>
+										<genreform>liste nominative</genreform>
+										<subject>victime de la guerre</subject>
+										<subject>soins médicaux</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c id="_218450">
+								<did>
+									<unitid>3 R 15 - 16</unitid>
+									<unittitle>Arrondissement de Mirande.</unittitle>
+									<unitdate normal="1922/1928">1922-1928</unitdate>
+								</did>
+								<controlaccess>
+									<genreform>liste nominative</genreform>
+									<subject>victime de la guerre</subject>
+									<subject>soins médicaux</subject>
+								</controlaccess>
+								<c id="_218451">
+									<did>
+										<unitid>3 R 15</unitid>
+										<unittitle>Cantons de, Mirande, Aignan, Marciac, Masseube.</unittitle>
+										<unitdate normal="1922/1928">1922-1928</unitdate>
+									</did>
+									<controlaccess>
+										<genreform>liste nominative</genreform>
+										<subject>victime de la guerre</subject>
+										<subject>soins médicaux</subject>
+									</controlaccess>
+								</c>
+								<c id="_218452">
+									<did>
+										<unitid>3 R 16</unitid>
+										<unittitle>Cantons de, Miélan, Montesquiou, Plaisance, Riscle.</unittitle>
+										<unitdate normal="1922/1928">1922-1928</unitdate>
+									</did>
+									<controlaccess>
+										<genreform>liste nominative</genreform>
+										<subject>victime de la guerre</subject>
+										<subject>soins médicaux</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+						<c id="_218453">
+							<did>
+								<unitid>3 R 17 - 20</unitid>
+								<unittitle>Listes récapitulatives départementales des soins médicaux, chirurgicaux et pharmaceutiques aux victimes de la guerre.</unittitle>
+								<unitdate normal="1919/1947">1919-1947</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<subject>victime de la guerre</subject>
+								<subject>soins médicaux</subject>
+							</controlaccess>
+							<c id="_218454">
+								<did>
+									<unitid>3 R 17</unitid>
+									<unittitle>Liste permanente 1e section arrondissement de Mirande.</unittitle>
+									<unitdate normal="1920/1946">1920-1946</unitdate>
+									<physdesc>
+										<extent>Registre</extent>
+									</physdesc>
+								</did>
+								<controlaccess>
+									<genreform>liste nominative</genreform>
+									<subject>victime de la guerre</subject>
+									<subject>soins médicaux</subject>
+								</controlaccess>
+							</c>
+							<c id="_218455">
+								<did>
+									<unitid>3 R 18</unitid>
+									<unittitle>Liste permanente 1e section (liste de complément).</unittitle>
+									<unitdate normal="1920/1947">1920-1947</unitdate>
+									<physdesc>
+										<extent>Registre</extent>
+									</physdesc>
+								</did>
+								<controlaccess>
+									<genreform>liste nominative</genreform>
+									<subject>victime de la guerre</subject>
+									<subject>soins médicaux</subject>
+								</controlaccess>
+							</c>
+							<c id="_218456">
+								<did>
+									<unitid>3 R 19</unitid>
+									<unittitle>Liste permanente 2e section.</unittitle>
+									<unitdate normal="1919/1943">1919-1943</unitdate>
+									<physdesc>
+										<extent>Registre</extent>
+									</physdesc>
+								</did>
+								<controlaccess>
+									<genreform>liste nominative</genreform>
+									<subject>victime de la guerre</subject>
+									<subject>soins médicaux</subject>
+								</controlaccess>
+							</c>
+							<c id="_218457">
+								<did>
+									<unitid>3 R 20</unitid>
+									<unittitle>Liste provisoire.</unittitle>
+									<unitdate normal="1923/1946">1923-1946</unitdate>
+									<physdesc>
+										<extent>Registre</extent>
+									</physdesc>
+								</did>
+								<controlaccess>
+									<genreform>liste nominative</genreform>
+									<subject>victime de la guerre</subject>
+									<subject>soins médicaux</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c id="_218458">
+							<did>
+								<unitid>3 R 21</unitid>
+								<unittitle>Anciens militaires résidant dans le département du Gers admis à bénéficier d'une cure thermale : listes (1934-1938). Frais de séjour dus aux hôpitaux pour l'hospitalisation des victimes de la guerre : états (1937-1939).</unittitle>
+								<unitdate normal="1934/1939">1934-1939</unitdate>
+							</did>
+							<controlaccess>
+								<subject>victime de la guerre</subject>
+								<subject>soins médicaux</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c id="_218459">
+						<did>
+							<unitid>3 R 22</unitid>
+							<unittitle>Mutilés. - Circulaires, correspondance (1915-1922). Centre de rééducation professionnel agricole des mutilés de la guerre ; création de l'école Beaulieu (1915-1916), fonctionnement (1915-1919), comité de direction : extraits des délibérations (1916) ; situation financière : subventions, budgets (1915-1920).</unittitle>
+							<unitdate normal="1915/1922">1915-1922</unitdate>
+						</did>
+						<controlaccess>
+							<subject>invalide de guerre</subject>
+							<subject>enseignement</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c id="_218460">
+					<did>
+						<unitid>3 R 23</unitid>
+						<unittitle>Emplois réservés. - Circulaires, demandes de renseignements, correspondance (1916-1923) : états communaux du nombre d'exploitations industrielles, agricoles et commerciales assujetties à la loi du 26 avril 1924 assurant l'emploi obligatoire aux mutilés de la guerre, arrondissement de Condom (1925-1927).</unittitle>
+						<unitdate normal="1916/1927">1916-1927</unitdate>
+					</did>
+					<controlaccess>
+						<subject>invalide de guerre</subject>
+						<subject>emploi réservé</subject>
+					</controlaccess>
+				</c>
+				<c id="_218461">
+					<did>
+						<unitid>3 R 24</unitid>
+						<unittitle>Associations d'anciens combattants ou mutilés de la guerre : listes (1920). Demandes de renseignements pour l'obtention de subventions : Fédération départementale des anciens combattants et victimes de la guerre (1931-1939). Union nationale des combattants (1932-1940). Fédération départementale des associations gersoises de mutilés (1932-1940). Congrès départemental de l'union fédérale des associations gersoises de victimes de la guerre et anciens combattants : compte rendu (1937). Association amicale des anciens mobilisés du Gers, exclus de la carte du combattant et de la reconnaissance nationale, composition du conseil d'administration (1939).</unittitle>
+						<unitdate normal="1920/1940">1920-1940</unitdate>
+					</did>
+					<controlaccess>
+						<subject>ancien combattant</subject>
+						<subject>victime de guerre</subject>
+						<subject>invalide de guerre</subject>
+					</controlaccess>
+				</c>
+				<c id="_218462">
+					<did>
+						<unitid>3 R 25 - 29</unitid>
+						<unittitle>Comité départemental des mutilés et réformés de la guerre.</unittitle>
+						<unitdate normal="1922/1947">1922-1947</unitdate>
+					</did>
+					<c id="_218463">
+						<did>
+							<unitid>3 R 25</unitid>
+							<unittitle>Statut du personnel, rapport (1922-1943) ; réduction du personnel (1926-1927) ; demandes de renseignements relatives à l'obtention de la carte du combattant, de prêts, de pensions (1936-1940).</unittitle>
+							<unitdate normal="1922/1943">1922-1943</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>statut</genreform>
+							<genreform>rapport</genreform>
+							<subject>ancien combattant</subject>
+							<subject>personnel</subject>
+						</controlaccess>
+					</c>
+					<c id="_218464">
+						<did>
+							<unitid>3 R 26 - 29</unitid>
+							<unittitle>Bordereaux d'envois des dossiers de demandes de cartes de combattants (mention de la décision).</unittitle>
+							<unitdate normal="1930/1947">1930-1947</unitdate>
+						</did>
+						<controlaccess>
+							<subject>ancien combattant</subject>
+						</controlaccess>
+						<c id="_218465">
+							<did>
+								<unitid>3 R 26</unitid>
+								<unittitle>Bordereaux n° 1 à 60.</unittitle>
+								<unitdate normal="1930/1933">1930-1933</unitdate>
+							</did>
+							<controlaccess>
+								<subject>ancien combattant</subject>
+							</controlaccess>
+						</c>
+						<c id="_218466">
+							<did>
+								<unitid>3 R 27</unitid>
+								<unittitle>Bordereaux n°61 à 79.</unittitle>
+								<unitdate normal="1933/1934">1933-1934</unitdate>
+							</did>
+							<controlaccess>
+								<subject>ancien combattant</subject>
+							</controlaccess>
+						</c>
+						<c id="_218467">
+							<did>
+								<unitid>3 R 28</unitid>
+								<unittitle>Bordereaux n° 80 à 110.</unittitle>
+								<unitdate normal="1935/1936">1935-1936</unitdate>
+							</did>
+							<controlaccess>
+								<subject>ancien combattant</subject>
+							</controlaccess>
+						</c>
+						<c id="_218468">
+							<did>
+								<unitid>3 R 29</unitid>
+								<unittitle>Bordereaux n° 111 à 149.</unittitle>
+								<unitdate normal="1936/1947">1936-1947</unitdate>
+							</did>
+							<controlaccess>
+								<subject>ancien combattant</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c id="_218469">
+					<did>
+						<unitid>3 R 30 - 220</unitid>
+						<unittitle>Office départemental des pupilles de la nation.</unittitle>
+						<unitdate normal="1915/1953">1915-1953</unitdate>
+					</did>
+					<c id="_218470">
+						<did>
+							<unitid>3 R 30</unitid>
+							<unittitle>Élections au conseil supérieur de l'office national des pupilles de la nation, organisation : listes des électeurs, procès-verbaux, correspondance.</unittitle>
+							<unitdate normal="1917/1934">1917-1934</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>liste électorale</genreform>
+							<genreform>procès-verbal d'élection</genreform>
+							<subject>élection</subject>
+							<subject>pupille de la nation</subject>
+						</controlaccess>
+					</c>
+					<c id="_218471">
+						<did>
+							<unitid>3 R 31 - 32</unitid>
+							<unittitle>Élections au conseil d'administration de l'office départemental des pupilles de la nation, organisation, élections des représentants : extrait du procès-verbal de nomination.</unittitle>
+							<unitdate normal="1917/1922">1917-1922</unitdate>
+						</did>
+						<controlaccess>
+							<subject>élection</subject>
+							<subject>pupille de la nation</subject>
+						</controlaccess>
+						<c id="_218472">
+							<did>
+								<unitid>3 R 31</unitid>
+								<unittitle>1917-1918.</unittitle>
+								<unitdate normal="1917/1918">1917-1918</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>procès-verbal d'élection</genreform>
+								<subject>élection</subject>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218473">
+							<did>
+								<unitid>3 R 32</unitid>
+								<unittitle>1920-1922.</unittitle>
+								<unitdate normal="1920/1922">1920-1922</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>procès-verbal d'élection</genreform>
+								<subject>élection</subject>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c id="_218474">
+						<did>
+							<unitid>3 R 33</unitid>
+							<unittitle>Élections des représentants des sociétés de secours et des associations de mutilés et réformés de guerre, veuves de guerre et ascendants de combattants (1923). Élections au conseil d'administration, organisation, élections des représentants : extrait du procès-verbal de nomination (1923-1924).</unittitle>
+							<unitdate normal="1923/1924">1923-1924</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>procès-verbal d'élection</genreform>
+							<subject>élection</subject>
+							<subject>invalide de guerre</subject>
+							<subject>ancien combattant</subject>
+							<subject>veuve de guerre</subject>
+						</controlaccess>
+					</c>
+					<c id="_218475">
+						<did>
+							<unitid>3 R 34 - 36</unitid>
+							<unittitle>Élections au conseil d'administration de l'office départemental des pupilles de la nation, organisation, élections des représentants : extrait du procès-verbal de nomination.</unittitle>
+							<unitdate normal="1926/1933">1926-1933</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>procès-verbal d'élection</genreform>
+							<subject>élection</subject>
+							<subject>pupille de la nation</subject>
+						</controlaccess>
+						<c id="_218476">
+							<did>
+								<unitid>3 R 34</unitid>
+								<unittitle>1926-1927.</unittitle>
+								<unitdate normal="1926/1927">1926-1927</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>procès-verbal d'élection</genreform>
+								<subject>élection</subject>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218477">
+							<did>
+								<unitid>3 R 35</unitid>
+								<unittitle>1929-1930.</unittitle>
+								<unitdate normal="1929/1930">1929-1930</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>procès-verbal d'élection</genreform>
+								<subject>élection</subject>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218478">
+							<did>
+								<unitid>3 R 36</unitid>
+								<unittitle>1932-1933.</unittitle>
+								<unitdate normal="1932/1933">1932-1933</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>procès-verbal d'élection</genreform>
+								<subject>élection</subject>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c id="_218479">
+						<did>
+							<unitid>3 R 37 - 39</unitid>
+							<unittitle>Procès-verbaux des réunions de la section permanente.</unittitle>
+							<unitdate normal="1919/1934">1919-1934</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>procès-verbal de réunion</genreform>
+							<subject>pupille de la nation</subject>
+						</controlaccess>
+						<c id="_218480">
+							<did>
+								<unitid>3 R 37</unitid>
+								<unittitle>1919-1923.</unittitle>
+								<unitdate normal="1919/1923">1919-1923</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>procès-verbal de réunion</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218481">
+							<did>
+								<unitid>3 R 38</unitid>
+								<unittitle>1924-1927.</unittitle>
+								<unitdate normal="1924/1927">1924-1927</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>procès-verbal de réunion</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218482">
+							<did>
+								<unitid>3 R 39</unitid>
+								<unittitle>1928-1934.</unittitle>
+								<unitdate normal="1928/1934">1928-1934</unitdate>
+							</did>
+							<controlaccess>
+								<genreform>procès-verbal de réunion</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c id="_218483">
+						<did>
+							<unitid>3 R 40 - 41</unitid>
+							<unittitle>Procès-verbaux des réunions du conseil d'administration.</unittitle>
+							<unitdate normal="1918/1939">1918-1939</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>procès-verbal de réunion</genreform>
+							<subject>pupille de la nation</subject>
+						</controlaccess>
+						<c id="_218484">
+							<did>
+								<unitid>3 R 40</unitid>
+								<unittitle>Registre.</unittitle>
+								<unitdate normal="1918/1924">1918-1924</unitdate>
+								<physdesc>
+									<extent>Registre</extent>
+								</physdesc>
+							</did>
+							<controlaccess>
+								<genreform>procès-verbal de réunion</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218485">
+							<did>
+								<unitid>3 R 41</unitid>
+								<unittitle>1919-1939.</unittitle>
+								<unitdate normal="1919/1939">1919-1939</unitdate>
+							</did>
+							<scopecontent>
+								<p>Lacunes entre 1929 et 1931 et entre 1935 et 1938.</p>
+							</scopecontent>
+							<controlaccess>
+								<genreform>procès-verbal de réunion</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c id="_218486">
+						<did>
+							<unitid>3 R 42</unitid>
+							<unittitle>Rapports de la section permanente de l'office départemental pour la section permanente de l'office national (1920-1922). Rapport de l'office national présenté au conseil supérieur (1932).</unittitle>
+							<unitdate normal="1920/1932">1920-1932</unitdate>
+						</did>
+						<controlaccess>
+							<subject>pupille de la nation</subject>
+						</controlaccess>
+					</c>
+					<c id="_218487">
+						<did>
+							<unitid>3 R 43</unitid>
+							<unittitle>Office départemental des pupilles de la nation, organisation : demandes de renseignements (1920-1925) ; admissions, placements (1918-1925) ; comptes administratifs : budgets, subventions (1918-1925).</unittitle>
+							<unitdate normal="1918/1930">1918-1930</unitdate>
+						</did>
+						<controlaccess>
+							<genreform>budget</genreform>
+							<subject>pupille de la nation</subject>
+							<subject>comptabilité publique</subject>
+						</controlaccess>
+					</c>
+					<c id="_218488">
+						<did>
+							<unitid>3 R 44</unitid>
+							<unittitle>Décrets, circulaires pour l'obtention de bourses, secours et pécules en faveur des pupilles (1919-1925) ; listes (1919-1926). Bourses nationales, exonérations de pensions, états (1915-1920).</unittitle>
+							<unitdate normal="1915/1940">1915-1940</unitdate>
+						</did>
+						<controlaccess>
+							<subject>pupille de la nation</subject>
+						</controlaccess>
+					</c>
+					<c id="_218489">
+						<did>
+							<unitid>3 R 45 - 220</unitid>
+							<unittitle>Dossiers individuels des pupilles de la nation : extraits des délibérations des conseils de famille, demandes, de subventions, de prêts, de bourses, contrats d'apprentissage, correspondance, dossiers scolaires et médicaux.</unittitle>
+							<unitdate normal="1918/1953">1918-1953</unitdate>
+						</did>
+						<scopecontent>
+							<p>Voir liste en annexe. Les dossiers contiennent des extraits des délibérations des conseils de famille, des demandes de subventions, de prêts, de bourses, des contrats d'apprentissage, de la correspondance, les dossiers scolaires et les dossiers de médecine scolaire. Un numéro de dossier par famille. Les dossiers sont classés par ordre alphabétique, les enfants naturels sont classés avec les enfants légitimes.</p>
+						</scopecontent>
+						<accessrestrict>
+							<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+						</accessrestrict>
+						<controlaccess>
+							<genreform>dossier individuel</genreform>
+							<subject>pupille de la nation</subject>
+						</controlaccess>
+						<c id="_218490">
+							<did>
+								<unitid>3 R 45</unitid>
+								<unittitle>Abadie.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218491">
+							<did>
+								<unitid>3 R 46</unitid>
+								<unittitle>Abadie à Ador.</unittitle>
+								<unitdate normal="1919/1939">1919-1939</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218492">
+							<did>
+								<unitid>3 R 47</unitid>
+								<unittitle>Agut à Ambialet.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218493">
+							<did>
+								<unitid>3 R 48</unitid>
+								<unittitle>Amouroux à Arlat.</unittitle>
+								<unitdate normal="1919/1933">1919-1933</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218494">
+							<did>
+								<unitid>3 R 49</unitid>
+								<unittitle>Arnaldes à Auberet.</unittitle>
+								<unitdate normal="1919/1938">1919-1938</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218495">
+							<did>
+								<unitid>3 R 50</unitid>
+								<unittitle>Auge à Ayot.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218496">
+							<did>
+								<unitid>3 R 51</unitid>
+								<unittitle>Azam à Bajolle.</unittitle>
+								<unitdate normal="1919/1952">1919-1952</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218497">
+							<did>
+								<unitid>3 R 52</unitid>
+								<unittitle>Bajon à Barada.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218498">
+							<did>
+								<unitid>3 R 53</unitid>
+								<unittitle>Baradat à Bareges.</unittitle>
+								<unitdate normal="1919/1945">1919-1945</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218499">
+							<did>
+								<unitid>3 R 54</unitid>
+								<unittitle>Bargele à Barrau.</unittitle>
+								<unitdate normal="1919/1938">1919-1938</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218500">
+							<did>
+								<unitid>3 R 55</unitid>
+								<unittitle>Barrere à Barrieu.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218501">
+							<did>
+								<unitid>3 R 56</unitid>
+								<unittitle>Barrieu à Barthe.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218502">
+							<did>
+								<unitid>3 R 57</unitid>
+								<unittitle>Barthe à Baude.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218503">
+							<did>
+								<unitid>3 R 58</unitid>
+								<unittitle>Baude à Baylac.</unittitle>
+								<unitdate normal="1919/1941">1919-1941</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218504">
+							<did>
+								<unitid>3 R 59</unitid>
+								<unittitle>Bayle à Begue.</unittitle>
+								<unitdate normal="1919/1945">1919-1945</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218505">
+							<did>
+								<unitid>3 R 60</unitid>
+								<unittitle>Begue à Benne.</unittitle>
+								<unitdate normal="1919/1943">1919-1943</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218506">
+							<did>
+								<unitid>3 R 61</unitid>
+								<unittitle>Beon à Berges.</unittitle>
+								<unitdate normal="1919/1941">1919-1941</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218507">
+							<did>
+								<unitid>3 R 62</unitid>
+								<unittitle>Berges à Bernes.</unittitle>
+								<unitdate normal="1919/1945">1919-1945</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218508">
+							<did>
+								<unitid>3 R 63</unitid>
+								<unittitle>Bernes à Beyria.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218509">
+							<did>
+								<unitid>3 R 64</unitid>
+								<unittitle>Beyria à Biennes.</unittitle>
+								<unitdate normal="1919/1945">1919-1945</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218510">
+							<did>
+								<unitid>3 R 65</unitid>
+								<unittitle>Bilheres à Blancafort.</unittitle>
+								<unitdate normal="1919/1936">1919-1936</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218511">
+							<did>
+								<unitid>3 R 66</unitid>
+								<unittitle>Blancafort à Bonneau.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218512">
+							<did>
+								<unitid>3 R 67</unitid>
+								<unittitle>Bonneau à Bordeneuve.</unittitle>
+								<unitdate normal="1919/1935">1919-1935</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218513">
+							<did>
+								<unitid>3 R 68</unitid>
+								<unittitle>Borderes à Bouchard.</unittitle>
+								<unitdate normal="1919/1934">1919-1934</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218514">
+							<did>
+								<unitid>3 R 69</unitid>
+								<unittitle>Boue à Bourgade.</unittitle>
+								<unitdate normal="1919/1938">1919-1938</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218515">
+							<did>
+								<unitid>3 R 70</unitid>
+								<unittitle>Bourgade à Bouzon.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218516">
+							<did>
+								<unitid>3 R 71</unitid>
+								<unittitle>Boyer à Brescon.</unittitle>
+								<unitdate normal="1919/1938">1919-1938</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218517">
+							<did>
+								<unitid>3 R 72</unitid>
+								<unittitle>Bresil à Brocas.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218518">
+							<did>
+								<unitid>3 R 73</unitid>
+								<unittitle>Brocas à Brunet.</unittitle>
+								<unitdate normal="1919/1933">1919-1933</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218519">
+							<did>
+								<unitid>3 R 74</unitid>
+								<unittitle>Brunet à Burgan.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218520">
+							<did>
+								<unitid>3 R 75</unitid>
+								<unittitle>Buros à Cabiran.</unittitle>
+								<unitdate normal="1919/1942">1919-1942</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218521">
+							<did>
+								<unitid>3 R 76</unitid>
+								<unittitle>Cabos à Cahuzac.</unittitle>
+								<unitdate normal="1919/1937">1919-1937</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218522">
+							<did>
+								<unitid>3 R 77</unitid>
+								<unittitle>Caillava à Campguilhem.</unittitle>
+								<unitdate normal="1919/1938">1919-1938</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218523">
+							<did>
+								<unitid>3 R 78</unitid>
+								<unittitle>Candelon à Caouail.</unittitle>
+								<unitdate normal="1919/1947">1919-1947</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218524">
+							<did>
+								<unitid>3 R 79</unitid>
+								<unittitle>Capdecomme à Capmartin.</unittitle>
+								<unitdate normal="1919/1935">1919-1935</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218525">
+							<did>
+								<unitid>3 R 80</unitid>
+								<unittitle>Capot à Caron.</unittitle>
+								<unitdate normal="1919/1936">1919-1936</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218526">
+							<did>
+								<unitid>3 R 81</unitid>
+								<unittitle>Carre à Carrere.</unittitle>
+								<unitdate normal="1919/1945">1919-1945</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218527">
+							<did>
+								<unitid>3 R 82</unitid>
+								<unittitle>Carrere à Cassagnolis.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218528">
+							<did>
+								<unitid>3 R 83</unitid>
+								<unittitle>Cassede à Castay.</unittitle>
+								<unitdate normal="1919/1937">1919-1937</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218529">
+							<did>
+								<unitid>3 R 84</unitid>
+								<unittitle>Castel à Castera.</unittitle>
+								<unitdate normal="1919/1937">1919-1937</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218530">
+							<did>
+								<unitid>3 R 85</unitid>
+								<unittitle>Casteres à Castex.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218531">
+							<did>
+								<unitid>3 R 86</unitid>
+								<unittitle>Castillon à Caumont.</unittitle>
+								<unitdate normal="1919/1934">1919-1934</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218532">
+							<did>
+								<unitid>3 R 87</unitid>
+								<unittitle>Caumont à Cazalas.</unittitle>
+								<unitdate normal="1919/1933">1919-1933</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218533">
+							<did>
+								<unitid>3 R 88</unitid>
+								<unittitle>Cazaoulou à Cazeneuve.</unittitle>
+								<unitdate normal="1919/1939">1919-1939</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218534">
+							<did>
+								<unitid>3 R 89</unitid>
+								<unittitle>Cazeneuve à Cenac.</unittitle>
+								<unitdate normal="1919/1935">1919-1935</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218535">
+							<did>
+								<unitid>3 R 90</unitid>
+								<unittitle>Cenac à Chapot.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218536">
+							<did>
+								<unitid>3 R 91</unitid>
+								<unittitle>Chapoulie à Clairefond.</unittitle>
+								<unitdate normal="1919/1936">1919-1936</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218537">
+							<did>
+								<unitid>3 R 92</unitid>
+								<unittitle>Clamens à Colin.</unittitle>
+								<unitdate normal="1919/1935">1919-1935</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218538">
+							<did>
+								<unitid>3 R 93</unitid>
+								<unittitle>Collongues à Correger.</unittitle>
+								<unitdate normal="1919/1939">1919-1939</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218539">
+							<did>
+								<unitid>3 R 94</unitid>
+								<unittitle>Couais à Courbin.</unittitle>
+								<unitdate normal="1919/1947">1919-1947</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218540">
+							<did>
+								<unitid>3 R 95</unitid>
+								<unittitle>Cournet à Coutens.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218541">
+							<did>
+								<unitid>3 R 96</unitid>
+								<unittitle>Couzier à Dabezies.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218542">
+							<did>
+								<unitid>3 R 97</unitid>
+								<unittitle>Dalieres à Danflous.</unittitle>
+								<unitdate normal="1919/1950">1919-1950</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218543">
+							<did>
+								<unitid>3 R 98</unitid>
+								<unittitle>Danflous à Darnaud.</unittitle>
+								<unitdate normal="1919/1943">1919-1943</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218544">
+							<did>
+								<unitid>3 R 99</unitid>
+								<unittitle>Daroles à Darquizan.</unittitle>
+								<unitdate normal="1919/1945">1919-1945</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218545">
+							<did>
+								<unitid>3 R 100</unitid>
+								<unittitle>Darribehaude à Dassion.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218546">
+							<did>
+								<unitid>3 R 101</unitid>
+								<unittitle>Daste à Dauga.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218547">
+							<did>
+								<unitid>3 R 102</unitid>
+								<unittitle>Dauga à Davan.</unittitle>
+								<unitdate normal="1918/1950">1918-1950</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218548">
+							<did>
+								<unitid>3 R 103</unitid>
+								<unittitle>Davasse à Debent.</unittitle>
+								<unitdate normal="1919/1939">1919-1939</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218549">
+							<did>
+								<unitid>3 R 104</unitid>
+								<unittitle>Decamps à Delom.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218550">
+							<did>
+								<unitid>3 R 105</unitid>
+								<unittitle>Delon à Deneys.</unittitle>
+								<unitdate normal="1918/1933">1918-1933</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218551">
+							<did>
+								<unitid>3 R 106</unitid>
+								<unittitle>Denux à Desbarats.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218552">
+							<did>
+								<unitid>3 R 107</unitid>
+								<unittitle>Desbets à Despaux.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218553">
+							<did>
+								<unitid>3 R 108</unitid>
+								<unittitle>Despaux à Dessus.</unittitle>
+								<unitdate normal="1919/1938">1919-1938</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218554">
+							<did>
+								<unitid>3 R 109</unitid>
+								<unittitle>Destouet à Dorensan.</unittitle>
+								<unitdate normal="1919/1936">1919-1936</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218555">
+							<did>
+								<unitid>3 R 110</unitid>
+								<unittitle>Dorleac à Dubarry.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218556">
+							<did>
+								<unitid>3 R 111</unitid>
+								<unittitle>Dubarry à Dubosc.</unittitle>
+								<unitdate normal="1919/1937">1919-1937</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218557">
+							<did>
+								<unitid>3 R 112</unitid>
+								<unittitle>Dubosc à Ducau.</unittitle>
+								<unitdate normal="1918/1935">1918-1935</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218558">
+							<did>
+								<unitid>3 R 113</unitid>
+								<unittitle>Ducauze à Ducos.</unittitle>
+								<unitdate normal="1919/1939">1919-1939</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218559">
+							<did>
+								<unitid>3 R 114</unitid>
+								<unittitle>Ducos à Duffart.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218560">
+							<did>
+								<unitid>3 R 115</unitid>
+								<unittitle>Duffart à Duffaumene.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218561">
+							<did>
+								<unitid>3 R 116</unitid>
+								<unittitle>Duffaut à Dugers.</unittitle>
+								<unitdate normal="1919/1935">1919-1935</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218562">
+							<did>
+								<unitid>3 R 117</unitid>
+								<unittitle>Dugoujon à Dulout.</unittitle>
+								<unitdate normal="1918/1933">1918-1933</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218563">
+							<did>
+								<unitid>3 R 118</unitid>
+								<unittitle>Dumas à Dumouch.</unittitle>
+								<unitdate normal="1919/1938">1919-1938</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218564">
+							<did>
+								<unitid>3 R 119</unitid>
+								<unittitle>Dupeyron à Dupouy.</unittitle>
+								<unitdate normal="1919/1936">1919-1936</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218565">
+							<did>
+								<unitid>3 R 120</unitid>
+								<unittitle>Dupouy à Duputs.</unittitle>
+								<unitdate normal="1919/1945">1919-1945</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218566">
+							<did>
+								<unitid>3 R 121</unitid>
+								<unittitle>Dupuy.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218567">
+							<did>
+								<unitid>3 R 122</unitid>
+								<unittitle>Durban à Dutaut.</unittitle>
+								<unitdate normal="1919/1938">1919-1938</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218568">
+							<did>
+								<unitid>3 R 123</unitid>
+								<unittitle>Duthil à Duviau.</unittitle>
+								<unitdate normal="1918/1934">1918-1934</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218569">
+							<did>
+								<unitid>3 R 124</unitid>
+								<unittitle>Duvignau à Estebenet.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218570">
+							<did>
+								<unitid>3 R 125</unitid>
+								<unittitle>Estebenet à Faget.</unittitle>
+								<unitdate normal="1919/1934">1919-1934</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218571">
+							<did>
+								<unitid>3 R 126</unitid>
+								<unittitle>Faget à Fauque.</unittitle>
+								<unitdate normal="1919/1938">1919-1938</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218572">
+							<did>
+								<unitid>3 R 127</unitid>
+								<unittitle>Faure à Ferrand.</unittitle>
+								<unitdate normal="1919/1945">1919-1945</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218573">
+							<did>
+								<unitid>3 R 128</unitid>
+								<unittitle>Ferret à Fontauzard.</unittitle>
+								<unitdate normal="1919/1945">1919-1945</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218574">
+							<did>
+								<unitid>3 R 129</unitid>
+								<unittitle>Foraste à Fourcade.</unittitle>
+								<unitdate normal="1919/1949">1919-1949</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218575">
+							<did>
+								<unitid>3 R 130</unitid>
+								<unittitle>Fourmigue à Frechou.</unittitle>
+								<unitdate normal="1919/1933">1919-1933</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218576">
+							<did>
+								<unitid>3 R 131</unitid>
+								<unittitle>Fulgence à Gaillard.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218577">
+							<did>
+								<unitid>3 R 132</unitid>
+								<unittitle>Gailleres à Garreau.</unittitle>
+								<unitdate normal="1919/1937">1919-1937</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218578">
+							<did>
+								<unitid>3 R 133</unitid>
+								<unittitle>Garreau à Gauran.</unittitle>
+								<unitdate normal="1919/1937">1919-1937</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218579">
+							<did>
+								<unitid>3 R 134</unitid>
+								<unittitle>Gauthe à Gayat.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218580">
+							<did>
+								<unitid>3 R 135</unitid>
+								<unittitle>Gayde à Gesta.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218581">
+							<did>
+								<unitid>3 R 136</unitid>
+								<unittitle>Geze à Gourgues.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218582">
+							<did>
+								<unitid>3 R 137</unitid>
+								<unittitle>Gourgues à Groizard.</unittitle>
+								<unitdate normal="1919/1935">1919-1935</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218583">
+							<did>
+								<unitid>3 R 138</unitid>
+								<unittitle>Grosgnet à Hautane.</unittitle>
+								<unitdate normal="1919/1941">1919-1941</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218584">
+							<did>
+								<unitid>3 R 139</unitid>
+								<unittitle>Hemery à Jarry.</unittitle>
+								<unitdate normal="1919/1939">1919-1939</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218585">
+							<did>
+								<unitid>3 R 140</unitid>
+								<unittitle>Jayles à Kancellary.</unittitle>
+								<unitdate normal="1919/1941">1919-1941</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218586">
+							<did>
+								<unitid>3 R 141</unitid>
+								<unittitle>Ladadens à Laballe.</unittitle>
+								<unitdate normal="1919/1939">1919-1939</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218587">
+							<did>
+								<unitid>3 R 142</unitid>
+								<unittitle>Labaou à Labatut.</unittitle>
+								<unitdate normal="1919/1937">1919-1937</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218588">
+							<did>
+								<unitid>3 R 143</unitid>
+								<unittitle>Labatut à Labenere.</unittitle>
+								<unitdate normal="1919/1945">1919-1945</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218589">
+							<did>
+								<unitid>3 R 144</unitid>
+								<unittitle>Labenne à Labeyrie.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218590">
+							<did>
+								<unitid>3 R 145</unitid>
+								<unittitle>Labit à Laborie.</unittitle>
+								<unitdate normal="1918/1940">1918-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218591">
+							<did>
+								<unitid>3 R 146</unitid>
+								<unittitle>Laborie à Lacambra.</unittitle>
+								<unitdate normal="1919/1933">1919-1933</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218592">
+							<did>
+								<unitid>3 R 147</unitid>
+								<unittitle>Lacassin à Lacaze.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218593">
+							<did>
+								<unitid>3 R 148</unitid>
+								<unittitle>Lacomme à Lacourtoisie.</unittitle>
+								<unitdate normal="1918/1934">1918-1934</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218594">
+							<did>
+								<unitid>3 R 149</unitid>
+								<unittitle>Lacroix à Laffargue.</unittitle>
+								<unitdate normal="1919/1941">1919-1941</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218595">
+							<did>
+								<unitid>3 R 150</unitid>
+								<unittitle>Laffargue à Laffineur.</unittitle>
+								<unitdate normal="1918/1940">1918-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218596">
+							<did>
+								<unitid>3 R 151</unitid>
+								<unittitle>Laffite à Lafforgue.</unittitle>
+								<unitdate normal="1919/1931">1919-1931</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218597">
+							<did>
+								<unitid>3 R 152</unitid>
+								<unittitle>Lafforgue à Lagleize.</unittitle>
+								<unitdate normal="1919/1946">1919-1946</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218598">
+							<did>
+								<unitid>3 R 153</unitid>
+								<unittitle>Lagonnelle à Lahens.</unittitle>
+								<unitdate normal="1918/1932">1918-1932</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218599">
+							<did>
+								<unitid>3 R 154</unitid>
+								<unittitle>Lahille à Lalanne.</unittitle>
+								<unitdate normal="1918/1940">1918-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218600">
+							<did>
+								<unitid>3 R 155</unitid>
+								<unittitle>Lalanne à Lamarque.</unittitle>
+								<unitdate normal="1919/1943">1919-1943</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218601">
+							<did>
+								<unitid>3 R 156</unitid>
+								<unittitle>Lamarque à Lamothe.</unittitle>
+								<unitdate normal="1919/1932">1919-1932</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218602">
+							<did>
+								<unitid>3 R 157</unitid>
+								<unittitle>Lamothe à Lannes.</unittitle>
+								<unitdate normal="1918/1943">1918-1943</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218603">
+							<did>
+								<unitid>3 R 158</unitid>
+								<unittitle>Lantin à Lapeyrere.</unittitle>
+								<unitdate normal="1918/1938">1918-1938</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218604">
+							<did>
+								<unitid>3 R 159</unitid>
+								<unittitle>Lapeyrere à Larbonne.</unittitle>
+								<unitdate normal="1918/1940">1918-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218605">
+							<did>
+								<unitid>3 R 160</unitid>
+								<unittitle>Larcade à Larrey.</unittitle>
+								<unitdate normal="1919/1938">1919-1938</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218606">
+							<did>
+								<unitid>3 R 161</unitid>
+								<unittitle>Larribat à Larrieu.</unittitle>
+								<unitdate normal="1919/1932">1919-1932</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218607">
+							<did>
+								<unitid>3 R 162</unitid>
+								<unittitle>Larrieu à Lartigue.</unittitle>
+								<unitdate normal="1919/1939">1919-1939</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218608">
+							<did>
+								<unitid>3 R 163</unitid>
+								<unittitle>Lartigue à Lasporte.</unittitle>
+								<unitdate normal="1919/1941">1919-1941</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218609">
+							<did>
+								<unitid>3 R 164</unitid>
+								<unittitle>Lassalle à Lasserre.</unittitle>
+								<unitdate normal="1918/1941">1918-1941</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218610">
+							<did>
+								<unitid>3 R 165</unitid>
+								<unittitle>Lasserre à Latapie.</unittitle>
+								<unitdate normal="1919/1936">1919-1936</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218611">
+							<did>
+								<unitid>3 R 166</unitid>
+								<unittitle>Latche à Laurensan.</unittitle>
+								<unitdate normal="1919/1937">1919-1937</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218612">
+							<did>
+								<unitid>3 R 167</unitid>
+								<unittitle>Laurent à Leon.</unittitle>
+								<unitdate normal="1919/1941">1919-1941</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218613">
+							<did>
+								<unitid>3 R 168</unitid>
+								<unittitle>Lerbeil à Limour.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218614">
+							<did>
+								<unitid>3 R 169</unitid>
+								<unittitle>Lirou à Loudet.</unittitle>
+								<unitdate normal="1919/1939">1919-1939</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218615">
+							<did>
+								<unitid>3 R 170</unitid>
+								<unittitle>Louit à Lussan.</unittitle>
+								<unitdate normal="1918/1949">1918-1949</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218616">
+							<did>
+								<unitid>3 R 171</unitid>
+								<unittitle>Magne à Malartic.</unittitle>
+								<unitdate normal="1918/1940">1918-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218617">
+							<did>
+								<unitid>3 R 172</unitid>
+								<unittitle>Malet à Marestang.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218618">
+							<did>
+								<unitid>3 R 173</unitid>
+								<unittitle>Marin à Marsan.</unittitle>
+								<unitdate normal="1918/1936">1918-1936</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218619">
+							<did>
+								<unitid>3 R 174</unitid>
+								<unittitle>Marsan à Martin.</unittitle>
+								<unitdate normal="1919/1937">1919-1937</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218620">
+							<did>
+								<unitid>3 R 175</unitid>
+								<unittitle>Marty à Mathieu.</unittitle>
+								<unitdate normal="1919/1933">1919-1933</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218621">
+							<did>
+								<unitid>3 R 176</unitid>
+								<unittitle>Mathieu à Mauranx.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218622">
+							<did>
+								<unitid>3 R 177</unitid>
+								<unittitle>Mauras à Meillon.</unittitle>
+								<unitdate normal="1918/1934">1918-1934</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218623">
+							<did>
+								<unitid>3 R 178</unitid>
+								<unittitle>Meillon à Mimale.</unittitle>
+								<unitdate normal="1918/1940">1918-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218624">
+							<did>
+								<unitid>3 R 179</unitid>
+								<unittitle>Minvielle à Monbernard.</unittitle>
+								<unitdate normal="1918/1940">1918-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218625">
+							<did>
+								<unitid>3 R 180</unitid>
+								<unittitle>Monbrun à Monferran.</unittitle>
+								<unitdate normal="1918/1940">1918-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218626">
+							<did>
+								<unitid>3 R 181</unitid>
+								<unittitle>Mongis à Moulis.</unittitle>
+								<unitdate normal="1919/1944">1919-1944</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218627">
+							<did>
+								<unitid>3 R 182</unitid>
+								<unittitle>Moullie à Nabonne.</unittitle>
+								<unitdate normal="1918/1949">1918-1949</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218628">
+							<did>
+								<unitid>3 R 183</unitid>
+								<unittitle>Nabonne à Noby.</unittitle>
+								<unitdate normal="1918/1945">1918-1945</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218629">
+							<did>
+								<unitid>3 R 184</unitid>
+								<unittitle>Nodenot à Ozeville.</unittitle>
+								<unitdate normal="1918/1940">1918-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218630">
+							<did>
+								<unitid>3 R 185</unitid>
+								<unittitle>Pabet à Parisot.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218631">
+							<did>
+								<unitid>3 R 186</unitid>
+								<unittitle>Pascal à Pepet.</unittitle>
+								<unitdate normal="1918/1944">1918-1944</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218632">
+							<did>
+								<unitid>3 R 187</unitid>
+								<unittitle>Peres à Peyret.</unittitle>
+								<unitdate normal="1918/1940">1918-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218633">
+							<did>
+								<unitid>3 R 188</unitid>
+								<unittitle>Peyrigne à Philippe.</unittitle>
+								<unitdate normal="1918/1932">1918-1932</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218634">
+							<did>
+								<unitid>3 R 189</unitid>
+								<unittitle>Picamil à Pique.</unittitle>
+								<unitdate normal="1918/1935">1918-1935</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218635">
+							<did>
+								<unitid>3 R 190</unitid>
+								<unittitle>Piquemal à Pitous.</unittitle>
+								<unitdate normal="1918/1938">1918-1938</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218636">
+							<did>
+								<unitid>3 R 191</unitid>
+								<unittitle>Pitous à Ponsan.</unittitle>
+								<unitdate normal="1918/1940">1918-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218637">
+							<did>
+								<unitid>3 R 192</unitid>
+								<unittitle>Ponsin à Pouchalan.</unittitle>
+								<unitdate normal="1918/1942">1918-1942</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218638">
+							<did>
+								<unitid>3 R 193</unitid>
+								<unittitle>Poches à Puey.</unittitle>
+								<unitdate normal="1918/1934">1918-1934</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218639">
+							<did>
+								<unitid>3 R 194</unitid>
+								<unittitle>Pugens à Quintau.</unittitle>
+								<unitdate normal="1919/1934">1919-1934</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218640">
+							<did>
+								<unitid>3 R 195</unitid>
+								<unittitle>Raude à Riba.</unittitle>
+								<unitdate normal="1918/1945">1918-1945</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218641">
+							<did>
+								<unitid>3 R 196</unitid>
+								<unittitle>Ricard à Rigaud.</unittitle>
+								<unitdate normal="1918/1937">1918-1937</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218642">
+							<did>
+								<unitid>3 R 197</unitid>
+								<unittitle>Rivail à Roche.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218643">
+							<did>
+								<unitid>3 R 198</unitid>
+								<unittitle>Roignan à Roumat.</unittitle>
+								<unitdate normal="1918/1933">1918-1933</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218644">
+							<did>
+								<unitid>3 R 199</unitid>
+								<unittitle>Roumeguere à Roux.</unittitle>
+								<unitdate normal="1918/1940">1918-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218645">
+							<did>
+								<unitid>3 R 200</unitid>
+								<unittitle>Rozes à Sacareau.</unittitle>
+								<unitdate normal="1918/1945">1918-1945</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218646">
+							<did>
+								<unitid>3 R 201</unitid>
+								<unittitle>Sahuguede à Samso.</unittitle>
+								<unitdate normal="1918/1948">1918-1948</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218647">
+							<did>
+								<unitid>3 R 202</unitid>
+								<unittitle>Sanche à Sarrauste.</unittitle>
+								<unitdate normal="1919/1933">1919-1933</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218648">
+							<did>
+								<unitid>3 R 203</unitid>
+								<unittitle>Sarraute à Seilhan.</unittitle>
+								<unitdate normal="1918/1937">1918-1937</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218649">
+							<did>
+								<unitid>3 R 204</unitid>
+								<unittitle>Seilhan à Sentis.</unittitle>
+								<unitdate normal="1918/1933">1918-1933</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218650">
+							<did>
+								<unitid>3 R 205</unitid>
+								<unittitle>Sentous à Seris.</unittitle>
+								<unitdate normal="1918/1933">1918-1933</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218651">
+							<did>
+								<unitid>3 R 206</unitid>
+								<unittitle>Serres à Sizos.</unittitle>
+								<unitdate normal="1918/1939">1918-1939</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218652">
+							<did>
+								<unitid>3 R 207</unitid>
+								<unittitle>Soes à Soubiran.</unittitle>
+								<unitdate normal="1918/1944">1918-1944</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218653">
+							<did>
+								<unitid>3 R 208</unitid>
+								<unittitle>Soulan à Sourbes.</unittitle>
+								<unitdate normal="1918/1934">1918-1934</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218654">
+							<did>
+								<unitid>3 R 209</unitid>
+								<unittitle>Sourbie à Suran.</unittitle>
+								<unitdate normal="1918/1940">1918-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218655">
+							<did>
+								<unitid>3 R 210</unitid>
+								<unittitle>Sutra à Saint-Martin.</unittitle>
+								<unitdate normal="1918/1945">1918-1945</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218656">
+							<did>
+								<unitid>3 R 211</unitid>
+								<unittitle>Saint-Martin à Saint-Supery.</unittitle>
+								<unitdate normal="1918/1940">1918-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218657">
+							<did>
+								<unitid>3 R 212</unitid>
+								<unittitle>Tadieu à Tarrat.</unittitle>
+								<unitdate normal="1918/1938">1918-1938</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218658">
+							<did>
+								<unitid>3 R 213</unitid>
+								<unittitle>Tartas à Teoule.</unittitle>
+								<unitdate normal="1918/1934">1918-1934</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218659">
+							<did>
+								<unitid>3 R 214</unitid>
+								<unittitle>Terrade à Tichane.</unittitle>
+								<unitdate normal="1919/1952">1919-1952</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218660">
+							<did>
+								<unitid>3 R 215</unitid>
+								<unittitle>Ticie à Tounique.</unittitle>
+								<unitdate normal="1919/1953">1919-1953</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218661">
+							<did>
+								<unitid>3 R 216</unitid>
+								<unittitle>Tournan à Tremont.</unittitle>
+								<unitdate normal="1918/1933">1918-1933</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218662">
+							<did>
+								<unitid>3 R 217</unitid>
+								<unittitle>Trenque à Tuo.</unittitle>
+								<unitdate normal="1919/1941">1919-1941</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218663">
+							<did>
+								<unitid>3 R 218</unitid>
+								<unittitle>Tutin à Vidal.</unittitle>
+								<unitdate normal="1918/1940">1918-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218664">
+							<did>
+								<unitid>3 R 219</unitid>
+								<unittitle>Vidal à Vignes.</unittitle>
+								<unitdate normal="1918/1940">1918-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+						<c id="_218665">
+							<did>
+								<unitid>3 R 220</unitid>
+								<unittitle>Villas à Warnet.</unittitle>
+								<unitdate normal="1919/1940">1919-1940</unitdate>
+							</did>
+							<accessrestrict>
+								<p>Communicabilité à 120 ans à compter de la date de naissance du pupille.</p>
+							</accessrestrict>
+							<controlaccess>
+								<genreform>dossier individuel</genreform>
+								<subject>pupille de la nation</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+			</dsc>
+		</archdesc>
+	</ead>

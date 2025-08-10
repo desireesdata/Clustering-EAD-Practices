@@ -1,0 +1,2839 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:cpf="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+		<eadid url="https://www.archives32.fr/wp-content/uploads/2024/06/FRAD032_000045-1.pdf" countrycode="FR" mainagencycode="FRAD032" identifier="FRAD032_000045">FRAD032_000045</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Archives communales de Lagraulas</titleproper>
+				<subtitle>Répertoire méthodique</subtitle>
+				<author>élaboré par Solène Pons sous la direction de Pascal Geneste et Nadine Rouayroux</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives départementales du Gers</publisher>
+				<date>31/05/2024</date>
+				<address>
+					<addressline>81 route de Pessan - 32001 Auch</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Cet instrument de recherche a été exporté au format XML depuis le progiciel de gestion d'archives Thot par les archives départementales du Gers.</creation>
+			<langusage>Instrument de recherche rédigé en <language langcode="fre">français</language>
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="fonds">
+		<did>
+			<unitid>ESUPPL 1169, 10991 - 11114</unitid>
+			<unittitle>Archives communales de Lagraulas</unittitle>
+			<unitdate normal="1669/1995">1669-1995</unitdate>
+			<origination label="producteur">Commune de Lagraulas</origination>
+			<physdesc>
+				</physdesc>
+			<langmaterial>Français</langmaterial>
+		</did>
+		<bioghist>
+			<p>Sous l'Ancien Régime, la seigneurie de Lagraulas faisait partie du comté de Fezensac. Elle relevait de l'élection d'Armagnac, de la sénéchaussée de Lectoure puis d'Auch à partir de 1639 et de la généralité de Montauban puis d'Auch après la création de cette dernière en 1716. </p>
+			<p>Du point de vue religieux, la paroisse de Lagraulas est dédiée à Sainte-Radegonde, comprenait Lalanne comme annexe et appartenait au diocèse d'Auch.</p>
+			<p>À la Révolution, la seigneurie de Lagraulas est transformée en commune. Elle dépend alors du district de Condom. Elle est ensuite placée dans l'arrondissement de Condom et le canton d'Eauze.</p>
+			<p>La commune est ravagée par un incendie le 21 août 1823. L'église est reconstruite durant le XIXe siècle.</p>
+			<p>À compter du 1er janvier 1973, la commune est rattachée à Vic-Fezensac sous le régime de la fusion-association par arrêté préfectoral du 28 décembre 1972. Cette modalité de fusion a été institué par la loi n° 71-588 du 16 juillet 1971 relative aux fusions et regroupements de communes dite « Loi Marcellin ». La commune de Lagraulas est devenue une commune associée dirigée par un maire délégué.</p>
+		</bioghist>
+		<custodhist>
+			<p>Trois dépôts ont été effectués : le premier a une date inconnue (cote ESUPPL 1169) et les deuxièmes et troisièmes en 2022 (cotes ESUPPL 10991-11114).</p>
+		</custodhist>
+		<acqinfo>
+			<p>Dépôt à une date inconnue et dépôts des 28 janvier et 23 février 2022.</p>
+		</acqinfo>
+		<scopecontent>
+			<p>Le fonds déposé comprend un livre terrier (1669), des registres paroissiaux (1669-1792), un rôle de capitation (1732-1733) et un livre des charges et décharges (1746-1790) pour la période antérieure à la Révolution française.</p>
+			<p>Pour la période moderne, le fonds est composé des registres des délibérations du conseil municipal (1788-1961), d'un cahier des délibérations du bureau de bienfaisance (1914-1930) des registres d'état civil (1796-1902) et des tables décennales (1802-1902). Il comprend également des documents cadastraux, des documents relatifs aux contributions directes, aux affaires militaires, aux élections politiques et aux édifices dédiés au culte. Enfin quelques documents portent sur les chemins vicinaux, l'assistance et les accidents du travail.</p>
+		</scopecontent>
+		<accruals>
+			<p>Le fonds est ouvert et s'accroît par dépôt de la commune.</p>
+		</accruals>
+		<arrangement>
+			<p>Le classement suit l'arrêté interministériel du 31 décembre 1926 portant règlement des archives des communes. La cotation des archives déposées des communes de moins de 2000 habitants se fait en continu dans la série ESUPPL.</p>
+		</arrangement>
+		<accessrestrict>
+			<p>La communicabilité des archives communales est soumise aux délais fixés par la loi du 15 juillet 2008 modifiant le code du patrimoine (article L 213-2, <extref xlink:type="simple" xlink:href="https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159942">legifrance.gouv.fr/codes/id/LEGISCTA000006159942</extref>). Cependant, même pour les documents communicables en application de la loi, le mauvais état matériel des documents ne permet pas d'assurer leur consultation en salle de lecture.</p>
+		</accessrestrict>
+		<userestrict>
+			<p>Les documents dont l'état matériel le permet sont reproductibles sous réserve de mentionner la cote des documents et l'institution de conservation en cas de publication.</p>
+			<p>Les documents reliés ne peuvent pas être photocopiés. Les reproductions de documents avec un appareil photographique sans flash sont autorisées en salle de lecture.</p>
+		</userestrict>
+		<relatedmaterial>
+			<p>I. Ancien Régime</p>
+			<list>
+				<item>série C : archives des administrations provinciales (intendance, subdélégations, élections, collecte) ;</item>
+				<item>sous-série 9 B : justice locale et seigneuriale de la sénéchaussée de Gascogne ;</item>
+				<item>série G : archives du clergé séculier (visites pastorales, procès-verbaux de visite et de vérification des réparations des églises du diocèse, archives des paroisses, fabrique d'église et cures) ;</item>
+				<item>séries E et I : archives des communautés d'habitants aux XVIe-XVIIIe siècles (chartes de coutumes, hommages, délibérations consulaires, documents financiers, livres terrier, compoix et cadastres, registres paroissiaux) ; archives de familles ;</item>
+				<item>sous-série 5 E : registres paroissiaux (fonds des sénéchaussées).</item>
+			</list>
+			<p>II. Période révolutionnaire</p>
+			<list>
+				<item>série L : justice, municipalités de canton, comités de surveillance, sociétés populaires ;</item>
+				<item>série Q : vente des biens nationaux. Yves Coustau, Dépouillement des procès-verbaux d'adjudication des biens nationaux de 1re origine et 2e origine, 1962, 2 volumes.</item>
+			</list>
+			<p>III. Période contemporaine</p>
+			<p>1. Série E</p>
+			<list>
+				<item>sous-série 5 E : registres d'état civil, tables décennales (fonds du greffe du tribunal de grande instance d'Auch).</item>
+			</list>
+			<p>2. Série M</p>
+			<list>
+				<item>sous-série 1 M : regroupement de communes, délimitation du territoire ;</item>
+				<item>sous-série 3 M : conseils municipaux, documents électoraux ;</item>
+				<item>sous-série 6 M : recensement de population, statistiques démographiques, naturalisations, état civil, agriculture.</item>
+			</list>
+			<p>3. Série O</p>
+			<list>
+				<item>sous-série 1 O : affaires communales, administration générale des communes, bâtiments et biens communaux, syndicats intercommunaux ;</item>
+				<item>sous-série 2 O : administration générale de la commune, travaux de construction et d'entretien sur les bâtiments communaux et les équipements collectifs, acquisition et aliénation des biens communaux, comptabilité communale, assistance et prévoyance ;</item>
+				<item>sous-série 3 O : voirie communale, chemins vicinaux ;</item>
+				<item>sous-série 4 O : dons et legs.</item>
+			</list>
+			<p>4. Série P</p>
+			<list>
+				<item>sous-série 3 P : délimitation cadastrale, documentation cadastrale ;</item>
+				<item>sous-série 6 P : postes.</item>
+			</list>
+			<p>5. Autres séries modernes</p>
+			<list>
+				<item>sous-série 2 R : monuments aux morts ;</item>
+				<item>série S : travaux publics (routes, chemins de fer, moulins, usines hydrauliques, électrification, mines, carrières, tourbières) ;</item>
+				<item>série T : ouvertures et fermetures d'école, affaires scolaires, dossiers d'instituteurs et institutrices, monographies scolaires, dossiers de classement au titre des monuments historiques ;</item>
+				<item>série V : conseils de fabrique, églises ;</item>
+				<item>série X : bureaux de bienfaisance.</item>
+			</list>
+			<p>6. Archives contemporaires (postérieures à 1940)</p>
+			<list>
+				<item>992 W, 1319 W : administration communale ;</item>
+				<item>1277 W : fermetures d'écoles.</item>
+			</list>
+			<p>IV. Archives notariales</p>
+			<list>
+				<item>sous-série 3 E : les archives des études notariales contiennent les éléments de l'histoire locale et des informations sur la vie des habitants ; on retrouve parfois dans les archives notariales des délibérations consulaires.</item>
+			</list>
+			<p>V. Archives privées, fonds entrés par voie extraordinaire</p>
+			<list>
+				<item>sous-série 1 J : pièces isolées et petits fonds ;</item>
+				<item>sous-série 14 J : papiers de Sylvain Daugé, prêtre et érudit local, notes sur des familles et des communes du Gers ; </item>
+				<item>sous-série 83 J : fonds de Macarez-Mainfroy, albums de cartes postales et photographies des communes du Gers ;</item>
+				<item>sous-série 88 J : fonds de Jean-Henri Ducos, dossiers documentaires sur les châteaux et maison-fortes du Gers ;</item>
+				<item>sous-série 101 J : fonds de Paul Mesplé, conservateur du musée des Augustins de Toulouse, albums de photographies des communes du Gers.</item>
+			</list>
+			<p>VI. Documents figurés</p>
+			<list>
+				<item>sous-série 1 Fi : cartes et plans ;</item>
+				<item>sous-série 2 Fi : dessins, gravures, estampes, lithographies, tirages photographiques ;</item>
+				<item>sous-série 6 Fi : cartes postales.</item>
+			</list>
+			<p>VII. Documentation</p>
+			<list>
+				<item>séries DAN et DAR : dossiers archéologiques et antiques ;</item>
+				<item>série CDOC : dossiers documentaires ;</item>
+				<item>série JX : presse locale ;</item>
+				<item>série PER : bulletins municipaux et paroissiaux ;</item>
+				<item>bibliothèque historique et administrative.</item>
+			</list>
+		</relatedmaterial>
+		<bibliography>
+			<p>Georges Courtès (dir.), Communes du département du Gers, vol. I : arrondissement d'Auch, Auch : Société archéologique et historique du Gers, 2004, p. 438-440.</p>
+		</bibliography>
+		<otherfindaid>
+			<p>Architerre, sources fiscales d'Ancien Régime (<extref xlink:type="simple" xlink:href="http://modelespace.univ-tlse2.fr">modelespace.univ-tlse2.fr</extref>).</p>
+		</otherfindaid>
+		<processinfo>
+			<p>Notice rédigée par BONNAFOUS validée le 13/06/2024 15:00:14
+			</p>
+		</processinfo>
+		<controlaccess>
+			<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+		</controlaccess>
+		<dsc>
+			<c>
+				<did>
+					<unittitle>Archives anciennes (antérieures à 1790)</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Finances, impôts et comptabilité</unittitle>
+					</did>
+					<c level="file" id="_224152">
+						<did>
+							<unitid>ESUPPL 1169</unitid>
+							<unittitle>Livre terrier.</unittitle>
+							<unitdate normal="1669">1669</unitdate>
+							<origination label="producteur">Commune de Lagraulas</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par bonnafous validée le 31/05/2024 09:28:56
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>livre foncier</genreform>
+							<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+							<subject>cadastre</subject>
+						</controlaccess>
+					</c>
+					<c level="file" id="_358688">
+						<did>
+							<unitid>ESUPPL 10991</unitid>
+							<unittitle>Rôles de capitation.</unittitle>
+							<unitdate normal="1732/1733">1732-1733</unitdate>
+							<origination label="producteur">Commune de Lagraulas</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>rôle</genreform>
+							<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+							<subject>impôts locaux</subject>
+							<subject>capitation</subject>
+						</controlaccess>
+					</c>
+					<c level="item" id="_358689">
+						<did>
+							<unitid>ESUPPL 10992</unitid>
+							<unittitle>Cadastre : registre des charges et décharges.</unittitle>
+							<unitdate normal="1746/1790">1746-1790</unitdate>
+							<origination label="producteur">Commune de Lagraulas</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>livre foncier</genreform>
+							<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+							<subject>cadastre</subject>
+						</controlaccess>
+					</c>
+					<c level="item" id="_358690">
+						<did>
+							<unitid>ESUPPL 10993</unitid>
+							<unittitle>Collecte des impositions : extrait des délibérations du corps de jurade fixant les frais et dépenses pour Pierre Garros Galindon, consul et collecteur.</unittitle>
+							<unitdate normal="1767/1767">1767-1767</unitdate>
+							<origination label="producteur">Commune de Lagraulas</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le 13/06/2024 15:00:39
+							</p>
+						</processinfo>
+						<controlaccess>
+							<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+							<subject>impôts locaux</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Cultes. Instruction publique. Assistance publique</unittitle>
+					</did>
+					<c level="recordgrp" id="_358691">
+						<did>
+							<unitid>ESUPPL 10994 - 10997</unitid>
+							<unittitle>Paroisse de Lagraulas : registres des baptêmes, mariages et sépultures.</unittitle>
+							<unitdate normal="1669/1792">1669-1792</unitdate>
+							<origination label="producteur">Commune de Lagraulas</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>registre paroissial</genreform>
+							<geogname>"Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+							<geogname>Lagraulas (Vic-Fezensac, Gers, France ; paroisse)"</geogname>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+						<c level="item" id="_358692">
+							<did>
+								<unitid>ESUPPL 10994</unitid>
+								<unittitle>1669-1741.</unittitle>
+								<unitdate normal="1669/1741">1669-1741</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>"Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France ; paroisse)"</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358693">
+							<did>
+								<unitid>ESUPPL 10995</unitid>
+								<unittitle>1742-1762.</unittitle>
+								<unitdate normal="1742/1762">1742-1762</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>"Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France ; paroisse)"</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358694">
+							<did>
+								<unitid>ESUPPL 10996</unitid>
+								<unittitle>1763-1777.</unittitle>
+								<unitdate normal="1763/1777">1763-1777</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>"Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France ; paroisse)"</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358695">
+							<did>
+								<unitid>ESUPPL 10997</unitid>
+								<unittitle>1778-1792.</unittitle>
+								<unitdate normal="1778/1792">1778-1792</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>"Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France ; paroisse)"</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+			</c>
+			<c>
+				<did>
+					<unittitle>Archives modernes (postérieures à 1789)</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Administration générale de la commune</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Conseil municipal</unittitle>
+						</did>
+						<c level="recordgrp" id="_358696">
+							<did>
+								<unitid>ESUPPL 10998 - 11003</unitid>
+								<unittitle>Registres des délibérations.</unittitle>
+								<unitdate normal="1788/1961">1788-1961</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre</genreform>
+								<genreform>délibération</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>administration communale</subject>
+								<subject>conseil municipal</subject>
+							</controlaccess>
+							<c level="item" id="_358697">
+								<did>
+									<unitid>ESUPPL 10998</unitid>
+									<unittitle>1788-1816.</unittitle>
+									<unitdate normal="1788/1816">1788-1816</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358698">
+								<did>
+									<unitid>ESUPPL 10999</unitid>
+									<unittitle>1817-1838 (25 février).</unittitle>
+									<unitdate normal="1817/1838">1817-1838</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358699">
+								<did>
+									<unitid>ESUPPL 11000</unitid>
+									<unittitle>1838 (5 mai)-1848 (6 février).</unittitle>
+									<unitdate normal="1838/1848">1838-1848</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358700">
+								<did>
+									<unitid>ESUPPL 11001</unitid>
+									<unittitle>1848 (21 mai)-1880 (10 mai).</unittitle>
+									<unitdate normal="1848/1880">1848-1880</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358701">
+								<did>
+									<unitid>ESUPPL 11002</unitid>
+									<unittitle>1880 (23 mai)-1908 (17 mai).</unittitle>
+									<unitdate normal="1880/1908">1880-1908</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358702">
+								<did>
+									<unitid>ESUPPL 11003</unitid>
+									<unittitle>1908 (31 mai)-1961 (4 mai).</unittitle>
+									<unitdate normal="1908/1961">1908-1961</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>registre</genreform>
+									<genreform>délibération</genreform>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Actes de l'administration municipale</unittitle>
+						</did>
+						<c level="file" id="_358703">
+							<did>
+								<unitid>ESUPPL 11004</unitid>
+								<unittitle>Correspondance reçue.</unittitle>
+								<unitdate normal="1847/1964">1847-1964</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>correspondance</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>administration communale</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Administration de la commune</unittitle>
+						</did>
+						<c level="item" id="_358704">
+							<did>
+								<unitid>ESUPPL 11005</unitid>
+								<unittitle>Inventaire du mobilier et des archives : procès-verbal de récolement.</unittitle>
+								<unitdate normal="1843">1843</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 31/05/2024 09:56:33
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>inventaire</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>patrimoine écrit</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Contentieux</unittitle>
+						</did>
+						<c level="file" id="_358705">
+							<did>
+								<unitid>ESUPPL 11006</unitid>
+								<unittitle>Assurances en responsabilité, accidents des enfants à l'école et contre l'incendie : contrats, correspondance.</unittitle>
+								<unitdate normal="1902/1935">1902-1935</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 05/06/2024 10:59:33
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>contrat</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>compagnie d'assurances</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>État civil</unittitle>
+					</did>
+					<c level="recordgrp" id="_358706">
+						<did>
+							<unitid>ESUPPL 11007 - 11018</unitid>
+							<unittitle>Registres des naissances, mariages et décès.</unittitle>
+							<unitdate normal="1796/1902">1796-1902</unitdate>
+							<origination label="producteur">Commune de Lagraulas</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>répertoire civil</genreform>
+							<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+						<c level="item" id="_358707">
+							<did>
+								<unitid>ESUPPL 11007</unitid>
+								<unittitle>1796-an VIII.</unittitle>
+								<unitdate normal="1796/1800">1796-an VIII</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358708">
+							<did>
+								<unitid>ESUPPL 11008</unitid>
+								<unittitle>an IX-an XII.</unittitle>
+								<unitdate normal="1800/1804">an IX-an XII</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358709">
+							<did>
+								<unitid>ESUPPL 11009</unitid>
+								<unittitle>an XIII-1809.</unittitle>
+								<unitdate normal="1804/1809">an XIII-1809</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358710">
+							<did>
+								<unitid>ESUPPL 11010</unitid>
+								<unittitle>1810-1814.</unittitle>
+								<unitdate normal="1810/1814">1810-1814</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358711">
+							<did>
+								<unitid>ESUPPL 11011</unitid>
+								<unittitle>1815-1819.</unittitle>
+								<unitdate normal="1815/1819">1815-1819</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358712">
+							<did>
+								<unitid>ESUPPL 11012</unitid>
+								<unittitle>1820-1830.</unittitle>
+								<unitdate normal="1820/1830">1820-1830</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358713">
+							<did>
+								<unitid>ESUPPL 11013</unitid>
+								<unittitle>1831-1844.</unittitle>
+								<unitdate normal="1831/1844">1831-1844</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358714">
+							<did>
+								<unitid>ESUPPL 11014</unitid>
+								<unittitle>1845-1856.</unittitle>
+								<unitdate normal="1845/1856">1845-1856</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358715">
+							<did>
+								<unitid>ESUPPL 11015</unitid>
+								<unittitle>1857-1872.</unittitle>
+								<unitdate normal="1857/1872">1857-1872</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<scopecontent>
+								<p>Table décennale 1863-1872 en fin de registre.</p>
+							</scopecontent>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<genreform>table</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358716">
+							<did>
+								<unitid>ESUPPL 11016</unitid>
+								<unittitle>1873-1882.</unittitle>
+								<unitdate normal="1873/1882">1873-1882</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<scopecontent>
+								<p>Table décennale en fin de registre.</p>
+							</scopecontent>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<genreform>table</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358717">
+							<did>
+								<unitid>ESUPPL 11017</unitid>
+								<unittitle>1883-1892.</unittitle>
+								<unitdate normal="1883/1892">1883-1892</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<scopecontent>
+								<p>Table décennale en fin de registre.</p>
+							</scopecontent>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<genreform>table</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358718">
+							<did>
+								<unitid>ESUPPL 11018</unitid>
+								<unittitle>1893-1902.</unittitle>
+								<unitdate normal="1893/1902">1893-1902</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<scopecontent>
+								<p>Table décennale en fin de registre.</p>
+							</scopecontent>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<genreform>table</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="file" id="_358719">
+						<did>
+							<unitid>ESUPPL 11019</unitid>
+							<unittitle>Tables décennales des naissances, mariages et décès.</unittitle>
+							<unitdate normal="1802/1912">an XI-1862, 1903-1912</unitdate>
+							<origination label="producteur">Commune de Lagraulas</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>table</genreform>
+							<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+					</c>
+					<c level="file" id="_358720">
+						<did>
+							<unitid>ESUPPL 11020</unitid>
+							<unittitle>Tables alphabétiques des naissances, mariages et décès.</unittitle>
+							<unitdate normal="1821/1822">1821-1822</unitdate>
+							<origination label="producteur">Commune de Lagraulas</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>liste nominative</genreform>
+							<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Population. Économie sociale. Statistique</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Population</unittitle>
+						</did>
+						<c level="file" id="_358721">
+							<did>
+								<unitid>ESUPPL 11021</unitid>
+								<unittitle>Recensement quinquennal : listes nominatives.</unittitle>
+								<unitdate normal="1836/1931">1836-1931</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>population</subject>
+								<subject>recensement de population</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358722">
+							<did>
+								<unitid>ESUPPL 11022</unitid>
+								<unittitle>Recensement par familles : fiches de renseignement.</unittitle>
+								<unitdate normal="1901/2000">[XXe siècle]</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 31/05/2024 09:57:25
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>population</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Agriculture</unittitle>
+						</did>
+						<c level="recordgrp" id="_358723">
+							<did>
+								<unitid>ESUPPL 11023 - 11029</unitid>
+								<unittitle>Situation des récoltes.</unittitle>
+								<unitdate normal="1909/1950">1909-1950</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<c level="recordgrp" id="_358724">
+								<did>
+									<unitid>ESUPPL 11023 - 11028</unitid>
+									<unittitle>Récoltes de vins.</unittitle>
+									<unitdate normal="1909/1950">1909-1950</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<c level="recordgrp" id="_358725">
+									<did>
+										<unitid>ESUPPL 11023 - 11027</unitid>
+										<unittitle>Registres des déclarations.</unittitle>
+										<unitdate normal="1909/1950">1909-1950</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<c level="file" id="_358726">
+										<did>
+											<unitid>ESUPPL 11023</unitid>
+											<unittitle>1909-1915.</unittitle>
+											<unitdate normal="1909/1915">1909-1915</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par PONS validée le </p>
+										</processinfo>
+										<controlaccess>
+											<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+											<subject>production agricole</subject>
+											<subject>viticulture</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_358727">
+										<did>
+											<unitid>ESUPPL 11024</unitid>
+											<unittitle>1917-1921.</unittitle>
+											<unitdate normal="1917/1921">1917-1921</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par PONS validée le </p>
+										</processinfo>
+										<controlaccess>
+											<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+											<subject>production agricole</subject>
+											<subject>viticulture</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_358728">
+										<did>
+											<unitid>ESUPPL 11025</unitid>
+											<unittitle>1933-1937.</unittitle>
+											<unitdate normal="1933/1937">1933-1937</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par PONS validée le </p>
+										</processinfo>
+										<controlaccess>
+											<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+											<subject>production agricole</subject>
+											<subject>viticulture</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_358729">
+										<did>
+											<unitid>ESUPPL 11026</unitid>
+											<unittitle>1938-1942.</unittitle>
+											<unitdate normal="1938/1942">1938-1942</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par PONS validée le </p>
+										</processinfo>
+										<controlaccess>
+											<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+											<subject>production agricole</subject>
+											<subject>viticulture</subject>
+										</controlaccess>
+									</c>
+									<c level="file" id="_358730">
+										<did>
+											<unitid>ESUPPL 11027</unitid>
+											<unittitle>1947-1950.</unittitle>
+											<unitdate normal="1947/1950">1947-1950</unitdate>
+										</did>
+										<processinfo>
+											<p>Notice rédigée par PONS validée le </p>
+										</processinfo>
+										<controlaccess>
+											<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+											<subject>production agricole</subject>
+											<subject>viticulture</subject>
+										</controlaccess>
+									</c>
+								</c>
+								<c level="file" id="_358731">
+									<did>
+										<unitid>ESUPPL 11028</unitid>
+										<unittitle>Relevés des déclarations de récoltes.</unittitle>
+										<unitdate normal="1920/1941">1920-1941</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+										<subject>production agricole</subject>
+										<subject>viticulture</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c level="file" id="_358732">
+								<did>
+									<unitid>ESUPPL 11029</unitid>
+									<unittitle>Récoltes de céréales : registres des cultures.</unittitle>
+									<unitdate normal="1945/1950">1945-1950</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>production agricole</subject>
+									<subject>céréale</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="file" id="_358733">
+							<did>
+								<unitid>ESUPPL 11030</unitid>
+								<unittitle>Distribution de ficelle de lieuse : bons et liste des attributaires (1949). Réduction d'impôts en faveur des producteurs de blé et de seigle : formulaires de déclaration pour la campagne 1947-1948 (1948). Livraisons aux silos : déclarations (1948-1950). Pieds de tabac : permis de culture (1946-1947).</unittitle>
+								<unitdate normal="1946/1950">1946-1950</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>agriculture</subject>
+								<subject>céréale</subject>
+								<subject>tabac</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358734">
+							<did>
+								<unitid>ESUPPL 11031</unitid>
+								<unittitle>Statistiques agricoles. - Campagnes 1948-1950 : tableaux.</unittitle>
+								<unitdate normal="1948/1950">1948-1950</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>statistique</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>production agricole</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358735">
+							<did>
+								<unitid>ESUPPL 11032</unitid>
+								<unittitle>Syndicats agricoles. - Syndicat des paysans travailleurs de Lagraulas : statuts, procès-verbal de la réunion du 25 avril 1937, liste des membres du bureau (1937) ; Syndicat corporatif agricole de Lagraulas : statuts, liste des syndics et membres de la chambre syndicale (1942).</unittitle>
+								<unitdate normal="1937/1942">1937-1942</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>statut</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>élevage</subject>
+								<subject>organisation professionnelle</subject>
+								<subject>syndicat professionnel</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Travail</unittitle>
+						</did>
+						<c level="item" id="_358736">
+							<did>
+								<unitid>ESUPPL 11033</unitid>
+								<unittitle>Registre de délivrance des livrets ouvriers.</unittitle>
+								<unitdate normal="1856/1925">1856-1925</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>ouvrier</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358737">
+							<did>
+								<unitid>ESUPPL 11034</unitid>
+								<unittitle>Contrats d'apprentissage.</unittitle>
+								<unitdate normal="1945/1950">1945-1950</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>contrat d'apprentissage</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>apprentissage</subject>
+								<subject>apprenti</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Contributions. Administrations financières</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Impôts directs</unittitle>
+						</did>
+						<c level="file" id="_358738">
+							<did>
+								<unitid>ESUPPL 11035</unitid>
+								<unittitle>Matrices du rôle foncier des charges et décharges.</unittitle>
+								<unitdate normal="1801/1813">an X-1813</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358744">
+							<did>
+								<unitid>ESUPPL 11039</unitid>
+								<unittitle>Livre des mutations.</unittitle>
+								<unitdate normal="1819/1830">1819-1830</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+						<c level="recordgrp" id="_358739">
+							<did>
+								<unitid>ESUPPL 11036 - 11044</unitid>
+								<unittitle>Cadastre.</unittitle>
+								<unitdate normal="1791/1941">1791-1941</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>cadastre</subject>
+								<subject>fiscalité immobilière</subject>
+							</controlaccess>
+							<c level="item" id="_358740">
+								<did>
+									<unitid>ESUPPL 11036</unitid>
+									<unittitle>Cadastre ordonné par la Constituante : état de sections.</unittitle>
+									<unitdate normal="1791">[1791]</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>état de section</genreform>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>cadastre</subject>
+									<subject>fiscalité immobilière</subject>
+								</controlaccess>
+							</c>
+							<c level="recordgrp" id="_358741">
+								<did>
+									<unitid>ESUPPL 11037 - 11038, 11040 - 11041</unitid>
+									<unittitle>Cadastre napoléonien.</unittitle>
+									<unitdate normal="1828/1914">1828-1914</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 31/05/2024 10:01:51
+									</p>
+								</processinfo>
+								<c level="item" id="_358742">
+									<did>
+										<unitid>ESUPPL 11037</unitid>
+										<unittitle>Délimitation de la commune : procès-verbal.</unittitle>
+										<unitdate normal="1828">1828</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+										<subject>limite territoriale</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358743">
+									<did>
+										<unitid>ESUPPL 11038</unitid>
+										<unittitle>État de sections.</unittitle>
+										<unitdate normal="1828">1828</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>état de section</genreform>
+										<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358745">
+									<did>
+										<unitid>ESUPPL 11040</unitid>
+										<unittitle>Matrice des propriétés foncières.</unittitle>
+										<unitdate normal="1828/1914">1828-1914</unitdate>
+									</did>
+									<scopecontent>
+										<p>Contient le registre des augmentations et diminutions (1841-1914).</p>
+									</scopecontent>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358746">
+									<did>
+										<unitid>ESUPPL 11041</unitid>
+										<unittitle>Matrice des propriétés bâties.</unittitle>
+										<unitdate normal="1882/1909">1882-1909</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c level="recordgrp" id="_358747">
+								<did>
+									<unitid>ESUPPL 11042 - 11043</unitid>
+									<unittitle>Cadastre révisé (1910).</unittitle>
+									<unitdate normal="1911/1935">1911-1935</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<c level="item" id="_358748">
+									<did>
+										<unitid>ESUPPL 11042</unitid>
+										<unittitle>Matrice des propriétés bâties.</unittitle>
+										<unitdate normal="1911/1935">1911-1935</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358749">
+									<did>
+										<unitid>ESUPPL 11043</unitid>
+										<unittitle>Matrice des propriétés non bâties.</unittitle>
+										<unitdate normal="1911/1935">1911-1935</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>matrice cadastrale</genreform>
+										<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+										<subject>cadastre</subject>
+										<subject>fiscalité immobilière</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c level="file" id="_358750">
+								<did>
+									<unitid>ESUPPL 11044</unitid>
+									<unittitle>Révision des évaluations foncières des propriétés non bâties : procès-verbal des opérations, correspondance.</unittitle>
+									<unitdate normal="1933/1941">1933-1941</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>cadastre</subject>
+									<subject>fiscalité immobilière</subject>
+									<subject>rénovation cadastrale</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="recordgrp" id="_358751">
+							<did>
+								<unitid>ESUPPL 11045 - 11047</unitid>
+								<unittitle>Contributions directes.</unittitle>
+								<unitdate normal="1917/1950">1917-1950</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<c level="item" id="_358835">
+								<did>
+									<unitid>ESUPPL 11045</unitid>
+									<unittitle>Contribution des portes et fenêtres, fixation du contingent pour l'année 1815 pour l'arrondissement de Condom : arrêté préfectoral.</unittitle>
+									<unitdate normal="1814">1814</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 30/05/2024 13:41:35
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>impôts locaux</subject>
+								</controlaccess>
+							</c>
+							<c level="recordgrp" id="_358971">
+								<did>
+									<unitid>ESUPPL 11046 - 11047</unitid>
+									<unittitle>Contributions foncière, personnelle-mobilière et des portes et fenêtres, mobilière, et taxes d'enlèvement des ordures ménagères, d'habitation et autres taxes assimilées : copies des matrices générales.</unittitle>
+									<unitdate normal="1917/1950">1917-1950</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 31/05/2024 10:05:18
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>rôle d'imposition</genreform>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>impôts locaux</subject>
+								</controlaccess>
+								<c level="file" id="_358753">
+									<did>
+										<unitid>ESUPPL 11046</unitid>
+										<unittitle>1917-1931.</unittitle>
+										<unitdate normal="1917/1931">1917-1931</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 31/05/2024 10:06:12
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>rôle d'imposition</genreform>
+										<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+										<subject>fiscalité</subject>
+										<subject>impôts locaux</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_358754">
+									<did>
+										<unitid>ESUPPL 11047</unitid>
+										<unittitle>1931-1950.</unittitle>
+										<unitdate normal="1931/1950">1931-1950</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le 31/05/2024 10:06:28
+										</p>
+									</processinfo>
+									<controlaccess>
+										<genreform>rôle d'imposition</genreform>
+										<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+										<subject>fiscalité</subject>
+										<subject>impôts locaux</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+						<c level="recordgrp" id="_358755">
+							<did>
+								<unitid>ESUPPL 11048 - 11053</unitid>
+								<unittitle>Contribuables assujettis à l'impôt.</unittitle>
+								<unitdate normal="1893/1968">1893-1968</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 31/05/2024 10:06:45
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>contribuable</subject>
+								<subject>fiscalité</subject>
+							</controlaccess>
+							<c level="item" id="_358756">
+								<did>
+									<unitid>ESUPPL 11048</unitid>
+									<unittitle>Déclarations des constructions nouvelles, de reconstruction et d'affectation de terrains à des usages commerciaux ou industriels : registre.</unittitle>
+									<unitdate normal="1893/1968">1893-1968</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 31/05/2024 10:07:04
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>contribuable</subject>
+									<subject>fiscalité</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358757">
+								<did>
+									<unitid>ESUPPL 11049</unitid>
+									<unittitle>Taxe sur les chiens : registres d'inscription des déclarations des contribuables passibles de la taxe.</unittitle>
+									<unitdate normal="1896/1935">1896-1935</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>contribuable</subject>
+									<subject>fiscalité</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358758">
+								<did>
+									<unitid>ESUPPL 11050</unitid>
+									<unittitle>Contribution sur les voitures, chevaux, mules et mulets et taxe sur les vélocipèdes : registre d'inscription des déclarations des contribuables passibles de la taxe.</unittitle>
+									<unitdate normal="1900/1902">1900-1902</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>contribuable</subject>
+									<subject>fiscalité</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358759">
+								<did>
+									<unitid>ESUPPL 11051</unitid>
+									<unittitle>Taxe sur les gardes-chasse : registre d'inscription des déclarations des contribuables passibles de la taxe.</unittitle>
+									<unitdate normal="1914/1935">1914-1935</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>contribuable</subject>
+									<subject>fiscalité</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358760">
+								<did>
+									<unitid>ESUPPL 11052</unitid>
+									<unittitle>Listes des contribuables assujettis à l'impôt sur le revenu, sur les revenus agricoles.</unittitle>
+									<unitdate normal="1947">1947</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 13/06/2024 15:01:41
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>contribuable</subject>
+									<subject>fiscalité</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358761">
+								<did>
+									<unitid>ESUPPL 11053</unitid>
+									<unittitle>Changement de nature de culture : registre des déclarations des propriétaires.</unittitle>
+									<unitdate normal="1948/1965">1948-1965</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>contribuable</subject>
+									<subject>fiscalité</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="file" id="_358762">
+							<did>
+								<unitid>ESUPPL 11054</unitid>
+								<unittitle>Taxe proportionnelle : listes des contribuables assujettis.</unittitle>
+								<unitdate normal="1949">1949</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 31/05/2024 10:07:47
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>contribuable</subject>
+								<subject>fiscalité</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358763">
+							<did>
+								<unitid>ESUPPL 11055</unitid>
+								<unittitle>Taxe sur les cercles, sociétés et lieux de réunion : souche de déclarations.</unittitle>
+								<unitdate normal="1929/1933">1929-1933</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>fiscalité</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358836">
+							<did>
+								<unitid>ESUPPL 11056</unitid>
+								<unittitle>Répartiteurs. - Nomination : arrêté préfectoral.</unittitle>
+								<unitdate normal="1817/1821">1817-1821</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 05/06/2024 11:00:16
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>recouvrement fiscal</subject>
+								<subject>fonctionnaire de l'État</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Rapports de la commune avec les diverses administrations au point de vue financier</unittitle>
+						</did>
+						<c level="item" id="_358837">
+							<did>
+								<unitid>ESUPPL 11057</unitid>
+								<unittitle>Garde nationale : procès-verbal de reconnaissance et de prestation de serment.</unittitle>
+								<unitdate normal="1840">1840</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 31/05/2024 10:08:04
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>garde nationale</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Affaires militaires</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Recrutement</unittitle>
+						</did>
+						<c level="item" id="_358766">
+							<did>
+								<unitid>ESUPPL 11058</unitid>
+								<unittitle>État nominatif des citoyens âgés de 20 à 60 ans.</unittitle>
+								<unitdate normal="1817">1817</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 31/05/2024 10:08:24
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>recrutement militaire</subject>
+							</controlaccess>
+						</c>
+						<c level="recordgrp" id="_358767">
+							<did>
+								<unitid>ESUPPL 11059 - 11060</unitid>
+								<unittitle>Recensement des classes.</unittitle>
+								<unitdate normal="1892/1952">1892-1952</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>conscription</subject>
+								<subject>recrutement militaire</subject>
+							</controlaccess>
+							<c level="file" id="_358768">
+								<did>
+									<unitid>ESUPPL 11059</unitid>
+									<unittitle>Recensement des classes de 1893 à 1950 : tableaux de recensement, registre de changement de résidence ou domicile (1919), avis d'inscription au recensement, feuilles de renseignements sur la famille,</unittitle>
+									<unitdate normal="1892/1952">1892-1952</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>liste nominative</genreform>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>conscription</subject>
+									<subject>recrutement militaire</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358769">
+								<did>
+									<unitid>ESUPPL 11060</unitid>
+									<unittitle>Arrêtés préfectoraux relatifs au recensement : affiches.</unittitle>
+									<unitdate normal="1929/1937">1929-1937</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>conscription</subject>
+									<subject>recrutement militaire</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="recordgrp" id="_358770">
+							<did>
+								<unitid>ESUPPL 11061 - 11062</unitid>
+								<unittitle>Mobilisation.</unittitle>
+								<unitdate normal="1914/1939">1914-1939</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 05/06/2024 11:01:10
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>affiche</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>mobilisation</subject>
+							</controlaccess>
+							<c level="item" id="_358771">
+								<did>
+									<unitid>ESUPPL 11061</unitid>
+									<unittitle>Ordre de mobilisation générale de la Première Guerre mondiale : affiche.</unittitle>
+									<unitdate normal="1914">1914</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 31/05/2024 10:08:44
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>affiche</genreform>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>mobilisation</subject>
+									<subject>Époque contemporaine</subject>
+									<subject>20e siècle</subject>
+									<subject>Guerre 1914-1918</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358772">
+								<did>
+									<unitid>ESUPPL 11062</unitid>
+									<unittitle>Ordre de mobilisation générale de la Seconde Guerre mondiale : affiche.</unittitle>
+									<unitdate normal="1939">1939</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 31/05/2024 10:08:56
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>affiche</genreform>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>mobilisation</subject>
+									<subject>Époque contemporaine</subject>
+									<subject>20e siècle</subject>
+									<subject>Guerre 1939-1945</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="file" id="_358838">
+							<did>
+								<unitid>ESUPPL 11063</unitid>
+								<unittitle>Décès de soldats : extraits d'actes d'état-civil, extraits mortuaires, avis d'inhumation,</unittitle>
+								<unitdate normal="1917/1927">1917-1927</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>décès</subject>
+								<subject>militaire</subject>
+								<subject>mort pour la France</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Administration militaire</unittitle>
+						</did>
+						<c level="file" id="_358774">
+							<did>
+								<unitid>ESUPPL 11064</unitid>
+								<unittitle>Recensement des chevaux, juments, mulets et mules : fiches individuelles de classement.</unittitle>
+								<unitdate normal="1930/1932">1930-1932</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>équidé</subject>
+								<subject>remonte militaire</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358775">
+							<did>
+								<unitid>ESUPPL 11065</unitid>
+								<unittitle>Recensement des chevaux, juments, mulets et mules ainsi que des voitures hippomobiles et bâts : registre.</unittitle>
+								<unitdate normal="1936">1936</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 31/05/2024 10:09:24
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>équidé</subject>
+								<subject>remonte militaire</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Mesures d'exception et faits de guerre</unittitle>
+						</did>
+						<c level="file" id="_358776">
+							<did>
+								<unitid>ESUPPL 11066</unitid>
+								<unittitle>Première Guerre mondiale (1914-1918). - Soins médicaux, chirurgicaux et pharmaceutiques aux victimes de la guerre : listes des bénéficiaires, carnet à souche des bons de visite et ordonnances.</unittitle>
+								<unitdate normal="1920/1928">1920-1928</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 05/06/2024 11:02:55
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>soins médicaux</subject>
+								<subject>victime de guerre</subject>
+								<subject>Époque contemporaine</subject>
+								<subject>20e siècle</subject>
+								<subject>Guerre 1914-1918</subject>
+							</controlaccess>
+						</c>
+						<c level="recordgrp" id="_358777">
+							<did>
+								<unitid>ESUPPL 11067 - 11071</unitid>
+								<unittitle>Seconde Guerre mondiale (1939-1945). - Ravitaillement et réquisitions.</unittitle>
+								<unitdate normal="1939/1948">1939-1948</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 30/05/2024 13:57:37
+								</p>
+							</processinfo>
+							<controlaccess>
+								<subject>guerre</subject>
+								<subject>ravitaillement</subject>
+								<subject>Époque contemporaine</subject>
+								<subject>20e siècle</subject>
+								<subject>Guerre 1939-1945</subject>
+							</controlaccess>
+							<c level="item" id="_358779">
+								<did>
+									<unitid>ESUPPL 11067</unitid>
+									<unittitle>Ordre de réquisition : affiche.</unittitle>
+									<unitdate normal="1939/1948">s.d.</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 05/06/2024 11:04:00
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>guerre</subject>
+									<subject>ravitaillement</subject>
+									<subject>Époque contemporaine</subject>
+									<subject>20e siècle</subject>
+									<subject>Guerre 1939-1945</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358780">
+								<did>
+									<unitid>ESUPPL 11068</unitid>
+									<unittitle>Répertoire nominatif des consommateurs.</unittitle>
+									<unitdate normal="1939">1939</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 31/05/2024 10:10:00
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>guerre</subject>
+									<subject>ravitaillement</subject>
+									<subject>Époque contemporaine</subject>
+									<subject>20e siècle</subject>
+									<subject>Guerre 1939-1945</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358781">
+								<did>
+									<unitid>ESUPPL 11069</unitid>
+									<unittitle>Titres et cartes d'alimentation : instructions, bordereaux de remise, feuilles de contrôle, état de décompte, fiches de demande, spécimen de carte individuelle, états des consommateurs, correspondance.</unittitle>
+									<unitdate normal="1940/1948">1940-1948</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 05/06/2024 11:04:38
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>guerre</subject>
+									<subject>ravitaillement</subject>
+									<subject>Époque contemporaine</subject>
+									<subject>20e siècle</subject>
+									<subject>Guerre 1939-1945</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358782">
+								<did>
+									<unitid>ESUPPL 11070</unitid>
+									<unittitle>Office des fontes, fers et acier : carnet de bon d'achat destiné aux agriculteurs (1944-1945). Carburant automobile : fiches de demande (1948). Déclarations de cultures, chevaux et bétails : listes nominatives (s.d.).</unittitle>
+									<unitdate normal="1944/1948">1944-1945, 1948, s.d.</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 05/06/2024 11:04:55
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>guerre</subject>
+									<subject>ravitaillement</subject>
+									<subject>Époque contemporaine</subject>
+									<subject>20e siècle</subject>
+									<subject>Guerre 1939-1945</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358783">
+								<did>
+									<unitid>ESUPPL 11071</unitid>
+									<unittitle>Chaussures : listes, fiches de demande, correspondance.</unittitle>
+									<unitdate normal="1941/1942">1941-1942</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 05/06/2024 11:05:11
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>guerre</subject>
+									<subject>ravitaillement</subject>
+									<subject>Époque contemporaine</subject>
+									<subject>20e siècle</subject>
+									<subject>Guerre 1939-1945</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Police. Hygiène publique. Justice</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Police générale</unittitle>
+						</did>
+						<c level="recordgrp" id="_358840">
+							<did>
+								<unitid>ESUPPL 11072 - 11079</unitid>
+								<unittitle>Contrôle des étrangers.</unittitle>
+								<unitdate normal="1888/1955">1888-1955</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 30/05/2024 13:55:52
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>étranger</subject>
+								<subject>surveillance des personnes</subject>
+							</controlaccess>
+							<c level="item" id="_358785">
+								<did>
+									<unitid>ESUPPL 11072</unitid>
+									<unittitle>Registre des étrangers.</unittitle>
+									<unitdate normal="1901/1950">[première moitié du XXe siècle]</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 13/06/2024 15:02:09
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>surveillance des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358786">
+								<did>
+									<unitid>ESUPPL 11073</unitid>
+									<unittitle>Registre d'immatriculation.</unittitle>
+									<unitdate normal="1906/1921">1906-1921</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>surveillance des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358787">
+								<did>
+									<unitid>ESUPPL 11074</unitid>
+									<unittitle>Registre des visas d'arrivée.</unittitle>
+									<unitdate normal="1934/1947">1934-1947</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>surveillance des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358788">
+								<did>
+									<unitid>ESUPPL 11075</unitid>
+									<unittitle>Registre des visas de départ.</unittitle>
+									<unitdate normal="1934/1947">1934-1947</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>surveillance des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358789">
+								<did>
+									<unitid>ESUPPL 11076</unitid>
+									<unittitle>Registre des demandes de cartes d'identité.</unittitle>
+									<unitdate normal="1934/1946">1934-1946</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>surveillance des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358790">
+								<did>
+									<unitid>ESUPPL 11077</unitid>
+									<unittitle>État des italiens immigrés dans la commune.</unittitle>
+									<unitdate normal="1901/1950">[première moitié du XXe siècle]</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 13/06/2024 15:02:35
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>liste nominative</genreform>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>surveillance des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358791">
+								<did>
+									<unitid>ESUPPL 11078</unitid>
+									<unittitle>Travailleurs étrangers : carnet à souche des demandes de carte d'identité, récépissés de demande de carte de travailleur agricole, spécimen de carte d'identité de travailleur agricole, certificats d'embauche, formulaires de renseignements, correspondance.</unittitle>
+									<unitdate normal="1945/1955">1945-1955</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>travail</subject>
+									<subject>surveillance des personnes</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358792">
+								<did>
+									<unitid>ESUPPL 11079</unitid>
+									<unittitle>Naturalisation : instructions (1927-1933) ; dossiers de demande : extraits d'actes de naissance et de mariage, extraits du registre d'immatriculation, certificats, correspondance (1888-1949).</unittitle>
+									<unitdate normal="1888/1949">1888-1949</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 05/06/2024 15:42:20
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>étranger</subject>
+									<subject>surveillance des personnes</subject>
+									<subject>naturalisation</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Justice</unittitle>
+						</did>
+						<c level="file" id="_358793">
+							<did>
+								<unitid>ESUPPL 11080</unitid>
+								<unittitle>Affaires portées devant les juridictions : extraits des minutes du greffe, copies de jugements.</unittitle>
+								<unitdate normal="1831/1850">1831-1850</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>justice</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Hygiène publique et salubrité</unittitle>
+						</did>
+						<c level="item" id="_358794">
+							<did>
+								<unitid>ESUPPL 11081</unitid>
+								<unittitle>Règlement sanitaire.</unittitle>
+								<unitdate normal="1904">1904</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 31/05/2024 10:10:43
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>règlement</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>organisation sanitaire</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358795">
+							<did>
+								<unitid>ESUPPL 11082</unitid>
+								<unittitle>Vaccination : listes nominatives des personnes vaccinées, relevés récapitulatifs des listes.</unittitle>
+								<unitdate normal="1907/1945">1907-1945</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>vaccination</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358796">
+							<did>
+								<unitid>ESUPPL 11083</unitid>
+								<unittitle>Surveillance du bétail. - Épizooties : carnet à souches des certificats d'origine (1912-1921), registre à souche des déclarations de maladie (1912-1938), arrêtés préfectoraux,</unittitle>
+								<unitdate normal="1912/1938">1912-1938</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>bétail</subject>
+								<subject>maladie des animaux</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Élections et personnel</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Élections</unittitle>
+						</did>
+						<c level="recordgrp" id="_358797">
+							<did>
+								<unitid>ESUPPL 11084 - 11085</unitid>
+								<unittitle>Confection et révision des listes électorales.</unittitle>
+								<unitdate normal="1924/1947">1924-1947</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>élection politique</subject>
+							</controlaccess>
+							<c level="file" id="_358798">
+								<did>
+									<unitid>ESUPPL 11084</unitid>
+									<unittitle>Avis de radiation, correspondance.</unittitle>
+									<unitdate normal="1924/1946">1924-1946</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>élection politique</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358799">
+								<did>
+									<unitid>ESUPPL 11085</unitid>
+									<unittitle>Listes électorales, tableaux de rectifications.</unittitle>
+									<unitdate normal="1923/1947">1923-1947</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>liste électorale</genreform>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>élection politique</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="file" id="_358800">
+							<did>
+								<unitid>ESUPPL 11086</unitid>
+								<unittitle>Élections politiques. - Organisation des opérations de vote et résultats, élections municipales : liste des candidats, procès-verbaux des opérations de l'assemblée électorale, extraits du procès-verbal des opérations, procès-verbaux d'installation des conseillers municipaux, spécimens de cartes d'électeurs et de bulletins de vote (1831, 1917-1947, 1995) ; élections cantonales : tract de M. Lapierre (1937) ; élections au conseil d'arrondissement : procès-verbaux des opérations de l'assemblée électorale, listes des cartes électorales ayant fait retour à la mairie, spécimens de cartes d'électeurs (1931, 1937) ; élections au conseil général : procès-verbaux des opérations de l'assemblée électorale, spécimens de cartes d'électeurs (1934, 1945) ; élections législatives : procès-verbaux des opérations électorales (1928-1946) ; élections sénatoriales : procès-verbaux des opérations électorales (1932) ; élections au Conseil de la République : procès-verbaux des opérations électorales (1946-1948).</unittitle>
+								<unitdate normal="1831/1995">1831-1995</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 31/05/2024 10:11:39
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>procès-verbal d'élection</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>élection politique</subject>
+								<subject>conseil municipal</subject>
+								<subject>élection au conseil d'arrondissement</subject>
+								<subject>élection cantonale</subject>
+								<subject>élection législative</subject>
+								<subject>élection municipale</subject>
+								<subject>élection sénatoriale</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358801">
+							<did>
+								<unitid>ESUPPL 11087</unitid>
+								<unittitle>Élections socio-professionnelles. - Organisation des opérations de vote et résultats, élections de la chambre départementale d'agriculture : listes des électeurs, procès-verbaux des opérations électorales (1926-1936) ; élections à la chambre de commerce d'Auch : listes des électeurs, affiches (1920-1950) ; élections au tribunal de commerce d'Auch : listes des électeurs (1928-1930, 1946) ; élection à la chambre des métiers du Gers : liste électorale (1949) ; élections au conseil d'administration de la Mutualité sociale agricole : procès-verbal des opérations de vote (1965).</unittitle>
+								<unitdate normal="1920/1965">1920-1965</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 31/05/2024 10:11:56
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>procès-verbal d'élection</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>élection professionnelle</subject>
+								<subject>chambre consulaire</subject>
+								<subject>juge consulaire</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358802">
+							<did>
+								<unitid>ESUPPL 11088</unitid>
+								<unittitle>Loi du 29 juillet 1913 ayant pour objet d'assurer le secret et la liberté du vote ainsi que la sincérité des opérations électorales modifiée par la loi du 31 mars 1914 : affiches.</unittitle>
+								<unitdate normal="1934/1936">1934-1936</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 13/06/2024 15:03:00
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>affiche</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>élection</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358803">
+							<did>
+								<unitid>ESUPPL 11089</unitid>
+								<unittitle>Maire et adjoints. - Nominations : arrêtés préfectoraux (1817-1825). Composition du conseil municipal : arrêté préfectoral (1818).</unittitle>
+								<unitdate normal="1817/1825">1817-1825</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>maire</subject>
+								<subject>conseiller municipal</subject>
+								<subject>conseil municipal</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Personnel municipal</unittitle>
+						</did>
+						<c level="item" id="_358804">
+							<did>
+								<unitid>ESUPPL 11090</unitid>
+								<unittitle>Liste du personnel communal.</unittitle>
+								<unitdate normal="1901/2000">[XXe siècle]</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 31/05/2024 10:12:27
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>fonctionnaire territorial</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Finances de la commune</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Comptabilité</unittitle>
+						</did>
+						<c level="file" id="_358805">
+							<did>
+								<unitid>ESUPPL 11091</unitid>
+								<unittitle>Budgets : budgets primitifs, budgets supplémentaires, chapitres additionnels (1819-1861, 1944-1950). Règlement définitif des recettes et dépenses : délibérations (1909, 1951).</unittitle>
+								<unitdate normal="1819/1951">1819-1951</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 05/06/2024 11:07:32
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>budget</genreform>
+								<genreform>budget primitif</genreform>
+								<genreform>budget supplémentaire</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>finances communales</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358806">
+							<did>
+								<unitid>ESUPPL 11092</unitid>
+								<unittitle>Dépenses : factures, registre des mandats (1938-1949).</unittitle>
+								<unitdate normal="1924/1955">1924-1955</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>finances communales</subject>
+								<subject>/dépense de fonctionnement / /dépense d'investissement</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358807">
+							<did>
+								<unitid>ESUPPL 11093</unitid>
+								<unittitle>Comptes administratifs.</unittitle>
+								<unitdate normal="1944/1951">1944-1951</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<scopecontent>
+								<p>Lacune de l'année 1950.</p>
+							</scopecontent>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 05/06/2024 11:07:57
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>compte administratif</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>comptabilité publique</subject>
+							</controlaccess>
+						</c>
+						<c level="item" id="_358808">
+							<did>
+								<unitid>ESUPPL 11094</unitid>
+								<unittitle>Compte de gestion.</unittitle>
+								<unitdate normal="1910">1910</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 31/05/2024 10:12:54
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>compte de gestion</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>comptabilité publique</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Revenus et charges de la commune</unittitle>
+						</did>
+						<c level="file" id="_358809">
+							<did>
+								<unitid>ESUPPL 11095</unitid>
+								<unittitle>Don et legs. - Donation par M. Decours d'une maison et du patus, jardin et terre à la commune pour servir de maison commune et pour loger le desservant de l'église : actes notariés, estimation des biens (1818-1847). Legs de François Joseph Rique de 1 000 francs à l'Église et de 500 francs aux pauvres de la commune : copie d'une partie du testament (1872).</unittitle>
+								<unitdate normal="1818/1872">1818-1872</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 13/06/2024 15:23:11
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>dons-et-legs</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Édifices communaux. Monuments et établissements publics</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Édifices publics</unittitle>
+						</did>
+						<c level="recordgrp" id="_358810">
+							<did>
+								<unitid>ESUPPL 11096 - 11097</unitid>
+								<unittitle>Pont à bascule.</unittitle>
+								<unitdate normal="1901/1935">[première moitié du XXe siècle]</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 14/06/2024 12:35:56
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>poids-et-mesures</subject>
+							</controlaccess>
+							<c level="file" id="_358811">
+								<did>
+									<unitid>ESUPPL 11096</unitid>
+									<unittitle>Acquisition : devis et correspondance.</unittitle>
+									<unitdate normal="1934/1935">1934-1935</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>poids-et-mesures</subject>
+								</controlaccess>
+							</c>
+							<c level="item" id="_358812">
+								<did>
+									<unitid>ESUPPL 11097</unitid>
+									<unittitle>Plan des fondations.</unittitle>
+									<unitdate normal="1901/1950">[première moitié du XXe siècle]</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 13/06/2024 15:23:28
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>plan</genreform>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>poids-et-mesures</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Édifices du culte et cimetières</unittitle>
+						</did>
+						<c level="item" id="_358813">
+							<did>
+								<unitid>ESUPPL 11098</unitid>
+								<unittitle>Église : plan planterier et d'élévation de la façade ouest.</unittitle>
+								<unitdate normal="1801/1900">[XIXe siècle]</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 30/05/2024 16:15:16
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>plan</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>édifice cultuel</subject>
+							</controlaccess>
+						</c>
+						<c level="recordgrp" id="_358814">
+							<did>
+								<unitid>ESUPPL 11099 - 11000</unitid>
+								<unittitle>Presbytère.</unittitle>
+								<unitdate normal="1848/1917">1848-1917</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 05/06/2024 11:09:41
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>presbytère</subject>
+							</controlaccess>
+							<c level="file" id="_358815">
+								<did>
+									<unitid>ESUPPL 11099</unitid>
+									<unittitle>Plans.</unittitle>
+									<unitdate normal="1848/1855">1848-1855</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>plan</genreform>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>presbytère</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358816">
+								<did>
+									<unitid>ESUPPL 11100</unitid>
+									<unittitle>Location : note de service, contrat de bail, extraits du registre des délibérations du conseil municipal, correspondance.</unittitle>
+									<unitdate normal="1907/1917">1907-1917</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>presbytère</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="file" id="_358817">
+							<did>
+								<unitid>ESUPPL 11101</unitid>
+								<unittitle>Cimetière. - Agrandissement par donation d'un terrain : procès-verbal descriptif des immeubles donnés, acte notarié, extrait du registre des délibérations du conseil municipal, arrêté préfectoral, bulletin de renseignement (1922-1923) ; travaux de clôture : traité de gré à gré, extrait du registre des délibérations du conseil municipal, correspondance (1923).</unittitle>
+								<unitdate normal="1922/1923">1922-1923</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>cimetière</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Biens communaux. Terres. Bois. Eaux</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Bois</unittitle>
+						</did>
+						<c level="item" id="_358818">
+							<did>
+								<unitid>ESUPPL 11102</unitid>
+								<unittitle>Vente d'arbres : procès-verbal de vente.</unittitle>
+								<unitdate normal="1868">1868</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 13/06/2024 15:24:01
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>bois</subject>
+								<subject>coupe de bois</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Propriétés et droits divers</unittitle>
+						</did>
+						<c level="file" id="_358819">
+							<did>
+								<unitid>ESUPPL 11103</unitid>
+								<unittitle>Concessions au cimetière. - Tarification et règlement : extrait du registre des délibérations du conseil municipal, correspondance.</unittitle>
+								<unitdate normal="1899/1923">1899, 1921-1923</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>cimetière</subject>
+								<subject>concession funéraire</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Travaux publics. Voirie. Moyens de transport. Régime des eaux</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Travaux publics et voirie en général</unittitle>
+						</did>
+						<c level="recordgrp" id="_358820">
+							<did>
+								<unitid>ESUPPL 11104 - 11106</unitid>
+								<unittitle>Chemins ruraux.</unittitle>
+								<unitdate normal="1834/1940">1834-1940</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>réseau routier</subject>
+								<subject>chemin rural</subject>
+							</controlaccess>
+							<c level="file" id="_358841">
+								<did>
+									<unitid>ESUPPL 11104</unitid>
+									<unittitle>États généraux (1851, 1855) ; chemin de Biau : acte d'échange de terrain, correspondance (1842-1843) ; chemin dit de Courray : rapport de l'ingénieur (1854) ; chemin de Baillargueyre : extraits du registre des délibérations du conseil municipal, procès-verbal d'expertise, correspondance (1863-1873) ; chemin de Lalanne : rapport de l'ingénieur, correspondance (1879-1884) ; chemin de Sanipon : plan (1940).</unittitle>
+									<unitdate normal="1842/1940">1842-1940</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le 13/06/2024 15:24:25
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>réseau routier</subject>
+									<subject>chemin rural</subject>
+								</controlaccess>
+							</c>
+							<c level="recordgrp" id="_358822">
+								<did>
+									<unitid>ESUPPL 11105 - 11106</unitid>
+									<unittitle>Vente des parcelles et de chemins devenus inutiles.</unittitle>
+									<unitdate normal="1834/1865">1834-1865</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>réseau routier</subject>
+									<subject>chemin rural</subject>
+								</controlaccess>
+								<c level="file" id="_358823">
+									<did>
+										<unitid>ESUPPL 11105</unitid>
+										<unittitle>Cahiers des charges et des conditions d'adjudication, procès-verbaux d'adjudication, actes de vente, plan, procès-verbal d'expertise.</unittitle>
+										<unitdate normal="1834/1865">1834-1865</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+										<subject>réseau routier</subject>
+										<subject>chemin rural</subject>
+									</controlaccess>
+								</c>
+								<c level="item" id="_358824">
+									<did>
+										<unitid>ESUPPL 11105 1</unitid>
+										<unittitle>Plan.</unittitle>
+										<unitdate normal="1865">1865</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+								</c>
+								<c level="file" id="_358825">
+									<did>
+										<unitid>ESUPPL 11106</unitid>
+										<unittitle>Bail à ferme de deux chemins : cahier des charges et conditions, procès-verbal d'adjudication.</unittitle>
+										<unitdate normal="1839/1839">1839-1839</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par PONS validée le </p>
+									</processinfo>
+									<controlaccess>
+										<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+										<subject>réseau routier</subject>
+										<subject>chemin rural</subject>
+									</controlaccess>
+								</c>
+							</c>
+						</c>
+						<c level="recordgrp" id="_358826">
+							<did>
+								<unitid>ESUPPL 11107 - 11108</unitid>
+								<unittitle>Chemins vicinaux.</unittitle>
+								<unitdate normal="1839/1945">1839-1945</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>réseau routier</subject>
+							</controlaccess>
+							<c level="file" id="_358827">
+								<did>
+									<unitid>ESUPPL 11107</unitid>
+									<unittitle>Service vicinal : budgets, chapitres additionnels, délibérations du service vicinal, arrêtés préfectoraux, correspondance.</unittitle>
+									<unitdate normal="1844/1945">1844-1945</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>réseau routier</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_358828">
+								<did>
+									<unitid>ESUPPL 11108</unitid>
+									<unittitle>Etats généraux et états de classement (1816, 1839-1867) ; chemin n°1 de Lagraulas à Vic-Fezensac : rapport de l'ingénieur, pétition, devis, plan, extraits du registre des délibérations du conseil municipal, extrait du procès-verbal des délibérations du conseil général, listes des souscripteurs, correspondance (1840-1876) ; chemin n°3 de Lagraulas à Lannepax : liste des parcelles expropriées (1865-1866) ; chemin n°8 dit de Rique : arrêté préfectoral, procès-verbal de reconnaissance du chemin à classer au rang des chemins vicinaux, extraits du registre des délibérations du conseil municipal, acte de vente, liste des souscripteurs, correspondance (1897-1923) ; chemin n°30 de Vic-Fezensac à Eauze : état des surfaces à s'occuper sur la commune (1840) ; recensement des plantations (1940).</unittitle>
+									<unitdate normal="1839/1940">1839-1940</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par PONS validée le </p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+									<subject>réseau routier</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Moyens de transport et travaux divers</unittitle>
+						</did>
+						<c level="item" id="_358829">
+							<did>
+								<unitid>ESUPPL 11109</unitid>
+								<unittitle>Électrification. - Syndicat intercommunal d'Eauze-Montréal, construction de postes de transformation et de lignes : plan.</unittitle>
+								<unitdate normal="1931">1931</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 13/06/2024 15:24:46
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>distribution électrique</subject>
+								<subject>établissement public de coopération intercommunale</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Navigation et régime des eaux</unittitle>
+						</did>
+						<c level="file" id="_358830">
+							<did>
+								<unitid>ESUPPL 11110</unitid>
+								<unittitle>Ruisseau de Sanipon. - Curage : arrêté préfectoral, correspondance.</unittitle>
+								<unitdate normal="1912/1932">1912-1932</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>cours d'eau</subject>
+								<subject>aménagement des eaux</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Assistance et prévoyance</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Application des lois d'assistance et de prévoyance</unittitle>
+						</did>
+						<c level="file" id="_358832">
+							<did>
+								<unitid>ESUPPL 11112</unitid>
+								<unittitle>Protection du premier âge et de l'enfance. - Bénéficiaires : registre des déclarations des parents et registre des déclarations de nourrices, sevreuses ou gardeuses (1888), extrait d'acte de naissance, bulletin de placement hors du domicile des parents.</unittitle>
+								<unitdate normal="1888/1923">1888-1923</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>enfant</subject>
+								<subject>protection maternelle et infantile</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358833">
+							<did>
+								<unitid>ESUPPL 11113</unitid>
+								<unittitle>Accidents du travail : cahier de déclaration des accidents (1935-1942), formulaires de déclaration d'accident, avis de déclaration, certificat de blessures, certificats médicaux, correspondance</unittitle>
+								<unitdate normal="1922/1947">1922-1947</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>accident du travail</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_358831">
+							<did>
+								<unitid>ESUPPL 11111</unitid>
+								<unittitle>Bureau d'assistance : cahier des délibérations (1914-1930) ; composition de la commission administrative : arrêtés préfectoraux, correspondance (1926-1930).</unittitle>
+								<unitdate normal="1914/1930">1914-1930</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 05/06/2024 11:10:33
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>délibération</genreform>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>structure communale d'aide sociale</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Instruction publique. Sciences, lettres et arts</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Instruction publique</unittitle>
+						</did>
+						<c level="item" id="_358834">
+							<did>
+								<unitid>ESUPPL 11114</unitid>
+								<unittitle>Instituteurs et institutrices. - Traitement : extrait du registre des délibérations.</unittitle>
+								<unitdate normal="1884">1884</unitdate>
+								<origination label="producteur">Commune de Lagraulas</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 13/06/2024 15:25:16
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Lagraulas (Vic-Fezensac, Gers, France)</geogname>
+								<subject>instituteur</subject>
+								<subject>rémunération</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+			</c>
+		</dsc>
+	</archdesc>
+</ead>

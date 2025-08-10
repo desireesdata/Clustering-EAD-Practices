@@ -1,0 +1,1931 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:cpf="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+		<eadid url="https://www.archives32.fr/wp-content/uploads/2024/06/FRAD032_000070.pdf" countrycode="FR" mainagencycode="FRAD032" identifier="FRAD032_000070">FRAD032_000070</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Archives communales de Saint-Mézard</titleproper>
+				<subtitle>Répertoire méthodique</subtitle>
+				<author>élaboré par Michèle Macé-Ramete sous la direction de Pascal Geneste</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives départementales du Gers</publisher>
+				<date>23/02/2024</date>
+				<address>
+					<addressline>81 route de Pessan - 32001 Auch</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Cet instrument de recherche a été exporté au format XML depuis le progiciel de gestion d'archives Thot par les archives départementales du Gers.</creation>
+			<langusage>Instrument de recherche rédigé en <language langcode="fre">français</language>
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="fonds">
+		<did>
+			<unitid>ESUPPL 1163, 6092, 9658 - 9723, 10513, 10886</unitid>
+			<unittitle>Archives communales de Saint-Mézard</unittitle>
+			<unitdate normal="1620/1955">1620-1955</unitdate>
+			<origination label="producteur">Commune de Saint-Mézard</origination>
+			<physdesc>
+				</physdesc>
+			<langmaterial>Français</langmaterial>
+		</did>
+		<bioghist>
+			<p>Saint-Mézard dans le Condomois, diocèse de Lectoure, dépendait du Fimarcon, seigneurie tenue en toute justice par les Fimarcon, descendants des vicomtes de Lomagne, dont ils portaient le nom et les armes. L'apanage de ces seigneurs comprenait seize paroisses, sur une étendue de douze lieues, et était enclavé dans les diocèses d'Auch, Condom et Lectoure. Érigé en marquisat en 1503, le Fimarcon a été placé dans le ressort du parlement et intendance de Bordeaux, élection de Condom et de la sénéchaussée de Gascogne puis de Condom.</p>
+			<p>Saint-Mézard formait seule une juridiction particulière. Les limites du territoire de la communauté de Saint-Mézard n'ont pas changé depuis 1620 au moins.</p>
+			<p>La paroisse Saint-Pierre-de-Coumiat, disparue vers 1693, état rattachée à Saint-Mézard.</p>
+			<p>À la Révolution, Saint-Mézard relève du district de Lectoure et devient chef-lieu de canton. Son nom révolutionnaire est Augas-Libre. En 1801, la commune est placée dans le canton et l'arrondissement de Lectoure. Après la suppression de cet arrondissement en 1926, Saint-Mézard est rattachée à celui de Condom.</p>
+			<p>Il est important de préciser que la graphie du nom de Saint-Mézard a évolué au fil du temps : le nom a pu s'écrire Saint-Mézard, Saint-Mézart voir Saint-Médard. Il ne faut pas confondre cette dernière avec la ville de Saint-Médard qui se situait dans la généralité de Montauban puis d'Auch à partir de 1716 et dans la sénéchaussée de Toulouse puis d'Auch à partir de 1639.</p>
+		</bioghist>
+		<custodhist>
+			<p>Le fonds a été déposé aux Archives départementales en plusieurs fois : un dépôt en 1950 (cote ESUPPL 1163) et un second dépôt en 2020 suite à l'inspection de la commune en 2019 (cotes ESUPPL 9658-9723, entrée n°2020-056). Le mode et la date d'entrée de la cote ESUPPL 3009 n'est pas connue. Les cotes ESUPPL 6092 (entrée THOT n°1053) et 10513 ont été intégrées au fonds respectivement en 2012 et 2023 tandis que la cote ESUPPL 10886 (entrée n°2021-009) l'a été en 2024 suite à la restitution du document par un particulier.</p>
+			<p>La cote ESUPPL 3009 a été identifiée comme étant déficitaire aux Archives départementales en 2024.</p>
+			<p>La commune conserve encore une partie de ses archives modernes et contemporaines.</p>
+		</custodhist>
+		<acqinfo>
+			<p>Dépôts de 1950 et du 15 septembre 2020 (entrée n°2020-056).</p>
+		</acqinfo>
+		<scopecontent>
+			<p>Le fonds déposé comprend des livres terriers et des registres paroissiaux pour la période antérieure à la Révolution française. </p>
+			<p>Pour la période moderne, le fonds est composé principalement des registres des délibérations du conseil municipal et du bureau de bienfaisance, des registres d'état civil, des recensements de la population et de documents cadastraux. Il comprend également des documents d'ordre militaire et relatifs à la Seconde Guerre mondiale, des documents concernant les étrangers et le contrôle de la population, de documents de nature électorale ainsi que des dossiers de travaux sur les bâtiments communaux et la voirie.</p>
+		</scopecontent>
+		<accruals>
+			<p>Le fonds est ouvert et s'accroït par dépôt de la commune.</p>
+		</accruals>
+		<arrangement>
+			<p>Le classement suit l'arrêté interministériel du 31 décembre 1926 portant règlement des archives des communes. La cotation des archives déposées des communes de moins de 2000 habitants se fait en continu dans la série ESUPPL.</p>
+		</arrangement>
+		<accessrestrict>
+			<p>La communicabilité des archives communales est soumise aux délais fixés par la loi du 15 juillet 2008 modifiant le code du patrimoine (article L 213-2, <extref xlink:type="simple" xlink:href="https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159942">legifrance.gouv.fr/codes/id/LEGISCTA000006159942</extref>). Cependant, même pour les documents communicables en application de la loi, le mauvais état matériel des documents peut restreindre leur consultation en salle de lecture.</p>
+		</accessrestrict>
+		<userestrict>
+			<p>Les documents dont l'état matériel le permet sont reproductibles sous réserve de mentionner la cote des documents et l'institution de conservation en cas de publication.</p>
+			<p>Les documents reliés ne peuvent pas être photocopiés. Les reproductions de documents avec un appareil photographique sans flash sont autorisées en salle de lecture.</p>
+		</userestrict>
+		<relatedmaterial>
+			<p>I. Ancien Régime</p>
+			<list>
+				<item>série C : archives des administrations provinciales (intendance, subdélégations, élections, collecte) ;</item>
+				<item>sous-série 9 B : justice locale et seigneuriale de la sénéchaussée de Gascogne ;</item>
+				<item>série G : archives du clergé séculier (visites pastorales, procès-verbaux de visite et de vérification des réparations des églises du diocèse, archives des paroisses, fabrique d'église et cures) ;</item>
+				<item>séries E et I : archives des communautés d'habitants aux XVIe-XVIIIe siècles (chartes de coutumes, hommages, délibérations consulaires, documents financiers, livres terrier, compoix et cadastres, registres paroissiaux) ; archives de familles ;</item>
+				<item>sous-série 5 E : registres paroissiaux (fonds des sénéchaussées).</item>
+			</list>
+			<p>II. Période révolutionnaire</p>
+			<list>
+				<item>série L : justice, municipalités de canton, comités de surveillance, sociétés populaires ;</item>
+				<item>série Q : vente des biens nationaux. Yves Coustau, Dépouillement des procès-verbaux d'adjudication des biens nationaux de 1re origine et 2e origine, 1962, 2 volumes.</item>
+			</list>
+			<p>III. Période contemporaine</p>
+			<p>1. Série E</p>
+			<list>
+				<item>sous-série 5 E : registres d'état civil, tables décennales (fonds du greffe du tribunal d'instance d'Auch).</item>
+			</list>
+			<p>2. Série M</p>
+			<list>
+				<item>sous-série 1 M : regroupement de communes, délimitation du territoire ;</item>
+				<item>sous-série 3 M : conseils municipaux, documents électoraux ;</item>
+				<item>sous-série 6 M : recensement de population, statistiques démographiques, naturalisations, état civil, agriculture.</item>
+			</list>
+			<p>3. Série O</p>
+			<list>
+				<item>sous-série 1 O : affaires communales, administration générale des communes, bâtiments et biens communaux, syndicats intercommunaux ;</item>
+				<item>sous-série 2 O : administration générale de la commune, travaux de construction et d'entretien sur les bâtiments communaux et les équipements collectifs, acquisition et aliénation des biens communaux, comptabilité communale, assistance et prévoyance ;</item>
+				<item>sous-série 3 O : voirie communale, chemins vicinaux ;</item>
+				<item>sous-série 4 O : dons et legs.</item>
+			</list>
+			<p>4. Série P</p>
+			<list>
+				<item>sous-série 3 P : délimitation cadastrale, documentation cadastrale ;</item>
+				<item>sous-série 6 P : postes.</item>
+			</list>
+			<p>5. Autres séries modernes</p>
+			<list>
+				<item>sous-série 2 R : monuments aux morts ;</item>
+				<item>série S : travaux publics (routes, chemins de fer, moulins, usines hydrauliques, électrification, mines, carrières, tourbières) ;</item>
+				<item>série T : ouvertures et fermetures d'école, affaires scolaires, dossiers d'instituteurs et institutrices, monographies scolaires, dossiers de classement au titre des monuments historiques ;</item>
+				<item>série V : conseils de fabrique, églises ;</item>
+				<item>série X : bureaux de bienfaisance.</item>
+			</list>
+			<p>6. Archives contemporaires (postérieures à 1940)</p>
+			<list>
+				<item>992 W, 1319 W : administration communale ;</item>
+				<item>1277 W : fermetures d'école.</item>
+			</list>
+			<p>IV. Archives notariales</p>
+			<list>
+				<item>sous-série 3 E : les archives des études notariales contiennent les éléments de l'histoire locale et des informations sur la vie des habitants ; on retrouve parfois dans les archives notariales des délibérations consulaires.</item>
+			</list>
+			<p>V. Archives privées, fonds entrés par voie extraordinaire</p>
+			<list>
+				<item>sous-série 1 J : pièces isolées et petits fonds ;</item>
+				<item>sous-série 14 J : papiers de Sylvain Daugé, prêtre et érudit local, notes sur des familles et des communes du Gers ; </item>
+				<item>sous-série 83 J : fonds de Macarez-Mainfroy, albums de cartes postales et photographies des communes du Gers ;</item>
+				<item>sous-série 88 J : fonds de Jean-Henri Ducos, dossiers documentaires sur les châteaux et maison-fortes du Gers ; </item>
+				<item>sous-série 101 J : fonds de Paul Mesplé, conservateur du musée des Augustins de Toulouse, albums de photographies des communes du Gers.</item>
+			</list>
+			<p>VI. Documents figurés</p>
+			<list>
+				<item>sous-série 1 FI : cartes et plans ;</item>
+				<item>sous-série 2 FI : dessins, gravures, estampes, lithographies, tirages photographiques ;</item>
+				<item>sous-série 6 FI : cartes postales.</item>
+			</list>
+			<p>VII. Documentation</p>
+			<list>
+				<item>séries DAN et DAR : dossiers archéologiques et antiques ;</item>
+				<item>série CDOC : dossiers documentaires ;</item>
+				<item>série JX : presse locale ;</item>
+				<item>série PER : bulletins municipaux et paroissiaux ;</item>
+				<item>bibliothèque historique et administrative.</item>
+			</list>
+		</relatedmaterial>
+		<bibliography>
+			<p>Centre généalogique du Gers, Les mariages célébrés à Saint-Mézard de 1792 à 1895, d'après les registres de l'état civil, Archives municipales, Auch : Centre généalogique du Gers, 1995.</p>
+			<p>Paul Laplagne Barris, « Revignan », Sceaux gascons du Moyen Âge : (gravures et notices), Paris : Honoré Champion, 1888-1892, p. 474-475 (<extref xlink:type="simple" xlink:href="http://catalogue.bnf.fr/ark:/12148/cb34101867t">catalogue.bnf.fr/ark:/12148/cb34101867t</extref>).</p>
+			<p>Jules Carsalade du Pont, « Le registre de Jourdain de Séailles, notaire du Fimarcon », Revue de Gascogne : bulletin mensuel de la société historique de Gascogne, Auch : Imprimerie et lithographie G. Foix, 1896, p. 53-57 (<extref xlink:type="simple" xlink:href="https://gallica.bnf.fr/ark:/12148/bpt6k5742116m">gallica.bnf.fr/ark:/12148/bpt6k5742116m</extref>).</p>
+			<p>Georges Courtès (dir.), Communes du département du Gers, vol. II : Arrondissement de Condom, Auch : Société archéologique et historique du Gers, 2004.</p>
+			<p>Élie Ducassé, « Dénombrement des biens du marquisat de Fimarcon en 1533 », Bulletin de la Société archéologique, historique littéraire et scientifique du Gers, Auch : Imprimerie Th. Bouquet, 1er trimestre 1998, p.30-52 (<extref xlink:type="simple" xlink:href="https://gallica.bnf.fr/ark:/12148/bpt6k6576647p">gallica.bnf.fr/ark:/12148/bpt6k6576647p</extref>).</p>
+			<p>Jean-Joseph Expilly, « Fimarcon », Dictionnaire géographique, historique et politique des Gaules et de la France, Paris : Desaint et Saillant, 1764, volume 3, p. 135.</p>
+			<p>Maurice Luxembourg, « Les Alsaciens dans les départements du Gers et des Landes », Revue géographique des Pyrénées et du Sud-Ouest, tome 11, fascicule 1, 1940, p. 23-38 (www.persee.fr/doc/rgpso_0035-3221_1940_num_11_1_1140).</p>
+			<p>Jean-Justin Monlezun, « Exécution à Saint-Mézard », Histoire de la Gascogne depuis les temps les plus reculés jusqu'à nos jours, Auch : Brun, 1850, tome 5, p. 274-275 (<extref xlink:type="simple" xlink:href="https://gallica.bnf.fr/ark:/12148/bpt6k83346g">gallica.bnf.fr/ark:/12148/bpt6k83346g</extref>).</p>
+		</bibliography>
+		<otherfindaid>
+			<p>Architerre, sources fiscales d'Ancien Régime (<extref xlink:type="simple" xlink:href="http://modelespace.univ-tlse2.fr">modelespace.univ-tlse2.fr</extref>).</p>
+		</otherfindaid>
+		<controlaccess>
+			<geogname>Saint-Mézard (Gers, France)</geogname>
+		</controlaccess>
+		<dsc>
+			<c>
+				<did>
+					<unittitle>Archives anciennes (antérieures à 1790)</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Finances. Impôts. Comptabilité</unittitle>
+					</did>
+					<c level="recordgrp" id="_305014">
+						<did>
+							<unitid>ESUPPL 1163, 9658</unitid>
+							<unittitle>Livres terriers.</unittitle>
+							<unitdate normal="1620/1673">1620-1673</unitdate>
+							<origination label="producteur">Commune de Saint-Mézard</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par BONNAFOUS validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>livre foncier</genreform>
+							<geogname>Saint-Mézard (Gers, France)</geogname>
+							<subject>cadastre</subject>
+						</controlaccess>
+						<c level="file" id="_213340">
+							<did>
+								<unitid>ESUPPL 9658</unitid>
+								<unittitle>1620.</unittitle>
+								<unitdate normal="1620">1620</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_225323">
+							<did>
+								<unitid>ESUPPL 1163</unitid>
+								<unittitle>1673.</unittitle>
+								<unitdate normal="1673">1673</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>livre foncier</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>cadastre</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Cultes. Instruction publique. Assistance publique</unittitle>
+					</did>
+					<c level="recordgrp" id="_305015">
+						<did>
+							<unitid>ESUPPL 6092, 9659 - 9663</unitid>
+							<unittitle>Paroisse de Saint-Mézard : registres des baptêmes, mariages et sépultures.</unittitle>
+							<unitdate normal="1630/1760">1630-1760</unitdate>
+							<origination label="producteur">Commune de Saint-Mézard</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par BONNAFOUS validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>registre paroissial</genreform>
+							<geogname>Saint-Mézard (Gers, France)</geogname>
+							<geogname>Saint-Mézard (Gers, France ; paroisse)</geogname>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+						<c level="file" id="_213341">
+							<did>
+								<unitid>ESUPPL 9659</unitid>
+								<unittitle>1630-1673.</unittitle>
+								<unitdate normal="1630/1673">1630-1673</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 02/06/2023 12:37:06
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<geogname>Saint-Mézard (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213342">
+							<did>
+								<unitid>ESUPPL 9660</unitid>
+								<unittitle>1631-1660.</unittitle>
+								<unitdate normal="1631/1660">1631-1660</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<geogname>Saint-Mézard (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213343">
+							<did>
+								<unitid>ESUPPL 9661</unitid>
+								<unittitle>1668.</unittitle>
+								<unitdate normal="1668">1668</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 02/06/2023 12:37:33
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<geogname>Saint-Mézard (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213344">
+							<did>
+								<unitid>ESUPPL 9662</unitid>
+								<unittitle>1692-1698.</unittitle>
+								<unitdate normal="1692/1698">1692-1698</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<geogname>Saint-Mézard (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_228900">
+							<did>
+								<unitid>ESUPPL 6092</unitid>
+								<unittitle>1695-1699.</unittitle>
+								<unitdate normal="1695/1699">1695-1699</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par bonnafous validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<geogname>Saint-Mézard (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213345">
+							<did>
+								<unitid>ESUPPL 9663</unitid>
+								<unittitle>1700-1749.</unittitle>
+								<unitdate normal="1700/1749">1700-1749</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>registre paroissial</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<geogname>Saint-Mézard (Gers, France ; paroisse)</geogname>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="file" id="_213346">
+						<did>
+							<unitid>ESUPPL 9664</unitid>
+							<unittitle>Registre des baptêmes, mariages et sépultures (1750-1791) de la paroisse de Saint-Mézard et des naissances, mariages, décès (1792-1795) de la commune.</unittitle>
+							<unitdate normal="1750/1795">1750-1795</unitdate>
+							<origination label="producteur">Commune de Saint-Mézard</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>registre paroissial</genreform>
+							<genreform>répertoire civil</genreform>
+							<geogname>Saint-Mézard (Gers, France)</geogname>
+							<geogname>Saint-Mézard (Gers, France ; paroisse)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+					</c>
+				</c>
+			</c>
+			<c>
+				<did>
+					<unittitle>Archives modernes (postérieures à 1789)</unittitle>
+				</did>
+				<c>
+					<did>
+						<unittitle>Actes de l'administration départementale</unittitle>
+					</did>
+					<c level="file" id="_213405">
+						<did>
+							<unitid>ESUPPL 9723</unitid>
+							<unittitle>Arrêté, circulaires, affiches.</unittitle>
+							<unitdate normal="1812/1814">1812-1814</unitdate>
+							<origination label="producteur">Commune de Saint-Mézard</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>circulaire</genreform>
+							<genreform>affiche</genreform>
+							<geogname>Saint-Mézard (Gers, France)</geogname>
+							<subject>administration départementale</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Administration générale de la commune</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Conseil municipal</unittitle>
+						</did>
+						<c level="recordgrp" id="_341070">
+							<did>
+								<unitid>ESUPPL 9665 - 9670</unitid>
+								<unittitle>Registres des délibérations.</unittitle>
+								<unitdate normal="1801/1954">1801-1954</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par BONNAFOUS validée le 22/04/2024 10:50:11
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>délibération</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>administration communale</subject>
+								<subject>conseil municipal</subject>
+							</controlaccess>
+							<c level="file" id="_213347">
+								<did>
+									<unitid>ESUPPL 9665</unitid>
+									<unittitle>1801-1808.</unittitle>
+									<unitdate normal="1801/1808">1801-1808</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par MACERAMETEM validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Saint-Mézard (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_213348">
+								<did>
+									<unitid>ESUPPL 9666</unitid>
+									<unittitle>1809-1839.</unittitle>
+									<unitdate normal="1809/1839">1809-1839</unitdate>
+								</did>
+								<scopecontent>
+									<p>Contient les pétitions pour la vente des biens nationaux des communes de Larroque, Ligardes, Pergain, Pouy-Roquelaure, Rignac, Taillac, Saint-Martin, Saint-Mézard (1792-an VIII).</p>
+								</scopecontent>
+								<processinfo>
+									<p>Notice rédigée par MACERAMETEM validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<genreform>pétitions</genreform>
+									<geogname>Saint-Mézard (Gers, France)</geogname>
+									<geogname>Larroque-Engalin (Gers, France)</geogname>
+									<geogname>Ligardes (Gers, France)</geogname>
+									<geogname>Pergain (Pergain-Taillac, Gers, France)</geogname>
+									<geogname>Pouy-Roquelaure (Gers, France)</geogname>
+									<geogname>Rignac (Pouy-Roquelaure, Gers, France)</geogname>
+									<geogname>Taillac (Pergain-Taillac, Gers, France)</geogname>
+									<geogname>Saint-Martin (Gers, France)</geogname>
+									<subject>propriété publique</subject>
+									<subject>biens nationaux</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_213349">
+								<did>
+									<unitid>ESUPPL 9667</unitid>
+									<unittitle>1840-1862 (15 mai).</unittitle>
+									<unitdate normal="1840/1862">1840-1862</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par MACERAMETEM validée le 22/04/2024 16:17:48
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Saint-Mézard (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_213350">
+								<did>
+									<unitid>ESUPPL 9668</unitid>
+									<unittitle>1862 (15 mai)-1883 (08 juillet).</unittitle>
+									<unitdate normal="1862/1883">1862-1883</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par MACERAMETEM validée le 22/04/2024 16:18:10
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Saint-Mézard (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_213351">
+								<did>
+									<unitid>ESUPPL 9669</unitid>
+									<unittitle>1883 (21 octobre)-1913 (16 mars).</unittitle>
+									<unitdate normal="1883/1913">1883-1913</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par MACERAMETEM validée le 22/04/2024 16:18:32
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Saint-Mézard (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_213352">
+								<did>
+									<unitid>ESUPPL 9670</unitid>
+									<unittitle>1913 (25 mai)-1954 (28 septembre).</unittitle>
+									<unitdate normal="1913/1954">1913-1954</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Saint-Mézard (Gers, France)</geogname>
+									<subject>administration communale</subject>
+									<subject>conseil municipal</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>État civil</unittitle>
+					</did>
+					<c level="recordgrp" id="_305016">
+						<did>
+							<unitid>ESUPPL 9671 - 9675</unitid>
+							<unittitle>Registres des naissances, mariages et décès.</unittitle>
+							<unitdate normal="1794/1900">an III-1900</unitdate>
+							<origination label="producteur">Commune de Saint-Mézard</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par BONNAFOUS validée le 22/04/2024 10:49:41
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>répertoire civil</genreform>
+							<geogname>Saint-Mézard (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+						<c level="file" id="_213353">
+							<did>
+								<unitid>ESUPPL 9671</unitid>
+								<unittitle>an III-an VII.</unittitle>
+								<unitdate normal="1794/1799">an III-an VII</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213354">
+							<did>
+								<unitid>ESUPPL 9672</unitid>
+								<unittitle>an VIII-1829.</unittitle>
+								<unitdate normal="1800/1829">1800-1829.</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213355">
+							<did>
+								<unitid>ESUPPL 9673</unitid>
+								<unittitle>1830-1856.</unittitle>
+								<unitdate normal="1830/1856">1830-1856</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213356">
+							<did>
+								<unitid>ESUPPL 9674</unitid>
+								<unittitle>1857-1883.</unittitle>
+								<unitdate normal="1857/1883">1857-1883</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213357">
+							<did>
+								<unitid>ESUPPL 9675</unitid>
+								<unittitle>1884-1900.</unittitle>
+								<unitdate normal="1884/1900">1884-1900</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>répertoire civil</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="recordgrp" id="_305017">
+						<did>
+							<unitid>ESUPPL 9676 - 9677</unitid>
+							<unittitle>Tables décennales des naissances, mariages et décès.</unittitle>
+							<unitdate normal="1782/1922">1782-1922</unitdate>
+							<origination label="producteur">Commune de Saint-Mézard</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par BONNAFOUS validée le 22/04/2024 10:51:11
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>table</genreform>
+							<geogname>Saint-Mézard (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+						<c level="file" id="_213358">
+							<did>
+								<unitid>ESUPPL 9676</unitid>
+								<unittitle>1782-1882.</unittitle>
+								<unitdate normal="1782/1882">1782-1882</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213359">
+							<did>
+								<unitid>ESUPPL 9677</unitid>
+								<unittitle>1883-1922.</unittitle>
+								<unitdate normal="1883/1922">1883-1922</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>table</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>état civil</subject>
+								<subject>naissance</subject>
+								<subject>mariage</subject>
+								<subject>décès</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c level="item" id="_356068">
+						<did>
+							<unitid>ESUPPL 10886</unitid>
+							<unittitle>Table alphabétique des naissances, mariages et décès.</unittitle>
+							<unitdate normal="1827">1827</unitdate>
+							<origination label="producteur">Commune de Saint-Mézard</origination>
+						</did>
+						<acqinfo>
+							<p>Entrée n° 2021-009</p>
+						</acqinfo>
+						<processinfo>
+							<p>Notice rédigée par PONS validée le </p>
+						</processinfo>
+						<controlaccess>
+							<geogname>Saint-Mézard (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+					</c>
+					<c level="file" id="_213360">
+						<did>
+							<unitid>ESUPPL 9678</unitid>
+							<unittitle>Pièces annexes. - Apposition des mentions et transcription d'actes : extraits d'actes d'état civil, bulletins, relevés (an VIII-1950). Tenue des registres. - Vérification : bordereaux (1879-1897). Promesses de mariage : extraits d'actes d'état civil (1812-1860).</unittitle>
+							<unitdate normal="1799/1950">an VIII-1950</unitdate>
+							<origination label="producteur">Commune de Saint-Mézard</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par MACERAMETEM validée le 22/04/2024 10:52:21
+							</p>
+						</processinfo>
+						<controlaccess>
+							<geogname>Saint-Mézard (Gers, France)</geogname>
+							<subject>état civil</subject>
+							<subject>naissance</subject>
+							<subject>mariage</subject>
+							<subject>décès</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Population. Économie sociale. Statistique</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Population</unittitle>
+						</did>
+						<c level="file" id="_213361">
+							<did>
+								<unitid>ESUPPL 9679</unitid>
+								<unittitle>Mouvements de la population : tableaux.</unittitle>
+								<unitdate normal="1821/1902">1821-1902</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>statistique</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>population</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213362">
+							<did>
+								<unitid>ESUPPL 9680</unitid>
+								<unittitle>Recensement quinquennal : listes nominatives.</unittitle>
+								<unitdate normal="1876/1936">1876-1936</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>recensement de population</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Agriculture</unittitle>
+						</did>
+						<c level="file" id="_213363">
+							<did>
+								<unitid>ESUPPL 9721</unitid>
+								<unittitle>Agriculture. - Cultures et plantations, ensemencement en blé : statistiques (1818-1936) ; viticulture, création d'une association syndicale de lutte contre le phylloxéra : circulaires, correspondance (1882). Élevage. - Saillie de bovins : carnet de l'inséminateur (1870-1871). Épizooties : correspondance (s.d.).</unittitle>
+								<unitdate normal="1818/1936">1818-1936</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>statistique</genreform>
+								<genreform>circulaire</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>agriculture</subject>
+								<subject>production agricole</subject>
+								<subject>céréale</subject>
+								<subject>viticulture</subject>
+								<subject>vin</subject>
+								<subject>élevage</subject>
+								<subject>bétail</subject>
+								<subject>reproduction animale</subject>
+								<subject>maladie des animaux</subject>
+								<subject>protection des végétaux</subject>
+								<subject>maladie des végétaux</subject>
+								<subject>organisation professionnelle</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Subsistances</unittitle>
+						</did>
+						<c level="file" id="_213364">
+							<did>
+								<unitid>ESUPPL 9681</unitid>
+								<unittitle>Marchés dans les communes voisines. - Création : correspondance (1857, 1911). Plan départemental de ravitaillement, statistiques agricoles : tableaux (1900-1902). Mercuriales. - Prix du pain et de la viande : affiches (1855-1870).</unittitle>
+								<unitdate normal="1855/1911">1855-1911</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 22/04/2024 10:57:19
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>mercuriale</genreform>
+								<genreform>statistique</genreform>
+								<genreform>affiche</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>économie</subject>
+								<subject>commerce</subject>
+								<subject>marché de détail</subject>
+								<subject>subsistances</subject>
+								<subject>agriculture</subject>
+								<subject>production agricole</subject>
+								<subject>viande</subject>
+								<subject>prix</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Contributions. Administrations financières</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Impôts directs</unittitle>
+						</did>
+						<c level="recordgrp" id="_357220">
+							<did>
+								<unitid>ESUPPL 9682 - 9684</unitid>
+								<unittitle>Cadastre.</unittitle>
+								<unitdate normal="1828/1914">[1828]-1914</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 22/04/2024 11:05:05
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>fiscalité</subject>
+								<subject>cadastre</subject>
+							</controlaccess>
+							<c level="file" id="_213365">
+								<did>
+									<unitid>ESUPPL 9682</unitid>
+									<unittitle>Délimitation de la commune : procès-verbal.</unittitle>
+									<unitdate normal="1828/1828">[1828]</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par MACERAMETEM validée le </p>
+								</processinfo>
+								<controlaccess>
+									<genreform>procès-verbal</genreform>
+									<geogname>Saint-Mézard (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>cadastre</subject>
+									<subject>limite territoriale</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_213366">
+								<did>
+									<unitid>ESUPPL 9683</unitid>
+									<unittitle>Matrice des propriétés foncières.</unittitle>
+									<unitdate normal="1857/1914">1857-1914</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>matrice cadastrale</genreform>
+									<geogname>Saint-Mézard (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>cadastre</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_213367">
+								<did>
+									<unitid>ESUPPL 9684</unitid>
+									<unittitle>Matrice des propriétés bâties.</unittitle>
+									<unitdate normal="1882/1910">1882-1910</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>matrice cadastrale</genreform>
+									<geogname>Saint-Mézard (Gers, France)</geogname>
+									<subject>fiscalité</subject>
+									<subject>cadastre</subject>
+								</controlaccess>
+							</c>
+						</c>
+						<c level="file" id="_213368">
+							<did>
+								<unitid>ESUPPL 9685</unitid>
+								<unittitle>Contributions directes. - Contribution foncière, personnelle, mobilière et des portes et fenêtres : matrices générales.</unittitle>
+								<unitdate normal="1829/1946">1829-1946</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>matrice d'imposition</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>fiscalité</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213370">
+							<did>
+								<unitid>ESUPPL 9687</unitid>
+								<unittitle>Rétribution scolaire : rôles.</unittitle>
+								<unitdate normal="1872/1881">1872-1881</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>rôle d'imposition</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>fiscalité</subject>
+								<subject>enseignement élémentaire</subject>
+								<subject>élève</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213371">
+							<did>
+								<unitid>ESUPPL 9688</unitid>
+								<unittitle>Répartiteurs. - Nomination : arrêtés (1837-1912). Dégrèvement : registre des déclarations (1904-1946).</unittitle>
+								<unitdate normal="1837/1946">1837-1946</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le </p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>exonération fiscale</subject>
+								<subject>fiscalité</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Rapports de la commune avec les diverses administrations au point de vue financier</unittitle>
+						</did>
+						<c level="file" id="_213372">
+							<did>
+								<unitid>ESUPPL 9689</unitid>
+								<unittitle>Perception à Pergain-Taillac. - Installation : note (1860). Service des postes, télégraphes et téléphones. - Réfection du bâtiment de Saint-Martin-de-Goyne : correspondance (1951).</unittitle>
+								<unitdate normal="1860/1951">1860-1951</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<geogname>Pergain-Taillac (Gers, France)</geogname>
+								<subject>poste</subject>
+								<subject>fiscalité</subject>
+								<subject>recouvrement fiscal</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Affaires militaires</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Recrutement</unittitle>
+						</did>
+						<c level="file" id="_213373">
+							<did>
+								<unitid>ESUPPL 9690</unitid>
+								<unittitle>Recensement des classes : tableaux de recensement.</unittitle>
+								<unitdate normal="1908/1950">1908-1950</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<genreform>statistique</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>recrutement militaire</subject>
+								<subject>conscription</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213374">
+							<did>
+								<unitid>ESUPPL 9691</unitid>
+								<unittitle>Soldats. - Recensement, ajournement : extraits d'actes d'état civil, tableaux, avis d'inscription, correspondance (1813-1952). Décès de militaires. - Restitution et réclamation d'objets : correspondance (1900) ; déclarations : extraits mortuaires du service des hôpitaux militaires (1866-1879) ; transport du corps, demande : attestation [1914-1919]. Classes 1865 et 1889 : livrets militaires [1885-1914].</unittitle>
+								<unitdate normal="1813/1952">1813-1952</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 22/04/2024 11:15:37
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>armée</subject>
+								<subject>militaire</subject>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+								<subject>recrutement militaire</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Administration militaire</unittitle>
+						</did>
+						<c level="file" id="_213375">
+							<did>
+								<unitid>ESUPPL 9692</unitid>
+								<unittitle>Recensement des chevaux, juments, mulets et mules, voitures attelées : tableaux.</unittitle>
+								<unitdate normal="1873/1918">1873-1918</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>armée</subject>
+								<subject>organisation de l'armée</subject>
+								<subject>remonte militaire</subject>
+								<subject>équidé</subject>
+								<subject>véhicule à traction animale</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Garde nationale. Sapeurs-pompiers et protection civile</unittitle>
+						</did>
+						<c level="file" id="_213376">
+							<did>
+								<unitid>ESUPPL 9693</unitid>
+								<unittitle>Garde nationale. - Recensement : tableau.</unittitle>
+								<unitdate normal="1813">1813</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>garde nationale</subject>
+								<subject>recrutement militaire</subject>
+								<subject>conscription</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Mesures d'exception et faits de guerre</unittitle>
+						</did>
+						<c level="recordgrp" id="_305018">
+							<did>
+								<unitid>ESUPPL 9694 - 9695</unitid>
+								<unittitle>Seconde Guerre mondiale (1939-1945).</unittitle>
+								<unitdate normal="1940/1948">1940-1948</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par BONNAFOUS validée le 22/04/2024 11:17:10
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>guerre</subject>
+								<subject>Guerre 1939-1945</subject>
+							</controlaccess>
+							<c level="file" id="_213377">
+								<did>
+									<unitid>ESUPPL 9694</unitid>
+									<unittitle>Ravitaillement : répertoire nominatif des consommateurs, registres des cartes et titres d'alimentation.</unittitle>
+									<unitdate normal="1941/1948">1941-1948</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par MACERAMETEM validée le 07/02/2022 15:01:27
+									</p>
+								</processinfo>
+								<controlaccess>
+									<geogname>Saint-Mézard (Gers, France)</geogname>
+									<subject>guerre</subject>
+									<subject>alimentation</subject>
+									<subject>ravitaillement</subject>
+									<subject>rationnement</subject>
+									<subject>Guerre 1939-1945</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_213378">
+								<did>
+									<unitid>ESUPPL 9695</unitid>
+									<unittitle>Accueil des réfugiés (1940-1941) et ravitaillement (1940-1941) : circulaires et correspondance.</unittitle>
+									<unitdate normal="1940/1941">1940-1941</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par MACERAMETEM validée le 07/02/2022 15:02:18
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>circulaire</genreform>
+									<geogname>Saint-Mézard (Gers, France)</geogname>
+									<subject>guerre</subject>
+									<subject>réfugié de guerre</subject>
+									<subject>alimentation</subject>
+									<subject>agriculture</subject>
+									<subject>ravitaillement</subject>
+									<subject>rationnement</subject>
+									<subject>circulation routière</subject>
+									<subject>police</subject>
+									<subject>surveillance du territoire</subject>
+									<subject>personnel</subject>
+									<subject>Guerre 1939-1945</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Police. Hygiène publique. Justice</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Police locale</unittitle>
+						</did>
+						<c level="file" id="_213379">
+							<did>
+								<unitid>ESUPPL 9696</unitid>
+								<unittitle>Sauvetage d'un enfant de la noyade : correspondance (1857). Transport de corps : correspondance (1888, 1911).</unittitle>
+								<unitdate normal="1857/1911">1857-1911</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>protection civile</subject>
+								<subject>secours</subject>
+								<subject>enfant</subject>
+								<subject>décès</subject>
+								<subject>police</subject>
+								<subject>transport de corps</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Police générale</unittitle>
+						</did>
+						<c level="file" id="_213380">
+							<did>
+								<unitid>ESUPPL 9697</unitid>
+								<unittitle>Passeports pour l'intérieur : récépissé (1855). Évasion d'un prisonnier. - Signalement : correspondance (1815).</unittitle>
+								<unitdate normal="1815/1855">1815-1855</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>police</subject>
+								<subject>surveillance du territoire</subject>
+								<subject>circulation des personnes</subject>
+								<subject>justice</subject>
+								<subject>population pénitentiaire</subject>
+								<subject>évasion</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213381">
+							<did>
+								<unitid>ESUPPL 9698</unitid>
+								<unittitle>Étrangers. - Fiches de renseignements (1931). Demandes de cartes d'identité, immatriculation : récépissés, photos, correspondance (1923-1949).</unittitle>
+								<unitdate normal="1923/1949">1923-1949</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>document photographique</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>police</subject>
+								<subject>surveillance du territoire</subject>
+								<subject>étranger</subject>
+								<subject>séjour des étrangers</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213382">
+							<did>
+								<unitid>ESUPPL 9699</unitid>
+								<unittitle>Passeports italiens et espagnols (1925-1933). Cartes d'identité (1928-1932) et cartes d'identité de travailleurs (1935-1946).</unittitle>
+								<unitdate normal="1925/1946">1925-1946</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>carte d'identité</genreform>
+								<genreform>passeport</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>police</subject>
+								<subject>surveillance du territoire</subject>
+								<subject>étranger</subject>
+								<subject>séjour des étrangers</subject>
+								<subject>travailleur étranger</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Justice</unittitle>
+						</did>
+						<c level="file" id="_213383">
+							<did>
+								<unitid>ESUPPL 9700</unitid>
+								<unittitle>Tribunal civil de Lectoure : extraits de minutes, correspondance (1825-1934). Jury d'assises : liste, correspondance (1827, 1848).</unittitle>
+								<unitdate normal="1825/1934">1825-1934</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 22/04/2024 11:21:30
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>minute juridictionnelle</genreform>
+								<genreform>liste nominative</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<geogname>Lectoure (Gers, France)</geogname>
+								<subject>justice</subject>
+								<subject>juridiction</subject>
+								<subject>jury d'assises</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Hygiène publique et salubrité</unittitle>
+						</did>
+						<c level="file" id="_213384">
+							<did>
+								<unitid>ESUPPL 9701</unitid>
+								<unittitle>Établissements insalubres. - Création d'un service sanitaire des tueries particulières : extrait du registre de délibérations, arrêté (1910) ; boucherie, installation : arrêté (1855). Fièvre aphteuse. - Infection : arrêté (1936). Jury médical pour les aspirants au titre d'officier de santé, de pharmacien, d'herboriste et de sage-femme : affiche (1845).</unittitle>
+								<unitdate normal="1845/1936">1845-1936</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 22/04/2024 11:22:50
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>arrêté du maire</genreform>
+								<genreform>affiche</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>abattoir</subject>
+								<subject>installation classée</subject>
+								<subject>boucherie</subject>
+								<subject>maladie des animaux</subject>
+								<subject>santé</subject>
+								<subject>profession médicale</subject>
+								<subject>auxiliaire médical</subject>
+								<subject>pharmacien</subject>
+								<subject>sage femme</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Élections et personnel</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Élections</unittitle>
+						</did>
+						<c level="file" id="_213385">
+							<did>
+								<unitid>ESUPPL 9702</unitid>
+								<unittitle>Listes électorales (1899-1945). Élections politiques. - Référendums, élections au conseil général, élections au Conseil de la République, élections législatives, élections au conseil d'arrondissement, élections municipales : listes des électeurs, procès-verbaux des opérations électorales, procès-verbal d'installation des conseillers municipaux (1922-1948, s.d.). Nomination de maire et d'adjoints. - Contentieux : correspondance, arrêté (1837-1865).</unittitle>
+								<unitdate normal="1837/1948">1837-1948</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 22/04/2024 11:27:29
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>liste électorale</genreform>
+								<genreform>procès-verbal d'élection</genreform>
+								<genreform>procès-verbal</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>élection politique</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_341132">
+							<did>
+								<unitid>ESUPPL 10513</unitid>
+								<unittitle>Élections socio-professionnelles - Organisation des opérations de vote, élection à la chambre départementale d'agriculture : liste des électeurs.</unittitle>
+								<unitdate normal="1925/1946">1925-1946</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par COMTE validée le 22/04/2024 11:24:18
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>élection professionnelle</subject>
+								<subject>chambre consulaire</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Personnel municipal</unittitle>
+						</did>
+						<c level="file" id="_213386">
+							<did>
+								<unitid>ESUPPL 9703</unitid>
+								<unittitle>Garde-champêtre et cantonnier. - Traitement : arrêtés, correspondance.</unittitle>
+								<unitdate normal="1856/1881">1856-1881</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>arrêté du maire</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>personnel</subject>
+								<subject>police</subject>
+								<subject>garde particulier</subject>
+								<subject>rémunération</subject>
+								<subject>fonctionnaire territorial</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Finances de la commune</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Comptabilité</unittitle>
+						</did>
+						<c level="file" id="_213387">
+							<did>
+								<unitid>ESUPPL 9704</unitid>
+								<unittitle>Budgets et comptes.</unittitle>
+								<unitdate normal="1809/1948">1809-1948</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>budget</genreform>
+								<genreform>compte administratif</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>finances communales</subject>
+								<subject>comptabilité publique</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Revenus et charges de la commune</unittitle>
+						</did>
+						<c level="file" id="_213369">
+							<did>
+								<unitid>ESUPPL 9686</unitid>
+								<unittitle>Taxe municipale sur les chiens : rôles (1873-1883). Contributions sur les voitures et les chevaux : rôle (1873).</unittitle>
+								<unitdate normal="1873/1883">1873-1883</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>rôle d'imposition</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>fiscalité</subject>
+								<subject>équidé</subject>
+								<subject>véhicule à traction animale</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213388">
+							<did>
+								<unitid>ESUPPL 9705</unitid>
+								<unittitle>Emprunts : correspondance.</unittitle>
+								<unitdate normal="1943/1950">1943-1950</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>finances communales</subject>
+								<subject>dette publique</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Édifices communaux. Monuments et établissements publics</unittitle>
+					</did>
+					<c level="file" id="_213389">
+						<did>
+							<unitid>ESUPPL 9706</unitid>
+							<unittitle>Lavoir communal. - Construction et expropriation : notes, arrêtés, correspondance (1927-1929). Presbytère. - Construction : correspondance (1834). Cimetière. - Translation : correspondance (1832). Mairie-école. - Construction : procès-verbal d'enquête, arrêté, correspondance (1834-1843).</unittitle>
+							<unitdate normal="1832/1929">1832-1929</unitdate>
+							<origination label="producteur">Commune de Saint-Mézard</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par MACERAMETEM validée le 22/04/2024 11:29:54
+							</p>
+						</processinfo>
+						<controlaccess>
+							<geogname>Saint-Mézard (Gers, France)</geogname>
+							<subject>lavoir</subject>
+							<subject>presbytère</subject>
+							<subject>hôtel de ville</subject>
+							<subject>école</subject>
+							<subject>établissement d'enseignement</subject>
+							<subject>construction</subject>
+							<subject>cimetière</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Biens communaux. Terres. Bois. Eaux</unittitle>
+					</did>
+					<c level="file" id="_213390">
+						<did>
+							<unitid>ESUPPL 9707</unitid>
+							<unittitle>Terrains. - Aliénation : plan, arrêté, correspondance (1834-1850). Vente de bois : extrait du registre des délibérations du conseil municipal, cahier des charges, procès-verbal d'adjudication (1885-1899). Concessions au cimetière : arrêtés (1868, 1872).</unittitle>
+							<unitdate normal="1834/1899">1834-1899</unitdate>
+							<origination label="producteur">Commune de Saint-Mézard</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par MACERAMETEM validée le 22/04/2024 11:30:34
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>plan</genreform>
+							<genreform>cahier des charges</genreform>
+							<genreform>procès-verbal</genreform>
+							<geogname>Saint-Mézard (Gers, France)</geogname>
+							<subject>biens communaux</subject>
+							<subject>propriété publique</subject>
+							<subject>aliénation domaniale</subject>
+							<subject>acquisition domaniale</subject>
+							<subject>bois</subject>
+							<subject>produit domanial</subject>
+							<subject>cimetière</subject>
+							<subject>concession funéraire</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Travaux publics. Voirie. Moyens de transport. Régime des eaux</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Travaux publics et voirie en général</unittitle>
+						</did>
+						<c level="file" id="_213391">
+							<did>
+								<unitid>ESUPPL 9708</unitid>
+								<unittitle>Voirie. - Chemins, aliénation : procès-verbal d'arpentage, plans (1853). Classement de chemins : états (1847-1908). Budgets : états, correspondance (1853-1947).</unittitle>
+								<unitdate normal="1847/1947">1847-1947</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>procès-verbal</genreform>
+								<genreform>plan</genreform>
+								<genreform>budget</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>réseau routier</subject>
+								<subject>voie communale</subject>
+								<subject>propriété publique</subject>
+								<subject>aliénation domaniale</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213392">
+							<did>
+								<unitid>ESUPPL 9709</unitid>
+								<unittitle>Travaux de réparation et entretien des chemins vicinaux : rôles des prestations en argent ou en nature.</unittitle>
+								<unitdate normal="1872/1909">1872-1909</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 22/04/2024 11:33:25
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>rôle d'imposition</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>réseau routier</subject>
+								<subject>voie communale</subject>
+								<subject>fiscalité</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213393">
+							<did>
+								<unitid>ESUPPL 9710</unitid>
+								<unittitle>Chemin de grande communication n° 41 de Condom à Astaffort. - Travaux : acte de vente d'une parcelle (1841). Construction d'un chemin d'intérêt commun passant par la vallée du Gers. - Projet : plan, rapport (1863). Chemin d'intérêt commun n° 6 de La Romieu à Astaffort. - Travaux : arrêté, plan, correspondance (1865). Chemin de petite communication n° 3 de Saint-Mézard à Sempesserre. - Travaux et alignement : plan, état, rapport, arrêté (1865-1879). Route cantonale de Lectoure à Nérac. - Tavaux : enquête, correspondance (1835).</unittitle>
+								<unitdate normal="1835/1879">1835-1879</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>plan</genreform>
+								<genreform>rapport</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>voie de communication</subject>
+								<subject>réseau routier</subject>
+								<subject>route nationale</subject>
+								<subject>route départementale</subject>
+								<subject>propriété publique</subject>
+								<subject>aliénation domaniale</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Moyens de transport et travaux divers</unittitle>
+						</did>
+						<c level="file" id="_213394">
+							<did>
+								<unitid>ESUPPL 9711</unitid>
+								<unittitle>Électrification. - Distribution d'énergie électrique, concession et financement : contrat, police d'abonnement, correspondance.</unittitle>
+								<unitdate normal="1930/1955">1930-1955</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>réseau de distribution</subject>
+								<subject>distribution électrique</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Cultes</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Culte catholique</unittitle>
+						</did>
+						<c level="file" id="_213395">
+							<did>
+								<unitid>ESUPPL 9712</unitid>
+								<unittitle>Fabrique d'église : correspondance (1818-1833). Désignation de la Rosière : extrait du registre des délibérations (1920). Legs du docteur Agasson en faveur de la paroisse de Saint-Mézard, des petites soeurs des pauvres établies à Auch, et des orphelinats religieux du département. - Contentieux avec le bureau de bienfaisance : extrait du registre des délibérations, actes notariés, circulaires, arrêtés, correspondance (1902-1910).</unittitle>
+								<unitdate normal="1818/1920">1818-1920</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>acte authentique</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>fabrique d'église</subject>
+								<subject>dons-et-legs</subject>
+								<subject>propriété publique</subject>
+								<subject>congrégation</subject>
+								<subject>structure communale d'aide sociale</subject>
+								<subject>contentieux administratif</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Assistance et prévoyance</unittitle>
+					</did>
+					<c>
+						<did>
+							<unittitle>Bureaux de bienfaisance, secours d'urgence</unittitle>
+						</did>
+						<c level="recordgrp" id="_357221">
+							<did>
+								<unitid>ESUPPL 9713 - 9716</unitid>
+								<unittitle>Bureau de bienfaisance.</unittitle>
+								<unitdate normal="1830/1942">1830-1942</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par PONS validée le 22/04/2024 11:42:26
+								</p>
+							</processinfo>
+							<controlaccess>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>structure communale d'aide sociale</subject>
+							</controlaccess>
+							<c level="recordgrp" id="_341071">
+								<did>
+									<unitid>ESUPPL 9713 - 9714</unitid>
+									<unittitle>Registres des délibérations.</unittitle>
+									<unitdate normal="1830/1935">1830-1935</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par COMTE validée le 22/04/2024 11:44:42
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>délibération</genreform>
+									<geogname>Saint-Mézard (Gers, France)</geogname>
+									<subject>structure communale d'aide sociale</subject>
+								</controlaccess>
+								<c level="file" id="_213396">
+									<did>
+										<unitid>ESUPPL 9713</unitid>
+										<unittitle>1830-1860.</unittitle>
+										<unitdate normal="1830/1860">1830-1860</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par MACERAMETEM validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Saint-Mézard (Gers, France)</geogname>
+										<subject>structure communale d'aide sociale</subject>
+									</controlaccess>
+								</c>
+								<c level="file" id="_213397">
+									<did>
+										<unitid>ESUPPL 9714</unitid>
+										<unittitle>1864-1935.</unittitle>
+										<unitdate normal="1864/1935">1864-1935</unitdate>
+									</did>
+									<processinfo>
+										<p>Notice rédigée par MACERAMETEM validée le </p>
+									</processinfo>
+									<controlaccess>
+										<genreform>délibération</genreform>
+										<geogname>Saint-Mézard (Gers, France)</geogname>
+										<subject>structure communale d'aide sociale</subject>
+									</controlaccess>
+								</c>
+							</c>
+							<c level="file" id="_213398">
+								<did>
+									<unitid>ESUPPL 9715</unitid>
+									<unittitle>Membres du bureau, nomination : arrêtés (1832-1942) ; immeuble appartenant au bureau, vente : extraits du registre des délibérations, cahier des charges, procès-verbal d'expertise, notes (1922). Legs : acte notarié (1889). Presbytère. - Location : bail, extrait du registre des délibérations (1940-1942).</unittitle>
+									<unitdate normal="1832/1942">1832-1942</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par MACERAMETEM validée le 22/04/2024 11:47:51
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>cahier des charges</genreform>
+									<genreform>procès-verbal</genreform>
+									<genreform>rapport d'expertise</genreform>
+									<genreform>bail</genreform>
+									<genreform>acte authentique</genreform>
+									<geogname>Saint-Mézard (Gers, France)</geogname>
+									<subject>structure communale d'aide sociale</subject>
+									<subject>propriété publique</subject>
+									<subject>aliénation domaniale</subject>
+									<subject>dons-et-legs</subject>
+									<subject>presbytère</subject>
+								</controlaccess>
+							</c>
+							<c level="file" id="_213399">
+								<did>
+									<unitid>ESUPPL 9716</unitid>
+									<unittitle>Budgets et comptes de gestion.</unittitle>
+									<unitdate normal="1834/1929">1834-1929</unitdate>
+								</did>
+								<processinfo>
+									<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+									</p>
+								</processinfo>
+								<controlaccess>
+									<genreform>budget</genreform>
+									<genreform>compte de gestion</genreform>
+									<geogname>Saint-Mézard (Gers, France)</geogname>
+									<subject>structure communale d'aide sociale</subject>
+									<subject>finances communales</subject>
+									<subject>comptabilité publique</subject>
+								</controlaccess>
+							</c>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Établissements hospitaliers, hospitalisation.</unittitle>
+						</did>
+						<c level="file" id="_213401">
+							<did>
+								<unitid>ESUPPL 9718</unitid>
+								<unittitle>Hospice de Lectoure. - Règlement et admission des malades : extraits du registre des délibérations (1892). Aliénés. - Placement d'office, décès et frais : correspondance (1940-1945).</unittitle>
+								<unitdate normal="1892/1945">1892-1945</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le </p>
+							</processinfo>
+							<controlaccess>
+								<genreform>règlement</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<geogname>Lectoure (Gers, France)</geogname>
+								<subject>établissement de santé</subject>
+								<subject>établissement médico social</subject>
+								<subject>état civil</subject>
+								<subject>décès</subject>
+								<subject>santé</subject>
+								<subject>maladie mentale</subject>
+								<subject>victime de guerre</subject>
+								<subject>Guerre 1939-1945</subject>
+							</controlaccess>
+						</c>
+					</c>
+					<c>
+						<did>
+							<unittitle>Applications des lois d'assistance et de prévoyance</unittitle>
+						</did>
+						<c level="file" id="_213400">
+							<did>
+								<unitid>ESUPPL 9717</unitid>
+								<unittitle>Service médical gratuit et assistance médicale gratuite. - Bénéficiaires et désignation du médecin : listes nominatives, extraits du registre de délibération du conseil municipal.</unittitle>
+								<unitdate normal="1859/1927">1859-1927</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>santé</subject>
+								<subject>indigent</subject>
+								<subject>médecin</subject>
+							</controlaccess>
+						</c>
+						<c level="file" id="_213402">
+							<did>
+								<unitid>ESUPPL 9719</unitid>
+								<unittitle>Retraites ouvrières et paysannes. - Bénéficiaires : liste nominative (1911-1913). Assistance aux vieillards, aux infirmes et aux incurables. - Versement d'allocations mensuelles : registre (1922-1923). Protection du premier âge et de l'enfance : déclaration (1879). Enfant placé : contrat (1891). Familles nombreuses. - Paiement d'allocations mensuelles : registre (1920). Société de secours mutuel des instituteurs et des institutrices publiques : bulletin (1865).</unittitle>
+								<unitdate normal="1865/1923">1865-1923</unitdate>
+								<origination label="producteur">Commune de Saint-Mézard</origination>
+							</did>
+							<processinfo>
+								<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+								</p>
+							</processinfo>
+							<controlaccess>
+								<genreform>liste nominative</genreform>
+								<geogname>Saint-Mézard (Gers, France)</geogname>
+								<subject>assurance sociale</subject>
+								<subject>assurance vieillesse</subject>
+								<subject>aide sociale</subject>
+								<subject>victime de guerre</subject>
+								<subject>santé</subject>
+								<subject>indigent</subject>
+								<subject>personne âgée</subject>
+								<subject>personne handicapée</subject>
+								<subject>assistante maternelle</subject>
+								<subject>protection maternelle et infantile</subject>
+								<subject>placement familial</subject>
+								<subject>enfant secouru</subject>
+								<subject>enfant en garde</subject>
+								<subject>instituteur</subject>
+								<subject>société mutualiste</subject>
+							</controlaccess>
+						</c>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Instruction publique. Sciences. Lettres et arts</unittitle>
+					</did>
+					<c level="file" id="_213403">
+						<did>
+							<unitid>ESUPPL 9720</unitid>
+							<unittitle>École. - Enquête : correspondance (1821, 1888). Vétusté de la classe des filles : rapport de l'inspecteur primaire (1909). École publique laïque de garçons : extrait du registre d'appel (1885-1888). Bibliothèque scolaire : correspondance (1881). Objets mobiliers. - Classement au titre des monuments historiques d'une cloche en bronze : arrêté (1942).</unittitle>
+							<unitdate normal="1821/1942">1821-1942</unitdate>
+							<origination label="producteur">Commune de Saint-Mézard</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par MACERAMETEM validée le </p>
+						</processinfo>
+						<controlaccess>
+							<genreform>rapport</genreform>
+							<genreform>registre d'appel</genreform>
+							<genreform>arrêté préfectoral</genreform>
+							<geogname>Saint-Mézard (Gers, France)</geogname>
+							<subject>enseignement élémentaire</subject>
+							<subject>école</subject>
+							<subject>élève</subject>
+							<subject>absentéisme scolaire</subject>
+							<subject>bibliothèque scolaire</subject>
+							<subject>patrimoine culturel</subject>
+							<subject>patrimoine architectural</subject>
+							<subject>oeuvre d'art</subject>
+						</controlaccess>
+					</c>
+				</c>
+				<c>
+					<did>
+						<unittitle>Pièces ne rentrant pas dans les séries précédentes</unittitle>
+					</did>
+					<c level="file" id="_213404">
+						<did>
+							<unitid>ESUPPL 9722</unitid>
+							<unittitle>Actes notariés, listes, correspondance, notes.</unittitle>
+							<unitdate normal="1697/1876">1697-1876</unitdate>
+							<origination label="producteur">Commune de Saint-Mézard</origination>
+						</did>
+						<processinfo>
+							<p>Notice rédigée par MACERAMETEM validée le 30/04/2021 10:31:58
+							</p>
+						</processinfo>
+						<controlaccess>
+							<genreform>acte authentique</genreform>
+							<geogname>Saint-Mézard (Gers, France)</geogname>
+							<subject>condition des personnes et des biens</subject>
+							<subject>patrimoine privé</subject>
+						</controlaccess>
+					</c>
+				</c>
+			</c>
+		</dsc>
+	</archdesc>
+</ead>
