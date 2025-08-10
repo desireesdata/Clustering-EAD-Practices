@@ -1,0 +1,956 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_390Edepot_Archives_communales_déposées_de_Noroy-le-Bourg" url="https://francearchives.fr/findingaid/0433073565aeca31908bf0b252d0c124ec84eb15">FRAD70_390Edepot_Archives_communales_déposées_de_Noroy-le-Bourg</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>390Edepot - Archives communales déposées de Noroy-le-Bourg</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>390Edepot - Archives communales déposées de Noroy-le-Bourg</unittitle>
+         <unitid>390Edepot1-37</unitid>
+         <unitdate normal="1556/1920">1556-1920</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE NOROY-LE-BOURG</corpname>
+         </origination>
+         <note label="note">
+            <p>Noroy-le-Bourg est appelé longtemps « Noroy-l’Archevêque » à cause des possessions des archevêques de Besançon dans la localité. 
+
+Cf. Inventaires des Archives départementales de la Haute-Saône :
+B 8672 à 8688, justice seigneuriale de Noroy-l’Archevêque (1727-1790) ; 
+C 467, rôles et répartements des impositions dans la communauté de Noroy-l’Archevêque (1729-1790) ; 
+E 868, livre d’arpentement général du territoire de Noroy-le-Bourg (1748-1755) ; 
+G 169, affaires religieuses à Noroy (1600-1790) ; 
+H 159, échange entre Gérard II, archevêque de Besançon et Jean, abbé de Bellevaux de la moitié d’un moulin à Noroy, contre un cens perpétuel (1410) ; 
+H 180, amodiation par l’abbaye de Bellevaux de la moitié du moulin Dubreuille à Noroy-le-Bourg (1366).
+
+Cf. Inventaire des Archives départementales du Doubs :
+G 62 à 66, comptes (1546-1550) ; titres (1691-1776).
+
+Voir également :
+C.J. PIZARD, Documents inédits et notes historiques sur Noroy-le-Bourg, Saint-Igny et Calmoutier en partie (Vesoul, 1888), et supplément (Vesoul, 1893).
+H. LOMBART, « Un livre sur Noroy-le-Bourg », dans Académie de Besançon (1893), pp. 160-174 ; 
+J.P. BOUVERET, Monographie de Noroy-le-Bourg, étude manuscrite (1899). </p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             04/07/2014
+         </p>
+         <p>Dernier ajout le             04/07/2014
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Mandements de contributions au nom du roi, par Charles-André de La coré, intendant du comté de Bourgogne et premier Président du bureau des finances de ladite province.</unittitle>
+                     <unitdate normal="1775">1775</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 2 pièces imprimées.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 2</unitid>
+                     <unitid>CC2</unitid>
+                     <unittitle>Requête de plusieurs particuliers auprès de l’intendant pour faire annuler une homologation de biens faite par la communauté de Noroy-le-Bourg.  </unittitle>
+                     <unitdate normal="1751">1751</unitdate>
+                     <physdesc>
+                        <extent>1 pièce papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 3</unitid>
+                     <unitid>CC3</unitid>
+                     <unittitle>Comptes d’échevins (1749-1751, 1753, 1765, 1767, 1780-1781, 1784-1786). </unittitle>
+                     <unitdate normal="1749/1786">1749-1786</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 26 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECHEVIN</subject>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 4</unitid>
+                     <unitid>CC4</unitid>
+                     <unittitle>Comptes d’échevin d’Etienne Langard accompagné de pièces justificatives et des poursuites intentées contre lui par ses successeurs (1789-1791) ; comptes de 1789 ; élection d’un receveur pour Noroy (1788) ; comptes-rendus par Jean-Pierre-Joseph Durget exerçant cette fonction à Noroy (1786-1791). </unittitle>
+                     <unitdate normal="1786/1791">1786-1791</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 67 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECHEVIN</subject>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 5</unitid>
+                     <unitid>CC5</unitid>
+                     <unittitle>Arpentement du territoire de Noroy-le-Bourg par Claude-Louis Carrey, arpenteur, demeurant à Chariez. </unittitle>
+                     <unitdate normal="1704/1705">1704-1705</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié, couvert de cuir.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 6</unitid>
+                     <unitid>CC6</unitid>
+                     <unittitle>Arpentement du territoire de Noroy-le-Bourg, précédé des demandes, autorisations et contrats nécessaires à son exécution. </unittitle>
+                     <unitdate normal="1748/1753">1748-1753</unitdate>
+                     <physdesc>
+                        <extent>1 registre couvert de cuir, en très mauvais état et incomplet.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 7</unitid>
+                     <unitid>CC7</unitid>
+                     <unittitle>Arpentement du territoire de Noroy-le-Bourg (copie du précédent registre). </unittitle>
+                     <unitdate normal="1748/1834">1748-1834</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORETS, TRAVAUX PUBLICS, VOIRIES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 8</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Biens communaux : baux de biens appartenant à la communauté de Noroy (1717-1758) ; affiches annonçant des amodiations de biens (1787-1788). </unittitle>
+                     <unitdate normal="1717/1788">1717-1788</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 6 cahiers couverts parchemin, 4 affiches imprimées, 17 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 9</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Adjudication de la « plantation en glands et faives » dans les bois de Noroy, et nominations des gardes pour assurer leur surveillance (1782) ; marché de pâtre pour la « menue proye » (1776). </unittitle>
+                     <unitdate normal="1776/1782">1776-1782</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 3 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 10</unitid>
+                     <unitid>DD3</unitid>
+                     <unittitle>Bois communaux : repeuplement et recépage des bois communaux de Noroy.  </unittitle>
+                     <unitdate normal="1782/1790">1782-1790</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 24 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES, INSTRUCTION PUBLIQUE, ASSISTANCE PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 11</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Noroy-le-Bourg (« de Noreto ») : baptêmes (décembre 1556-1557 ; une note indique que les registres antérieurs à 1556 étaient déjà perdus en 1557 ; 1558-octobre 1589 (l'année commence en avril jusqu'en 1575) ; juin 1590-mai 1593 ; 1596-juillet 1611 ; 1617-juin 1624 ; octobre 1616-janvier 1617 ; 1629, décembre ; un acte de 1630 ; 1629, avril-juillet ; 1630-juin 1631 ; 1632, avril-mai ; 1631, juillet-octobre ; février 1632). </unittitle>
+                     <unitdate normal="1556/1632">1556-1632</unitdate>
+                     <physdesc>
+                        <extent>1 registre factice relié, dont les premiers et les derniers feuillets sont en mauvais état. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 12</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Noroy-le-Bourg ou Noroy l’Archevêque : baptêmes (juin 1632-1635 ; 1636, janvier-avril, une note moderne indique que le curé a pris la fuite à cause de la guerre, décembre ; 1637-1686 ; sans ordre, avril puis février 1687 ; quelques actes tirés du registre paroissial de Calmoutier, concernant la famille Languard de 1683 à 1693) ; à la fin du registre, confirmations pour 1652 ; baptêmes pour quelques habitants expatriés pendant la guerre de Dix ans (mars 1642 ; février 1644 ; mars 1642 ; à l’envers un acte de donation). </unittitle>
+                     <unitdate normal="1632/1693">1632-1693</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 13</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Noroy-le-Bourg : baptêmes ; mariage ; sépultures (1689-1711 ; une note en marge : « les gendarmes en quartier à Noroy » ; 1712-1721). </unittitle>
+                     <unitdate normal="1689/1721">1689-1721</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 14</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Noroy-le-Bourg : baptêmes, mariages, sépultures. </unittitle>
+                     <unitdate normal="1722/1753">1722-1753</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 15</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Noroy-le-Bourg : baptêmes, mariages, sépultures (1754-octobre 1772). </unittitle>
+                     <unitdate normal="1754/1772">1754-1772</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 16</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Noroy-le-Bourg : baptêmes, mariages, sépultures (octobre 1772-1781 ; 1782, janvier-octobre, baptêmes de deux cloches les 13 et 30 octobre, novembre-décembre ; 1783-janvier 1792) ; table alphabétique des naissances par noms de familles pour ce registre. </unittitle>
+                     <unitdate normal="1772/1792">1772-1792</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 17</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal : extraits du registre des délibérations du conseil municipal de Noroy-le-Bourg pour les affaires courantes (1812-1876) ; pour le règlement des recettes et dépenses (1849-1874) ; pour régler la répartition de la futaie affouagère (1816-1875) ; pour les dépenses du service des chemins vicinaux (1847-1863). </unittitle>
+                     <unitdate normal="1812/1876">1812-1876</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 185 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 32</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : mouvements de la population à Noroy-le-Bourg. </unittitle>
+                     <unitdate normal="1852/1871">1852-1871</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 1 tableau, 19 cahiers. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 33</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Agriculture : état des récoltes en grains dans les villages du canton de Noroy-le-Bourg (1842-1844, 1853) ; statistique agricole annuelle et plan départemental de ravitaillement (1915). </unittitle>
+                     <unitdate normal="1842/1915">1842-1915</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 50 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATION FINANCIERE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 18</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Impôts directs. -Droits de patente : quittances pour la commune de Noroy-le-Bourg. </unittitle>
+                     <unitdate normal="1795/1801">1795-1801</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 206 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                     <subject>TAXE PROFESSIONNELLE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 19</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Impôts directs. -Contribution foncière : état des changements à faire dans la matrice de l’an XII, tableau nominal pour la contribution foncière de l’an XIV et l’état des mutations à y apporter, tableau de répartition de la contribution foncière, état des propriétés bâties à Noroy, dressé par Claude-Antoine Marcand géomètre demeurant à Port-sur-Saône (1818-1826). Contributions foncière, personnelle-mobilière et des portes et fenêtre, répartition : mandements (an VIII-1829). </unittitle>
+                     <unitdate>An VIII-1829</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 3 cahiers et 41 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 36</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs. –Cadastre : atlas communal. </unittitle>
+                     <unitdate normal="1814/1818">1814-1818</unitdate>
+                     <physdesc>
+                        <extent>1 atlas couleur (rangé à part, dans la collection des atlas communaux déposés aux Archives départementales de la Haute-Saône).</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ATLAS CADASTRAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CADASTRE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 27</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Réquisitions : requêtes pour que les habitants de Noroy ayant été l’objet de réquisition par l’armée soient dédommagés, avec pièces justificatives. </unittitle>
+                     <unitdate normal="1806/1817">1806-1817</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 129 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>REQUISITIONS MILITAIRES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 28</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Invasion : pièces et circulaires imprimées concernant les actes des autorités allemandes. </unittitle>
+                     <unitdate normal="1870/1871">1870-1871</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 45 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>OCCUPATION ETRANGERE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 29</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Réquisitions : état des réquisitions faites dans les communes de Noroy-le-Bourg, Cerre-lès-Noroy et Vallerois-Lorioz, par les autorités allemandes. </unittitle>
+                     <unitdate normal="1870/1871">1870-1871</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 54 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>OCCUPATION ETRANGERE</subject>
+                     <subject>REQUISITIONS MILITAIRES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CERRE-LES-NOROY</geogname>
+                     <geogname>VALLEROIS-LORIOZ</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 30</unitid>
+                     <unitid>H4</unitid>
+                     <unittitle>Affaires militaires : devis pour l’appropriation d’une caserne de gendarmerie, avec plan (1851) ; pièces concernant la location d’une maison pour le logement de la gendarmerie à Noroy (1851-1853). </unittitle>
+                     <unitdate normal="1851/1853">1851-1853</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 8 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>DEVIS</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>INFRASTRUCTURE MILITAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 31</unitid>
+                     <unitid>H5</unitid>
+                     <unittitle>Poudres et salpêtres : pièces concernant la fabrication du salpêtre et le contrôle de la vente de poudres à Noroy-le-Bourg.  </unittitle>
+                     <unitdate normal="1793/1849">1793-1849</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 28 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ORGANISATION DE L'ARMEE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 26</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Police : registre du juge de paix de Noroy pour les délits champêtres de police (1791-1794). Sur un feuillet relié au registre : liste des passeports délivrés pendant l’année 1793. </unittitle>
+                     <unitdate normal="1791/1794">1791-1794</unitdate>
+                     <physdesc>
+                        <extent>1 cahier couvert d’un parchemin, portant des notations musicales d’époque médiévale (plusieurs de ces pages ont été lacérées) et une pièce papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PASSEPORT</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 37</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. –Grossesses, déclarations : registre. </unittitle>
+                     <unitdate normal="1827/1844">1827-1844</unitdate>
+                     <physdesc>
+                        <extent>1 cahier papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MUNUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 20</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices communaux : réparations de l’église, du presbytère et de l’école de Noroy (1806-1850) ; fourniture d’une horloge et réparations par la fabrique Ungerer de Strasbourg (an XI-1896) ; acquisitions de plusieurs cloches, successivement à Jean-Baptiste Roussel de Blévaincourt (Vosges), François Bardoz de Breuvannes (Haute-Marne) et J. Robert de Nancy (1824-1895) ; réparation du beffroi de l’église et refonte des cloches, avec plans (1816-1879) ; projet de reconstruction d’une église et exécution des travaux avec plans, sous la direction de plusieurs architectes, notamment Jean-Baptiste Colard de Lure (1816-1879) ; achat d’ornements pour le culte (1829-1837) ; travaux divers dans l’église et états estimatifs (1830-1895) ; acquisitions de terrains pour réparer le cimetière, puis en établir un nouveau, avec plans (1818-1910). </unittitle>
+                     <unitdate normal="1803/1910">1803-1910</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 13 plans (dont 1 plan rangé à part, dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône), 1 pièce imprimée, 167 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>CONSTRUCTION</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HORLOGE PUBLIQUE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 21</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux : partage des biens communaux de « Noroy-les-Bois », par Claude-François Borgegrain, de Calmoutier, Antoine Henriot, de Vallerois-le-Bois et Jean-Claude Cachette, de Calmoutier. </unittitle>
+                     <unitdate normal="1794">1794</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 3 cahiers. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 22</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Adjudications de la « proye », de Noroy, et marché de pâtre. </unittitle>
+                     <unitdate normal="1795/1901">1795-1901</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 158 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 23</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Bois : délibérations et pièces concernant le reboisement de la forêt de Noroy (an IX-1819) ; une lettre du maire de Noroy qui a communiqué ces pièces à la préfecture de Vesoul (1906) ; procès entre la commune de Noroy et Jeanne-Claude Philippe, veuve Charton qui demande à être inscrite sur le rôle d’affouage (1837-1838). </unittitle>
+                     <unitdate normal="1801/1906">1801-1906</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 47 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                     <subject>REBOISEMENT</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 24</unitid>
+                     <unitid>N4</unitid>
+                     <unittitle>Bois. -Produits forestiers : marché de bûcheron (1810) ; aménagements forestiers, adjudications de la coupe affouagère de Noroy (1818-1847). </unittitle>
+                     <unitdate normal="1810/1847">1810-1847</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 180 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 25</unitid>
+                     <unitid>N5</unitid>
+                     <unittitle>Bois. -Produits forestiers : exploitation des coupes affouagères de Noroy. </unittitle>
+                     <unitdate normal="1848/1920">1848-1920</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 215 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 35</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte catholique. -Requête de Claude François Guidet à l’intendant pour obtenir paiement, par les habitants, des frais engagés par lui pour le luminaire de l’église (1761). Délibérations du conseil de fabrique et du conseil municipal pour obtenir du préfet l’autorisation de vendre pour pouvoir subvenir à l’entretien des objets du culte et aux travaux nécessités par l’église (1806). </unittitle>
+                     <unitdate normal="1761/1806">1761-1806</unitdate>
+                     <physdesc>
+                        <extent>3 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>FABRIQUE D'EGLISE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>390 Edepot 34</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique : registre des délibérations de l’assemblée des délégués cantonaux séant à Noroy, concernant l’instruction publique et quelques pièces s’y rapportant. </unittitle>
+                     <unitdate normal="1856/1900">1856-1900</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné et 7 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ORGANISATION SCOLAIRE</subject>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

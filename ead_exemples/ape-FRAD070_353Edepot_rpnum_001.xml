@@ -1,0 +1,976 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_353Edepot_Archives_communales_déposées_de_Montagney" url="https://francearchives.fr/findingaid/05f22709d9616783d88f3353a41322325295c436">FRAD70_353Edepot_Archives_communales_déposées_de_Montagney</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>353Edepot - Archives communales déposées de Montagney</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>353Edepot - Archives communales déposées de Montagney</unittitle>
+         <unitid>353Edepot1-33</unitid>
+         <unitdate normal="1497/1906">1497-1906</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE MONTAGNEY</corpname>
+         </origination>
+         <note label="note">
+            <p>Anciennement Montagney était co-paroisse de Motey-Besuche.
+Cf. inventaires imprimés des Archives départementales de la Haute-Saône :
+B 2544 à 2555, déclarations de propriétés dans la communauté ; procédures civiles et criminelles (1682-1789).
+B 4221, états-généraux ; élections des députés et remontrances, plaintes et doléances (1789).
+B 7003, déclarations de propriétés en exécution de l’édit du Roi de 1749.
+B 8476 à 8498, justice seigneuriale (1705-1790).
+B 9337, affaires forestières, devis et plans de travaux communaux (1703-1791).
+C 13, 111, 152, 198, administration communale, affaires diverses (XVIIIème siècle).
+G 167,  inventaire des titres et déclarations des biens et revenus de la cure (1790).
+G 198, titres concernant la chapelle Sainte-Anne à Montagney (1665-1790).
+H 38, titres de l’abbaye d’Acey concernant Montagney (1255-1699).
+H 416, titres de l’abbaye de Theuley concernant Montagney (XIIIème siècle).
+
+Voir également l’inventaire des Archives municipales d’Hugier :
+286 E dépôt 1, copie de 1679 du dénombrement des rentes et revenus de la seigneurie de Choye, dont dépendait Montagney (1451).
+
+Et des Archives municipales de Sornay :
+494 E dépôt 1, partage du bois de « la Gaillarde » entre les communautés de Sornay et Montagney (1740).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             04/07/2014
+         </p>
+         <p>Dernier ajout le             04/07/2014
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ACTES CONSTITUTIFS ET POLITIQUES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 1</unitid>
+                     <unitid>AA1</unitid>
+                     <unittitle>Recueil d’anciens titres concernant les droits de la communauté, collectionnés en 1761 par le notaire Verpy.</unittitle>
+                     <unitdate normal="1497/1762">1497-1762</unitdate>
+                     <physdesc>
+                        <extent>1 registre.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 2</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Registre terrier.</unittitle>
+                     <unitdate normal="1756">1756</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>TERRIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORETS, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 3</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Biens communaux : abonnement du four banal fait par le seigneur du lieu (1748) ; partage de l’assiette (1752) ; reconstruction de l’église et du clocher (1767) ; toisé des maisons (1786).</unittitle>
+                     <unitdate normal="1748/1786">1748-1786</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 4 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>JUSTICE, PROCEDURES, POLICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 4</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Pièces d’un procès entre la commune et les sieurs du Magny et Robiney, relatif au droit de parcours dans le bois de Genevroye.</unittitle>
+                     <unitdate normal="1680/1837">1680-1837</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 57 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 5</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Motey-Besuche et de Montagney : baptêmes (1599-1602 (le feuillet coté 8 ancienne numérotation manque) ; septembre 1603-mai 1636 (une note en marge : "Tempore Bellorum" époque des guerres) ; 1641-1676 ; 1677 à 1680, sans ordre chronologique ; 1684-1685) ; 1 acte de mariage (13 janvier 1686) ; un acte de baptême (13 avril 1694).</unittitle>
+                     <unitdate normal="1599/1694">1599-1694</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MOTEY-BESUCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 6</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Motey-Besuche, de Montagney et de Chancey : mariages (1644 ; 1 acte de 1643 ; 1645-1679) ; à l’envers sépultures pour Motey et Montagney (1660-1680) ; à l’endroit : baptêmes pour Chancey (1677-1682 ; 1647-1662) ; pour Motey et Montagney : sépultures (1682-1683), baptêmes (mars 1681-1683 (une note en latin, et état des vertus des racines de cabaret, [XVIIème siècle]) ; 1668-1685), sépultures (1679-1682), mariages, sépultures (1687-1690) ; à l’envers : baptêmes, mariages, sépultures (1686-mai 1691) ; à l’endroit : baptêmes, mariages, sépultures (mai 1691-février 1701), baptêmes (1702-1705) ; pour Motey, Montagney et Chancey : baptêmes (octobre 1644-1684), baptêmes, mariages, sépultures (1685-mai 1725).</unittitle>
+                     <unitdate normal="1643/1725">1643-1725</unitdate>
+                     <physdesc>
+                        <extent>1 registre factice relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHANCEY</geogname>
+                     <geogname>MOTEY-BESUCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 7</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Montagney et de Motey-Besuche : baptêmes (juillet 1709-août 1763).</unittitle>
+                     <unitdate normal="1709/1763">1709-1763</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MOTEY-BESUCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 8</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Montagney et de Motey-Besuche : mariages (août 1725-1765).</unittitle>
+                     <unitdate normal="1725/1765">1725-1765</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>MARIAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MOTEY-BESUCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 9</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Montagney et de Motey-Besuche : sépultures (juin 1725-janvier 1766).</unittitle>
+                     <unitdate normal="1725/1766">1725-1766</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MOTEY-BESUCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 10</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial de Montagney  et de Motey-Besuche : baptêmes (août 1763-1765) ; baptêmes, mariages, sépultures (1766-juillet 1775 ; février 1783-juin 1786).</unittitle>
+                     <unitdate normal="1763/1786">1763-1786</unitdate>
+                     <physdesc>
+                        <extent>1 registre factice relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MOTEY-BESUCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 11</unitid>
+                     <unitid>GG8</unitid>
+                     <unittitle>Registre paroissial de Montagney et de Motey-Besuche : baptêmes, mariages, sépultures (juillet 1775-février 1783) ; listes d’hommes originaires de Montagney mariés dans d’autres paroisses (1775-1781).</unittitle>
+                     <unitdate normal="1775/1783">1775-1783</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MOTEY-BESUCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 12</unitid>
+                     <unitid>GG9</unitid>
+                     <unittitle>Registre paroissial de Montagney et de Motey-Besuche : baptêmes, mariages, sépultures (juin 1786-1791)</unittitle>
+                     <unitdate normal="1786/1791">1786-1791</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MOTEY-BESUCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 33</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Motey-Besuche, de Montagney et de Chancey : baptêmes (copie, [fin XVIIème-XVIIIème siècle]) .</unittitle>
+                     <unitdate normal="1596/1678">1596-1678</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHANCEY</geogname>
+                     <geogname>MOTEY-BESUCHE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 13</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre des décrets de l’Assemblée nationale sanctionnés par le Roi et de tous les actes et délibérations de la commune.</unittitle>
+                     <unitdate>1790-an IV</unitdate>
+                     <physdesc>
+                        <extent>1 registre couverture parchemin.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ASSEMBLEE NATIONALE</subject>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 14</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre des actes et délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1792/1794">1792-1794</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 15</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre des actes et délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1794/1837">1794-1837</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 16</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1807/1842">1807-1842</unitdate>
+                     <physdesc>
+                        <extent>1 registre couverture parchemin.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 17</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1842/1861">1842-1861</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 18</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1861/1870">1861-1870</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 19</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Registre concernant les procès-verbaux de la commune.</unittitle>
+                     <unitdate normal="1841/1861">1841-1861</unitdate>
+                     <physdesc>
+                        <extent>1 registre.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 20</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Actes de l’administration municipale : correspondance avec les diverses administrations départementales (1790-1879) ; répertoires des actes sujets à l’enregistrement (1806-1866).</unittitle>
+                     <unitdate normal="1790/1879">1790-1879</unitdate>
+                     <physdesc>
+                        <extent>348 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENREGISTREMENT</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 21</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Administration de la commune : mémoires des journées, voyages et autres vacations effectuées au nom de la commune par les officiers municipaux (an VI) ; placard relatif aux délits commis dans les champs de Montagney (an VIII) ; inventaire des titres et papiers déposés aux archives de la mairie (1831-1841).</unittitle>
+                     <unitdate>An VI-1841</unitdate>
+                     <physdesc>
+                        <extent>7 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>INVENTAIRE</genreform>
+                     <genreform>MEMOIRE </genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ARCHIVES</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 22</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Etat civil : pièces relatives aux irrégularités relevées dans les registres d’état civil.</unittitle>
+                     <unitdate normal="1808/1811">1808-1811</unitdate>
+                     <physdesc>
+                        <extent>4 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 23</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : feuille de dépouillement relative au dénombrement de la population (1861).&lt;lb/&gt;Commerce et industrie : tableaux des usines et manufactures implantées à Montagney (an X-1842).&lt;lb/&gt;Agriculture : enquête agricole (an III-an X) ; entretien du taureau communal (an III-1900).</unittitle>
+                     <unitdate>An III-1900</unitdate>
+                     <physdesc>
+                        <extent>62 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>INDUSTRIE</subject>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 24</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs : rôle d’acompte provisoire de la commune de Montagney (an VII) ; état des biens, propriétés foncières, créances, dettes et toutes les ressources que peut avoir la commune (1792) ; pièces concernant la division du territoire (1791-1792) ; matrices de rôle des contributions de la commune (an VI-an VII) ; contributions personnelles et mobilières (an VII ; an IX-1812 ; 1815-1818 ; 1822-1823) ; contributions foncières (an II ; an V ; an VII ; an IX-1811 ; 1815-1816 ; 1818 ; 1822-1824) ; contributions des portes et fenêtres (an XI-an XIII ; 1807-1812 ; 1815 ; 1817-1818 ; 1821 ; 1824) ; adjudication de la perception des contributions (an X).&lt;lb/&gt;Impôts extraordinaires : pièce relative à l’emprunt forcé (1793) ; procès-verbal des assignats démonétisés (an III).</unittitle>
+                     <unitdate normal="1791/1824">1791-1824</unitdate>
+                     <physdesc>
+                        <extent>59 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 25</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recrutement : avis d’inscription des conscrits (1870-1877) ; états nominatifs des jeunes gens de Montagney inscrits sur les listes de contingent de la garde nationale mobile (1864-1870) ; ordre aux militaires de rejoindre leur garnison (an II) ; états de notification aux conscrits de Montagney (an XI-an XIII) ; certificats délivrés aux jeunes soldats originaires de Montagney (an II).&lt;lb/&gt;Administration militaire : lettre adressée aux officiers municipaux et au maire de Montagney relative à la levée de chevaux, armes et nourriture (an II).&lt;lb/&gt;Garde nationale et sapeurs-pompiers : élection de membres de la garde nationale de Montagney (an IV) ; pièces relatives à la réorganisation, à l’engagement et aux élections de membres des sapeurs-pompiers de Montagney (1831-1899) ; action judiciaire intentée par la commune contre différents sapeurs pour non restitution d’équipement (1888).</unittitle>
+                     <unitdate>An II-1899</unitdate>
+                     <physdesc>
+                        <extent>88 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GARDE NATIONALE</subject>
+                     <subject>ORGANISATION DE L'ARMEE</subject>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 26</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale : procès-verbaux constatant des délits (1839-1867) ; déclarations de grossesse (1839-1876) ; procès-verbal de vérification des pertes éprouvées par l’effet de grêle (1839).&lt;lb/&gt;Police générale : demande de renseignement concernant le sieur thomas Simon (an II) ; lettre de la société Montagnarde et révolutionnaire relative aux troubles agitant la Vendée (an II).&lt;lb/&gt;Justice : saisie mobilière contre le sieur Brisard et son épouse pour non paiement de fermage (1808).&lt;lb/&gt;Hygiène et salubrité : pièces relatives à l’épizootie du typhus qui règne à Montagney (an IX-1871).</unittitle>
+                     <unitdate>An II-1876</unitdate>
+                     <physdesc>
+                        <extent>42 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GRELE</subject>
+                     <subject>MALADIE DES ANIMAUX</subject>
+                     <subject>POLICE</subject>
+                     <subject>SAISIE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 27</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections : élections de députés (1852-1870) ; liste définitive des électeurs pour l’année 1906 ; frais de la députation (1790).</unittitle>
+                     <unitdate normal="1790/1906">1790-1906</unitdate>
+                     <physdesc>
+                        <extent>14 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 28</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptabilité : comptes du trésorier de la commune (1790-an XI) ; pièces relative à la vérification des comptes des receveurs de la commune (an VII-1806) ; contrainte contre la commune pour non-paiement de contributions mobilières (1792).</unittitle>
+                     <unitdate normal="1790/1806">1790-1806</unitdate>
+                     <physdesc>
+                        <extent>32 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENT PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 29</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices publics : pièces relatives à la refonte de la cloche de Montagney (1791-1793) ; réparations aux bâtiments communaux de Montagney (1806-1876) ; mémoire des ouvrages que le menuisier de Montagney a exécutés depuis la Révolution (1793) ; logement pour l’instituteur de Montagney (an IV) ; paiement à divers artisans pour réparations effectuées aux bâtiments communaux (1791-1794). </unittitle>
+                     <unitdate normal="1791/1876">1791-1876</unitdate>
+                     <physdesc>
+                        <extent>199 pièces papier dont 2 plans.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSTRUCTION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 30</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux : extrait du répertoire des actes de la mairie de Montagney relatif à l’amodiation de regains (an X-1812) ; acquisition de biens curiaux (1790-1791) ; état des acquéreurs qui possèdent les terres de la Neuvelle (1796) ; avis aux acquéreurs et soumissionnaires de biens nationaux (an V) ; pétition Mareschal relative aux biens de François Régnier, prêtre déporté (an III) ; marchés de pâtres (1807-1854). &lt;lb/&gt;Bois : conflit entre la commune et le sieur Bonvalot relatif à la répartition du bois de Montagney (1791) ; requête de sieur Bonnaventure, vigneron, relative au non-paiement de différents héritages adjugés au sieur Meuchet (1791) ; délibérations relatives au recépage de la forêt communale dite « la Gaillarde » (1791) ; notifications des cantons défensables (1836-1893) ; bornage des bois avec les communes de Sornay et Chaumercenne (1819 ; 1834-1842) ; répartition du taillis et de la futaie de l’affouage (an IX-an XIII ; 1806-1807 ; 1810 ; 1823-1870) ; distribution de la futaie (1826-1840).&lt;lb/&gt;Eaux : réparations et reconstruction de la fontaine publique de Montagney (an VII-1847) ; construction d’un réservoir d’eau pou lutter contre les incendies (1829).</unittitle>
+                     <unitdate normal="1790/1893">1790-1893</unitdate>
+                     <physdesc>
+                        <extent>201 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                     <subject>FONTAINE</subject>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 31</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Période révolutionnaire : prêtres réfractaires.</unittitle>
+                     <unitdate>An II-an III</unitdate>
+                     <physdesc>
+                        <extent>7 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>353 Edepot 32</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction primaire : statuts de la caisse des écoles (1883) ; élection de délégués des commissions scolaires (1882-1900) ; marchés d’instituteurs (an VI-1828) ; inventaire du mobilier des écoles de Montagney (1885) ; révision de la liste des écoles (1888) ; listes nominatives des enfants de 6 à 13 ans (1883-1891) ; gratuité de l’école pour l’année 1876 ; rapport de l’année 1880 relatif à l’école des garçons de Montagney ; statistique relative au niveau d’instruction des écoliers (an XIII).</unittitle>
+                     <unitdate>An VI-1900</unitdate>
+                     <physdesc>
+                        <extent>26 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>INVENTAIRE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENSEIGNEMENT</subject>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

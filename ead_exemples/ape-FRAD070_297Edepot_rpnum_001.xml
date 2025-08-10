@@ -1,0 +1,865 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_297Edepot_Archives_communales_déposées_de_Larret" url="https://francearchives.fr/findingaid/58d7c7f6f829c5278a909138f0d7448c4acda269">FRAD70_297Edepot_Archives_communales_déposées_de_Larret</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>297Edepot - Archives communales déposées de Larret</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>297Edepot - Archives communales déposées de Larret</unittitle>
+         <unitid>297Edepot1-44</unitid>
+         <unitdate normal="1479/1957">1479-1957</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE LARRET</corpname>
+         </origination>
+         <note label="note">
+            <p>Sources complémentaires aux Archives Départementales de la Haute-Saône :
+
+B 8165-8173, justice seigneuriale de Larret (1722-1790).
+C 61, alignement (1784-1790).
+C 76, requête du sieur Dujard de Pierrecourt, pour posséder la terre et seigneurie de Larret avec le don du droit de retrait féodal (1719-1779).
+C 149, reconstruction du choeur de l'église (1761-1789).
+H 961, pièces d'un procès entre les Annonciades, Henri Dujard et Nicolas Petit, au sujet du paiement d'une dette due au couvent (1716-1744).
+H 1058, décret sur les biens à Larret de J. Claude de Scey, seigneur de Chevroz (1653-1662).
+3 O 307, travaux communaux (depuis 1819).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             19/08/2003
+         </p>
+         <p>Dernier ajout le             25/08/2003
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Plan géométrique des bois communaux (1744). Anticipations (1784). Certificat du receveur du district de Champlitte, constatant que le receveur général des domaines et bois n'a pas versé à sa caisse une somme 1500 livres due à la communauté de Larret (1790).</unittitle>
+                     <unitdate normal="1744/1790">1744-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 2</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Extrait du registre du greffe du bailliage de Gray concernant Alexis-Philippe Pertuisot, ancien procureur, Jean-Baptiste Martel et Louis Brucey, de Larret (1789). Lettre de Pertuisot adressée à Louis Brucey, concernant les frais de procédure de cette affaire (1792).</unittitle>
+                     <unitdate normal="1789/1792">1789-1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 3</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Pièces de procédure au sujet de l'église de Larret contre le curé Guignot, de Courtesoult, qui dessert l'église de Larret (1 copie d'un titre de 1479, 1688, 1762, 1769). Pièces de procédure contre les communautés de Courtesoult et Gatey concernant le partage des frais du culte (1778-1783, 1786-1787). Pièces de procédure entre les communautés de Larret, Courtesoult et Gatey contre le sieur Menard, de Courtesoult, qui ne fut pas payer de la location de sa maison, qui servit aux offices divins pendant la construction de l'église de Courtesoult (1783-1790).</unittitle>
+                     <unitdate normal="1479/1790">1479-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 4</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial, baptêmes (1683-1700), mariages et sépultures (1686-1700).</unittitle>
+                     <unitdate normal="1683/1700">1683-1700</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R39</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 5</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial, baptêmes, mariages et sépultures.</unittitle>
+                     <unitdate normal="1700/1738">1700-1738</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R39</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 6</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial, baptêmes, mariages et sépultures (1738-1767).&lt;lb/&gt;De 1768 à 1792, les registres paroissiaux furent communs pour Courtesoult et Larret et les baptêmes, mariages et sépultures intéressant Larret se trouvent dans les registres paroissiaux de cette période conservés à la mairie de Courtesoult.</unittitle>
+                     <unitdate normal="1738/1767">1738-1767</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R39</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 7</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate>An XII-1831</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 8</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1831/1840">1831-1840</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 9</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1840/1865">1840-1865</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 10</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1865/1882">1865-1882</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 11</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1882/1896">1882-1896</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 12</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1897/1957">1897-1957</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 13</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Arrêtés municipaux (1 cahier, 1845-1879), extraits (1873-1886). Répertoires des actes soumis à l'enregistrement (1806-1880).</unittitle>
+                     <unitdate normal="1845/1886">1845-1886</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-AGRICULTURE-COMMERCE ET INDUSTRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 14</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Mouvement annuel.</unittitle>
+                     <unitdate normal="1853/1906">1853-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 15</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Recensement quinquennal : listes nominatives.</unittitle>
+                     <unitdate normal="1836/1946">1836-1946</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi123</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 16</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Statistiques agricoles annuelles (1853-1928), décennales (1882-1892). Recensement du bétail pour la boucherie (1918).</unittitle>
+                     <unitdate normal="1853/1928">1853-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 17</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>Commerce et industrie. Listes des électeurs du tribunal de commerce (1885-1909), de la chambre de commerce (1908-1910). Registre pour les annotations de délivrance ou de visa des livrets d'ouvriers (1863-1887).</unittitle>
+                     <unitdate normal="1863/1910">1863-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 18</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Etat de section (A à K).</unittitle>
+                     <unitdate>An VII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 19</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Etat de section.</unittitle>
+                     <unitdate normal="1826">1826</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 20</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Livre des mutations.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 21</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Toisé des bâtiments de la commune (1852). Rôles des prestations sur les chemins vicinaux (1826, 1875, 1905). Rôles de la taxe municipale sur les chiens (1870-1915). Listes des contribuables assujettis à l'impôt sur le revenu (1929-1930). Contributions foncières : matrice de rôle, mandement, relevé des actes translatifs (an VII, 1836-1837, 1904, 1934). Listes des commissaires-répartiteurs (1849-1903). Matrices générales des quatre contributions (1829-1848).</unittitle>
+                     <unitdate normal="1826/1934">1826-1934</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                     <genreform>LISTE</genreform>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 22</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Matrices générales des quatre contributions.</unittitle>
+                     <unitdate normal="1850/1877">1850-1877</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 23</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Matrices des quatre contributions.</unittitle>
+                     <unitdate normal="1878/1916">1878-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 24</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Tableaux de recensement des jeunes gens (incomplet).</unittitle>
+                     <unitdate>An IX-1945</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 25</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Formation de l'armée territoriale (1874), tableau de recensement des classes 1855 à 1866. Exemption (1823, 1880, 1894). Décès de militaires (1857). Registre statistique des ressources chevalines (1855). Recensement des véhicules automobiles (1929-1930).</unittitle>
+                     <unitdate normal="1823/1930">1823-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 26</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Garde nationale. Bulletins individuels, états de mutation.</unittitle>
+                     <unitdate normal="1834/1850">1834-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 27</unitid>
+                     <unitid>H4</unitid>
+                     <unittitle>Listes nominatives (1831-1869). Nomination du tambour (1834). Elections des officiers et sous-officiers : procès-verbaux (1831-1848). Armement (1840, 1846).</unittitle>
+                     <unitdate normal="1831/1869">1831-1869</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 28</unitid>
+                     <unitid>H5</unitid>
+                     <unittitle>Bataillon cantonal de Fouvent-le-Haut, liste nominative, achat de drapeaux, état des dépenses, bulletins individuels d'une compagnie de grenadiers.</unittitle>
+                     <unitdate normal="1832/1835">1832-1835</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE-JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 29</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Ramonage des cheminées (1810). Procès-verbal d'un décès par mort accidentelle (1863). Transport de corps (1870). Autorisation d'ouverture d'un débit de boissons (1873). Sinistres, inondés du Midi, grêle, incendies, gelées (1855-1903).&lt;lb/&gt;Police générale. Souche de passeport (1855).&lt;lb/&gt;Hygiène publique. Statistique du choléra (1853-1854). Rapport concernant la santé publique dans la commune (1865). Epizooties (1871).&lt;lb/&gt;Justice. Listes du jury (1833-1834, 1849-1852, 1871-1872).</unittitle>
+                     <unitdate normal="1810/1903">1810-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>LISTE</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 30</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales (1830-1907, 1939).</unittitle>
+                     <unitdate normal="1830/1939">1830-1939</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 31</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections municipales (1830-1904), élections législatives (1852-1897), vote pour le rétablissement de l'Empire (1852), plébiscite (1870), élections au conseil général (1860-1913), élections au conseil d'arrondissement (1870-1940), élections sénatoriales (1881-1903) : procès-verbaux.&lt;lb/&gt;Personnel communal. Nomination de garde-forestiers (an VII-1842). Marchés de pâtres (1813-1886). Nomination et démission du garde-champêtre (1819, 1883).</unittitle>
+                     <unitdate>An VIII-1940</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 32</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Budgets.</unittitle>
+                     <unitdate>An XIII-1880</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 33</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Budgets (1881-1919, 1931-1949).</unittitle>
+                     <unitdate normal="1881/1949">1881-1949</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 34</unitid>
+                     <unitid>L3</unitid>
+                     <unittitle>Comptes de gestion.</unittitle>
+                     <unitdate normal="1806/1870">1806-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 35</unitid>
+                     <unitid>L4</unitid>
+                     <unittitle>Comptes de gestion.</unittitle>
+                     <unitdate normal="1871/1919">1871-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 36</unitid>
+                     <unitid>L5</unitid>
+                     <unittitle>Comptes administratifs (1835-1836, 1893-1897, 1933-1947). Legs d'ine maison (1872-1874).</unittitle>
+                     <unitdate normal="1835/1947">1835-1947</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 37</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Travaux divers, réparations aux cimetière, fontaine, logement de l'instituteur (1884-1885). Fontaine, construction, réparations, établissement d'une conduite d'eau pour alimenter un abreuvoir (1830-1874, 1 plan). Maison commune, acquisition d'une maison (1844), logement de l'instutiteur (1849). Ecole, réparations, agrandissement (1862-1878, 2 plans). Cimetière, réparations au mur (1837). Eglise, réparations au clocher (plans), emprunt, restauration (plans), fourniture de bancs (1807-1878), réparation de la toiture (1942).</unittitle>
+                     <unitdate normal="1807/1942">1807-1942</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BOIS ET BIENS COMMUNAUX-EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 38</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Pièces de procédure entre la commune et le sieur Paguellle, seigneur de Larret, concernant l'usurpation du canton de bois dit "Charmoisey" (1792). Exploitation de la coupe affouagère (1806-1871). Location du droit de chasse (1808-1899). Ventes d'ételles et de bois (1826-1830). Délit forestier (1832).</unittitle>
+                     <unitdate normal="1792/1899">1792-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 39</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Balivage et martelage, entretien, procès-verbaux d'arpentage, aménagement (plan), délimitation (1822-1868). Répartition du taillis de l'affouage (1823-1829)&lt;lb/&gt;Biens communaux. Anticipations (1790-1832). Amodiations de terrains et de boues des fontaines (1808-1830). Etat des biens ruraux, ventes, acquisitions (1852-1878).&lt;lb/&gt;Eaux. Creusage d'un puits : devis (1950).</unittitle>
+                     <unitdate normal="1790/1950">1790-1950</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'AMENAGEMENT FO</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-TRAVAUX DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 40</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine. Alignement des rues, travaux (1791, 1873, 1885, 1890).&lt;lb/&gt;Petite voirie. Chemin de grande communication n° 5, d'Oiselay à la Haute-Marne, redressement, élargissement, ventes de parcelles de chemin abandonné, rachat du pont à péage de Seveux (1836-1893, 1 plan). Chemin de petite communication n° 4, puis n° 3, de Larret à Argillières, redressement (1875-1883, plan).</unittitle>
+                     <unitdate normal="1836/1893">1836-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 41</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Chemins vicinaux, états, classement, reconnaissance, réparations (1826-1893). Prestations, arrêtés préfectoraux, conversion en tâches (1829-1886). Ressources, créations, budget (1875-1893).&lt;lb/&gt;Travaux divers. Autorisation d'établissement de patouillet (1837-1838).</unittitle>
+                     <unitdate normal="1826/1893">1826-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 42</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Différend entre les communes co-paroissiales de Larret, Courtesoult et Gatey, au sujet de la demande de Larret d'ériger son église en chapellenie et de refuser de pariciper aux frais du culte de Courtesoult (1826-1848).&lt;lb/&gt;Fabrique. Quittances et reçus (1825). Budgets (1825, 1891-1905). Comptes de gestion (1890-1903). Comptes administratifs (1894-1903). Demande de secours à la mairie pour achat de linge et ornements (1887-1889).</unittitle>
+                     <unitdate normal="1825/1905">1825-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 43</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Vaccinations (1 cahier, 1843-1849 ; 1 registre, 1851-1901). Protection des enfants du premier âge, statistique de décès (1877). Médecine gratuite, listes des indigents (1854-1894). Aliéné, frais de pension (1895). Liste nominative des militaires qui n'ont pas encore de pension (1864). Liste nominative des assurés aux retraites ouvrières et paysannes (1911).&lt;lb/&gt;Bureau de bienfaisance. Arrêtés préfectoraux sur la comptabilité (1893-1896, 1900). Nomination des membres (1861, 1895-1896).</unittitle>
+                     <unitdate normal="1843/1911">1843-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>297 Edepot 44</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Jugement concernant le traitement du recteur d'école de Courtesoult, pour la quote-part des communes de Gatey et Larret (1793). Mobilier scolaire, acquisition de tables (1854). Création d'une caisse des écoles (1881-1882). Election des délégués de la commission scolaire (1882, 1884, 1896). Demande la création d'une école spéciale filles à Larret et mixte à Gatey (1882). Listes des enfants admis gratuitement (1851-1881). Extraits du registre d'appel (1882-1888).  Nomination d'une institutrice (1932). Rôles de la rétribution scolaire (1866-1881).</unittitle>
+                     <unitdate normal="1793/1932">1793-1932</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

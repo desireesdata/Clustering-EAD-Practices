@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_226Edepot_Archives_communales_déposées_de_Fallon" url="https://francearchives.fr/findingaid/b88014d9cf611efbe4b3dcce86e2f91e55eaba55">FRAD70_226Edepot_Archives_communales_déposées_de_Fallon</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>226Edepot - Archives communales déposées de Fallon</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>L. GEORGEL</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>226Edepot - Archives communales déposées de Fallon</unittitle>
+         <unitid>226Edepot1-25</unitid>
+         <unitdate normal="1663/1935">1663-1935</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE FALLON</corpname>
+         </origination>
+         <note label="note">
+            <p>C.f. : inventaire des archives municipales de Melecey : 336 E suppl. 1 à 3, registres paroissiaux (1695-1704)</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             25/10/2011
+         </p>
+         <p>Dernier ajout le             25/10/2011
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>CULTES-INSTRUCTION PUBLIQUE-ASSISTANCE PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 1</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>1 registre factice, relié, en mauvais état. Registre paroissial de Fallon, et d'Abbenans (Doubs) (pour 1776 seulement en ce qui concerne Abbenans) : baptèmes, mariages, sépultures (1776-1779 ; 1781 ; 1780 ; avril-novembre 1792 ; 1782-mars 1792). (La collection de registres paroissiaux déposés aux Archives départementales par le greffe du tribunal, concernant Fallon, commence en 1711).</unittitle>
+                     <unitdate normal="1776/1792">1776-1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 2</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>1 liasse, 1 cahier et 1 pièce papier. Registre paroissial de Fallon : baptêmes, mariages, sépultures (1784) (cahier faisant double emploi, réintégré aux archives de Fallon en 1884) ; procès-verbal de réception des registres paroissiaux d'Abbenans (Doubs) et de Fallon, par les officiers municipaux d'Abbenans (1793), avec état de registres depuis 1663</unittitle>
+                     <unitdate normal="1663/1793">1663-1793</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 3</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>1 registre relié. Registre des délibérations du conseil municipal (1793-1826) (ce registre a été paraphé en 1790 pour enregistrer les rapports des gardes de la commune, mais les 8 premiers feuillets ont été arrachés) ; et à la fin du registre : procès-verbal de réception d'une cloche (1823) ; registre des mandats délivrés par le maire (an XII-1811) ; comptes et états de réquisitions faites par les armées Alliées (1814-1815) ; registre des passeports (an X-1806) ; certificats divers (1809-1810) ; etc.</unittitle>
+                     <unitdate normal="1793/1826">1793-1826</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 4</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>1 registre relié. Registre des délibérations du conseil municipal (1827-septembre 1840) ; et à l'envers : compte de Pauvret, entrepreneur de l'église et des fontaines (1831)</unittitle>
+                     <unitdate normal="1827/1840">1827-1840</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 5</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>1 registre relié, en mauvais état. Registre de délibérations du conseil municipal (décembre 1840-mai 1866)</unittitle>
+                     <unitdate normal="1840/1866">1840-1866</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 6</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>1 registre relié. Registre de délibérations du conseil municipal (novembre 1866-1893)</unittitle>
+                     <unitdate normal="1866/1893">1866-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 7</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>1 liasse, 173 pièces papier. Administration communale : correspondance administrative, extrait des registres de délibérations, etc.</unittitle>
+                     <unitdate normal="1818/1868">1818-1868</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT-CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 8</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>1 liasse, 21 pièces papier. Etat civil : extraits de registres d'autres communes, avis de décès, etc. </unittitle>
+                     <unitdate normal="1806/1861">1806-1861</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 9</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>2 pièces papier. Statistiques agricoles </unittitle>
+                     <unitdate normal="1865">1865</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 10</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>1 registre relié, en cuir, dans un cartonnage. Contributions : division du territoire de Fallon d'après le relevé des sections, avec l'arpentage et les confins des terres de toute la commune </unittitle>
+                     <unitdate normal="1793">1793</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 11</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>2 pièces papier. Contributions : matrice sommaire pour la confection du rôle foncier de la commune (1809) ; état des contributions directes pour la commune (1898)</unittitle>
+                     <unitdate normal="1809/1898">1809-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 12</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>1 liasse, 83 tableaux et pièces papier. Affaires militaires : tableaux de recensement des conscrits (1811 ; 1816-1894) ; tableau de recensement de l'armée territoriale (1874) ; états des terres à Salpêtre (an XII)</unittitle>
+                     <unitdate normal="1804/1894">1804-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 13</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>1 liasse, 96 cahiers et pièces papier. Garde nationale : instructions et pièces relatives à la formation d'un bataillon cantonal (1831-1849) ; registres de contrôle, états nominatifs, feuilles d'appel (1830-1849) ; procès-verbaux d'élection des officiers, sous-officiers, et caporaux (1831-1870). Sapeurs-pompiers : état nominatifs (1842) ; création d'une nouvelle subdivision dans la commune (1853-1854).</unittitle>
+                     <unitdate normal="1830/1870">1830-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 14</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>1 liasse, 127 pièces papier. Faits de guerre : états de réquisitions subies par la commune (1870-1871) ; gardes nationaux mobilisés (1870-1871)</unittitle>
+                     <unitdate normal="1870/1871">1870-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE-JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 15</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>1 liasse, 17 pièces papier. Police locale et police générale : demande de secours pour deux familles désirant émigrer vers l'Algérie (s.d.) ; P-V concernant les individus suspects (1829) ; requète concernant les pertes éprouvées dans la commune par l'effet de  la grèle (1830) ; rapport sur les troubles survenus à Fallon, le 5 mars 1848 ; transports de corps (1885-1896)</unittitle>
+                     <unitdate normal="1829/1896">1829-1896</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 16</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>1 liasse, 100 pièces papier. Elections : listes électorales (1834 ; 1840 ; 1845-1853 ; 1855-1861 ; 1865-1879) ; carte d'électeurs (1827) ; procès-verbal d'élection municipale (1865) ; feuilles de dépouillement (1870 ; 1871) ; personnel communal : rapport concernant l'attribution du poste de garde-champêtre au garde-garde forestier (1848) ; marché de ramoneur (1882)</unittitle>
+                     <unitdate normal="1827/1882">1827-1882</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 17</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>1 liasse, 125 pièces papier. Comptabilité municipale : budgets primitifs et additionels (1808-1870) ; comptes administratifs (1837-1840 ; 1843 ; 1845 ; 1846 ; 1850-1856) </unittitle>
+                     <unitdate normal="1808/1870">1808-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 18</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>1 liasse, 74 cahiers et pièces papier. Comptabilité municipale : comptes de gestion annuelle (1815-1823 ; 1826-1844 ; 1847-1866) ; arrêtés d'apurement (1851-1853 ; 1866-1874) ; décomptes des remises servant de base à la fixation du traitement du receveur (1876) ; rôle de la taxe municipale sur les chiens (1901)</unittitle>
+                     <unitdate normal="1815/1901">1815-1901</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 19</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>1 liasse, 57 cahiers et pièces papier, et 4 plans. Edifices du culte : construction d'un presbytère à Fallon, et aménagements divers (1816-1829 ; 1833-1834 ; 1853) ; location du presbytère (1907-1935) ; réparation et reconstruction de l'église, et acquisition d'ornements et de mobilier pour le culte, avec plans (1831-1867) ; marché pour l'entretien de l'hologe communale (1840). Edifices publics : devis de construction d'une maison d'école et mairie (1845-1855)</unittitle>
+                     <unitdate normal="1816/1935">1816-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX-DROITS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 20</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>1 liasse, 1 cahier, et 73 pièces papier. Biens communaux : acquisition d'une source et échange de terrains pour l'établissement d'une fontaine (1831-1837) ; état des anticipations commises sur les propriétés communales (1873) ; procès-verbaux d'adjudication de la coupe affouagère (1825-1857) ; des boues des fontaines (1828-1908) ; et de location des droits de chasse (1840-1914). Bois communaux : cahier d'aménagement (1832) ; procès-verbal de martelage de bois gisants (1839)</unittitle>
+                     <unitdate normal="1825/1914">1825-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 21</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>1 liasse, 135 tableaux. Bois communaux : rôles de répartition du taillis et de la futaie de la coupe affouagère (1822-1870)</unittitle>
+                     <unitdate normal="1822/1870">1822-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS-VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 22</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>1 liasse, 154 pièces papier, et 2 plans. Voirie : travaux publics divers et alignement des rues (1832-1903), Chemins vicinaux : procès-verbaux et plans de reconnaissance et de classement (1826-1900) ; tableaux et états de classement (1839 ; 1841 ; 1846 ; 1865 ; 1867 ; 1900) ; registres d'options et rôles des prestations (1887-1888 ; 1901-1906) ; pièces diverses relatives à l'entretien des chemins vicinaux et à l'exécutions des prestations (1826-1905)</unittitle>
+                     <unitdate normal="1826/1906">1826-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 23</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>1 liasse, 4 pièces papier. Culte : correspondance relative à la demande faite par la commune pour obtenir un prêtre (1828) ; délibération municipale concernant le traitement du desservant (1830)</unittitle>
+                     <unitdate normal="1828/1830">1828-1830</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 24</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>1 liasse, 8 pièces papier. Assistance publique : atelier de charité (1848-1855). Secours visagers aux anciens militaires (1856) ; nomination d'un comité cantonal de bienfaisance (1861)</unittitle>
+                     <unitdate normal="1848/1861">1848-1861</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE-SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>226 Edepot 25</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>1 liasse, 1 cahier  et 5 pièces papier. Instruction publique : marchés d'institutrice et d'instituteurs, et pièces relatives à leurs traitements (1826-1837) ; registre matricule des enfants admis à l'école (1852-1858)</unittitle>
+                     <unitdate normal="1826/1858">1826-1858</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

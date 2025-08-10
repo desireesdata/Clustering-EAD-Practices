@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+  <eadheader dateencoding="iso8601" langencoding="iso639-2b" scriptencoding="iso15924" countryencoding="iso3166-1" repositoryencoding="iso15511">
+    <eadid identifier="FRAD042_648086" countrycode="FR" mainagencycode="FRAD042" url="https://francearchives.fr/findingaid/b3afe7c7e47515d46176a67c6fa41f9f596c4146">FRAD042_648086</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>08 FI : Album et manuscrit de François Dubois, frère Maxime de la congrégation des Petits Frères de Marie (Maristes)</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>AD LOIRE/SAINT ETIENNE</publisher>
+        <date>30/08/2022 à 15:25</date>
+      </publicationstmt>
+    </filedesc>
+  </eadheader>
+  <archdesc level="fonds" otherlevel="0">
+    <did>
+      <unittitle type="TITRE PROPRE">08 FI : Album et manuscrit de François Dubois, frère Maxime de la congrégation des Petits Frères de Marie (Maristes)</unittitle>
+      <unitdate>[1900 - 1910]</unitdate>
+    </did>
+    <odd>
+      <p>Série Fi : Documents iconographiques d'origine privée</p>
+    </odd>
+    <controlaccess>
+      <subject>site</subject>
+    </controlaccess>
+    <dsc type="othertype">
+      <c otherlevel="0" id="ark--51302-vta3177627d0b62aa16">
+        <did>
+          <unitid type="">8FI1<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta3177627d0b62aa16" xlink:type="simple"/></unitid>
+          <unittitle>Dubois, François (1854- ; frère Maxime de la congrégation des Petits Frères de Marie ou Maristes)Album photographique. Forez. Roannais. Charollais.Dubois, François (1854- ; frère Maxime de la congrégation des Petits Frères de Marie ou Maristes)</unittitle>
+          <unitdate>[1900 - 1904]</unitdate>
+          <physdesc>
+            <genreform/>
+            <dimensions/>
+          </physdesc>
+          <origination>
+            <corpname/>
+          </origination>
+          <origination/>
+          <dao xlink:href="https://archives.loire.fr//ark:/51302/vta3177627d0b62aa16/daogrp/0" xlink:type="simple" xlink:title=""/>
+          <dao xlink:href="https://archives.loire.fr//ark:/51302/vta3177627d0b62aa16/daogrp/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+        </did>
+        <scopecontent>
+          <p>Album de 893 photographies de la lieux essentiellement de la Loire et du sud de la Loire. Il comporte des photographies de plusieurs photographes professionnels comme J Lassablière ou Félix Thiollier. Vers 1900-1904</p>
+        </scopecontent>
+        <controlaccess>
+          <p>- <emph render="bold">[1900 - 1904]</emph> :  Date de contenu </p>
+          <genreform>album</genreform>
+          <genreform>notice iconographie</genreform>
+        </controlaccess>
+      </c>
+      <c otherlevel="0" id="ark--51302-vta6593db133364d920">
+        <did>
+          <unitid type="">8FI2<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta6593db133364d920" xlink:type="simple"/></unitid>
+          <unittitle>Monographie illustrée de Chazelles sur Lyon. </unittitle>
+          <unitdate/>
+          <physdesc>
+            <genreform/>
+            <dimensions/>
+          </physdesc>
+          <origination>
+            <corpname/>
+          </origination>
+          <origination/>
+          <dao xlink:href="https://archives.loire.fr//ark:/51302/vta6593db133364d920/daogrp/0" xlink:type="simple" xlink:title=""/>
+          <dao xlink:href="https://archives.loire.fr//ark:/51302/vta6593db133364d920/daogrp/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+        </did>
+        <controlaccess>
+          <genreform>album</genreform>
+          <genreform>notice iconographie</genreform>
+        </controlaccess>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,932 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_225Edepot_Archives_communales_déposées_de_Fahy-lès-Autrey" url="https://francearchives.fr/findingaid/1ad4cd47ea625943fcb8059b5f6c8c2c269ad410">FRAD70_225Edepot_Archives_communales_déposées_de_Fahy-lès-Autrey</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>225Edepot - Archives communales déposées de Fahy-lès-Autrey</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>225Edepot - Archives communales déposées de Fahy-lès-Autrey</unittitle>
+         <unitid>225Edepot1-31</unitid>
+         <unitdate normal="1706/1958">1706-1958</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE FAHY-LES-AUTREY</corpname>
+         </origination>
+         <note label="note">
+            <p>Avant 1792, Fahy-lès-Autrey dépendait de la paroisse d'Autrey-lès-Gray. Fahy-lès-Autrey fut érigée en commune, après sa distraction de celle d'Autrey en 1821.
+
+(1) Documents partiellement brûlés, en très mauvais état.
+(2) Toisé des bâtiments de la commune (1841), voir 225 E dépôt 2/D1
+(3) Voir 225 E dépôt 2/D1
+(4) Déclarations de grossesses, voir 225 E dépôt 2/D1.
+
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône ;
+41 E dépôt, archives communales d'Autrey-lès-Gray.
+B 1605, jugement concernant des anticipations commises sur un chemin public (1777).
+B 2129, archives concernant des habitants de Fahy (1691-1789).
+B 7703, justice seigneuriale d'Autrey concernant Fahy (1759-1767).
+C 110, avis du subdélégué de gray sur divers objets intéressant Fahy (1781-1790).
+D 2, 9, 17, 22, archives du collège des Jésuites de Gray concernant Fahy (1579-1785).
+3 O 231, travaux communaux (depuis 1825).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             14/01/2004
+         </p>
+         <p>Dernier ajout le             02/02/2004
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> BOIS COMMUNAUX (1706-1780)</p>
+         <p>  225 Edepot 1</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1821-1913)</p>
+         <p>  225 Edepot 2-8</p>
+         <p> POPULATION-AGRICULTURE-COMMERCE ET INDUSTRIE (1823-1958)</p>
+         <p>  225 Edepot 9-12</p>
+         <p> CONTRIBUTIONS (1824-1940)</p>
+         <p>  225 Edepot 13-15</p>
+         <p> AFFAIRES MILITAIRES (1819-1935)</p>
+         <p>  225 Edepot 16-17</p>
+         <p> POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE (1818-1935)</p>
+         <p>  225 Edepot 18-19</p>
+         <p> ELECTIONS ET PERSONNEL COMMUNAL (1822-1940)</p>
+         <p>  225 Edepot 20-22</p>
+         <p> FINANCES DE LA COMMUNE (1821-1933)</p>
+         <p>  225 Edepot 23-24</p>
+         <p> EDIFICES PUBLICS (1826-1935)</p>
+         <p>  225 Edepot 25</p>
+         <p> BIENS ET BOIS COMMUNAUX-EAUX (1819-1950)</p>
+         <p>  225 Edepot 26-27</p>
+         <p> VOIRIE-MOYENS DE TRANSPORT-TRAVAUX DIVERS (1824-1904)</p>
+         <p>  225 Edepot 28</p>
+         <p> CULTE (1844-1863)</p>
+         <p>  225 Edepot 29</p>
+         <p> ASSISTANCE ET PREVOYANCE (1878-1935)</p>
+         <p>  225 Edepot 30</p>
+         <p> INSTRUCTION PUBLIQUE-LETTRES,SCIENCES ET ARTS (1903-1935)</p>
+         <p>  225 Edepot 31</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Pièces de procédure entre les habitants de Fahy-lès-Autrey et le comte de Montcault, au sujet des droits d'usage dans les bois (copie de 1706, an XIII). Dégradations commises dans les bois par le maître de forges de Bèze (1780).</unittitle>
+                     <unitdate normal="1706/1780">1706-1780</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BEZE</geogname>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>MONTCAULT</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 2</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Délibérations du conseil municipal, arrêtés de police, déclarations de domicile, de grossesse, réquisitions militaires et actes divers, toisé des bâtiments de 1841.</unittitle>
+                     <unitdate normal="1824/1913">1824-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 3</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1821/1840">1821-1840</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 4</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Délibérations du conseil municipal, avec tables.</unittitle>
+                     <unitdate normal="1840/1855">1840-1855</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 5</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1854/1880">1854-1880</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 6</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1880/1907">1880-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 7</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Arrêtés municipaux.</unittitle>
+                     <unitdate normal="1840/1912">1840-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 8</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Requête des habitants afin que leur communauté soit distraite de la commune d'Autrey-lès-Gray (an II, 1820). Répertoire des actes soumis à l'enregistrement (1821-1899). Polices d'assurances (1892, 1906).</unittitle>
+                     <unitdate>An II-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-AGRICULTURE-COMMERCE ET INDUSTRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 9</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Mouvement annuel.</unittitle>
+                     <unitdate normal="1853/1906">1853-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 10</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Dénombrement quinquennal (1) : listes nominatives.</unittitle>
+                     <unitdate normal="1841/1906">1841-1906</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi113</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 11</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Statistiques agricoles annuelles (1932-1935). Déclaration des récoltes de blés (1955-1958). Marchés d'entretien du taureau et du bélier communal (1823-1868). Liste électorale de la chambre d'agriculture (1933).</unittitle>
+                     <unitdate normal="1823/1958">1823-1958</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>LISTE ELECTORALE</genreform>
+                     <genreform>DECLARATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 12</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>Tribunal de commerce (1888, 1900-1919) et chambre de commerce (1908-1933) : listes électorales. Registre des livrets d'ouvriers (1856-1881).</unittitle>
+                     <unitdate normal="1856/1933">1856-1933</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 13</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>(2) Listes des commissaires-répartiteurs (1824, 1829, 1933). Rôles de prestations sur les chemins vicinaux (1865, 1895, 1815). Matrices générales des quatre contributions (1845-1849, 1931-1940).</unittitle>
+                     <unitdate normal="1824/1940">1824-1940</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>ROLE</genreform>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 14</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1850/1873">1850-1873</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 15</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Matrices générales (1874-1899, 1904-1907).</unittitle>
+                     <unitdate normal="1874/1907">1874-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 16</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Tableaux de recensement des jeunes gens.</unittitle>
+                     <unitdate normal="1821/1914">1821-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 17</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Logement et cantonnement des troupes (1879-1913). Recensement des automobiles (1934). Champ de tir, établissement d'un projet de régime (1909, 1910, 1935). &lt;lb/&gt;Invasion de 1815. Réclamation des habitants au sujet des indemnisations des réquisitions (1819).&lt;lb/&gt;Guerre de 1870. Réquisitions et indemnisations (1870-1875).&lt;lb/&gt;Guerre de 1914-1918. Réquisitions (1915-1919).</unittitle>
+                     <unitdate normal="1819/1935">1819-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                     <subject>OPERATION MILITAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 18</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Permis d'inhumer et transports de corps (1933-1935).&lt;lb/&gt;Police générale. Déclaration de domicile (3), (1903).&lt;lb/&gt;Justice. Listes du jury (1849-1853, 1871-1872).&lt;lb/&gt;Hygiène publique et salubrité. Epizootie (1905, 1909).</unittitle>
+                     <unitdate normal="1849/1935">1849-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JURY D'ASSISES</subject>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 19</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Police générale. Souches de passeport.</unittitle>
+                     <unitdate normal="1818/1854">1818-1854</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 20</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales (1840-1913, 1933).</unittitle>
+                     <unitdate normal="1840/1933">1840-1933</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 21</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Vote pour le rétablissement de l'Empire (1852), plébiscite (1870), élections législatives (1852-1906), élections cantonales (1852-1913), élections municipales (1935) : procès-verbaux.</unittitle>
+                     <unitdate normal="1852/1935">1852-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 22</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Nominations de pâtres (1822-1885). Marchés de bûcherons (1832-1916, 1932, 1937-1940). Traitement du garde-forestier (1877-1878). Nomination, plainte, révocation du cantonnier (1877-1911). Démission du garde-champêtre (1911).</unittitle>
+                     <unitdate normal="1822/1940">1822-1940</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GARDE FORESTIER</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 23</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptes de gestion (1821-1870, 1908, 1916-1928).</unittitle>
+                     <unitdate normal="1821/1928">1821-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 24</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Compte administratif (1933). Budgets (1822-1870, 1932-1933).</unittitle>
+                     <unitdate normal="1822/1933">1822-1933</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 25</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Travaux divers (1920). Maison commune, réparations, construction d'un mur, acquisition de mobilier (1826-1906). Eglise, refonte de cloche (1935). Monument aux Morts, souscription (s.d.).</unittitle>
+                     <unitdate normal="1826/1935">1826-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COMMEMORATION</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 26</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Partage des biens en indivis entre les communes d'Autrey-lès-Gray et Fahy-lès-Autrey, suivi d'un procès (1822-1838). Litige concernant la propriété de terrains contre divers particuliers (1824, 1827, 1840-1842). Anticipations (1879, 1884).</unittitle>
+                     <unitdate normal="1822/1884">1822-1884</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIEN SPOLIE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>AUTREY-LES-GRAY</geogname>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 27</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Aménagement des bois : procès-verbaux, entretien (1839-1871). Ventes de bois (1819-1830). Distribution de la futaie et répartition du taillis (1828-1839). Location de la chasse (1945-1950).&lt;lb/&gt;Puits. Acquisition d'une pompe (1868).</unittitle>
+                     <unitdate normal="1819/1950">1819-1950</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'AMENAGEMENT FO</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                     <subject>BOIS</subject>
+                     <subject>CHASSE</subject>
+                     <subject>EAU POTABLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-MOYENS DE TRANSPORT-TRAVAUX DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 28</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine. Constructions de rigoles pavées et réparations aux rues du village (1867-1873).&lt;lb/&gt;Petite voirie. Chemins vicinaux : tableau général, reconnaissance, délimitations (1824-1900). Créations de ressources (1858-1895). Prestations (1858-1904).&lt;lb/&gt;Moyen de transports. Chemin de fer de l'Est, ligne de Châtillon à Besançon : projet d'établissement (1872).&lt;lb/&gt;Extraction de minerai : procès-verbal de cubage (1865).</unittitle>
+                     <unitdate normal="1824/1904">1824-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>MINERAI</subject>
+                     <subject>RESEAU FERROVIAIRE</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 29</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Erection de l'église en succursale (1844-1845). Pétition pour la nomination d'un curé, traitement offert (1856, 1863).</unittitle>
+                     <unitdate normal="1844/1863">1844-1863</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 30</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>(4). Aliénés, placement d'office (1935). Assistance obligatoire aux vieillards (1933). Vaccination : listes nominatives (1909-1915), nomination d'un vaccinateur (1911-1913). Protection des enfants du premier âge : déclarations des nourrices et des parents (1878, 1920).&lt;lb/&gt;Bureau de bienfaisance. Comptes de gestion (1917-1928). Budgets (1932-1934). Compte administratif (1933). Nominations de délégués (1911, 1935).</unittitle>
+                     <unitdate normal="1878/1935">1878-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>DECLARATION</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION MATERNELLE ET INFANTILE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE-LETTRES,SCIENCES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>225 Edepot 31</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Election de délégués de la commission scolaire (1935). Nomination d'instituteurs (1903-1904, 1935).&lt;lb/&gt;Monuments historiques. Classement d'une chaire à prêcher (1912).</unittitle>
+                     <unitdate normal="1903/1935">1903-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EDIFICE CLASSE</subject>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAHY-LES-AUTREY</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

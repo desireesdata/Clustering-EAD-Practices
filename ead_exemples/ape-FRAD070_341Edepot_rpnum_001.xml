@@ -1,0 +1,647 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_341Edepot_Archives_communales_déposées_de_Menoux" url="https://francearchives.fr/findingaid/2978dd8fff9702ec87c73360ab87e2e0d222e7d4">FRAD70_341Edepot_Archives_communales_déposées_de_Menoux</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>341Edepot - Archives communales déposées de Menoux</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>341Edepot - Archives communales déposées de Menoux</unittitle>
+         <unitid>341Edepot1-25</unitid>
+         <unitdate normal="1646/1918">1646-1918</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE MENOUX</corpname>
+         </origination>
+         <note label="note">
+            <p>Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 4220, doléances et plaintes des habitants (1789).
+B 5202, sentence rendue concernant le maintien de la jouissance du four banal de Menoux par indivis entre le seigneur et les religieux de Faverney (1742).
+B 5520, procès au sujet de la validité de la vente d'un terrain communal, entre le seigneur et les habitants (1743).
+B 6149, procès au sujet de redevances seigneuriales (1682).
+B 6415, compte des reconnaissances des terre et seigneurie de Menoux (1741-1742).
+B 8447 à 8465, justice seigneuriale de Menoux (1735-1790).
+C 42, homologation d'une transaction avec le seigneur au sujet des bois (1722-1788).
+C 49, requête pour obtenir de puiser du minerai (1735-1789).
+C 198, acensement perpétuel (1782-1789).
+C 267, correspondance relative à la vente du quart en réserve pour payer les réparations à l'église (1760-1782).
+C 441, rôles et répartements des impositions (1729-1790).
+E 715, achats et ventes de terrains (1626-1698).
+E 924, contrat de mariage (1504). 
+H 363, archives de l'abbaye de Clairefontaine concernant Menoux (1312-1625).
+H 437 à 542, archives de l'abbaye de Faverney concernant Menoux (1532-1790).
+1 J 69/1, 1 J 646, ventes de propriétés (1544-1777).
+ 3 O 356, travaux commmunaux (depuis 1812).
+  </p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             10/01/2005
+         </p>
+         <p>Dernier ajout le             10/01/2005
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> CULTE (1646-1791)</p>
+         <p>  341 Edepot 6, 341 Edepot 5, 341 Edepot 4, 341 Edepot 3, 341 Edepot 2, 341 Edepot 7-9</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1835-1918)</p>
+         <p>  341 Edepot 1, 341 Edepot 10-17</p>
+         <p> AGRICULTURE (1841-1869)</p>
+         <p>  341 Edepot 24</p>
+         <p> CONTRIBUTIONS (1833-1916)</p>
+         <p>  341 Edepot 18-22</p>
+         <p> AFFAIRES MILITAIRES-ELECTIONS-BIENS ET BOIS COMMUNAUX (1853-1879)</p>
+         <p>  341 Edepot 23</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 4</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Menoux et Cubry-lès-Faverney : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1704/1732">1704-1732</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R35</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CUBRY-LES-FAVERNEY</geogname>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 7</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial de Menoux : baptêmes, mariages, décès (mai 1749-février 1778).</unittitle>
+                     <unitdate normal="1749/1778">1749-1778</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R35-R36</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 8</unitid>
+                     <unitid>GG8</unitid>
+                     <unittitle>Registre paroissial de Menoux et Cubry-lès-Faverney : baptêmes, mariages, sépultures (1778-février 1779).</unittitle>
+                     <unitdate normal="1778/1779">1778-1779</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R36</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CUBRY-LES-FAVERNEY</geogname>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 25</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registres paroissiaux de Cubry-lès-Faverney : baptêmes, mariages, sépultures (1700-1704 ; 1705 ; 1706-1709 ; 1710). Registres paroissiaux de Menoux et Cubry-lès-Faverney : baptêmes, mariages, sépultures (1714 ; 1717) .  </unittitle>
+                     <unitdate normal="1700/1717">1700-1717</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 1</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate>1790-an IV</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 10</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Délibérations du conseil municipal de Menoux (an II-an VIII) ; au milieu du cahier, rôle du partage des communaux (an II). Registre de délibérations (an VIII-1835).</unittitle>
+                     <unitdate>An II-1835</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>CAHIER</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 11</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations (1835-1853) ; à la dernière page et à l'envers, notifications des ordres de route (1840-1853).</unittitle>
+                     <unitdate normal="1835/1853">1835-1853</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 12</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre de délibérations (1853-1857, 1857-1865).</unittitle>
+                     <unitdate normal="1853/1865">1853-1865</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote de@</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 13</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Registre de délibérations.</unittitle>
+                     <unitdate normal="1865/1871">1865-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 14</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Registre de délibérations.</unittitle>
+                     <unitdate normal="1871/1881">1871-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 15</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Registre de délibérations. </unittitle>
+                     <unitdate normal="1881/1890">1881-1890</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 16</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Registre de délibérations.</unittitle>
+                     <unitdate normal="1890/1903">1890-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 17</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Registre de délibérations.</unittitle>
+                     <unitdate normal="1903/1918">1903-1918</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AGRICULTURE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 24</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Statistiques agricoles annuelles.</unittitle>
+                     <unitdate normal="1841/1869">1841-1869</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 18</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Toisé des bâtiments de la commune.</unittitle>
+                     <unitdate normal="1840">1840</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 19</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Matrices générales (1833-1835, 1839-1841, 1845-1848).</unittitle>
+                     <unitdate normal="1833/1848">1833-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 20</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1850/1869">1850-1869</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 21</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1870/1889">1870-1889</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 22</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1891/1916">1891-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES-ELECTIONS-BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>341 Edepot 23</unitid>
+                     <unitid>H1-K1-N1</unitid>
+                     <unittitle>H 1 - voir ci-dessus 341 E dépôt 11/D 3. Guerre de 1870, réquisitions (1870-1871).&lt;lb/&gt;K 1 - Elections au conseil général : procès-verbaux (1853, 1855).&lt;lb/&gt;N 1 - Bois communaux. Réclamations au sujet de l'affouage (1878-1879).&lt;lb/&gt;Biens communaux, voir ci-dessus 341 E dépôt 10/D 2.</unittitle>
+                     <unitdate normal="1853/1879">1853-1879</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MENOUX</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

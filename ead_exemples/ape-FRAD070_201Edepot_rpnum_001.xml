@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_201Edepot_Archives_communales_déposées_de_Delain" url="https://francearchives.fr/findingaid/208b6fb50bc17e4aa287ee816cf029e277566539">FRAD70_201Edepot_Archives_communales_déposées_de_Delain</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>201Edepot - Archives communales déposées de Delain</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>L. Georgel</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>201Edepot - Archives communales déposées de Delain</unittitle>
+         <unitid>201Edepot1-12</unitid>
+         <unitdate normal="1790/1938">1790-1938</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE DELAIN</corpname>
+         </origination>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             09/08/2011
+         </p>
+         <p>Dernier ajout le             09/08/2011
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>201 Edepot 1</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal : registre des délibérations.</unittitle>
+                     <unitdate normal="1790/1837">1790-1837</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>201 Edepot 2</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal : registre des délibérations.</unittitle>
+                     <unitdate normal="1844/1856">1844-1856</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>201 Edepot 3</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal : registre des délibérations.</unittitle>
+                     <unitdate normal="1856/1875">1856-1875</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>201 Edepot 4</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Conseil municipal : registre des délibérations.</unittitle>
+                     <unitdate normal="1875/1897">1875-1897</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>201 Edepot 5</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs : états de sections A - P (1791) ; dans le même volume : matrice de rôle de la contribution foncière (an VII).</unittitle>
+                     <unitdate normal="1791/1799">1791-1799</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>201 Edepot 6</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Impôts directs : livre des mutations, 1er volume.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>201 Edepot 7</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Impôts directs : livre des mutations, 2ème volume (1818).Finances de la commune : compte de la commune de l'an XIII (s.d.).</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>201 Edepot 8</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Bois : plan d'aménagement des bois communaux (plan classé dans les plans communaux.)</unittitle>
+                     <unitdate normal="1817">1817</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>201 Edepot 9</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Bois : décret impérial réglant l'aménagement des bois communaux (1859) ; ouvertures de fossés (1856 ; 1891) ; ventes de bois (1806-1901) ; locations du droit de chasse (1823-1899).</unittitle>
+                     <unitdate normal="1806/1901">1806-1901</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIES, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>201 Edepot 10</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie : plan de l'aqueduc à établir à l'embranchement du chemin vicinal de Dampierre-sur-Salon, sur celui de Courtesoult.</unittitle>
+                     <unitdate normal="1867">1867</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>201 Edepot 11</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Bureau de bienfaisance : registres des délibérations du bureau de bienfaisance (1809-1831 ; 1874-1938).</unittitle>
+                     <unitdate normal="1809/1938">1809-1938</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>201 Edepot 12</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique : registres d'appel journalier.</unittitle>
+                     <unitdate normal="1888/1892">1888-1892</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

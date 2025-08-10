@@ -1,0 +1,1020 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_313Edepot_Archives_communales_déposées_de_Lyoffans" url="https://francearchives.fr/findingaid/77017862ad0a239a0f9e12b8103a7dffd074a5c5">FRAD70_313Edepot_Archives_communales_déposées_de_Lyoffans</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>313Edepot - Archives communales déposées de Lyoffans</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>313Edepot - Archives communales déposées de Lyoffans</unittitle>
+         <unitid>313Edepot1-37</unitid>
+         <unitdate normal="1701/1949">1701-1949</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE LYOFFANS</corpname>
+         </origination>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             03/07/2014
+         </p>
+         <p>Dernier ajout le             03/07/2014
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION COMMUNALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 26</unitid>
+                     <unitid>BB1</unitid>
+                     <unittitle>Requête de l’échevin, Antoine Guenon, à l’Intendant de Franche-Comté demandant d’ordonner aux habitants de Lyoffans d’assister aux assemblées de la communauté. </unittitle>
+                     <unitdate normal="1748">1748</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 1 pièce papier. 	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECHEVIN</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 1</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Lyoffans, Palente, Andornay, Magny-Jobert, et Magny-Danigon : baptêmes (1706-juin 1723) ; mariages (1718-janvier 1723) ; sépultures (mars 1701-avril 1723) ; « registre des baptisés morts et mariés depuis que j'ay peu les trouver n'avoir point esté enregistré au Gref du bailliage de Lure... » baptêmes (1730-1732) ; mariages (avril 1730-juillet 1732) ; sépultures (juin 1728-janvier 1733) ; sépultures de la paroisse de Lyoffans « on dit de la grande paroisse » (1728-juin 1777). &lt;lb/&gt;Les actes intéressent aussi les habitants des communautés de Champagney, Château-Lambert, Moffans, Lomont, Frotey-lès-Lure, Clairegoutte et Frédéric-Fontaine, les habitants de la verrerie de Lyoffans (1701-1706) et ceux des bois de Lyoffans, Faymont, Cournont, Etobon, du Magny-Danigon, de Chérimont (communes de Champagney et Clairegoutte) et de Saint-Georges (commune d'Athesans).&lt;lb/&gt;Lacunes en ce qui concerne les sépultures pour les années 1724-1727. Ce registre et le suivant font partie des collections déposées par le Greffe du tribunal de Lure aux Archives départementales, dont la série se suit normalement depuis 1737 ; ces deux registres contiennent des cahiers qui font double emploi et qui étaient manifestement destinés a être adressés au Bailliage, d'autres, au contraire forment un tout avec les registres paroissiaux restés aux archives communales : par exemple le premier registre contient le cahier des sépultures de 1728 à 1777, dont la suite figure ici dans le cinquième registre ; le deuxième registre contient les cahiers des baptêmes et mariages jusqu'an 1740, et la suite se trouve ici au troisième volume.</unittitle>
+                     <unitdate normal="1701/1777">1701-1777</unitdate>
+                     <physdesc>
+                        <extent>1 registre factice, couvert parchemin. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ANDORNAY</geogname>
+                     <geogname>MAGNY-DANIGON</geogname>
+                     <geogname>MAGNY-JOBERT</geogname>
+                     <geogname>PALANTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 2</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Lyoffans, Palente, Andornay, Magny-Jobert, et Magny-Danigon ; copie de la requête du curé Jean-Baptiste-Antide Gobert à l'Archevêque Antoine-Pierre de Grammont lui demandant de pouvoir changer la date de la célébration de la fête de Saint Martin, fête qui tombe le 4 Juillet, pendant les moissons, et copie de l'appointement favorable de l'Archevêque du 29 mai 1731 ; baptêmes (décembre 1705-1739) ; promesses de mariages (1715-1718) ; mariages (1718-octobre 1739) ; confirmations données par l'Archevêque François-Joseph de Grammont au château de Sauloy (commune de Saint-Germain), le 20 mai 1715. Les actes sont pour une partie les originaux en latin de ceux traduits en français, dans le registre précédent. </unittitle>
+                     <unitdate normal="1705/1739">1705-1739</unitdate>
+                     <physdesc>
+                        <extent>1 registre couvert parchemin.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ANDORNAY</geogname>
+                     <geogname>MAGNY-DANIGON</geogname>
+                     <geogname>MAGNY-JOBERT</geogname>
+                     <geogname>PALANTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 3</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Lyoffans, Andornay, Palante, Magny-Jobert et Magny d'Anigon : baptêmes (1740-1785) ; mariages (1740-février 1768). &lt;lb/&gt;Ces actes intéressent aussi dans les premières années les habitants de Clairegoutte, Frédéric-Fontaine et dans les dernières années les habitants de la forêt de Chérimont.&lt;lb/&gt;Les actes de mariages manquent de 1768 à 1788, mais cette lacune est comblée par la collection des registres paroissiaux déposés par le Greffe du Tribunal de Lure, aux Archives départementales.</unittitle>
+                     <unitdate normal="1740/1785">1740-1785</unitdate>
+                     <physdesc>
+                        <extent>1 registre recouvert d'une toile.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ANDORNAY</geogname>
+                     <geogname>MAGNY-DANIGON</geogname>
+                     <geogname>MAGNY-JOBERT</geogname>
+                     <geogname>PALANTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 4</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Lyoffans, Andornay, Palante, Magny-Jobert : baptêmes (1785-1791) ; délibérations du comité de surveillance pour l'instruction primaire (1834-1841). &lt;lb/&gt;Une lacune en 1792 est comblée par le sixième registre de la collection déposée aux Archives départementales par le Greffe du Tribunal de Lure.</unittitle>
+                     <unitdate normal="1785/1841">1785-1841</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié carton.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ANDORNAY</geogname>
+                     <geogname>MAGNY-JOBERT</geogname>
+                     <geogname>PALANTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 5</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Lyoffans, Andornay, palante, Magny-Jobert : sépultures (1777-1791) ; mariages (1788-1792). </unittitle>
+                     <unitdate normal="1777/1791">1777-1791</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié carton.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ANDORNAY</geogname>
+                     <geogname>MAGNY-JOBERT</geogname>
+                     <geogname>PALANTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 7</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registres de délibérations du conseil municipal (an IX-pluviôse an XII ; pluviôse an XII-mars 1813 ; 1816-avril 1819 ; mai 1819-mai 1825). &lt;lb/&gt;Lacunes en ce qui concerne les délibérations municipales pour les années 1813 à 1815 ; et 1825 à 1827.</unittitle>
+                     <unitdate>An IX-1825</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 4 cahiers brochés.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 8</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (1828-mai 1837). </unittitle>
+                     <unitdate normal="1828/1837">1828-1837</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 9</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (mai 1837-février 1851) ; à l'envers : arrêtés du maire (1844-1848) ; sur la couverture : états de la population (1838-1848). </unittitle>
+                     <unitdate normal="1837/1851">1837-1851</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 10</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (mai 1851-mai 1880). </unittitle>
+                     <unitdate normal="1851/1880">1851-1880</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 11</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Administration communale : extrait des registres de délibérations du conseil municipal. </unittitle>
+                     <unitdate normal="1830/1939">1830-1939</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 192 pièces papier.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 12</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Administration communale : registre des actes de la municipalité de Lyoffans, sujets à l'enregistrement (1855-1862 ; 1873-1911 ; 1942-1944 ; 1945-1949). </unittitle>
+                     <unitdate normal="1855/1949">1855-1949</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 6 pièces papier dont 1 en mauvais état.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENREGISTREMENT</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 27</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Conseil municipal : registre des délibérations (10 octobre 1880-15 octobre 1905). </unittitle>
+                     <unitdate normal="1880/1905">1880-1905</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné. 	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 28</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Conseil municipal : registre des délibérations (23 octobre 1905-24 novembre 1918). </unittitle>
+                     <unitdate normal="1905/1918">1905-1918</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné. 	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 29</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Contentieux. –Obstruction d’un chemin communal, mise en demeure des sieurs Guget et [Alem] par la commune : communiqué. </unittitle>
+                     <unitdate normal="1900">1900</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 1 pièce papier. 	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 30</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Etat civil : table décennale des actes de mariages et de décès. </unittitle>
+                     <unitdate normal="1813/1822">1813-1822</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 1 cahier papier. 	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TABLE DECENNALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 13</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : recensements quinquennaux des habitants de la commune (1841-1872 ; 1881-1886 ; 1896 ; 1906 ; 1926).</unittitle>
+                     <unitdate normal="1841/1926">1841-1926</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 19 cahiers et pièces papier.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 14</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Statistiques : mouvements annuels de la population de Lyoffans (1857-1859 ; 1861-1867 ; 1869-1874 ; 1877-1883 ; 1889 ; 1891-1894 ; 1896 ; 1898 ; 1906) ; statistiques agricoles annuelles, plans de ravitaillement, bulletins de déclarations agricoles, etc. (1896-1943). </unittitle>
+                     <unitdate normal="1857/1943">1857-1943</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 83 pièces papier.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATION FINANCIERE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 15</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Administration financière : tableaux des contributions directes pour la commune de Lyoffans (1889-1929) ; procès-verbal d'évaluations des propriétés non bâties de la commune (1935) ; bail de la gérance de la cabine téléphonique de Lyoffans (1937). </unittitle>
+                     <unitdate normal="1889/1937">1889-1937</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 11 pièces papier.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 31</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs. –Contribution foncière : matrices de role (1820, s.d.). </unittitle>
+                     <unitdate normal="1820">1820</unitdate>
+                     <physdesc>
+                        <extent>2 registres. 	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 32</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Impôts directs. –Contribution foncière, personnelle et mobilière des portes et fenêtres : matrices (1850-1853, 1854-1857) (lacunaires et déchirées). </unittitle>
+                     <unitdate normal="1850/1857">1850-1857</unitdate>
+                     <physdesc>
+                        <extent>2 cahiers en mauvais état. 	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 33</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Rapports de la commune avec les diverses administrations au point de vue financier. –Enregistrement, domaines et timbre, redevance pour occupation du domaine public : reçu, avis. </unittitle>
+                     <unitdate normal="1949">1949</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 2 pièces papier. 	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>AVIS</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENREGISTREMENT</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 16</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Affaires militaires : tableaux de recensements des jeunes gens mobilisables de Lyoffans et quelques pièces contenant l'inscription sur ces tableaux (1853-1872 ; 1874 ; 1876-1894 ; 1897-1900 ; 1902 ; 1907-1909 ; 1911-1913 ; 1918-1922 ; 1924 ; 1926 ; 1929-1933 ; 1935-1937) ; avis de décès de militaires (1914-1925). </unittitle>
+                     <unitdate normal="1853/1937">1853-1937</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 102 pièces papier en mauvais état.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 17</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police. -Transports des corps, renseignements concernant les étranger demeurant à Lyoffans, etc. (1883-1937). Vérification périodique et surveillance des instruments de mesure (1947).&lt;lb/&gt;Justice : exploit d’huissier signifié au maire (1908).&lt;lb/&gt;Hygiène : listes de vaccinations, assistance médicale à Lyoffans et pièces diverses (1885-1937).</unittitle>
+                     <unitdate normal="1883/1947">1883-1947</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 102 pièces papier.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>EXPLOIT D'HUISSIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE MEDICALE</subject>
+                     <subject>JUSTICE</subject>
+                     <subject>POLICE</subject>
+                     <subject>VACCINATION</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 18</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections : procès-verbaux de nominations, d'élections, ou d'installations des officiers municipaux de Lyoffans, élections législatives, etc. (1831-1939) ; listes des électeurs de la commune et pièces annexes (1862-1867 ; 1874-1875 ; 1877-1878 ; 1880-1881 ; 1885-1889 ; 1893-1896 ; 1898 ; 1900 ; 1902 ; 1906-1910 ; 1912-1914 ; 1919 ; 1922 ; 1924-1925 ; 1927-1928 ; 1932-1939). </unittitle>
+                     <unitdate normal="1831/1939">1831-1939</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 190 pièces papier.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 19</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Compatibilité municipale : comptes de gestion annuelle présentés par les receveurs municipaux de Lyoffans et pièces annexes (1807 ; 1810 ; 1827 ; 1829 ; 1837 ; 1839 ; 1841-1843 ; 1845-1846 ; 1848 ; 1855 ; 1865-1866, 1895-1900 ; 1902-1904 ; 1908 ; 1910-1913 ; 1915-1926 ; 1929-1932). </unittitle>
+                     <unitdate normal="1807/1932">1807-1932</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 60 cahiers et pièces papier.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 20</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptabilité municipale : budgets primitifs et supplémentaires pour la municipalité de Lyoffans et pièces annexes (1846-1852 ; 1854-1863 ; 1865-1873 ; 1875-1877 ; 1880 ; 1882 ; 1887 ; 1889 ; 1891 ; 1893 ; 1894-1912 ; 1913 ; 1917 ; 1918 ; 1920 ; 1925-1927 ; 1936 ; 1939-1943). </unittitle>
+                     <unitdate normal="1846/1943">1846-1943</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 104 pièces papier.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 34</unitid>
+                     <unitid>L3</unitid>
+                     <unittitle>Revenus et charges de la commune. –Taxe des prestations et taxe sur les chiens : ordonnance de dégrèvement, circulaire, liste des propriétaires (1899-1923). Conversion des rentes de la commune : extrait du registre des délibérations du conseil municipal (1862).  </unittitle>
+                     <unitdate normal="1862/1923">1862-1923</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 4 pièces papier. 	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 21</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices communaux : actes d'acquisition du presbytère paroissial de Lyoffans (1819) ; réparation et agrandissement de l'école communale (1862) ; réparations au presbytère (1895-1899) ; établissement d'un nouveau cimetière paroissial à Lyoffans (1902-1904) ; fourniture d'une bascule publique (1900) et d'un trieur (1932) ; projet de construction de poids publics (1901) ; police d'assurance des bâtiments communaux (1932) ; travaux d'alimentation en eau potable (1941). </unittitle>
+                     <unitdate normal="1819/1941">1819-1941</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 35 pièces papier, 2 plans.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>EAU POTABLE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS ET EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 22</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux : bail des fonds communaux de Lyoffans (1807) ; tableaux des parcelles anticipées à réintégrer dans les propriétés communales et pièces diverses (1889-1907). &lt;lb/&gt;Bois communaux : délibération des bois communaux de Lyoffans, Palente, Andornay et Magny-Jobert avec plan des lieux (1823-1848) ; cahier et plan d'aménagement des bois communaux de Lyoffans  (1826) ; délimitation partielle des bois communaux (1845) ; rôles de répartition du taillis et de la futaie de l'affouage de Lyoffans (1881-1940) ; exploitation en régie de la coupe affouagère (1917) ; frais de vente de futaie (1918) ; état des biens ruraux soumis au régime forestier (s.d.). &lt;lb/&gt;Eaux : établissement d’une fontaine publique (1858), amodiation des boues des fontaines (1864-1885).</unittitle>
+                     <unitdate normal="1807/1940">1807-1940</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 2 plans  et 59 pièces papier.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                     <subject>FONTAINE</subject>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIE, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 23</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Travaux publics et voirie en général. –Aliénation de terrains communaux (1938-1939). Acquisition de terrains par la commune (1818-1892). Prestation pour l'entretien des chemins vicinaux : rôles (1852-1903). Fourniture de matériaux pour prestations (1884-1898). Formation d’un nouveau réseau vicinal : circulaire (1903). </unittitle>
+                     <unitdate normal="1818/1939">1818-1939</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 47 pièces papier.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 24</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Travaux publics et voirie en général. –Chemins de grande communication, vicinaux ordinaires et ruraux, reconnaissance, rectification et entretien : communiqué, note, bordereau, extrait du registre des délibérations du conseil municipal de Lyoffans et de Magny-Jobert, arrêtés préfectoraux, profils, devis, décision, avis, extrait d’un jugement d’expropriation, plans, tableaux généraux, procès-verbaux de reconnaissance, situations, actes d’acquisition amiable (classement par ordre numérique des chemins). </unittitle>
+                     <unitdate normal="1825/1910">1825-1910</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 86 pièces papier et 4 plans. 	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>DEVIS</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MAGNY-JOBERT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 35</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Moyens de transports et travaux divers. –Chemin de fer d’intérêt local, établissement de la ligne « Lure-Héricourt » : plan parcellaire, tableau des surfaces, arrêté préfectoral. </unittitle>
+                     <unitdate normal="1899/1900">1899-1900</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 2 pièces papier, 1 plan. 	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>LIGNE DE CHEMIN DE FER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>HERICOURT</geogname>
+                     <geogname>LURE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 36</unitid>
+                     <unitid>O4</unitid>
+                     <unittitle>Navigation et régime des eaux. –Ruisseaux du Rognon et de Clairegoutte, curage : plans, devis et cahier des charges, arrêtés préfectoraux, communiqués, registre des déclarations, note, état indicatif. </unittitle>
+                     <unitdate normal="1855/1910">1855-1910</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 17 pièces papier, 3 plans. 	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>DEVIS</genreform>
+                     <genreform>CAHIER DES CHARGES</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT DES EAUX</subject>
+                     <subject>COURS D'EAU</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 25</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Catholicisme : testament de Marie-Victoire Guenot, épouse Ruffier demeurant à Vesoul, en faveur des pauvres de Lyoffans (1837) ; comptes et budgets de la fabrique de l'église de Lyoffans (1880-1906). </unittitle>
+                     <unitdate normal="1837/1906">1837-1906</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 21 pièces papier.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TESTAMENT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DONS-ET-LEGS</subject>
+                     <subject>FABRIQUE D'EGLISE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>313 Edepot 37</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Application des lois d’assistance et de prévoyance. -Bureau d’assistance médicale, membres délégués de l’administration : communiqué.</unittitle>
+                     <unitdate normal="1925">1925</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 1 pièce papier.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE MEDICALE</subject>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

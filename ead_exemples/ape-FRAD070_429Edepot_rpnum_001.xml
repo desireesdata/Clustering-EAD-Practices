@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_429Edepot_Archives_communales_déposées_de_Pusy-et-Épenoux" url="https://francearchives.fr/findingaid/4a751f41a3df09a30b1e0fd86fdeb472cf41fcc5">FRAD70_429Edepot_Archives_communales_déposées_de_Pusy-et-Épenoux</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>429Edepot - Archives communales déposées de Pusy-et-Épenoux</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>429Edepot - Archives communales déposées de Pusy-et-Épenoux</unittitle>
+         <unitid>429Edepot1-12</unitid>
+         <unitdate normal="1596/1876">1596-1876</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE PUSY-ET-EPENOUX</corpname>
+         </origination>
+         <note label="note">
+            <p>Note : cf. E 727, registres paroissiaux de Pusy (1686-1690).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             07/07/2014
+         </p>
+         <p>Dernier ajout le             07/07/2014
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>429 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Double de l’arpentement général du territoire de Pusy. </unittitle>
+                     <unitdate normal="1707">1707</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORETS, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>429 Edepot 2</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Plan et procès-verbaux de reconnaissance des rues, chemins et communaux de Pusy, par Camus, de Faverney, arpenteur. </unittitle>
+                     <unitdate>An VII-1799</unitdate>
+                     <physdesc>
+                        <extent>1 plan.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>429 Edepot 3</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Reconnaissance par les habitants de Pusy, réunis en corps de communauté par laquelle ils règlent que plusieurs petites pièces de terre pris du moulin de Gabouret appartiennent au territoire de Pusy (1772). Délibération faite par les habitants et la communauté de Pusy au sujet de leurs sentiers et chemins communs (1773). </unittitle>
+                     <unitdate normal="1772/1773">1772-1773</unitdate>
+                     <physdesc>
+                        <extent>1 liasse.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>429 Edepot 4</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registres paroissiaux de Pusy, Auxon et Epenoux : baptêmes (deux feuillets en lambeaux qui subsistent d’un ancien registre, 1599-1600 ; un feuillet, 1631 ; 1605-1631) ; mariages (1596-1612 ; 1620-1631) ; baptêmes (un feuillet de 1663 ; 1647-1676) ; mariages (1647-1675) ; sépultures (1658-1675) ; reddition de comptes en 1667 ; baptêmes (1667-1670 ; 1667-1685).    </unittitle>
+                     <unitdate normal="1596/1685">1596-1685</unitdate>
+                     <physdesc>
+                        <extent>1 volume factice, cartonné, réunissant plusieurs registres sans couverture. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>AUXON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>429 Edepot 5</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Copie du XVIIème siècle de registres et registres paroissiaux de Pusy, Auxon et Epenoux : baptêmes, avec quelques mentions de décès en marge (1596-1598 ; 1601-1636 ; 1647-1712 ; deux actes de 1691 et de 1641 ; 1676-1730).</unittitle>
+                     <unitdate normal="1596/1730">1596-1730</unitdate>
+                     <physdesc>
+                        <extent>1 volume factice cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>AUXON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>429 Edepot 6</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registres paroissiaux de Pusy et Epenoux : sépultures (1675-1749), mariages (1676-1775).</unittitle>
+                     <unitdate normal="1675/1775">1675-1775</unitdate>
+                     <physdesc>
+                        <extent>1 volume factice cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>429 Edepot 7</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registres paroissiaux de Pusy et Epenoux : baptêmes, mariages, sépultures (1686-1690 ; 1700-1702).</unittitle>
+                     <unitdate normal="1686/1702">1686-1702</unitdate>
+                     <physdesc>
+                        <extent>Plusieurs cahiers.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>429 Edepot 8</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Pusy et Epenoux : baptêmes, mariages et sépultures (1700-1703), sépultures (1749-1775) .</unittitle>
+                     <unitdate normal="1749/1775">1749-1775</unitdate>
+                     <physdesc>
+                        <extent>1 registre.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>429 Edepot 9</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Pusy et Epenoux : baptême, mariages et sépultures.</unittitle>
+                     <unitdate normal="1730/1780">1730-1780</unitdate>
+                     <physdesc>
+                        <extent>1 registre.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>429 Edepot 10</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Pusy et Epenoux : baptême, mariages et sépultures.</unittitle>
+                     <unitdate normal="1780/1792">1780-1792</unitdate>
+                     <physdesc>
+                        <extent>1 registre.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>429 Edepot 11</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Pétition des habitants de Pusy et Epenoux tendant à ce que leur église soit ouverte au culte catholique ; extraits d’actes d’état civil (1778-1876) ; tableau des registres de l’état civil existant dans les archives de la commune (1835). </unittitle>
+                     <unitdate normal="1778/1876">1778-1876</unitdate>
+                     <physdesc>
+                        <extent>1 liasse.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PETITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>DOCUMENTS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>429 Edepot 12</unitid>
+                     <unitid>II1</unitid>
+                     <unittitle>Papiers concernant des familles : actes d’acquisition ; de notoriété de la famille Deport (1773-XIXème siècle) ; saisie de biens et mobilier pour émigration sur la famille Bureau de Pusy (1793-1795). </unittitle>
+                     <unitdate>1773-[XIXe]</unitdate>
+                     <physdesc>
+                        <extent>1 liasse.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

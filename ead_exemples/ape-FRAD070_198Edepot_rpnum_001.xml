@@ -1,0 +1,1741 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_198Edepot_Archives_communales_déposées_de_Dampierre-sur-Salon" url="https://francearchives.fr/findingaid/bce2475baeb5097c3f971109f0c19cb3b9d58b18">FRAD70_198Edepot_Archives_communales_déposées_de_Dampierre-sur-Salon</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>198Edepot - Archives communales déposées de Dampierre-sur-Salon</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>L. Georgel </author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>198Edepot - Archives communales déposées de Dampierre-sur-Salon</unittitle>
+         <unitid>198Edepot1-71</unitid>
+         <unitdate normal="1579/1993">1579-1993</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE DAMPIERRE-SUR-SALON</corpname>
+         </origination>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             21/12/2010
+         </p>
+         <p>Dernier ajout le             22/12/2010
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ACTES CONSTITUTIFS ET POLITIQUES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 65</unitid>
+                     <unitid>AA1</unitid>
+                     <unittitle>Municipalité : décret de l'Assemblée nationale (1789). Délits forestiers : décret de l'Assemblée nationale (1789). </unittitle>
+                     <unitdate normal="1789">1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ASSEMBLEE NATIONALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 1</unitid>
+                     <unitid>BB1</unitid>
+                     <unittitle>Election de commis répartiteur, échevin et garde forestier.</unittitle>
+                     <unitdate normal="1789">1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECHEVIN</subject>
+                     <subject>ELECTION</subject>
+                     <subject>GARDE FORESTIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 54</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Titres d’acensements (1579-1772) ; dénombrement et reconnaissances, charges et redevances seigneuriales (1619) ; acte de prise de possession de la seigneurie de Dampierre (1661) ; imposition sur les habitants de Dampierre à verser au quartier du marquis de La Luzerne à Membrey (1678) ; jets et impôts dus par les habitants (1678) ; traité sur la dîme due à la cure (1682) , délibérations sur la dîme seigneuriale (1789) ; arpentement de l’Ille de Vaudevant (s.d.). </unittitle>
+                     <unitdate normal="1579/1789">1579-1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                     <geogname>MEMBREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 55</unitid>
+                     <unitid>CC2</unitid>
+                     <unittitle>Comptes des échevins : registre. </unittitle>
+                     <unitdate normal="1785/1786">1785-1786</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECHEVIN</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION COMMUNALE</unittitle>
+               </did>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 2</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Biens communaux : anticipations faites sur les communaux (1742) ; vente d’une maison entre particuliers (1772) ; mémoire des biens de la commune contre le seigneur Rousillon (fin XVIIIe s.) ; inventaire des biens relatif aux bois de Dampierre et Delain (s.d.). Eglise paroissiale, reconstruction : contrat entre les habitants de Dampierre-sur-Salon et Pierre Dornier entrepreneur  (1778). &lt;lb/&gt;Bois : procès relatif aux bois entre la commune et ses seigneurs (1676-1761) ; acensement des bois dits d’Orgevaux par Claude de Pontaillier (1579) ; vente de la coupe de bois d’Orgevaux à François Monnois, maître de forges au Crochot (1683) ; vente de la coupe de bois de la grande Rieppe à Hilaire Avenne, de Gray, notaire (1687) ; expédition du quart de réserve (1711) ; traité de bois entre la communauté de Dampierre et le seigneur, marquis de Vatteville, établi d’après les droits de Saulx-Tavanne en 1676 (1724) ; procès-verbal d’arpentement (1764-1785) ; état des ventes de bois de 1752 à 1755 (s.d.) ; demande de coupe de bois par les habitants (1788). </unittitle>
+                     <unitdate normal="1579/1788">1579-1788</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                     <subject>BOIS</subject>
+                     <subject>COUPE DE BOIS</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                     <geogname>DELAIN</geogname>
+                     <geogname>GRAY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 3</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Bois communaux : pièces de procès contre les sieurs Pierre Chamerande, Servet et Joly (1754-1784), Braconnier Thérèse, veuve Carin, maître de forge (1786-1787), divers habitants de la commune (1773-1774 ; 1789), contre le sieur Malarmé (s.d.).</unittitle>
+                     <unitdate normal="1754/1789">1754-1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES, INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 4</unitid>
+                     <unittitle>Numéros vacants afin de maintenir les cotes 198 E dépôt 19 à 27, anciennement attribuées aux registres paroissiaux et d’état civil et qui figurent dans le répertoire imprimé de ceux-ci. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 5</unitid>
+                     <unittitle>Numéros vacants afin de maintenir les cotes 198 E dépôt 19 à 27, anciennement attribuées aux registres paroissiaux et d’état civil et qui figurent dans le répertoire imprimé de ceux-ci. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 6</unitid>
+                     <unittitle>Numéros vacants afin de maintenir les cotes 198 E dépôt 19 à 27, anciennement attribuées aux registres paroissiaux et d’état civil et qui figurent dans le répertoire imprimé de ceux-ci. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 7</unitid>
+                     <unittitle>Numéros vacants afin de maintenir les cotes 198 E dépôt 19 à 27, anciennement attribuées aux registres paroissiaux et d’état civil et qui figurent dans le répertoire imprimé de ceux-ci. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 8</unitid>
+                     <unittitle>Numéros vacants afin de maintenir les cotes 198 E dépôt 19 à 27, anciennement attribuées aux registres paroissiaux et d’état civil et qui figurent dans le répertoire imprimé de ceux-ci. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 9</unitid>
+                     <unittitle>Numéros vacants afin de maintenir les cotes 198 E dépôt 19 à 27, anciennement attribuées aux registres paroissiaux et d’état civil et qui figurent dans le répertoire imprimé de ceux-ci. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 10</unitid>
+                     <unittitle>Numéros vacants afin de maintenir les cotes 198 E dépôt 19 à 27, anciennement attribuées aux registres paroissiaux et d’état civil et qui figurent dans le répertoire imprimé de ceux-ci. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 11</unitid>
+                     <unittitle>Numéros vacants afin de maintenir les cotes 198 E dépôt 19 à 27, anciennement attribuées aux registres paroissiaux et d’état civil et qui figurent dans le répertoire imprimé de ceux-ci. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 12</unitid>
+                     <unittitle>Numéros vacants afin de maintenir les cotes 198 E dépôt 19 à 27, anciennement attribuées aux registres paroissiaux et d’état civil et qui figurent dans le répertoire imprimé de ceux-ci. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 13</unitid>
+                     <unittitle>Numéros vacants afin de maintenir les cotes 198 E dépôt 19 à 27, anciennement attribuées aux registres paroissiaux et d’état civil et qui figurent dans le répertoire imprimé de ceux-ci. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 14</unitid>
+                     <unittitle>Numéros vacants afin de maintenir les cotes 198 E dépôt 19 à 27, anciennement attribuées aux registres paroissiaux et d’état civil et qui figurent dans le répertoire imprimé de ceux-ci. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 15</unitid>
+                     <unittitle>Numéros vacants afin de maintenir les cotes 198 E dépôt 19 à 27, anciennement attribuées aux registres paroissiaux et d’état civil et qui figurent dans le répertoire imprimé de ceux-ci. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 16</unitid>
+                     <unittitle>Numéros vacants afin de maintenir les cotes 198 E dépôt 19 à 27, anciennement attribuées aux registres paroissiaux et d’état civil et qui figurent dans le répertoire imprimé de ceux-ci. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 17</unitid>
+                     <unittitle>Numéros vacants afin de maintenir les cotes 198 E dépôt 19 à 27, anciennement attribuées aux registres paroissiaux et d’état civil et qui figurent dans le répertoire imprimé de ceux-ci. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 18</unitid>
+                     <unittitle>Numéros vacants afin de maintenir les cotes 198 E dépôt 19 à 27, anciennement attribuées aux registres paroissiaux et d’état civil et qui figurent dans le répertoire imprimé de ceux-ci. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 19</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial : baptêmes (1656-1715) ; sur le dernier feuillet est mentionné la bénédiction des cloches (1700).</unittitle>
+                     <unitdate normal="1656/1715">1656-1715</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 20</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial : sépultures (1679-1717), baptêmes, mariages, sépultures (1731-1734), mariage (1705-1718, 1680-1705). </unittitle>
+                     <unitdate normal="1679/1734">1679-1734</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 21</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial : baptême (1715-1718), baptême, mariage, sépulture (1718-1731).</unittitle>
+                     <unitdate normal="1715/1731">1715-1731</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 22</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial baptême, mariage, sépulture.</unittitle>
+                     <unitdate normal="1734/1752">1734-1752</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 23</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial baptême, mariage, sépulture.</unittitle>
+                     <unitdate normal="1752/1766">1752-1766</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 24</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial baptême, mariage, sépulture.</unittitle>
+                     <unitdate normal="1766/1774">1766-1774</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 25</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial baptême, mariage, sépulture.</unittitle>
+                     <unitdate normal="1774/1780">1774-1780</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 26</unitid>
+                     <unitid>GG8</unitid>
+                     <unittitle>Registre paroissial baptême, mariage, sépulture.</unittitle>
+                     <unitdate normal="1780/1789">1780-1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 27</unitid>
+                     <unitid>GG9</unitid>
+                     <unittitle>Registre paroissial baptême, mariage, sépulture (1789-1791) avec table sur feuillets papier indépendants et une table des naissances (1700-1728) à la fin du registre. </unittitle>
+                     <unitdate normal="1700/1791">1700-1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 28</unitid>
+                     <unitid>GG10</unitid>
+                     <unittitle>Echange de terre entre l’avocat Richardot et la fabrique (1724) ; baux passés entre Pierre Robert et Jean-Baptiste Lobereau, procureur spécial de la confrérie de la conception érigée en l’église (1786 ; 1788) ; marché de recteur d’école (1789). </unittitle>
+                     <unitdate normal="1724/1789">1724-1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>ENSEIGNEMENT</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AGRICULTURE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 56</unitid>
+                     <unitid>HH1</unitid>
+                     <unittitle>Marché pour conduire les troupeaux.</unittitle>
+                     <unitdate normal="1789">1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 29</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal : registre pour servir à l’enregistrement des décrets de l’Assemblée nationale sur les municipalités, de lettres-patentes du roi et procès-verbaux d’élections des officiers municipaux, comptes-rendus et délibérations des séances du conseil général de la commune (1789-1791) , comptes de la commune (an V ; an IX). </unittitle>
+                     <unitdate normal="1789/1801">1789-1801</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 30</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal : registre pour servir à l’enregistrement des décrets de l’Assemblée nationale sur les municipalités, de lettres-patentes du roi et procès-verbaux d’élections des officiers municipaux, délibérations du conseil général de la commune, arrêtés. </unittitle>
+                     <unitdate normal="1790/1794">1790-1794</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 31</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations . </unittitle>
+                     <unitdate normal="1791/1897">1791-1897</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 32</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations et arrêtés (1808-1813), affaires militaires, rôles de répartitions d’avoine, recensements (1808-1824). </unittitle>
+                     <unitdate normal="1808/1824">1808-1824</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ARMEE</subject>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                     <subject>SUBSISTANCES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 33</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (1813-1820) et arrêtés du maire (1821-1826).                                                                                       </unittitle>
+                     <unitdate normal="1813/1826">1813-1826</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 34</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations et arrêtés du maire, affaires militaires.                                                                </unittitle>
+                     <unitdate normal="1825/1831">1825-1831</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ARMEE</subject>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 35</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations et arrêtés du maire (1832-1839), comptes (1848-1866).</unittitle>
+                     <unitdate normal="1832/1866">1832-1866</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 36</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.  </unittitle>
+                     <unitdate normal="1838/1844">1838-1844</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 37</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.  </unittitle>
+                     <unitdate normal="1844/1853">1844-1853</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 38</unitid>
+                     <unitid>D10</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.  </unittitle>
+                     <unitdate normal="1854/1858">1854-1858</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 39</unitid>
+                     <unitid>D11</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.  </unittitle>
+                     <unitdate normal="1858/1863">1858-1863</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 40</unitid>
+                     <unitid>D12</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.  </unittitle>
+                     <unitdate normal="1864/1875">1864-1875</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 41</unitid>
+                     <unitid>D13</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.  </unittitle>
+                     <unitdate normal="1876/1893">1876-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 42</unitid>
+                     <unitid>D14</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.  </unittitle>
+                     <unitdate normal="1893/1906">1893-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 43</unitid>
+                     <unitid>D15</unitid>
+                     <unittitle>Actes de l’administration municipale : registre des arrêtés du maire. </unittitle>
+                     <unitdate normal="1840/1878">1840-1878</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>MAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 44</unitid>
+                     <unitid>D16</unitid>
+                     <unittitle>Actes de l’administration municipale : registre des arrêtés du maire. </unittitle>
+                     <unitdate normal="1873/1913">1873-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>MAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 45</unitid>
+                     <unitid>D17</unitid>
+                     <unittitle>Actes de l’administration municipale : registre servant à l’enregistrement de la correspondance reçue (an II-an III), état nominatif des contribuables de l’an VI. Registre de copies de correspondance (1874-1921). Registre destiné à recevoir les marchés et amodiations faits par la commune (an V-an VII). </unittitle>
+                     <unitdate normal="1794/1921">1794-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 57</unitid>
+                     <unitid>D18</unitid>
+                     <unittitle>Administration de la commune : délibération portant division du territoire de la commune en 27 sections (1791). Manuel des commissaires du Directoire exécutif prés les administrations centrales et municipales : publicité (an VIII).   </unittitle>
+                     <unitdate normal="1791/1800">1791-1800</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROSPECTUS</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 46</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Registre des tables des naissances (an V-an VIII) ; état nominatif des décès survenus à Dampierre pour les mois de vendémiaire et frimaire de l’an X (an X). Rapport du tribunal de Gray suite à la vérification des registres d’état civil (1807) ; extraits d’actes d’état civil envoyés par d’autres communes (1807-1808). </unittitle>
+                     <unitdate normal="1797/1808">1797-1808</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE D'ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 58</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : dénombrement de la population : liste nominative (an IX). &lt;lb/&gt;Commerce et industrie : questionnaire statistique sur les tanneries (1811). </unittitle>
+                     <unitdate normal="1801/1811">1801-1811</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COMMERCE</subject>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 47</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs : délibération relative à la répartition des impôts directs (1790) ; nomination d’un commissaire répartiteur (1791) ; nomination d’office d’un percepteur des contributions par le sous-préfet de Gray (an XI) ; adjudications de la perception de la contribution foncière, personnelle et mobilière (an XI ; 1810) ; mandements de répartitions des contributions directes (1824).  &lt;lb/&gt;Impôts extraordinaires : avis de contribution patriotique (1789-1790), registre de déclarations des contribuables (1789). &lt;lb/&gt;Rapports de la commune avec les diverses administrations au point de vue financier : procès-verbal de reconnaissance de pièces de monnaie existantes dans les caisses de la commune, provenant des recettes de garde de bois (1810). </unittitle>
+                     <unitdate normal="1789/1824">1789-1824</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>AVIS</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>TAXE EXTRAORDINAIRE D'ANCIEN REGIME</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 48</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Canton : registre d’engagements volontaires (1826-1877) et enregistrement sommaire des passeports délivrés de 1832 à 1879. </unittitle>
+                     <unitdate normal="1826/1879">1826-1879</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                     <geogname>DAMPIERRE-SUR-SALON (canton)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 49</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Canton : registre d’engagements volontaires. </unittitle>
+                     <unitdate normal="1877/1903">1877-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                     <geogname>DAMPIERRE-SUR-SALON (canton)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 59</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recrutement : enrôlement volontaire pour la compagnie de réserve (1809). &lt;lb/&gt;Administration militaire : dispensés et absents (an VIII-anXI) ; demande de renseignements sur les récoltes (1833) ; mesures pour les militaires en cantonnement atteints du choléra (1832) ; pétition relative à une réquisition de foin pour l’armée (an II). Compte du receveur du comité permanent et trésorier de la milice nationale (1789) ; correspondance du comité permanant de la milice (1789-1790) ; débit de poudre (1808).  &lt;lb/&gt;Garde nationale : contrôle de la garde nationale (1816). </unittitle>
+                     <unitdate normal="1789/1833">1789-1833</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GARDE NATIONALE</subject>
+                     <subject>ORGANISATION DE L'ARMEE</subject>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 50</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale : prostitution (1916-1917, s.d.) ; demandes de secours suite à un incendie (an XII ; 1807) ; règlement relatif à la lutte contre les incendies (an VIII). &lt;lb/&gt;Police générale. –Etranger : registre d’immatriculation (1901-1935) (registre composite, comporte également : transcription des consentements à mariage (1896-1897)).  Canton : demandes de passeports (1809). &lt;lb/&gt;Justice : exploits d’assignations et de commandements signifiés au maire (1790-an XII) ; lettre du magistrat de sûreté de l’arrondissement de Gray sur les étrangers (1810). </unittitle>
+                     <unitdate normal="1790/1935">1790-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>EXPLOIT D'HUISSIER</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>REGLEMENT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>INCENDIE</subject>
+                     <subject>JUSTICE</subject>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                     <geogname>DAMPIERRE-SUR-SALON (canton)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 60</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections : élections nationales, liste des notables du département (an IX). Elections départementales, liste des notables du département (1790-an IX). Elections communales : liste électorales et listes de scrutins (an IX) ; arrêté de nomination des membres du conseil municipal (1821). &lt;lb/&gt;Personnel municipal : demande de démission du receveur des impositions de la commune (an III) ; pétitions du garde-champêtre et forestier relatives aux salaires dû par la commune (an X-an XI) ; demande d’indemnités pour leçon de caisse à des élèves-tambours (1850) ; marché de pâtre (an IX). </unittitle>
+                     <unitdate normal="1790/1850">1790-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PETITION</genreform>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 51</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptabilité : comptes d’échevin (1790-1791) ; comptes de gestion du receveur de la commune (1810-1831, 1897-1899, 1922-1929) ; règlement définitif des recettes et dépenses (1899). &lt;lb/&gt;Revenus et charges de la commune : rente annuelle due par la commune (an X). </unittitle>
+                     <unitdate normal="1790/1929">1790-1929</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECHEVIN</subject>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 61</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices publics : pétition pour loger l’instituteur et l’institutrice dans le presbytère (an III) ; avis de visite de reconnaissance de la fontaine et de la maison commune (1833) ; demande de construction d’une maison d’école et logement de l’institutrice (1846-1847). &lt;lb/&gt;Edifices du culte et cimetières : amodiation du presbytère (an VI-an IX) ; réparations au presbytère et à l’église (an XII ; 1810) ; demande d’échange de terrains pour établir le cimetière (an XII). Eglise, établissement d’une tribune et d’une porte : mémoire contenant un exposé des motifs et un devis (1893).  </unittitle>
+                     <unitdate normal="1790/1893">1790-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DEVIS</genreform>
+                     <genreform>AVIS</genreform>
+                     <genreform>PETITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>FONTAINE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 52</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux : reconnaissance de terres, prés, vignes appartenant à la commune (1790) ; inventaire des pièces relatives aux biens communaux (s.d.) ; reconnaissance des anticipations faites sur la commune (1790-1810) ; acensement perpétuel de terrains communaux, baux (an IV-1811 ; 1842-1849) ; vaine pâture, règlement (1790 ; an XII). &lt;lb/&gt;Bois : vente du quart de réserve (1790-1791) ; recépage du quart de réserve (1811) ; vente de menus produits (1790 ; an XII) ; circulaire de l’administration générale des bois concernant l’exploitation des bois (an XI) ; exploitation de la coupe : distribution du bois de l’assiette en usance (an IX-1808) ; martelage des bois de la marine (an IX-an XII), des bois de l’artillerie (1810-1811) ; jugement contre Philippe Ducornet et Antoine Mougin, gardes forestiers (an XI-an XII) ; avis de remplacement d’un garde-forestier (1808) ; marché de bûcheron (1791) ; délits forestiers (1790) ; rôles de distribution de l’assiette (1789-an VIII). </unittitle>
+                     <unitdate normal="1790/1849">1790-1849</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>AVIS</genreform>
+                     <genreform>ROLE</genreform>
+                     <genreform>REGLEMENT</genreform>
+                     <genreform>INVENTAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIE, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 53</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Voirie urbaine : demande de réparations du mur longeant une allée servant de promenade publique (an XI) ; registre de numérotage des maisons (1903). &lt;lb/&gt;Petite voirie : anticipations sur les chemins (an VI-an X) ; procès-verbaux de reconnaissance et estimation des réparations à faire au chemin de Dampierre à Montot et au répurgement à la rivière (1791) ; réparations aux chemins vicinaux (an VI-1810 ; 1845) ; entretien des ponts (an IX) ; rôles de réparation des travaux à faire pour la réparation des chemins vicinaux (1790-1806). &lt;lb/&gt;Moyens de transport et travaux divers : demande de chemin à emprunter pour exploiter une mine et procès-verbaux de reconnaissance dudit chemin (1791). &lt;lb/&gt;Navigation et régime des eaux : pièces de procédure entre la commune et le sieur Malarmé relatives au fourneau de ce dernier et au niveau d’élévation du réservoir d’eau (1790-an II) ; curage des fossés (an X-an XIV) ; anticipations sur la rivière (1790 ; 1846). </unittitle>
+                     <unitdate normal="1790/1846">1790-1846</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 66</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Travaux publics et voirie en général : plan d’alignement des rues.</unittitle>
+                     <unitdate normal="1842">1842</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 62</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte catholique : lettre du préfet concernant le logement du curé, son traitement, la remise des objets pour le service divin (an XII) ; revendications d’un pré par la fabrique (1813). </unittitle>
+                     <unitdate normal="1804/1813">1804-1813</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CULTE</subject>
+                     <subject>FABRIQUE D'EGLISE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 63</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Bureaux de bienfaisance : registres de délibérations (1846-1855 ; 1861-1892). Canton : registre de délibération du bureau de bienfaisance (1809-1812). </unittitle>
+                     <unitdate normal="1809/1892">1809-1892</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>STRUCTURE COMMUNALE D'AIDE SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                     <geogname>DAMPIERRE-SUR-SALON (canton)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 67</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Bureau de bienfaisance, secours d’urgence. –Bureau de bienfaisance, comptabilité : budgets et budgets additionnels (1864, 1869, 1871-1877, 1879-1900), comptes administratifs (1887, 1889, 1891, 1893), comptes de gestion (1897-1899, 1922-1929), règlements définitifs des recettes et dépenses (1876, 1885, 1888, 1890-1895, 1897, 1899-1900) ; legs : communiqué (photocopie, 1882). Secours d’urgence : billets de logement de voyageurs indigents (1883-1885, s.d.). </unittitle>
+                     <unitdate normal="1864/1929">1864-1929</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>INDIGENT</subject>
+                     <subject>STRUCTURE COMMUNALE D'AIDE SOCIALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 68</unitid>
+                     <unitid>Q4</unitid>
+                     <unittitle>Etablissements hospitaliers ; hospitalisation. –Orphelinat Beauvalet, legs Beauvalet : copie d’acte de mariage, copie de correspondance, copie d’acte de décès (1845-1886) ; administration : communiqué (photocopie, 1888) ; comptabilité : comptes de gestion (1897-1899, 1922-1929), communiqué (photocopie, 1888) ; enquête de l’Institut national de la statistique et des études économiques : questionnaire (photocopie, 1992) ; dissolution : arrêté préfectoral, extraits du procès-verbal des délibérations du conseil municipal, extrait du registre des délibérations du conseil municipal copie de jugement (1990-1993). Hospice : comptes de gestion (1897-1899, 1922-1929), inventaire des archives (1895). </unittitle>
+                     <unitdate normal="1845/1993">1845-1993</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>QUESTIONNAIRE D'ENQUETE</genreform>
+                     <genreform>INVENTAIRE</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETABLISSEMENT MEDICO SOCIAL</subject>
+                     <subject>ORPHELINAT</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Orphelinat Beauvalet</corpname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 71</unitid>
+                     <unitid>Q3</unitid>
+                     <unittitle>Etablissements hospitaliers ; hospitalisation. -Orphelinat Beauvalet, délibérations de la commission administrative : registre.</unittitle>
+                     <unitdate normal="1888/1993">1888-1993</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ORPHELINAT</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Orphelinat Beauvalet</corpname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 64</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique. –Comité cantonal de l’instruction publique : registre des délibérations (1856) (registre composite, comporte également : comité républicain du canton de Dampierre : liste des membres, délibérations, correspondance (1885-1896), comptes du secrétaire (1885-1889). </unittitle>
+                     <unitdate normal="1856/1896">1856-1896</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENSEIGNEMENT</subject>
+                     <subject>VIE POLITIQUE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DAMPIERRE-SUR-SALON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 69</unitid>
+                     <unitid>R2</unitid>
+                     <unittitle>Instruction publique. –Caisse des écoles : budgets (1889-1900). Instituteur, nomination et rémunération : marché, extrait du registre des délibérations (an XI). Mobilier des écoles : inventaires (1885-1957).</unittitle>
+                     <unitdate>An XI-1957</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>INVENTAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENSEIGNEMENT</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>PIECES NE RENTRANT PAS DANS LES SERIES PRECEDENTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>198 Edepot 70</unitid>
+                     <unitid>S1</unitid>
+                     <unittitle>Papiers personnels de Monsieur Hyppolite Couyba, boulanger à Dampierre-sur-Salon, et de sa sœur Mathilde Couyba, femme Rousset, domiciliée à Autrey : correspondance, reçus, mandats, exploits d’huissier (1865-1872, s.d.).   </unittitle>
+                     <unitdate normal="1865/1872">1865-1872</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

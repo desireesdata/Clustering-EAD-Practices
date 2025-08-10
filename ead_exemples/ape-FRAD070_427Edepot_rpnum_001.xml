@@ -1,0 +1,1405 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_427Edepot_Archives_communales_déposées_de_Purgerot" url="https://francearchives.fr/findingaid/43984a6df3a36b8948a0ed1c7d56b91119816bc4">FRAD70_427Edepot_Archives_communales_déposées_de_Purgerot</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>427Edepot - Archives communales déposées de Purgerot</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>427Edepot - Archives communales déposées de Purgerot</unittitle>
+         <unitid>427Edepot1-46</unitid>
+         <unitdate normal="1660/1935">1660-1935</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE PURGEROT</corpname>
+         </origination>
+         <note label="note">
+            <p>Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 4223, élections des députés et remontrances, plaintes et doléances que les habitants de Purgerot présentent à l'assemblée générale du bailliage de Vesoul (1789).
+B 5648, requête tendant à ce que les habitants de Purgerot soient condamnés à faire un rôle d'impositions de la somme de 83 francs (1756).
+B 5994, procès au sujet du bail du moulin appelé d'Affondrac, sis au territoire de Purgerot (1694-1695).
+B 6191, procès-verbaux d'enquêtes faites au bailliage d'Amont concernant les habitants et communauté de Purgerot (1719).
+B 8738, justice seigneuriale de Purgerot (1722-1778).
+B 9533,  arpentement général du territoire de Purgerot (1780).
+E 672, 674, 675, 681, titres de la famille Foillenot concernant Purgerot (1202-an V).
+E 770,  titres de la famille de Raincourt concernant Purgerot (1514).
+E 873, convention entre la communauté de Purgerot et le recteur d'école (1737).
+E 901, ordonnance royale enjoignant à la communauté de payer au sieur Deroche ce qu'elle lui doit (1770).
+H 247, 256, 264, 320-322, archives de l'abbaye de Cherlieu concernant Purgerot (XII° siècle-1768).
+H 435, 460, 477, 554, archives de l'abbaye de Faverney concernant Purgerot (767-1773).
+1 J 51, 74, 604, 240, 264, 748, archives concernant Purgerot (1211-1843).
+34 J 18, cahier  de fondations de messe (1630-1727).
+299 L 1, 368 L 249 et 356, 391 L 29 et 53, époque révolutionnaire.
+3 O 441, travaux communaux.</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             01/01/1960
+         </p>
+         <p>Dernier ajout le             31/08/2006
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> FINANCES ET IMPOTS (1775-1784)</p>
+         <p>  427 Edepot 1-3</p>
+         <p> BIENS COMMUNAUX-EAUX ET FORETS-VOIRIE (1739-1792)</p>
+         <p>  427 Edepot 4-6</p>
+         <p> JUSTICE (1684)</p>
+         <p>  427 Edepot 7</p>
+         <p> CULTE (1660-1791)</p>
+         <p>  427 Edepot 8, 427 Edepot 12-16</p>
+         <p> DOCUMENTS D'ORIGINE PRIVEE (...)</p>
+         <p>  427 Edepot 17</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1793-1915)</p>
+         <p>  427 Edepot 9-11, 427 Edepot 18-19</p>
+         <p> POPULATION-ECONOMIE SOCIALE-STATISTIQUES (1841-1935)</p>
+         <p>  427 Edepot 20-22</p>
+         <p> CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES (1829-1921)</p>
+         <p>  427 Edepot 23-28</p>
+         <p> AFFAIRES MILITAIRES (1816-1914)</p>
+         <p>  427 Edepot 29-30</p>
+         <p> POLICE-HYGIENE PUBLIQUE-JUSTICE (...)</p>
+         <p>  427 Edepot 31</p>
+         <p> ELECTIONS ET PERSONNEL (1821-1935)</p>
+         <p>  427 Edepot 32-33</p>
+         <p> FINANCES DE LA COMMUNE (1790-1850)</p>
+         <p>  427 Edepot 34-35</p>
+         <p> EDIFICES COMMUNAUX (1809-1902)</p>
+         <p>  427 Edepot 36-37</p>
+         <p> BIENS ET BOIS COMMUNAUX-EAUX (1791-1919)</p>
+         <p>  427 Edepot 38-40</p>
+         <p> VOIRIE-REGIME DES EAUX (1833-1928)</p>
+         <p>  427 Edepot 41-42</p>
+         <p> CULTE (1840-1880)</p>
+         <p>  427 Edepot 43</p>
+         <p> ASSISTANCE ET PREVOYANCE (1849-1927)</p>
+         <p>  427 Edepot 44</p>
+         <p> INSTRUCTION PUBLIQUE (1790-1912)</p>
+         <p>  427 Edepot 45</p>
+         <p> DOCUMENTS D'ORIGINE PRIVEE (1894)</p>
+         <p>  427 Edepot 46</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>FINANCES ET IMPOTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Livre d'arpentement du territoire de Purgerot  : exemplaire original portant la signature de François-Benoît Lonchamp, arpenteur, avec table alphabétique des propriétaires mise à jour au XIX° siècle (1780-1781).&lt;lb/&gt;&lt;lb/&gt;1 registre relié dos cuir.</unittitle>
+                     <unitdate normal="1780/1781">1780-1781</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>LONCHAMP (François-Benoît)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 2</unitid>
+                     <unitid>CC2</unitid>
+                     <unittitle>Livre d'arpentement, avec liste des propriétaires mise à jour au XIX° siècle, dressé par François-Benoît Lonchamp, arpenteur (1780-1781). Copie du précédent.&lt;lb/&gt;&lt;lb/&gt;1 registre couvert en cuir.</unittitle>
+                     <unitdate normal="1780/1781">1780-1781</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>LONCHAMP (François-Benoît)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 3</unitid>
+                     <unitid>CC3</unitid>
+                     <unittitle>Requête de Jean Ducret, receveur des revenus patrimoniaux, afin d'être acquitté de différentes sommes d'argent (1784). Requête de Claude-François Huot contre les commis-répartiteurs (1775).</unittitle>
+                     <unitdate normal="1775/1784">1775-1784</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>DUCRET (Jean)</persname>
+                     <persname>HUOT (Claude-François)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX-EAUX ET FORETS-VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 4</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Pièces de procédure entre la communauté de Purgerot d'une part, et celles de Chargey-lès-Port et Conflandey d'autre part, concernant des anticipations sur des communaux (1667-an X). Amodiations de communaux (1788). Bail des fonds sur Purgerot, appartenant à l'abbaye de Cherlieu (1788) ; vente de ces fonds (1791). Pièces de procédure concernant les droits d'usage dans le bois appelé "les Aiglières" (1784-an IX). Communaux : plan géométrique de plusieurs pièces d'héritages, dressé par François Durget, arpenteur (1761). </unittitle>
+                     <unitdate>1667-an X</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>AIGLIERES (LES)</geogname>
+                     <geogname>CHARGEY-LES-PORT</geogname>
+                     <geogname>CONFLANDEY</geogname>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>DURGET (François)</persname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Abbaye de Cherlieu</corpname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 5</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Mesurage et abornement de tous les chemins et communaux du finage de Purgerot : plan, dressé par François-Benoît Lonchamp, arpenteur (1778),  en mauvais état.</unittitle>
+                     <unitdate normal="1778">1778</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : En mauvais état.</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BOURQUIN (Jean-Claude)</persname>
+                     <persname>FOULON (Pierre)</persname>
+                     <persname>LONCHAMP (François-Benoît)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 6</unitid>
+                     <unitid>DD3</unitid>
+                     <unittitle>Pièces de procédure entre la communauté de Purgerot et Pierre Foulon, concernant un dépôt de déblais dans un "treige" de la commune (1777-1779, dont 1 parchemin). Fontaine : procès-verbal de visite (1739). Eglise : marché pour la fourniture du luminaire (1792) ; la commune fait don de 2 vases d'argent de l'église pour qu'ils soient déposés sur l'autel de la Patrie (an II). Presbytère : marché de réparation avec Jean-Claude Bourquin (1790).</unittitle>
+                     <unitdate normal="1739/1792">1739-1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 7</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Justice seigneuriale de Purgerot (1 cahier).</unittitle>
+                     <unitdate normal="1684">1684</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CAHIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 8</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Réquisition au profit de Jussey, des livres du curé Delestre, autrefois à Cornot avant de demeurer à Purgerot.</unittitle>
+                     <unitdate>An II</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 12</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Purgerot, il manque plusieurs feuillets au début : 1 page détachée, sépultures (1665-1668) ; sépultures (1681-1685) ; mariages (1660-1684) ; baptêmes (1662-1685) ; baptêmes, mariages, sépultures (1685-1708).&lt;lb/&gt;1 registre papier couvert d'un parchemin manuscrit médiéval.</unittitle>
+                     <unitdate normal="1660/1708">1660-1708</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi5R46</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 13</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Purgerot : baptêmes, mariages, sépultures (1709-1717, 1756-1765).&lt;lb/&gt;1 registre papier relié d'un parchemin du XVI° siècle, avec signature Richardot dissimulé dans la plat cartonné, début XIX° siècle.</unittitle>
+                     <unitdate normal="1709/1765">1709-1765</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi5R46</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 14</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Purgerot : baptêmes, mariages, sépultures (1716-1756).&lt;lb/&gt;1 registre couvert de 2 feuillets d'un parchemin manuscrit médiéval.</unittitle>
+                     <unitdate normal="1716/1756">1716-1756</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi5R46</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 15</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Purgerot : baptêmes, mariages, sépultures (1766-1775)&lt;lb/&gt;1 registre papier relié.</unittitle>
+                     <unitdate normal="1766/1775">1766-1775</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi5R46</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 16</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Purgerot : baptêmes, mariages, sépultures (1776-1791).&lt;lb/&gt;1 registre papier relié.</unittitle>
+                     <unitdate normal="1776/1791">1776-1791</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi5R46</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>DOCUMENTS D'ORIGINE PRIVEE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 17</unitid>
+                     <unitid>II1</unitid>
+                     <unittitle>Déclaration des terres et prés que possède Anne-Constance Jacquemin sur Vy-lès-Rupt (s. d.)</unittitle>
+                     <unitdate>XVIII° siècle</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                     <geogname>VY-LES-RUPT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>JACQUEMIN (Anne-Constance)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 9</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal de Purgerot.</unittitle>
+                     <unitdate>1790-an IV</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 10</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal de Purgerot.</unittitle>
+                     <unitdate normal="1838/1855">1838-1855</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 11</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal de Purgerot.</unittitle>
+                     <unitdate normal="1856/1883">1856-1883</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 18</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal de Purgerot.</unittitle>
+                     <unitdate normal="1883/1915">1883-1915</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 19</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Extraits de délibérations du conseil municipal de Purgerot (1815-1819, 1 cahier ; 1793-an III). Répertoires des actes soumis à l'enregistrement (1806-1826, 1828-1888).</unittitle>
+                     <unitdate normal="1793/1888">1793-1888</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-STATISTIQUES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 20</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Mouvement annuel de la population (1853-1904, 1906).</unittitle>
+                     <unitdate normal="1853/1906">1853-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 21</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Dénombrement quinquennal : listes nominatives (1841, 1856-1906).</unittitle>
+                     <unitdate normal="1841/1906">1841-1906</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi135</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 22</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Statistiques agricoles annuelles (1858-1860, 1862, 1864-1867, 1869, 1871-1872, 1888-1890, 1892-1918, 1921, 1925-1926, 1928, 1932, 1935) ; internationale (1873) ; décennale (1882-1892). Etats des récoltes (1864, 1867, 1869, 1871-1873, 1875, 1877, 1881). Entretien et fourniture du taureau communal : marchés (1868-1912).</unittitle>
+                     <unitdate normal="1858/1935">1858-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 23</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Télégraphe, projet de relier le canton de Combeaufontaine au réseau départemental (1869).&lt;lb/&gt;Contributions : tableau comparatif des évaluations des maisons et usines (s.d.). Métré général des bâtiments de la commune (1842). Commissaires-répartiteurs : listes (1851-1903). Taxes vicinales : rôles (1870, 1875, 1905). Taxes sur les chiens : rôle (1905). Contributions directes et taxes de prestations en nature : réclamations (1898-1906).</unittitle>
+                     <unitdate normal="1842/1906">1842-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                     <subject>TELEGRAPHE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 24</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Matrices générales (1829-1831, 1839-1848).</unittitle>
+                     <unitdate normal="1829/1848">1829-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 25</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1850/1865">1850-1865</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 26</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1866/1881">1866-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 27</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1882/1899">1882-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 28</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1900/1921">1900-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 29</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recensement des jeunes gens : tableaux (1816, 1827-1831, 1833-1914).</unittitle>
+                     <unitdate normal="1816/1914">1816-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 30</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Armée révolutionnaire, formation d'une armée dans le département (an II).&lt;lb/&gt;Armée territoriale : tableau de recensement des classes 1855 à 1866. Formation : avis d'inscription (1874), état des citoyens non mariés de 25 à 35 ans (1870).&lt;lb/&gt;Garde nationale : état des mobilisés ayant 21 ans accomplis au 1er avril 1919. Etat nominatif des classes 1864, 1868. Listes des gardes nationaux de 21 à 55 ans (1848). Listes de recensement (s.d.). Etats des mutations (1840, 1849). Relevé nominatif des bulletins individuels des célibataires de 20 à 35 ans (1841). Feuilles d'appel pour servir aux visites d'armes (1840). Etat des hommes auquel la commune a distribué des fusils (s.d.). Elections des officiers et sous-officiers : procès-verbaux (1831-1848). Bataillon cantonal : règlement (1832), arrêté ordonnant le retrait des armes (1851). extrait du tableau cantonal (1848).&lt;lb/&gt;Sapeurs-pompiers : liste électorale (1907) et procès-verbal d'élection (1907).</unittitle>
+                     <unitdate>An XII-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE-JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 31</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Ramonage des cheminées : marchés (1864, 1887, 1896). Sinistres : secours pour pertes (1888, 1901) et états (1901), états des sinistres (1890-1909), déclarations manuscrites des pertes (s.d.). Transports de corps et permis d'inhumer (1883-1895).&lt;lb/&gt;Police générale : souches de passeport (1859, 1871).&lt;lb/&gt;Justice. Saisie de meubles et biens : procès-verbaux (an XII) ; listes générales du jury (1849-1853) ; jugement autorisant François Thevenot, enfant mineur, à s'engager dans la flotte française (1892).&lt;lb/&gt;Hygiène publique et salubrité : statistique du choléra (1855). Admission d'une élève sage-femme à Paris : arrêté préfectoral (1809). Vaccination : nomination d'un vaccinateur (1916). Salubrité publique : arrêté de police (1883). Epizooties : dénombrement des animaux (1871), arrêtés préfectoraux (1913, 1920).</unittitle>
+                     <unitdate>An XII-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PASSEPORT</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                     <subject>POLICE</subject>
+                     <subject>PROTECTION SANITAIRE DU CHEPTEL</subject>
+                     <subject>SINISTRE</subject>
+                     <subject>TRANSPORT DE CORPS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 32</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales (1840, 1843, 1846, 1848-1853, 1855-1857, 1859, 1871, 1876-1914, 1919-1923, 1935).</unittitle>
+                     <unitdate normal="1840/1935">1840-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 33</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections municipales (1821-1932), élections législatives (1852-1919), élections au conseil général (1852-1925), vote pour le rétablissement de l'Empire (1852), plébiscite (1870), élections au conseil d'arrondissement (1861-1922), élections sénatoriales (1881, 1908, 1919, 1935) : procès-verbaux. Elections à la chambre de commerce (1908-1921), à la chambre d'agriculture (1920) : listes électorales.&lt;lb/&gt;Personnel communal. - Gardes-forestiers, révocation, nomination, traitement (1840-1863). Gardes-champêtres, traitement, révocation (1866-1876). Cantonnier, nomination (1904).</unittitle>
+                     <unitdate normal="1821/1935">1821-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 34</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Finances communales : comptes et pièces diverses (1790-1829), comptes de gestion (1791-1850).</unittitle>
+                     <unitdate normal="1790/1850">1790-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 35</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Budgets (1812-1849) et compte administratif (1849).</unittitle>
+                     <unitdate normal="1812/1849">1812-1849</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PORT D'ATELIER</geogname>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 36</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>Réparations aux fontaines, maison commune et église : devis (1901). Maison commune-école de garçons, construction : plan ; réparations ; acquisition d'une maison : actes notariés (an IV-1875). Four communal, réparations : procès-verbal de visite (an VII), devis (1812). Fontaines, construction, acquisition de terrain, reconstruction avec conduite en fonte, réparations, alimentation de la fontaine (1832-1901, plans). Fontaine à Port-d'Atelier, construction d'un aqueduc (1818), réparations de la conduite d'eau (1877), couverture de la fontaine (1890). Remise des pompes et corps de garde : plan ; acquisition d'une maison : acte notarié (1843). Ecole des filles, projet de réparations et d'exhaussement : devis et plan (1851). Ouverture d'une école mixte à Port-d'Atelier, achat d'une maison (1863-1869). Pont à bascule, établissement : marchés (1892-1893).</unittitle>
+                     <unitdate>An IV-1901</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 37</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>Réparations à l'église et au presbytère (1857). Eglise, réparations : devis ; réparations au clocher : plan, refonte d'une cloche, réparations de la grosse cloche (1809-1902). Presbytère, projet de réparations : devis et plan, échange d'immeubles : acte notarié, clôture du jardin : devis, et agrandissement du jardin (1828-1879). Cimetière, acquisition de terrain : acte notarié, réparations aux murs, projet de construction d'un nouveau cimetière (1835-1881, plan).</unittitle>
+                     <unitdate normal="1809/1902">1809-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 38</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Partage des communaux (1793). Terrain communal : plan (an V) et plan de la commune (an XIII). Mise en valeur des terrains, état des biens (1867). Acquisition de terrains, vente, droit de servitude : actes notariés (1839-1919). Délimitation de propriétés avec des terrains communaux : pièces de procédure entre la commune et plusieurs particuliers (1845-1854, plans).</unittitle>
+                     <unitdate normal="1793/1919">1793-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 39</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Ventes de bois (1793-1810). Balivage et martelage : procès-verbaux (an II, 1840). Délimitation des bois : procès-verbaux de reconnaissance (1841-1869). Ouverture d'une ligne sommière : plan (1850). Répartition du taillis et distribution de la futaie : rôles (1817, 1828-1870). Exploitation de la coupe affouagère (an XIII, 1810-1814, 1833, 1858). Réclamation d'affouage (1828-1830). Répartition proportionnelle des taxes affouagères (1872). Location de la chasse (1829, 1842-1908).&lt;lb/&gt;Source, permission des propriétaires pour faire des recherches sur leurs terrains, promesse de vente, échange d'une source contre un terrain (1847-1848, 1893).</unittitle>
+                     <unitdate normal="1793/1908">1793-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>EAU SOUTERRAINE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Abbaye de Cherlieu</corpname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 40</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Cession des fours banaux appartenant aux religieux de l'abbaye de Cherlieu, à la commune (1791). Amodiation de ces fours (1791-an X, 1829). Amodiations des communaux (1792-1900). Amodiations des boues des fontaines (1852-1871). Marché d'entretien (1849).</unittitle>
+                     <unitdate normal="1791/1900">1791-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 41</unitid>
+                     <unitid>01</unitid>
+                     <unittitle>Voirie urbaine. Alignement (1843-1893). Place publique, création et aménagement : plan 1928).&lt;lb/&gt;Petite voirie. Chemin de grande communication n° 14, de Combeaufontaine à Faverney, alignement, élargissement : plans (1844-1878). Chemin de moyenne communication n° 5, acquisition de terrains (1874-1786). Chemin de grande communication n° 25, redressement (1879). Chemin de grande communication n° 7a, de Faverney à Arbecey, travaux, abatage d'arbres, alignement (1882-1895). Chemin de grande communication n° 3, de Besançon à Neufchâteau, rectification, acquisition de terrain (1885). Chemin de grande communication n° 3b, de Scey-sur-Saône à Gevigney (1902-1911).</unittitle>
+                     <unitdate normal="1843/1928">1843-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ROUTE DEPARTEMENTALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PORT D'ATELIER</geogname>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 42</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Chemins vicinaux, construction d'aqueduc, tableaux généraux, reconnaissance des chemins, élargissement, ouverture : plans (1833-1909). Chemins de défruitement, élargissement : plan, ouverture (1860-1907). Pont suspendu de Port-d'Atelier, pose de tablier (1844-1891). Prestations (1880-1894). Ressources (1894-1900).&lt;lb/&gt;Régime des eaux. Curage des ruisseaux : plan (1844-1925). Canal de l'Est (1882). La Saône, éboulement à Port-d'Atelier (1894).</unittitle>
+                     <unitdate normal="1833/1925">1833-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 43</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Fabrique. - Nomination des membres (1840-1864). Legs (1853-1855). Subventions (1856, 1874). Quittances et reçus (1857-1869). Locations des bancs de l'église (1857-1868). Comptes de gestion (1858-1880). Budgets (1860-1874).</unittitle>
+                     <unitdate normal="1840/1880">1840-1880</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DONS-ET-LEGS</subject>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Institution Bourdault</corpname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 44</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Legs aux pauvres de la commune (1852, 1859). Répartition d'une somme d'argent pour les malheureux (1849). Etat des indigents (1854). Aliénés, frais de pension (1857-1881). Admission à  l'institution Bourdault (1853). Protection des enfants du premier âge : tableau annuel (1878), registre des commissions locales (1884-1893)., déclaration des parents (1881-1902), déclaration des nourrices (1896). Assistance aux vieillards, infirmes et incurables (1914). Société d'assurance mutuelle contre la mortalité du bétail : statuts (1899), reçus, correspondance (1908-1923).&lt;lb/&gt;Bureau d'assistance, élection de délégués, commission cantonale, commission municipale (1861-1925). Délibérations (1912-1927, 1 cahier).</unittitle>
+                     <unitdate normal="1849/1927">1849-1927</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DONS-ET-LEGS</subject>
+                     <subject>PROTECTION MATERNELLE ET INFANTILE</subject>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 45</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Caisse des écoles, création et subvention : arrêté municipal (1881). Mobilier scolaire, subvention départementale (1882). Commission scolaire municipale : délibérations (1883, 1 cahier), extraits (1883, 1892, 1912). Correspondance, demandes de congés scolaires (1883). Instituteurs, marchés (1790-1793, 1816), nominations, traitement (1850, 1860, 1863, 1868). Listes nominatives des enfants de 6 à 13 ans (1881-1886). Enfants instruits dans la famille, déclarations verbales (1882-1886). Extraits du registre d'appel de l'école (octobre 1882-avril 1887).</unittitle>
+                     <unitdate normal="1790/1912">1790-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>DOCUMENTS D'ORIGINE PRIVEE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>427 Edepot 46</unitid>
+                     <unitid>S1</unitid>
+                     <unittitle>Vente de terrains entre particuliers : expédition.</unittitle>
+                     <unitdate normal="1894">1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PURGEROT</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

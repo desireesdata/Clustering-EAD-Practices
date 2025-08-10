@@ -1,0 +1,1067 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_413Edepot_Archives_communales_déposées_de_Plancher-Bas" url="https://francearchives.fr/findingaid/89540d1865672118da25d950c056a8bb37751479">FRAD70_413Edepot_Archives_communales_déposées_de_Plancher-Bas</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>413Edepot - Archives communales déposées de Plancher-Bas</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>413Edepot - Archives communales déposées de Plancher-Bas</unittitle>
+         <unitid>413Edepot1-32</unitid>
+         <unitdate normal="1659/1956">1659-1956</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE PLANCHER-BAS</corpname>
+         </origination>
+         <note label="note">
+            <p>(1) Le registre de délibérations du conseil municipal de 1896 à nos jours sont restées en mairie.
+(2) Voir 413 E dép. 4/GG3, listes des jeunes gens enrôlés pendant la guerre contre le roi de Hongrie (1742-1745).
+(3) Voir 413 E dép. 13/D4, délibérations du bureau de bienfaisance (1864-1975).
+(4) Voir 413 E dép. 23/L1, suppression de crédits pour rémunérer les gens de service de l'école maternelle (1901).
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 4323, élections des députés et plaintes et doléances des habitants (1789).
+B 6554, prestations de serment des gardes (1766-1770).
+B 8263, causes fiscales en la justice abbatiale de Lure (1654-1657).
+B 9402, affaires forestières (1715-1788).
+B 9676, requête du chapitre de Lure pour être maintenu dans le droit de percevoir la dîme de la dixième gerbe sur le territoire de Plancher-Bas (1681-1790).
+C 71, demande en établissement de foires à Plancher-Bas (1751-1778).
+C 199, procès au sujet des droits curiaux (1782-1789).
+C 229, autorisation demandée par les habitants de Plancher et Champagney d'exporter à l'étranger les écorces d'arbres qu'ils exploitent dans leur territoire (1788-1790).
+C 478, rôles et répartements des impositions (1729-1790).
+H 578, inventaire des titres et papiers concernant la seigneurie de Passavant comprenant entre autres le village de Plancher-Bas (1756).
+H 583, copie des reconnaissances faites à l'abbaye de Lure par les habitnats de Plancher-Bas (1572, copie du XVIII° siècle).
+H 597, archives de l'abbaye de Lure concernant Plancher-Bas (1343-1731).
+1 J 783, loi qui autorise les communes de Champagney et Plancher-Bas à exporter du bois (1792).
+3 O 427, travaux communaux (depuis 1825).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             23/08/2004
+         </p>
+         <p>Dernier ajout le             01/09/2004
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> BOIS COMMUNAUX (1736-1751)</p>
+         <p>  413 Edepot 1</p>
+         <p> CULTE (1659-1815)</p>
+         <p>  413 Edepot 2-9</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1835-1919)</p>
+         <p>  413 Edepot 10-15, 413 Edepot 15-16</p>
+         <p> POPULATION-ECONOMIE (1896-1911)</p>
+         <p>  413 Edepot 17</p>
+         <p> CONTRIBUTIONS (1841-1936)</p>
+         <p>  413 Edepot 18-19</p>
+         <p> AFFAIRES MILITAIRES (1884-1891)</p>
+         <p>  413 Edepot 20</p>
+         <p> POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE (1880-1956)</p>
+         <p>  413 Edepot 21</p>
+         <p> PERSONNEL COMMUNAL (1892-1908)</p>
+         <p>  413 Edepot 22</p>
+         <p> FINANCES DE LA COMMUNE (1883-1901)</p>
+         <p>  413 Edepot 23</p>
+         <p> EDIFICES COMMUNAUX (1861-1929)</p>
+         <p>  413 Edepot 24</p>
+         <p> BIENS ET BOIS COMMUNAUX (1836-1928)</p>
+         <p>  413 Edepot 25-26</p>
+         <p> VOIRIE-MOYEN DE TRANSPORT-TRAVAUX DIVERS-REGIME DES EAUX (1831-1932)</p>
+         <p>  413 Edepot 27-28</p>
+         <p> CULTE (1862-1904)</p>
+         <p>  413 Edepot 29</p>
+         <p> ASSISTANCE ET PREVOYANCE (1842-1933)</p>
+         <p>  413 Edepot 30</p>
+         <p> INSTRUCTION PUBLIQUE (1840-1921)</p>
+         <p>  413 Edepot 32, 413 Edepot 31</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Plan des bois de Plancher-Bas, dressé le 1er septembre 1736 par Jean-Baptiste Paris, géomètre-arpenteur de la maîtrise des Eaux et Forêts à Vesoul, et complété le 12 septembre 1751 par la figuration des quarts de réserve et assiettes ordinaires.</unittitle>
+                     <unitdate normal="1736/1751">1736-1751</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>PARIS (Jean-Baptiste)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 2</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial : page de garde, note relative à la consécration de l'église en 1488 et divers ; baptêmes (1659-1697) ; mariages (1659-1678, 1678-avril 1698, mai-1701-septembre 1707) ; baptêmes (mars 1697-janvier 1709) ; sépultures (septembre 1694-juin 1706, 1659-avril 1694) ; page de garde annotée.&lt;lb/&gt;Lacunes en ce qui concerne les mariages d'avril 1698 à mai 1701 et de septembre 1707 à 1710.</unittitle>
+                     <unitdate normal="1659/1709">1659-1709</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi3R22</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 3</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial : baptêmes (1709-janvier 1740) ; confirmations (1709-1711) ; liste des confirmations (1717-1719, 1724-1725, 1727-1730, 1732, 1736, 1737, 1749).</unittitle>
+                     <unitdate normal="1709/1749">1709-1749</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi3R22</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 4</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial : page de garde "mémoire des réparations faites à l'église de Plancher-Bas..." ; mariages (1710-1742) ; page de garde, suite du mémoire et divers ; sépultures (avril 1710-1742) ; liste des jeunes gens enrôlés pendant la guerre contre le roi de Hongrie, tués à la guerre (1742-1745).</unittitle>
+                     <unitdate normal="1710/1745">1710-1745</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi3R22</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 5</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial : feuille de garde annotée (dépenses pour l'église) ; baptêmes (1740-février 1781) ; feuille de garde annotée (suite des dépenses), et départ du curé pour la Suisse en 1792 ; liste des confirmations (1760, 1766, une confirmation en 1787) ; une note de 1815 concernant les cloches de l'église).</unittitle>
+                     <unitdate normal="1740/1815">1740-1815</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi3R22</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 6</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial : sépultures (1743-mars 1780) ; feuille de garde annotée (dépenses pour l'église) ; mariages (1743-1768).</unittitle>
+                     <unitdate normal="1743/1780">1743-1780</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi3R22</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 7</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial : page de garde annotée (déportation du curé Belin et du vicaire Bobillier en 1792) ; mariages (septembre 1768-septemmbre 1792, 4 actes de 1793).</unittitle>
+                     <unitdate normal="1768/1793">1768-1793</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi3R22</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BELIN</persname>
+                     <persname>BOBILLIER</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 8</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial : sépultures (avril 1780-juin 1793).</unittitle>
+                     <unitdate normal="1780/1793">1780-1793</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi3R22</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 9</unitid>
+                     <unitid>GG8</unitid>
+                     <unittitle>Registre paroissial : baptêmes (1782-1793) ; "loi qui détermine le mode de constater l'état-civil des citoyens" ; baptêmes (janvier-juillet 1793) ; notes sur la fonte à Plancher-les-Mines de 2 nouvelles cloches et sur la cérémonie de leur baptême en avril 1815).</unittitle>
+                     <unitdate normal="1782/1815">1782-1815</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi3R22</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document mimcrofilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                     <geogname>PLANCHER-LES-MINES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 10</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate>1790-an VI</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 11</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate>An VIII-1835</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 12</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1835/1863">1835-1863</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 13</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (1863-1874). Au dos du registre, délibérations du bureau de bienfaisance (1864-1875).</unittitle>
+                     <unitdate normal="1862/1875">1862-1875</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE</subject>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 14</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1874/1883">1874-1883</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 15</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Délibérations du conseil municipal (1).</unittitle>
+                     <unitdate normal="1883/1896">1883-1896</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 15</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Registre de délibérations (1) du conseil municipal.</unittitle>
+                     <unitdate normal="1883/1896">1883-1896</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 16</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Répertoire des actes soumis à l'enregistrement (1851-1900). Pétition des habitants de la commune, afin que le maire affiche les délibérations municipales (1885). Police d'assurances concernant les bâtiments communaux (1919).</unittitle>
+                     <unitdate normal="1851/1919">1851-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 17</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population. Mouvements annuels (1896-1899).&lt;lb/&gt;Subsistances. Autorisation de maintenir une tuerie particulière (1908).&lt;lb/&gt;Travail. Liste des livrets d'ouvriers délivrés aux jeunes gens (1910-1911).</unittitle>
+                     <unitdate normal="1896/1911">1896-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>INDUSTRIE</subject>
+                     <subject>POPULATION RURALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 18</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Matrices des contributions foncières (1886-1889, 1908-1911).</unittitle>
+                     <unitdate normal="1886/1911">1886-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 19</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Feuilles de mutations (s.d.). Biens vacants (1920). Rôles des prestations (1903). Rétribution scolaire (1841, 1859, 1862). Taxe sur les chiens (1887-1936).</unittitle>
+                     <unitdate normal="1841/1936">1841-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 20</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>(2) Avis de passage de troupe (1884, 1887). Ordres de route (1884, 1887-1888, 1891). Soutien de famille (1891).</unittitle>
+                     <unitdate normal="1884/1891">1884-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 21</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Location de la place publique pour la fête patronale (1922-1926). Commerce d'essence, pétrole, huile (1914). Débits de boissons, ouvertures, transferts, successions (1880-1956).&lt;lb/&gt;Justice. Correspondance avec le procureur de la République (1883-1884).&lt;lb/&gt;Salubrité. Notice concernant les infiltrations de purin dans les réservoirs d'eau potable (1884).</unittitle>
+                     <unitdate normal="1880/1956">1880-1956</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU POTABLE</subject>
+                     <subject>JUSTICE</subject>
+                     <subject>POLICE MUNICIPALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 22</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Nomination d'un garde-champêtre (1892), d'un pâtre (1908).</unittitle>
+                     <unitdate normal="1892/1908">1892-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 23</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Renseignements sur le compte de l'exercice 1883. Poursuites à la cour des comptes et à la cour de cassation au sujet de la comptabilité de la commune (1884-1885). Refus du maire de mandater le salaire du cantonnier (1901). Suppression de crédits pour rémunérer les gens de service de l'école maternelle (1901).</unittitle>
+                     <unitdate normal="1883/1901">1883-1901</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 24</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Construction, puis agrandissement de l'école au hameau de la Chaillée (1884, 1890, 1893-1894, avec 3 plans (1884-1885)). Reconstruction de l'école du hameau des Granges-Godet, avec logement pour l'instituteur (plan, 1884-1887). Construction d'un école au hameau du Mont (1861, 1879, 1882-1884) et travaux (1922, 1927). Construction d'une école au centre du village (1822, 1825) et agrandissement (1867, 1869), ameublement de la classe (plan, 1863). Façonnage du bois de chauffage pour la mairie et les écoles (1900, 1902-1910, 1921-1929). Démolition de l'ancienne fabrique Dubret (1886). Réparations au clocher (1902). Agrandissement du mur du cimetière (1908). Travaux au presbytère (1910). Réparation du tablier de la bascule (1927).</unittitle>
+                     <unitdate normal="1861/1929">1861-1929</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'édifices :</head>
+                     <geogname>FABRIQUE DUBRET</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAILLEE (LA)</geogname>
+                     <geogname>GRANGES-GODET (LES)</geogname>
+                     <geogname>MONT (LE)</geogname>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 25</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Locations de terrains (an XIII-1921), de maisons (1859-1887). Procès-verbal de délimitation (1882). Achat d'une maison (1868), de terrains (1905-1907, 1924). Echange de terrains (1910). Plans des anticipations commises sur les terrains communaux (1828-1830, 1842, 1862, 1864, plans).</unittitle>
+                     <unitdate>An XIII-1924</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>BIEN SPOLIE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 26</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Exploitation des bois (1836-1928). Location de la chasse (1897-1923). Concessions de prise d'eau dans la forêt communale (1916). Plan de la forêt communale (s.d.).</unittitle>
+                     <unitdate normal="1836/1928">1836-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>CHASSE</subject>
+                     <subject>PRISE D'EAU</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-MOYEN DE TRANSPORT-TRAVAUX DIVERS-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 27</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Petite voirie. Travaux et délimitations des chemins ruraux (1875-1932 ; 2 plans, 1883, 1901). Chemin de grande communication n° 16 allant d'Héricourt à Plancher-les-Mines, acquisitions de terrains (plan, 1906) pour élargissement du chemin (1882-1928). Chemin vicinal n° 4, travaux au pont sur le Rahin (1904-1906). Tableaux des chemins vicinaux (1892) et de grande communication (1906). Créations de ressources (1880-1904).&lt;lb/&gt;Grande voirie. Travaux d'entretien de la route nationale n° 19 (1874).&lt;lb/&gt;Moyen de transport. Chemin de fer d'intérêt local, affiche sur la modification des tarifs (1906).&lt;lb/&gt;Electrification. Travaux pour le passage de la ligne électrique de la Suisse aux Vosges (1929).</unittitle>
+                     <unitdate normal="1874/1932">1874-1932</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>AFFICHE</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DISTRIBUTION ELECTRIQUE</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                     <subject>VOIE FERREE D'INTERET LOCAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                     <geogname>RAHIN (LE)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 28</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Etablissement de tanneries sur le Rahin (1831-1832, 1 plan de 1842) et d'une scierie (1858-1859). Règlement d'eau (1858-1890). Curage de la rivière le Rahin (1862-1863), du ruisseau le Brevoux (1891). Réglementation des eaux en temps de sécheresse (1906-1907).</unittitle>
+                     <unitdate normal="1831/1907">1831-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                     <subject>INDUSTRIE DU BOIS</subject>
+                     <subject>INDUSTRIE DU CUIR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BREVOUX (LE)</geogname>
+                     <geogname>PLANCHER-BAS</geogname>
+                     <geogname>RAHIN (LE)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 29</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Abonnement au casuel (1892-1896). Partage de terrains indivis entre la fabrique et la bureau de bienfaisance (1850, 1862-1863). Location de fouillies (1902-1904). Création du vicariat (1884). Congrégation des Soeurs de la Charité (1868, 1884).</unittitle>
+                     <unitdate normal="1862/1904">1862-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Congrégation des Soeurs de la Charité de Besançon et de Naples</corpname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 30</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Médecine gratuite, vaccinations, fournitures de médicaments (1880, 1883-1887, 1911-1914, 1924). Admission à l'institut de sourds-muets (1884), à l'asile de Neurey-lès-la-Demie (1885).&lt;lb/&gt;Bureau de bienfaisance (3). Locations de terrains (1860-1933). Legs en faveur du bureau (1842).</unittitle>
+                     <unitdate normal="1842/1933">1842-1933</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 31</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Nomination d'instituteurs et d'institutrices (1867-1921). Devoirs de classes (1886). Déclaration concernant l'instruction donnée à domicile (1882). Création d'une salle d'asile (1868), d'une école de filles et d'une classe enfantine (1884). Délégation cantonale (1866, 1874, 1920). Laïcisation de l'école de filles (1902). Inspection des écoles maternelles (1890). Suppression d'emplois (4) dans les écoles (1902). Traitement de l'instituteur (1868, 1873, 1881-1883). Cours d'adulte (s.d.). Traité avec la congrégation des Soeurs de la Charité (1868, 1884).</unittitle>
+                     <unitdate normal="1866/1921">1866-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Congrégation des Soeurs de la Charité de Besançon et de Naples</corpname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>413 Edepot 32</unitid>
+                     <unitid>R2</unitid>
+                     <unittitle>Inventaire du mobilier (1885-1886, 1893, 1902-1913). Fournitures scolaires (1840, 1882, 1884, 1907). Commissaire scolaire, absences autorisées des élèves (1883). Extraits du registre d'appel, école maternelle du Mont (1884), école publique mixte du Mont (1882-1885), école publique de garçons (1882-1885, 1920), école publique de filles (1882-1885), école mixte des Granges-Godey (1882-1885), école privée de la Chaillée (1882-1884), école publique de la Chaillée (1885, 1920). Listes des enfants admis gratuitement (1865-1881). Listes nominatives des enfants de 6 à 13 ans (1882-1883).</unittitle>
+                     <unitdate normal="1840/1920">1840-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAILLEE (LA)</geogname>
+                     <geogname>GRANGES-GODET (LES)</geogname>
+                     <geogname>MONT (LE)</geogname>
+                     <geogname>PLANCHER-BAS</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

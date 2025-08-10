@@ -1,0 +1,989 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_365Edepot_Archives_communales_déposées_de_Mont-le-Franois" url="https://francearchives.fr/findingaid/d933b95d2d4a3b5a806837d0f7e747de45cc6789">FRAD70_365Edepot_Archives_communales_déposées_de_Mont-le-Franois</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>365Edepot - Archives communales déposées de Mont-le-Franois</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>365Edepot - Archives communales déposées de Mont-le-Franois</unittitle>
+         <unitid>365Edepot1-34</unitid>
+         <unitdate normal="1646/1940">1646-1940</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE MONT-LE-FRANOIS</corpname>
+         </origination>
+         <note label="note">
+            <p>Fusionnée en 1972 avec la commune de Franois, prend le nom de Framont.
+(1) Classé avec la collection des plans communaux déposés aux Archives Départementales de la Haute-Saône.
+(2) Il faut remarquer dans ce registre le décès au fourneau du Crochot, de Pierre-François Rousselet, né au fourneau de Valay, demeurant à Paris, directeur des forges et fourneaux à l'Ile-Maurice (21 mai 1764). Les actes des années 1783 à 1792 manquent. Cette lacune est comblée par la collection déposée aux Archives Départementales de la Haute-Saône par le greffe du Tribunal.
+(3) Voir 365 E dép. 9 / D 2, état des réquisitions (1815-1817).
+
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 2564 à 2566, déclarations de propriétés dans la communauté de Mont-le-Franois, procédures civiles et criminelles concernant les habitants du lieu (1696-1787).
+B 8534 à 8541, justice seigneuriale de Mont-le-Franois (1723-1786).
+C 48, extraction de minerai à Mont-le-Franois (1723-1783).
+C 133, bail des prés communaux (1628-1787).
+C 153, affaires diverses concernant la communauté de Mont-le-Franois (1761-1789).
+E 864, compte d'échevin de Mont-le-Franois (1789).
+G 168, église paroissiale de Mont-le-Franois (1627-1790).
+H 416, pièces concernant le moulin du Crochot, territoire de Mont-le-Franois (1234-XVI° siècle).
+3 O 380, travaux communaux, depuis 1839.
+446 Edépot, archives communales de Rigny.</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             28/08/2002
+         </p>
+         <p>Dernier ajout le             29/08/2002
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> BIENS ET BOIS COMMUNAUX</p>
+         <p>  365 Edepot 1</p>
+         <p> CULTE</p>
+         <p>  365 Edepot 3-7, 365 Edepot 2</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE</p>
+         <p>  365 Edepot 8-16</p>
+         <p> ETAT-CIVIL</p>
+         <p>  365 Edepot 17</p>
+         <p> AGRICULTURE ET INDUSTRIE</p>
+         <p>  365 Edepot 18</p>
+         <p> CONTRIBUTIONS</p>
+         <p>  365 Edepot 19-24</p>
+         <p> AFFAIRES MILITAIRES</p>
+         <p>  365 Edepot 25, 365 Edepot 25</p>
+         <p> POLICE - HYGIENE PUBLIQUE - JUSTICE</p>
+         <p>  365 Edepot 26</p>
+         <p> PERSONNEL COMMUNAL</p>
+         <p>  365 Edepot 27</p>
+         <p> EDIFICES COMMUNAUX</p>
+         <p>  365 Edepot 28</p>
+         <p> BIENS ET BOIS COMMUNAUX - EAUX</p>
+         <p>  365 Edepot 29</p>
+         <p> VOIRIE -TRAVAUX DIVERS - REGIME DES EAUX</p>
+         <p>  365 Edepot 30-31</p>
+         <p> INSTRUCTION PUBLIQUE</p>
+         <p>  365 Edepot 33-34</p>
+         <p> ASSISTANCE ET PREVOYANCE</p>
+         <p>  365 Edepot 32</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Pièces de procédure contre divers particuliers pour anticipations sur des communaux (1711-1713, 1 parchemin ; 1790-1812, 1 plan (1)). Copie d'un acte d'acensement de 1511, du bois des Cours, au profit des habitants de Mont-le-Franois (an II). Fragment d'un plan (1) de bois (XVIII° siècle). Plan du bois dit des Escots (1), finage de Mont-le-Franois (1728). Copie de ce plan ((1) 1785).</unittitle>
+                     <unitdate normal="1711/1812">1711-1812</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIEN SPOLIE</subject>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESCOTS (LES)</geogname>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 2</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial* de Suaucourt-et-Pisseloup, Mont-le-Franois et le Crochot, "registrum infantium baptizatorum per me curatum post bellorum in hoc comitatu grassantium cessationem" (Suaucourt-et-Pisseloup, mars-avril 1648 ; un acte d'avril 1646 ; un acte de mai 1647 ; août 1648-décembre 1652 ; Mont-le-Franois, mars 1653-janvier 1681), sépultures (décembre 1657-décembre 1680), mariages (janvier 1648-août 1680).</unittitle>
+                     <unitdate normal="1646/1681">1646-1681</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R51</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CROCHOT (LE)</geogname>
+                     <geogname>FRAMONT</geogname>
+                     <geogname>ROCHE-MOREY (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 3</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial* de Mont-le-Franois et de la forge du Crochot, baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1685">1685</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5MI4R51</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CROCHOT (LE)</geogname>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 4</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial* de Mont-le-Franois et de la forge du Crochot, actes de sépultures de curés et de personnages important (1681-1720), bénédiction du choeur de l'église rétabli à neuf (26 novembre 1715), baptêmes (janvier 1680-mai 1698, confirmations pour 1698, septembre 1698-juillet 1730), un acte de sépulture de janvier 1732, mariages (juin 1680-janvier 1681), sépultures (janvier-juin 1731), table des actes (1680-1685) ;  sur la couverture, à l'intérieur, acte de bénédiction du fourneau du Crochot, édifié par Jacques Perrin, maître de forge (26 mars 1699).</unittitle>
+                     <unitdate normal="1680/1732">1680-1732</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R51</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CROCHOT (LE)</geogname>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>PERRIN (Jacques)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 5</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial* de Mont-le-Franois et du Crochot, baptêmes, mariages, sépultures (janvier 1732-décembre 1733).</unittitle>
+                     <unitdate normal="1732/1733">1732-1733</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R51</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CROCHOT (LE)</geogname>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 6</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial* de Mont-le-Franois, prise de possession de la cure par Nicolas-Laurent Carmouche, le 24 novembre, après le décès de Jean Vaney, curé du lieu le 4 novembre 1730 ; baptêmes, mariages, sépultures (novembre 1730-décembre 1731 ;  note du curé justifiant la copie des actes précédents ; janvier 1734-janvier1748, table des actes (1730-1746).</unittitle>
+                     <unitdate normal="1730/1748">1730-1748</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R51</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CARMOUCHE (Nicolas-Laurent)</persname>
+                     <persname>VANEY (Jean)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 7</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial* de Mont-le-Franois (2), baptêmes, mariages, sépultures (février 1748-avril 1783), table des mariages (1748-1783), liste des curés décédés dans les doyennés d'Autrey et de Champlitte (1771-1785), tables des baptêmes et sépultures (1748-1782), liste des curés ayant administré la paroisse (1648-1792).&lt;lb/&gt;(2) Il faut remarquer dans ce registre le décès au fourneau du Crochot, de Pierre-François Rousselet, né au fourneau de Valay, demeurant à Paris, directeur des forges et fourneaux à l'Ile-Maurice (21 mai 1764). Les actes des années 1783 à 1792 manquent. Cette lacune est comblée par la collection déposée aux Archives Départementales de la Haute-Saône par le greffe du Tribunal.</unittitle>
+                     <unitdate normal="1648/1792">1648-1792</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R51</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>AUTREY-LES-GRAY</geogname>
+                     <geogname>CHAMPLITTE</geogname>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 8</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Délibérations* du conseil municipal (anX-1826), actes divers (1826-1831).</unittitle>
+                     <unitdate>An X-1831</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 9</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre comprenant un état des réquisitions (1815-1817), la correspondance du maire (1821-1823), les délibérations du conseil municipal (1827-1839).</unittitle>
+                     <unitdate normal="1815/1839">1815-1839</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 10</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Délibérations* du conseil municipal.</unittitle>
+                     <unitdate normal="1839/1857">1839-1857</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 11</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Délibérations* du conseil municipal.</unittitle>
+                     <unitdate normal="1857/1868">1857-1868</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 12</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Délibérations* du conseil municipal.</unittitle>
+                     <unitdate normal="1857/1881">1857-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 13</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Délibérations* du conseil municipal (1882-janvier 1891).</unittitle>
+                     <unitdate normal="1882/1891">1882-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 14</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Délibérations* du conseil municipal.</unittitle>
+                     <unitdate normal="1891/1918">1891-1918</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 15</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Procès-verbaux* des séances du conseil municipal.</unittitle>
+                     <unitdate normal="1892/1900">1892-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 16</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Arrêtés municipaux (1892-1914). Répertoires des actes soumis à l'enregistrement (an IX-1811, 1815-1897, 1927-1959). Police d'assurances (1917-1927), avenant d'augmentation (1926).</unittitle>
+                     <unitdate>An IX-1959</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT-CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 17</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Naissances, jugement pour rectification de nom (1836), acte de reconnaissance (1886). Extraits d'actes en vue de mention ou de transcription, mariages (1864), décès (1860).</unittitle>
+                     <unitdate normal="1836/1886">1836-1886</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AGRICULTURE ET INDUSTRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 18</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Tabac, autorisation de culture (1894).&lt;lb/&gt;Industrie, registre pour les annotations de délivrance des livrets d'ouvriers (1865-1868).</unittitle>
+                     <unitdate normal="1865/1894">1865-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>TABAC</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 19</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Livre* des mutations (1er volume).</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 20</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Livre* des mutations (2° volume).</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 21</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Etat de section*, récapitulation des propriétés non bâties.</unittitle>
+                     <unitdate normal="1826">1826</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 22</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Renseignements* concernant les maisons et usines en construction (1853-1877), procès-verbal des délimitations du territoire de Mont-le-Franois (avec plans, 1823-1824), augmentations et diminutions survenues dans les contenances et revenus portés sur les matrices cadastrales (1827-1885), matrice cadastrale avec mutations (1826).</unittitle>
+                     <unitdate normal="1823/1885">1823-1885</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 23</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Augmentations* et diminutions survenues dans les contenances et revenus portés sur les matrices cadastrales (1886-1914), matrice cadastrale (XIX°-XX° s.).</unittitle>
+                     <unitdate normal="1886/1914">1886-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 24</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Matrice cadastrale des propriétés bâties (1882), copie de la matrice cadastrale (1936-1940), livre-souche des quittances de la rétribution scolaire (1847-1848).</unittitle>
+                     <unitdate normal="1847/1940">1847-1940</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 25</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Invasion de 1815 (3).&lt;lb/&gt;Sapeurs-pompiers, acquisition d'une pompe (1873).</unittitle>
+                     <unitdate normal="1815/1873">1815-1873</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE - HYGIENE PUBLIQUE - JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 26</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Transport de corps (1838-1888). Sinistres (1846-1910). Certificat de bonne vie et moeurs (1857).&lt;lb/&gt;Police générale. Passeports et souches (1808-1871).&lt;lb/&gt;Hygiène publique et salubrité. Démolition de maisons menaçant ruines (1852,1889-1897). Epizooties, dénombrement des animaux (1871).&lt;lb/&gt;Justice. Plainte déposée suite à une rixe (1815). Listes du jury (1849-1853, 1871-1872).</unittitle>
+                     <unitdate normal="1808/1910">1808-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PASSEPORT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JURY D'ASSISES</subject>
+                     <subject>SINISTRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 27</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Garde-champêtre, suspension.</unittitle>
+                     <unitdate normal="1905">1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 28</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Réparations à la maison commune, à l'église et à la fontaine (1829, 1839-1840, 1871-1872). Ecole, construction de privés (1843-1844). Maison commune, acquisition d'une maison, construction : devis, plan (1), réparations (1831-1849). Magasin à pompes, établissement : plan (1866). Chapelle Saint-Pierre, réparations : devis (1852-1853). Cimetière, construction, agrandissement (1859-1897, plans (1)). Eglise, réparations : devis (1830). Presbytère, acquisition d'une maison, réparation : devis, plans (1), reconstruction de la chambre à four, agrandissement, murs de clôture (an IX-1904).</unittitle>
+                     <unitdate>An IX-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX - EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 29</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Acquisitions et ventes de biens (1847-1910). Anticipations, pièces de procédure entre la commune et Jean Demongin (1819-1821, 1 plan), litige avec Jean-Baptiste Dormon concernant une hutte à porcs construite par la commune (1851-1852, 2 plans). Mise en valeur des terrains communaux (1867).&lt;lb/&gt;Bois. Procès-verbal d'aménagement (1845), empierrement du chemin de la sommière l'Ecot (1893-1894), circulaire concernant la répression des délits dans les bois (s.d.). Délimitation d'une broussaille appelée "la Goulotte" entre les communes de Mont-le-Franois et Franois (1838-1842, 1 plan).&lt;lb/&gt;Eaux. Puits, construction : devis, plans (1), réparations (1843-1858), suppression (1865-1866), creusage (1920-1922), pièces de procédure relatif au paiement des ouvrages (1923-1924). Fouilles pour trouver des sources pour alimenter les fontaines (1844, 1883). Pièces de procédure entre la commune et Pierre Faivre, cultivateur à Achey, au sujet de la propriété d'une mare (1857-1858). Contestation entre la commune et les sieurs Brevel et Ganderth, filateurs au Crochot, concernant une anticipation sur le passage de l'abreuvoir (1885-1886, 1 plan). Barque lavandière, construction : devis (1904-1905).</unittitle>
+                     <unitdate normal="1819/1924">1819-1924</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>EAU SOUTERRAINE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ACHEY</geogname>
+                     <geogname>CROCHOT (LE)</geogname>
+                     <geogname>FRAMONT</geogname>
+                     <geogname>FRANOIS</geogname>
+                     <geogname>GOULOTTE (LA)</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BREVEL</persname>
+                     <persname>DEMONGIN (Jean)</persname>
+                     <persname>DORMON (Jean-Baptiste)</persname>
+                     <persname>FAIVRE (Pierre)</persname>
+                     <persname>GANDERTH</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE -TRAVAUX DIVERS - REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 30</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Petite voirie. Ponts, réparations, mur de soutènement (an X-1837). Différend avec des particuliers concernant des modifications de fossés (1843, 1890). Chemins vicinaux, reconnaissance et classement, réparations, répartition des frais de construction et d'entretien, dette de vicinalité (1830-1912). Chemin de grande communication n° 22; de l'Abbaye-lès-la-Charité à Champlitte, alignement, construction, élargissement (1837-1874, plan). Prestations (1837, 1853-1892).</unittitle>
+                     <unitdate>An X-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 31</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Voirie urbaine. Alignement, élargissement, réparations, construction de rigoles pavées (1807-1888, plans). Projet d'alimentation en eau potable, rapport géologique, prélèvement pour analyse (1930-1931).&lt;lb/&gt;Minerai de fer, autorisation d'exploitation (1841).&lt;lb/&gt;Règlement d'eau, usine du Crochot, réclamation des maires de Franois et de Mont-le-Franois, établissement d'une chaudière à vapeur (1831-1886). Curage des ruisseaux et fossés (1834-1891, 1 plan).</unittitle>
+                     <unitdate normal="1807/1931">1807-1931</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU POTABLE</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CROCHOT (LE)</geogname>
+                     <geogname>FRAMONT</geogname>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 32</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Secours à des indigents (1839, 1924-1926). Aliénés, placement, frais de pension (1833-1873). Admission à l'hospice de Gray (1839-1862). Enfants assistés, registre d'inscription (1877). Admission à l'hospice de Neurey (1905). Etat nominatif des vieillards, infirmes et incurables admis à l'assistance (1907-1914).</unittitle>
+                     <unitdate normal="1833/1926">1833-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE</subject>
+                     <subject>AIDE SOCIALE A L'ENFANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                     <geogname>GRAY</geogname>
+                     <geogname>NEUREY-LES-LA-DEMIE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 33</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Mobilier scolaire, état des dépenses (1833, 1838, 1889). Comité supérieur d'instruction primaire, nomination des membres (1840-1846). Instituteurs, nomination et démission (1844-1923). Fixation du taux de la rétribution scolaire (1860, 1876). Projet de réunion des deux écoles de Franois et Mont-le-Franois (1872-1892). Liste des enfants admis gratuitement (1881). Commission municipale scolaire (1884-1896). Dépenses scolaires (1890).</unittitle>
+                     <unitdate normal="1833/1923">1833-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>INSTITUTEUR</subject>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>365 Edepot 34</unitid>
+                     <unitid>R2</unitid>
+                     <unittitle>Comité local de surveillance pour l'instruction primaire*.</unittitle>
+                     <unitdate normal="1834/1846">1834-1846</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

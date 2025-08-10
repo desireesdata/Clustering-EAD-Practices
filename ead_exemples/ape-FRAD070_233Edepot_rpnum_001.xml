@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_233Edepot_Archives_communales_déposées_de_Les_Fessey" url="https://francearchives.fr/findingaid/e03eb0b5c70bc71807daf45f28a17b08e4d90140">FRAD70_233Edepot_Archives_communales_déposées_de_Les_Fessey</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>233Edepot - Archives communales déposées de Les Fessey</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>L. GEORGEL</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>233Edepot - Archives communales déposées de Les Fessey</unittitle>
+         <unitid>233Edepot1-31</unitid>
+         <unitdate normal="1790/1936">1790-1936</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE LES FESSEY</corpname>
+         </origination>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             25/10/2011
+         </p>
+         <p>Dernier ajout le             25/10/2011
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 1</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>1 registre. Délibérations municipales</unittitle>
+                     <unitdate normal="1790/1807">1790-1807</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 2</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>1 cahier papier. Cahier des délibérations du conseil municipal de Fessey</unittitle>
+                     <unitdate normal="1793/1795">1793-1795</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 3</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>1 registre. Lois et décrets (1790-an III). Délibérations municipales (1808-1822)</unittitle>
+                     <unitdate normal="1790/1822">1790-1822</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 4</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>1 registre. Délibérations municipales</unittitle>
+                     <unitdate normal="1822/1838">1822-1838</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 5</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>1 registre cartonné. Registre des délibérations du conseil municipal de Fessey</unittitle>
+                     <unitdate normal="1838/1851">1838-1851</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 6</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>1 registre cartonné. Registre des délibérations du conseil municipal de Fessey</unittitle>
+                     <unitdate normal="1851/1881">1851-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 7</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>1 registre relié parchemin. Registre de correspondance de la mairie de Fessey</unittitle>
+                     <unitdate normal="1807/1813">1807-1813</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 8</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>1 registre cartonné. Registre de correspondance de la mairie de Fessey </unittitle>
+                     <unitdate normal="1813/1821">1813-1821</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 9</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>1 registre cartonné. Registre de correspondance de la mairie de Fessey </unittitle>
+                     <unitdate normal="1821/1827">1821-1827</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 10</unitid>
+                     <unitid>D10</unitid>
+                     <unittitle>1 registre cartonné. Registre de correspondance de la mairie de Fessey </unittitle>
+                     <unitdate normal="1827/1834">1827-1834</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 11</unitid>
+                     <unitid>D11</unitid>
+                     <unittitle>1 registre cartonné. Registre de correspondance de la mairie de Fessey </unittitle>
+                     <unitdate normal="1834/1870">1834-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 12</unitid>
+                     <unitid>D12</unitid>
+                     <unittitle>16 pièces papier. Actes de l'administration municipale : répertoires des actes soumis à l'enregistrement (an XI-1906). Administration de la commune : inventaires des archives de la commune de Fessey (1807-1844)</unittitle>
+                     <unitdate normal="1803/1906">1803-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT-CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 13</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>3 pièces papier. Etat-civil : extraits d'actes d'état-civil</unittitle>
+                     <unitdate normal="1829/1858">1829-1858</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 14</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>35 pièces papier. Population : mouvements de la population </unittitle>
+                     <unitdate normal="1859/1880">1859-1880</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 15</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>10 pièces papier. Population : dénombrements de la population</unittitle>
+                     <unitdate normal="1822/1846">1822-1846</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 16</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>21 pièces papier. Population : dénombrements de la population : états nominatifs, feuilles des étrangers, etc.</unittitle>
+                     <unitdate normal="1851/1926">1851-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 17</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>3 cahiers papier. 1 pièce papier. Impôts directs : états de sections de la commune, sections A-B-C (1791) ; tableau des fonds particuliers et des fonds communs dressé d'après les états de section (1792)</unittitle>
+                     <unitdate normal="1791/1792">1791-1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 18</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>1 registre cartonné. Impôts directs : livre des mutations de la commune de Fessey, 1er volume</unittitle>
+                     <unitdate normal="1818/1824">1818-1824</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 19</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>9 pièces papier. Impots directs : matrices des contributions directes pour la commune de Fessey</unittitle>
+                     <unitdate normal="1791/1831">1791-1831</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 20</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>11 pièces papier. Impôts directs : matrices des contributions directes</unittitle>
+                     <unitdate normal="1833/1873">1833-1873</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 21</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>100 pièces papier. Impôts directs : toisés des bâtiments (1809-1866) ; taxe sur les billards publics et privés (1871) ; commissaires répartiteurs (1820-1912) ; rôles trimestriels de la rétribution scolaire (1876-1881) ; pièces diverses (1808-1832)</unittitle>
+                     <unitdate normal="1808/1912">1808-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 22</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>44 pièces papier. Recrutement : tableaux de recensement de l'armée</unittitle>
+                     <unitdate normal="1802/1839">1802-1839</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 23</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>58 pièces papier. Recrutement : tableaux de recensement des jeunes gens de la commune de Fessey (1840-1913) ; recrutements des gardes nationaux mobilisés (1868)</unittitle>
+                     <unitdate normal="1840/1913">1840-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 24</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>93 pièces papier. Administration militaire : logements des troupes (1871-1909). Garde nationale : recensements des individus devant servir dans la garde nationale (1830-1849) ; élections d'officiers et de sous-officiers (1830-1848)</unittitle>
+                     <unitdate normal="1830/1909">1830-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE-JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 25</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>15 pièces papier. Police générale : passeports de jeunes condamnés libérés (1821-1862). Justice : liste des jurés (1849-1871). Hygiène publique et salubrité : autorisation d'exercer la profession de sage-femme (1844)</unittitle>
+                     <unitdate normal="1821/1871">1821-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 26</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>45 pièces papier. Elections : listes des électeurs communaux de Fessey</unittitle>
+                     <unitdate normal="1831/1852">1831-1852</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 27</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>27 pièces papier. Elections : listes des électeurs communaux de Fessey (1853-1870) ; vote pour l'élection du Président de la République (1851) ; vote général pour le rétablissemnet de l'Empire (1852) ; plébiscite du 8 mai 1870</unittitle>
+                     <unitdate normal="1851/1870">1851-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 28</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>55 pièces papier. Elections : élections de députés (1852-1936) ; de sénateurs (1876-1935)</unittitle>
+                     <unitdate normal="1852/1936">1852-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 29</unitid>
+                     <unitid>K4</unitid>
+                     <unittitle>132 pièces paier. Elections : élections de maires, d'adjoints, de conseillers municipaux (1831-1881) ; pièces diverses (1847-1914) ; personnel communal : nominations de gardes champêtres, de pâtres, etc (1809-1893)</unittitle>
+                     <unitdate normal="1809/1914">1809-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 30</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>41 pièces papier. Comptabilité  : budgets et chapitres additionels aux budgets de la commune de Fessey </unittitle>
+                     <unitdate normal="1803/1840">1803-1840</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>233 Edepot 31</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>35 pièces papier. Comptabilité : budgets et chapîtres additionnels aux budgets </unittitle>
+                     <unitdate normal="1841/1869">1841-1869</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,743 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_426Edepot_Archives_communales_déposées_de_Provenchere" url="https://francearchives.fr/findingaid/1a4f9c7596f79147e4af997c1b54e71fae3a235b">FRAD70_426Edepot_Archives_communales_déposées_de_Provenchere</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>426Edepot - Archives communales déposées de Provenchere</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>G. Rech</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>426Edepot - Archives communales déposées de Provenchere</unittitle>
+         <unitid>426Edepot1-23</unitid>
+         <unitdate normal="1654/1938">1654-1938</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE PROVENCHERE</corpname>
+         </origination>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             19/03/2010
+         </p>
+         <p>Dernier ajout le             19/07/2011
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION COMMUNALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Droits seigneuriaux : reconnaissances générales et particulières faites par les habitants de Provenchère à Jean-Pierre Buretel, leur seigneur, reçues par Claude Marande, notaire royal à Vesoul et Nicolas Cordier, notaire royal à Fleurey-lès-Faverney, Claude Febvre étant maire. &lt;lb/&gt;Le seigneur détient La haute, moyenne et basse justice avec les droits d'instituer tous officiers de justice, y compris un bailli pour recevoir les appels.&lt;lb/&gt;&lt;lb/&gt;A noter :  mention de l'autorisation donnée par Charles de Neufchâtel, seigneur de Provenchère, à Frère Jacques, ermite, d'établir un ermitage à Provenchère (cet ermitage a fait place, par la suite à un couvent des Cordeliers). &lt;lb/&gt;&lt;lb/&gt;1 registre papier ; table au folio 114. </unittitle>
+                     <unitdate normal="1695/1697">1695-1697</unitdate>
+                     <physdesc>
+                        <extent>1 pièce</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TERRIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DROITS SEIGNEURIAUX</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BURETEL (Jean-Pierre)</persname>
+                     <persname>CORDIER (Nicolas)</persname>
+                     <persname>FEBVRE (Claude)</persname>
+                     <persname>MARANDE (Claude)</persname>
+                     <persname>NEUFCHATEL (Charles de)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 2</unitid>
+                     <unitid>GG 1</unitid>
+                     <unittitle>Registre paroissial : baptêmes ( 1654-1679, 1689, 1680- novembre 1681, juin 1682-juin 1684, deux actes de 1696; 1707), baptêmes, mariages, sépultures (1708-1710, un acte de 1711, 1710-mars 1716, décembre 1711-1740), un compte des dépenses et revenus, de la cure (1741-1743). &lt;lb/&gt;&lt;lb/&gt;A noter : décès, le 15 février 1718, d'Emmanuel, fils de Pierre Odot Favier, seigneur de Saint-Loup et Jeanne Pariset. En 1729, un extrait imprimé' des ordonnances du Roi, portant obligation aux curés d'envoyer tous les ans le registre des baptêmes, mariages et décès au greffe du bailliage dont ils dépendent, au bas duquel se trouve la mention : ""Messieurs les Curés sont avertis que les dits registres se vendent à Vesoul, chez J.F. Tonnet, imprimeur et libraire et que c'est aux paroisses de les fournir"".  &lt;lb/&gt;&lt;lb/&gt;1 registre composite et incomplet, relié carton, dos cuir. </unittitle>
+                     <unitdate normal="1654/1743">1654-1743</unitdate>
+                     <physdesc>
+                        <extent>1 pièce</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>FAVIER (Pierre Odot)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 3</unitid>
+                     <unitid>GG 2</unitid>
+                     <unittitle>Registre paroissial de Provenchère : baptêmes, mariages, sépultures &lt;lb/&gt;&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1744/1756">1744-1756</unitdate>
+                     <physdesc>
+                        <extent>1 pièce</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 4</unitid>
+                     <unitid>GG 3</unitid>
+                     <unittitle>Registre paroissial de Provenchère : baptêmes, mariages, sépultures &lt;lb/&gt;&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1757/1784">1757-1784</unitdate>
+                     <physdesc>
+                        <extent>1 pièce</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 5</unitid>
+                     <unitid>GG 4</unitid>
+                     <unittitle>Registre paroissial de Provenchère : baptèmes, mariages, sépultures &lt;lb/&gt;&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1784/1792">1784-1792</unitdate>
+                     <physdesc>
+                        <extent>1 pièce</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 6</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Administration générale : registre des marchés, procurations et délibérations &lt;lb/&gt;&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1790/1796">1790-1796</unitdate>
+                     <physdesc>
+                        <extent>1 pièce</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION GENERALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 7</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre disparate : ordonnances de l'Etat pour la formation de la loi relative aux passeports, certificats de civisme, procès-verbal de vente de menus produits, marchés de maîtresse d'école, de greffier, de pâtre, de fournitures, dénombrement de la population en 1801 ; délibérations du conseil municipal (1792-1833)&lt;lb/&gt;&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1792/1833">1792-1833</unitdate>
+                     <physdesc>
+                        <extent>1 pièce</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>MARCHE PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION GENERALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 8</unitid>
+                     <unitid>D 3</unitid>
+                     <unittitle>Registre. de délibérations du conseil.municipal &lt;lb/&gt;&lt;lb/&gt;1 registre, reliure en mauvais état. </unittitle>
+                     <unitdate normal="1836/1848">1836-1848</unitdate>
+                     <physdesc>
+                        <extent>1 pièce</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Mauvais état (reliure)</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 9</unitid>
+                     <unitid>D 4</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal &lt;lb/&gt;&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1864/1880">1864-1880</unitdate>
+                     <physdesc>
+                        <extent>1 pièce</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 13</unitid>
+                     <unitid>D 6</unitid>
+                     <unittitle>Registre disparate : rôle des secours attribués aux familles des volontaires du bataillon de Haute-Saône (an II), état des enfants venant en classe (an XI),  instruction ministérielle sur les actes d'état civil (an XII) ; délibérations (1831), déclaration de grossesse (1830), liste des appelés de la garde nationale (1830), reconnaissances de dettes (s. d.)&lt;lb/&gt;&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1792/1831">1792-1831</unitdate>
+                     <physdesc>
+                        <extent>1 pièce</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELEVE</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>GARDE NATIONALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 19</unitid>
+                     <unitid>D 5</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal &lt;lb/&gt;&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1880/1908">1880-1908</unitdate>
+                     <physdesc>
+                        <extent>1 pièce</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 23</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Administration de la commune.-Archives et objets mobiliers : inventaire.	&lt;lb/&gt;&lt;lb/&gt;1 cahier. 	</unittitle>
+                     <unitdate normal="1904">1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 10</unitid>
+                     <unitid>G 1</unitid>
+                     <unittitle>Contributions foncières : état de sections&lt;lb/&gt;&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1799/1800">1799-1800</unitdate>
+                     <physdesc>
+                        <extent>1 pièce</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>TAXE FONCIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 11</unitid>
+                     <unitid>G 2</unitid>
+                     <unittitle>Contribution foncière : livre des mutations, rôle foncier&lt;lb/&gt;&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1818/1830">1818-1830</unitdate>
+                     <physdesc>
+                        <extent>1 pièce</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>TAXE FONCIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 12</unitid>
+                     <unitid>G 3</unitid>
+                     <unittitle>Taxe sur les chiens : cahier à souches&lt;lb/&gt;&lt;lb/&gt;2 cahiers</unittitle>
+                     <unitdate normal="1855/1863">1855-1863</unitdate>
+                     <physdesc>
+                        <extent>2 pièces</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>IMPOTS LOCAUX</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 14</unitid>
+                     <unitid>M 1</unitid>
+                     <unittitle>Maison commune : acquisi tion du château, réparations, restauration  (1825-1867). &lt;lb/&gt;Ecoles : entretien; projet d'appropriation pour la classe des filles dans l'ancienne maison commune (1855) ; projet d'appropriation de l'ancien château, calques (1859) ; suppression de l'école facultative des filles (1903) (1838-1903) &lt;lb/&gt;Edifices du culte : travaux de réparations, réfection de la couverture de l'église (1838), devis de réfection de la toiture du clocher, devis de reconstruction du beffroi (1878) ; installation de sonneries ci viles et religieuses (1825-1891) ; devis de réparation, location du presbytère (1825-1912).&lt;lb/&gt;Fontaines: devis des travaux. devis· de la reconstruction de la fontaine du bas (l821) ; devis d'abaisssement et plan' de la fontaine de la Charrière des Faivre (1831) ; plan de fontaine  (1835) ; plan de la fontaine du Haut (1839) ; plan du lavoir à établir dans. la Charrière des Faivre, s.d. ; plan de la fontaine Saint-Valbert et de la fontaine du Haut (s. d.)  ; notes et croquis de la fontaine du couvent (1855) ; devis de réparation de fontaines (1829-1877) ; recherche de source pour une fontaine (1846-1848) ; devis du projet de construction de la fontaine du bas (1880).&lt;lb/&gt;Horloge : réparations, traité de construction d'une horloge neuve (1836-1868). &lt;lb/&gt;Bascule établissement d'un pont à bascule et réfection de la couverture d'un bâtiment à usage de dépôt d'instruments aratoires (1901).</unittitle>
+                     <unitdate normal="1821/1912">1821-1912</unitdate>
+                     <physdesc>
+                        <extent>109 pièces</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Restitué à la commune</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DOSSIER DE TRAVAUX</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BATIMENT ADMINISTRATIF</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX-DROITS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 20</unitid>
+                     <unitid>N 1</unitid>
+                     <unittitle>Bois communaux : plan général d'exploitation dressé par l'administration des eaux et forêts&lt;lb/&gt;&lt;lb/&gt;1 plan</unittitle>
+                     <unitdate normal="1826/1827">1826-1827</unitdate>
+                     <physdesc>
+                        <extent>1 pièce</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                     <subject>BIENS COMMUNAUX</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-REGIME DES EAUX-MOYENS DE TRANSPORT-TRAVAUX DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 15</unitid>
+                     <unitid>O 1</unitid>
+                     <unittitle>Voirie : fixation des alignements de la traverse -du village par le chemin de grande communication n° 6 (1905) ; vente du droit de servitude perpétuelle d'aqueduc au lieu-dit A la Vigne (1845) ;  échange de terrains pour prise d'eau (1645) ; tableau des chemins vicinaux ( 1865) ;de chemins et de propriétés adjacentes (1829) ; anticipations sur chemins communaux : procès verbal de visi te du géomètre ( 1810, 1829) ; affaire Gaillard : anticipation sur le chemin vicinal Provenchère-Bougnon, lieu-dit en la Galmelle (1831) ; registre des bulletins d'adhésion à l'abornement des propriétés contigues aux chemins ruraux (1863) ; abornement des chemins ruraux : procès verbal (1864) ; arrêté du conseil de préfecture sur le bornage de propriétés (1888) ; travaux à effectuer sur les chemins vicinaux : arrêté préfectoral, devis (1830) ; achèvements des chemins vicinaux, désignation : délibération (1868) ; ressources affectées à la construction et l' entretien des chemins vicinaux (1852-1885) ; affaire Desprez : creusement d'un fossé sur le chemin vicinal Provenchère-Bougnon, lieu-dit Au Pré du Chêne (1830-1831) ; adjudication des boues des fontaines (1830-1908). </unittitle>
+                     <unitdate normal="1810/1908">1810-1908</unitdate>
+                     <physdesc>
+                        <extent>93 pièces</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>PRISE D'EAU</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 21</unitid>
+                     <unitid>0 2</unitid>
+                     <unittitle>Voirie : plan des chemins ruraux</unittitle>
+                     <unitdate normal="1863">1863</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 16</unitid>
+                     <unitid>P 1</unitid>
+                     <unittitle>Cultes : décret impérial concernant le mode d'administration des fabriques des églises (1809) dévolution des biens des anciens établissements ecclésiastiques : circulaires (1910) ; donation et fondation pieuse Sylvestre (1858 ; 1927-1928).&lt;lb/&gt;&lt;lb/&gt;1 cahier imprimé, 5 pièces</unittitle>
+                     <unitdate normal="1809/1928">1809-1928</unitdate>
+                     <physdesc>
+                        <extent>6 pièces</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DONS-ET-LEGS</subject>
+                     <subject>FABRIQUE D'EGLISE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Index personnalisés du service :</head>
+                     <corpname>Séparation des Eglises et de l'Etat</corpname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 17</unitid>
+                     <unitid>Q 1</unitid>
+                     <unittitle>Assistance : legs Sylvestre pour la création d'un bureau de bienfaisance : testament (1871-1890) ; succession Roussel de Gressoux (fondation d'un établissement pour enfants de Provenchère) avec mémoires de procédure imprimés (1861-1875) . </unittitle>
+                     <unitdate normal="1861/1890">1861-1890</unitdate>
+                     <physdesc>
+                        <extent>27 pièces</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DONS-ET-LEGS</subject>
+                     <subject>STRUCTURE COMMUNALE D'AIDE SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 22</unitid>
+                     <unitid>Q 2</unitid>
+                     <unittitle>Bureau de bienfaisance : registre des délibérations (1889-1938) ; inclus : arrêtés du préfet nommant des membres de la commission administrative (1928-1937)&lt;lb/&gt;&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1889/1938">1889-1938</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>STRUCTURE COMMUNALE D'AIDE SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE-LETTRES,SCIENCES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>426 Edepot 18</unitid>
+                     <unitid>R 1</unitid>
+                     <unittitle>Instruction publique : nomination de maîtres (1888-1889) ; utilisation de locaux pour les maîtres (1889) ; dépenses et rétribution scolaire (1876-1890).</unittitle>
+                     <unitdate normal="1876/1890">1876-1890</unitdate>
+                     <physdesc>
+                        <extent>6 pièces</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENSEIGNEMENT ELEMENTAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PROVENCHERE</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

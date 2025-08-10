@@ -1,0 +1,1092 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_482Edepot_Archives_communales_déposées_de_Scey-sur-Saône-et-Saint-Albin" url="https://francearchives.fr/findingaid/18a003c97d5117a2104340758cfd35a09013cdf4">FRAD70_482Edepot_Archives_communales_déposées_de_Scey-sur-Saône-et-Saint-Albin</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>482Edepot - Archives communales déposées de Scey-sur-Saône-et-Saint-Albin</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>L. GEORGEL</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>482Edepot - Archives communales déposées de Scey-sur-Saône-et-Saint-Albin</unittitle>
+         <unitid>482Edepot1-75</unitid>
+         <unitdate normal="1502/1936">1502-1936</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE SCEY-SUR-SAONE-ET-SAINT-ALBIN</corpname>
+         </origination>
+         <note label="note">
+            <p>Archives déposées en 1969 et en 1976.
+
+Voir 357 E dépôt 113.</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             30/07/2013
+         </p>
+         <p>Dernier ajout le             31/07/2013
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION COMMUNALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 1</unitid>
+                     <unitid>BB1</unitid>
+                     <unittitle>Administration communale : copie de délibérations relatives aux bans des récoltes et à l’élection d’un commis (1773-1776) ; à un arbitrage du conseil, dans un litige entre particuliers (1790). Une délibération du 29 décembre 1720 pour l’amélioration du droit de « conduit » (1) et un marché passé avec l’instituteur en 1776, signalés dans l’inventaire de 1816 (482 E dépôt 39) n’ont pas été vus en 1969.&lt;lb/&gt;1 liasse, 13 pièces papier.</unittitle>
+                     <unitdate normal="1773/1790">1773-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS, COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 2</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Comptabilité : pièces à l’appui des comptes (1773) ; différents entre échevins au sujet des comptes (1763 ; 1773-1775) ; vérification des comptes des anciens officiers municipaux par les vérificateurs nommés par l’administration municipale du canton (1778-1791) ; rôle des impositions ordinaires de Scey-sur-Saône (1783).&lt;lb/&gt;Des quittances concernant pour la plupart, l’église et le presbytère (1749-1776) ; les comptes des échevins Dominique Javelet (1774), Claude Caseau (1778) ; Desles Thevery (1778) ; des baux de pâtis (1756) et de communaux (1773) signalés dans l’inventaire de 1816, op. cit., n’ont pas été vus en 1969.&lt;lb/&gt;1 liasse, 28 pièces et 1 cahier papier.</unittitle>
+                     <unitdate normal="1763/1791">1763-1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 3</unitid>
+                     <unitid>CC2</unitid>
+                     <unittitle>Terrier de la seigneurie de Scey-sur-Saône : dénombrement des « droits, autorités, prééminences, charges, tailles et autres prestations », appartenant à Charles-Louis de Vienne et de Villelume, dit de Bauffremont, marquis de Meximieux, vicomte de Marigny, baron de Scey, « Clerevaulx » (Clairevaux-les-Lacs, Jura), Durnes (Doubs), Montsaugeon (Haute-Marne), Rans (Jura), « Villafans-le-Neuf » (Haute-Saône ?), seigneur de Chariez, Pusey, « Noirond » (Noiron, Haute-Saône ?), Pleure (Jura), Récin (commune de Tourmont, Jura), « Aulmont » (Aumont, Jura ?), Bailli d’Aval « général de bataille et armées ». Ce terrier est dressé de 1662 à 1664 par François Roussel, notaire, procureur d’office en la prévôté de Chariez, commis à cet effet avec Pierre Lyautey, notaire postulant au siège de Vesoul et Claude Tilliod, notaire à Scey, par mandement de Philippe de Castille (1660) sur requête des habitant de Scey, qui en supportent les frais à la suite d’un traité passé entre ceux-ci et Claude de Bauffremont, baron de Scey-sur-Saône, marquis de Listenois, baron de Clairevaux, Durnes, seigneur à Chariez, Pusey, lieutenant général et gouverneur du comté de Bourgogne et de Charolais (22 mars 1660) ; Samuel Viret, notaire et tabellion de la baronnie de Scey ; il débute par un appel nominatif des habitants et se termine par divers additifs dont un affranchissement particulier donné par Louise-Françoise de Bauffremont, marquise de Meximieux, épouse et procuratrice spéciale de Charles-Louis de Vienne, dit de Bauffremont (28 octobre 1669) ; il comprend des copies de plusieurs titres anciens, parmi lesquels une confirmation par Guillaume de Bauffremont, chevalier, d’un affranchissement particulier donné par son frère Jean de Bauffremont, autrement dit de « Tervey » (Vergy, Côte-d’Or, 21 juillet 1429, par devant Jean Clerc de Scey, notaire de la cour de Besançon, en présence de nobles Jacquot de Noidans et Jean Gauthier de Maisières), suivi de la ratification de Jean de Neufchâtel, seigneur de Montaigu et d’Amance, seigneur du « fied » de Scey-sur-Saône, à cause de son château de Montaigu (22 juillet 1429) ; une reconnaissance de vassalité de Jean Gros, de Scey, envers Charlotte de Longwy, dame de Sombernon, « Clervaux-en-Montagne » et douairière de Scey (3 mai 1519) ; plusieurs actes d’acensements ou d’affranchissement particulier, consentis par Claude de Bauffremont évêque de Troyes, abbé commendataire des abbayes Notre-Dame de Longway (Côte-d’Or) de Balerne (Mont-sur-Monnet, Jura) et d’Acey, prieur de Saint-Geosmes (à Langres) ; baron et seigneur de Sombernon (Côte d’Or), Scey-sur-Saône, Ferrières-les-Scey (1569-1591) ; et un traité passé entre ce dernier et les habitants de Scey au sujet des bois (30 juin 1573 ; incomplet) ; désaveu de seigneurie et vassalité envers Guillaume de Bauffremont, gentilhomme de la bouche du roi et son colonel au bailliage d’Aval, baron de Sombernon, Scey-sur-Saône, seigneur de Mont-Saugeon, « Ran », « Quemenalle », etc., par Jean Tisserand qui devient « liege bourgeois » du roi (27 et 30 juin 1597) ; affranchissement particulier consenti par Jean de Bauffremont, chevalier et commandeur en l’ordre d’Alcantara, baron et seigneur de Clairvaux, Scey-sur-Saône, Durnes, Villafans-le-Neuf, Cheriez, Pusey, « Ruffey-sur-l’Ongnon » (Ruffey-sur-Château, Doubs).&lt;lb/&gt;Hugier, Fouvent en partie, etc., conseiller de leurs altesses, bailli et colonel d’Aval ; déclaration, par les échevins, des biens de la cure dont une partie provient de la fondation faite par le baron de Scey, gouverneur de la province, et par anne de Poligny, sa femme, le 11 novembre 1648 (Samuel Viret, notaire à Scey) ; la reconnaissance générale du 9 janvier 1664 est faite par les habitants de Scey, Ferrières-les-Scey, la Neuvelle-les-Scey, Chassey-les-Scey, Vauchoux, Scye et par les sujet du seigneur aux lieux d’Ovanches, Confracourt et Clans ; sont reconnus au seigneur : la justice haute, moyenne et basse avec le droit d’élever le signe patibulaire au « finage » (2) de Scey, sur le « peluge » (3), et de tenir un carcan attaché à l’une des colonnes des halles etc., les droits de poids et mesures, ventes, « rouages » (4) et « attelages » sur les foires et marchés ; les gens de métiers doivent élire chaque année un maître qui prête serment et est responsable de ses compagnons devant le seigneur etc., les habitants se reconnaissent gens de « Poete » (5) et pour cette raison ne peuvent s’assembler sans la permission du seigneur etc.,&lt;lb/&gt;« les maîtres valets » doivent dresser des « chevannes » toute les veilles de la Saint-Jean, aux places accoutumées, et doivent engager des ménetriers et joueurs d’instruments pour donner l’aubade au seigneur chaque jour de fête « translation de Saint-Martin », à la porte de son château etc., les pêcheur doivent aider à la vendange de la vigne du seigneur etc., le seigneur possède : plusieur grands bois sur les territoires de Scey, de Provins (ferme commune de Scey) et de la Neuvelle etc., 2 étangs, le grand moulin sur la Saône, la grange de la Vaivre (peut-être la ferme de Provins, située près des grands bois de la Vaivre) le château ou maison forte (dont une description est donnée) parmi les noms cités ; Jannot de Montcey, « difforain » (6), comme mari de Jeanne Lambelin (s.d.) ; Mathieu de Lambrey, écuyer (1569) ; Philippe de Macon, seigneur d’Esboz (1664) ; Claude-Françoise Carmentrant, veuve de Jean-Baptiste de Macon, seigneur d’Esboz (1664) ; le curé, au nom du chapelain desservant les chapelles et oratoires fondés en l’église paroissiale et au château (dont le seigneur a droits de présentation et collation) : outre les biens fonciers ; le chapelain détient les profits du four du « Duhey » et la moitié des profits de celui de Scey-l’église (7).&lt;lb/&gt;L’autre moitié de ceux-ci appartenant à l’abbaye de la Charité ; le moulin en ruine, près de la fontaine de Scey, les « usines et ribles et battoirs » en dépendant, un droit de péage sur les personnes et les marchandises traversant la Saône, un droit sur les essaims d’abeilles en « épaves », le profit du four banal de Chantes ; une part sur les dîmes et « relevés » sur certains champs d’Ovanches, les autres parts étant au curé de Saint-Albin et au prieur du « Mouterot » (le Moutherot, ancien monastère de l’ordre de Cluny, commune de Traves) ; d’autres dîmes à Chassey et à Scey (1664) ; le monastère de Saint-Vincent de Besançon, héritier de dom Anselme Gros (1664) ; demoiselle Jacques Symonnot, veuve de Jean « Toignard » (Tognard, seigneur de Paroy, Doubs) (1664) ; Jean-François d’Aigremont, seigneur à Ferrières (1664) ; une vigne est déclarée comme chargée de redevances envers le prieur de « Graindecourt » (Grandecourt) par suite d’une vente faite déclarant par Thomas de Chauvirey, prieur, le 5 juin 1648.&lt;lb/&gt;Un cahier contenant des extraits d’un livre terrier avec les reconnaissances des habitants de Scey-sur-Saône envers les Bauffremont en 1664 (copie du XIXème siècle).&lt;lb/&gt;1 gros registre couvert cuir, dont les feuillets 1, 203, 355-360 et 398 manquent et dont la table des personnes a été ajoutée postérieurement ; 1 cahier de copies du XIXème siècle.</unittitle>
+                     <unitdate normal="1677">1677</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 4</unitid>
+                     <unitid>CC3</unitid>
+                     <unittitle>Terrier de la seigneurie de Scey-sur-Saône : copie inachevée d’une fraction des actes du grand terrier.&lt;lb/&gt;1 cahier sans couverture (indiqué comme ayant fait partie de la collection de Justin Godart).</unittitle>
+                     <unitdate normal="1563/1667">1563-1667</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 5</unitid>
+                     <unitid>CC4</unitid>
+                     <unittitle>Propriétés du seigneur : plan du bois du « Fayl », appartenant à l’abbé de Bauffremont, par Pierre Rousseau, arpenteur juré demeurant à valay (8).&lt;lb/&gt;1 plan.</unittitle>
+                     <unitdate normal="1715">1715</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORET, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 6</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Propriétés communales : plan du bois communal de Saint-Albin par Claude Dausse, arpenteur en la maîtrise des Eaux et forêts de Gray, comportant le procès-verbal de bornage et de l’arpentement, avec l’apposition des assiettes ordinaires (1775), plan de 200 arpens adjugés aux habitants de Scey appartenant au Duc de Bauffremont (9).&lt;lb/&gt;1 plan.</unittitle>
+                     <unitdate normal="1775">1775</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>JUSTICE, PROCEDURES, POLICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 7</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Justice : tribunal du siège présidial de Vesoul, pièces de procédure entre les demoiselles Froissard de Broissia, demeurant à Besançon, et le fermier de la seigneurie de Scey, au sujet d’une dette de celui-ci (1715) ; entre l’ancien évêque d’Autun, abbé commanditaire de l’abbaye de la Charité, et le chapelain de l’église Notre-Dame d’Autun, aussi chapelain de la chapelle du château, d’une part, l’abbé Bauffremont et les habitants de Scey, d’autre part, au sujet des revenus des fours de Scey (1722) ; procédure au sujet de l’ancien chemin allant à Chassey, abandonné en 1739 (1739-1773), etc.  &lt;lb/&gt;1 liasse, 1 parchemin, 62 pièces et cahiers papier.</unittitle>
+                     <unitdate normal="1715/1773">1715-1773</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 8</unitid>
+                     <unitid>FF2</unitid>
+                     <unittitle>Justice : maîtrise des eaux et forêts, pièces de procédures au sujet des droits dans les bois, entre la communauté et Claude-François Arbilleur, fermier des forges et fourneaux de Scey (1722-1725) ; entre Nicolas Billerey de Voncourt, procureur du roi en la maîtrise de Vesoul d’une part, les habitant de Scey et ceux d’Arbecey, d’autre part au sujet des coupes dans le bois des Crochots (commune d’Arbecey) ; litigieux entre ces deux communautés (1781-1788) ; entre Claude-Nicolas Mouton, entrepreneur des travaux exécutés à Scey, à la Neuvelle et à Ferrières, par adjudication d’autorité de la maîtrise des eaux et forêts de Vesoul du 16 mars 1781, et les habitants de ces localités au sujet de la « rendue » des travaux (1781-1784 ; Pierre Baujard, architecte à Vesoul, expert pour l’entrepreneur), etc.&lt;lb/&gt;1 liasse, 64 pièces papier.</unittitle>
+                     <unitdate normal="1724/1788">1724-1788</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 9</unitid>
+                     <unitid>FF3</unitid>
+                     <unittitle>Plan des limites entre les territoires de Scey-sur-Saône et d’Arbecey dans le bois des Crochots, par Jean-Claude Roussel géomètre expert au bailliage de Vesoul (10).&lt;lb/&gt;1 plan.</unittitle>
+                     <unitdate normal="1783">1783</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 10</unitid>
+                     <unitid>FF4</unitid>
+                     <unittitle>Justice : parlement de Besançon, procédure entre les paroissiens de la cure de Scey-sur-Saône (Scey, Neuvelle et Ferrières) et le curé Nobis au sujet des droits curiaux (1721-1724) ; entre les habitants de Scey et ceux de Chassey au sujet de droits de parcours (1776-1781).&lt;lb/&gt;1 liasse, 2 parchemins, 41 pièces papier.</unittitle>
+                     <unitdate normal="1721/1781">1721-1781</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 11</unitid>
+                     <unitid>FF5</unitid>
+                     <unittitle>Justice. -Arbitrage de l’intendant : dans un différent entre le curé François Nobis et les paroissiens au sujet du financement de la reconstruction de l’église entreprise sous l’autorité du curé, etc.&lt;lb/&gt;1 liasse, 4 pièces.</unittitle>
+                     <unitdate normal="1744/1773">1744-1773</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 12</unitid>
+                     <unitid>FF6</unitid>
+                     <unittitle>Justice : pièces de procédures entre des communautés voisines de celle de Scey.&lt;lb/&gt;Copie de la transaction au sujet des droits de parcours des habitants de Bucey-les-Traves sur le territoire de Chassey-les-Scey, passée entre ces deux communautés (1621) ; transaction entre les habitants de Rupt et ceux de Saint-Albin au sujet de leurs limites ; reconnaissance des bornes par Nicolas Richard, notaire et géomètre ; &lt;lb/&gt;la fontaine des trois prêtres, ou fontaine Simonée est prise pour première borne (1729) ; différents entre les habitants de Saint-Albin et ceux d’Ovanches au sujet d’une part, d’un droit de parcours de ceux de Saint-Albin sur le territoire d’Ovanches (1502-1736), et d’autre part de la propriété de la « Coste Ferrand » (1736-1790) ; procès verbal de descente dans les bois et les prés d’Ovanches, par devant Antoine-François Arvisenet d’Auxange, conseiller au parlement, au cours d’une procédure entre Charles-Emmanuel, abbé de Bauffremont et les habitants d’Ovanches, dans laquelle Antony fils, maitre de forges à Baignes est l’un des experts pour l’estimation des bois ; différent entre les parties au sujet des droits des habitants de Traves et du seigneur de Rupt sur les prés communaux d’Ovanches, auxquels ils auraient pu avoir accès par un ancien pont (qu’il ne faut pas confondre avec un autre pont au-dessous du château de Traves, fort éloigné) ou par plusieurs gués encore existants ; visite du « paquis du pont » où les arpenteurs relèvent de nombreuses pierres, qui leur semblent « brutes » et qui seraient les vestiges des anciennes maisons (11), d’après les habitants d’Ovanches, ceux de l’ancien pont, suivant l’abbé de Bauffremont (1724) ; cahier contenant les plans des bois et pâquis communaux d’Ovanches par Maclet, arpenteur (1722 ; le « paquis du pont » y figure).&lt;lb/&gt;1 liasse, 14 pièces et cahiers papier dont un cahier contenant des petits plans.</unittitle>
+                     <unitdate normal="1502/1790">1502-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 13</unitid>
+                     <unitid>FF7</unitid>
+                     <unittitle>Justice : procédure sur divers chefs à l’encontre des seigneurs de Scey ; commencé en 1781, contre Georges Lambert, maître de forges à Scey, qui a fait édifier une halle à charbon entourée de murs sur le terrain communal des « balances » (1781).&lt;lb/&gt;Poursuivie contre Charles-Roger de Bauffremont, prince du Saint-Empire, baron et seigneur de Scey (1782-1791), elles se terminent par devant le tribunal civil de la Haute-Saône, contre Alexandre-Emmanuel-Louis de Bauffremont-Listenois, demeurant à Madrid, son neveu, comme subrogé aux droit de son oncle par traité passé entre eux le 7 juillet 1791 (Thion ? notaire à Paris) ; mention du traité passé entre les habitants et Louis-Benigne de Bauffremont pour terminer le litige resté en suspens après la mort de l’abbé de Bauffremont qui avait fait enclore dans son parc le bois de l’étang et une portion de pré appartenant aux habitants, sous promesses de dédommagement (15 avril 1738, Vincent et Garnier, notaires) ; rappel de la construction des forges par l’abbé de Bauffremont (avant 1714) ; citation du procès verbal du 18 novembre 1758, en exécution d’arrêt de la maîtrise des eaux et forêts du 4 juillet précédent, par lequel 200 arpents de bois ont été cédés par le seigneur aux habitants de Scey et de la Neuvelle pour leur tenir lieu des droits d’usage détenus précédemment ; sentence du 25 avril 1793 en faveur des habitants ; signification de M. de Bauffremont aux habitants, par laquelle il consent à diverses restitutions ou abandons : le four de l’église, les halles, une portion de bois ; un droit de pâture, le patouillet et la place au-devant de la forge, non enfermée dans l’enceinte des bâtiments (an V) ; la sentence manque.&lt;lb/&gt;La copie de l’ordonnance du 12 avril 1748, concernant la restitution des biens communaux, ainsi qu’un plan des anticipations de la forges sur le communal, signalés dans les anciens inventaires, n’ont pas été vus en 1969.&lt;lb/&gt;De même des pièces de procédure (une dizaine de pièces), entre les habitants de Scey et ceux de Saint-Albin au sujet de la délimitation des bois, sentence du 4 janvier 1784 : transaction entre les habitants de Scey et ceux de Ferrières au sujet des parcours (s.d.), signalées dans les anciens inventaires, n’ont pas été vues en 1969.&lt;lb/&gt;1 liasse, 88 pièces et cahiers papier.</unittitle>
+                     <unitdate normal="1714/1797">1714-1797</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 14</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Scey-sur-Saône : baptêmes (1598-1623). Attestation de Jean Perrenet, notaire à Scey, qui certifie l’exactitude des extraits contenus au registre ; paraphe du bailli de Scey ; une inscription en latin (1645).&lt;lb/&gt;1 registre relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1598/1645">1598-1645</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 15</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Scey-sur-Saône : baptême (1605-nov. 1636 ; mars 1637-1643 ; un acte de 1644 ; 1643-août 1664 ; mars 1665-octobre 1685).&lt;lb/&gt;Les actes intéressant les habitants de la Neuvelle-les-Scey et Ferrières-les-Scey à partir de 1634 jusque vers 1644 et de 1652 à 1685 ; de 1635 à 1643 certains actes intéressent des habitants (réfugiés à Scey ?), de Saint-Albin, d’Ovanches, de Vauchoux, d’Aboncourt, de Buffignécourt, de Jussey, de Port-sur-Saône, de Confracourt, de Combeaufontaine, de Traves, d’Arbecey, de Champlitte, de Vauconcourt, de Maizières, de Chargey, de Purgerot, de Choye, de Ray.&lt;lb/&gt;Une note du curé Pierre-François Cadot, du 15 mars 1663, annonce la mort de son prédécesseur.&lt;lb/&gt;Lacunes de novembre 1636 à mars 1637 ; et d’août 1664 à mars 1665 ; cette seconde lacune est comblée par le premier des registres de la collection déposée aux Archives départementales par le greffe du Tribunal de Vesoul (12).&lt;lb/&gt;1 registre composite relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1605/1685">1605-1685</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 16</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Scey-sur-Saône : mariages (1578-juillet 1631 ; un acte de 1642 ; octobre 1632-juin 1634 ; avril 1639-mai 1651 ; 1663-juin 1673).&lt;lb/&gt;Les actes de 1640 intéressent des habitants de Purgerot et de Clans.&lt;lb/&gt;Lacune de juillet 1631 à octobre 1632, de juin 1634 à avril 1639, de mai 1651 à avril 1663 et de juin 1673 à octobre 1685.&lt;lb/&gt;1 petit registre relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1578/1673">1578-1673</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 17</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Scey-sur-Saône, de la Neuvelle et de Ferrières : sépultures (février 1665-mars 1688) ; confirmation (27 mai 1702 en l’église métropolitaine Saint-Jean l’évangéliste de Besançon ; 28 et 29 mai 1703).&lt;lb/&gt;1 cahier relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1665/1703">1665-1703</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 18</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Scey-sur-Saône, de la Neuvelle et de Ferrières : baptêmes, mariages, sépultures (octobre 1685-1691 ; extrait d’un baptême de Port-sur-Saône ; 1691-mars 1695) ; baptêmes et mariages (juillet 1695-novembre 1699) ; sépultures (à l’envers sur 4 feuillets, août 1696-octobre 1699) ; baptêmes et mariages (novembre 1699-juin 1700) ; sépultures (décembre 1699-mai 1710) ; baptêmes (juillet 1700-janvier 1701) ; baptêmes et mariages (janvier 1701-novembre 1702 ; février 1703-décembre 1711). &lt;lb/&gt;Les actes intéressent les habitants des forges de Scey à partir de 1696 environ ; ceux des bois de Scey, de Vaivre (aujourd’hui forêt, commune de Scey), de Provins (ferme, commune de Scey), parfois d’Aboncourt.&lt;lb/&gt;Lacunes pour les baptêmes et les mariages de novembre 1702 à février 1703 ; ces lacunes sont comblées par les registres de la collection déposée aux Archives départementales par le greffe du tribunal de Vesoul.&lt;lb/&gt;1 registre composite relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1685/1711">1685-1711</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 19</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial de Scey-sur-Saône, de la Neuvelle et de Ferrières : baptêmes (avec sépulture le 18 juin 1712, et plusieurs mentions marginales de décès) ; promesse de mariage (1713, un acte). &lt;lb/&gt;Les actes intéressent les habitants de Vaivre, les bois de Vaivre, de Provins, du lieu-dit « bas de la folle ».&lt;lb/&gt;1 registre relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1712/1722">1712-1722</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 20</unitid>
+                     <unitid>GG8</unitid>
+                     <unittitle>Registre paroissial de Scey-sur-Saône, de la Neuvelle et de Ferrières : baptêmes (avec quelques mentions marginales de décès).&lt;lb/&gt;Les actes intéressent les habitants des mêmes localités que ci-dessus, ainsi que ceux de la forge.&lt;lb/&gt;1 registre composite relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1723/1736">1723-1736</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 21</unitid>
+                     <unitid>GG9</unitid>
+                     <unittitle>Registre paroissial de Scey-sur-Saône, de la Neuvelle et de Ferrières : mariages et sépultures (mai 1710-octobre 1727, avril 1730-août 1733 ; octobre 1727-avril 1730 ; août 1733-novembre 1735).&lt;lb/&gt;Les actes intéressent les habitants des mêmes localités que ci-dessus, ainsi que ceux des bois de Ferrières.&lt;lb/&gt;1 registre composite relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1710/1735">1710-1735</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 22</unitid>
+                     <unitid>GG10</unitid>
+                     <unittitle>Registre paroissial de Scey-sur-Saône, de la Neuvelle, de Ferrières et leurs dépendances : baptêmes (1737-juin 1742), mariages et sépultures (1736-juin 1742). &lt;lb/&gt;1 registre composite relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1736/1742">1736-1742</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 23</unitid>
+                     <unitid>GG11</unitid>
+                     <unittitle>Registre paroissial de Scey-sur-Saône : baptêmes (1742-1748) ; mariages et sépultures (1742-1748) ; récit de la pose de la première pierre de l’église, le 20 juillet 1739, suivi de comptes (1739-1746) ; l’entrepreneur est François Lhéritier ; baptêmes (1748-1754) ; mariages et sépultures (1748-1753 ; 1753-1754).&lt;lb/&gt;Le 15 août 1745, bénédiction d’une nouvelle chapelle ; bénédiction de la nouvelle église paroissiale le 6 novembre 1750.&lt;lb/&gt;1 registre relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1739/1754">1739-1754</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 24</unitid>
+                     <unitid>GG12</unitid>
+                     <unittitle>Registre paroissial de Scey-sur-Saône : baptême (1754-1764) ; mariages et sépultures (1754-1763) ; un extrait de baptême sur feuillet séparé (1758).&lt;lb/&gt;Le 27 septembre 1761, consécration de l’église de Scey-sur-Saône et de ses trois autels, le maître-autel sous l’invocation de Saint-Martin, patron de l’église, l’autel du Saint-Rosaire, côté évangile, et l’autel de Saint-Claude, côté épître, en présence de Claude-Ignace-François-Xavier-Alexis Franchet de Rans, prieur de Fontaine, évêque de Rhocy, suffragant du diocèse de Besançon et archidiacre de Salins.&lt;lb/&gt;1 registre relié carton, dos cuir, 1 pièce.</unittitle>
+                     <unitdate normal="1754/1764">1754-1764</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 25</unitid>
+                     <unitid>GG13</unitid>
+                     <unittitle>Registre paroissial de Scey-sur-Saône : mariage et sépultures.&lt;lb/&gt;1 registre couvert carton, dos cuir.</unittitle>
+                     <unitdate normal="1763/1767">1763-1767</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 26</unitid>
+                     <unitid>GG14</unitid>
+                     <unittitle>Registre paroissial de Scey-sur-Saône : baptêmes (1764-1775) ; mariages et sépultures (1767-1774 ; 1774-1775). Le 28 mai 1770, pose de la première pierre du presbytère de Scey-sur-Saône, terminé le 22 octobre 1771, par le curé Henriot.&lt;lb/&gt;1 registre relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1763/1775">1763-1775</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 27</unitid>
+                     <unitid>GG15</unitid>
+                     <unittitle>Registre paroissial de Scey-sur-Saône : baptêmes (1775-1784, avec un mariage en 1782) ; mariages et sépultures (1775-1783).&lt;lb/&gt;1 registre relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1775/1784">1775-1784</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 28</unitid>
+                     <unitid>GG16</unitid>
+                     <unittitle>Registre paroissial de Scey-sur-Saône : baptêmes (1784-1790) ; baptêmes, mariages et sépultures (1790) ; mariages et sépultures (1783-1790).&lt;lb/&gt;1 registre relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1783/1790">1783-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 29</unitid>
+                     <unitid>GG17</unitid>
+                     <unittitle>Registre paroissial de Scey-sur-Saône : baptêmes, mariages, sépultures.&lt;lb/&gt;1 registre relié couvert carton.</unittitle>
+                     <unitdate normal="1791/1792">1791-1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 30</unitid>
+                     <unitid>GG18</unitid>
+                     <unittitle>Registre d’état-civil de Scey-sur-Saône : table décennale (1792-an XI) ; naissances et décès de 1807 sur un feuillet indépendant.&lt;lb/&gt;1 cahier relié carton, dos toile, 1 pièce papier.</unittitle>
+                     <unitdate normal="1792/1807">1792-1807</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 31</unitid>
+                     <unitid>GG19</unitid>
+                     <unittitle>Registre paroissial de Saint-Albin et Ovanches et, à partir de 1692, Chassey : baptêmes (1645-1656 ; 1656-1684 ; feuillets blancs ; note du maire de Scey, Mouthon, certifiant que le présent registre lui a été remis par Joseph Rance, fils de l’ancien maire de Saint-albin, le 30 juillet 1816 ; juillet 1692-mars 1694) ; sépultures (juin 1692-1695) ; un baptême de 1695 ; mariages et sépultures (juillet 1695-janvier 1724) ; baptêmes, mariages et sépultures (1786-1792) ; attestation de la remise du registre au maire de Saint-Albin le 1er janvier 1793.&lt;lb/&gt;Sépulture dans la chapelle Saint-Théobald de l’église de Saint-Albin du curé de Chassey, Théobald Valiton, décédé le 2 mai 1704 ; sépulture dans l’église de Saint-Albin du curé du lieu Jean Gallemiche, décédé le 23 novembre 1705.&lt;lb/&gt;Lacune de novembre 1684 à juillet 1692 pour les baptêmes et de janvier 1724 à janvier 1786 pour les baptêmes, mariages et sépultures ; cette seconde lacune est comblée par les registres paroissiaux déposés aux Archives départementales par le greffe du tribunal de Vesoul, à partir de 1737 et par le registre suivant.&lt;lb/&gt;1 registre composite relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1645/1816">1645-1816</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 32</unitid>
+                     <unitid>GG20</unitid>
+                     <unittitle>Registre paroissial de Saint-Albin, Ovanches et Chassey : baptêmes (août 1706- avril 1707 ; juillet 1692-juillet 1739 ; deux sépultures dont celle du curé Pierre-Bénédict Vetel, le 7 juillet 1739 ; août 1739-avril 1776 ; mariage ; une sépulture ; mai 1776-août 1781) ; baptêmes, mariages, sépultures (août 1781 septembre 1782 ; juin-juillet 1782 ; octobre 1782-janvier 1786) ; mariage et sépultures (juin 1692-juillet 1781).&lt;lb/&gt;Paraphe du juge de la baronnie Rupt, François Dubois (1739).&lt;lb/&gt;Plusieurs notes de la mains du curé Fournier : rappel des statuts accordés par l’archevêque Antoine-Pierre II de Grammont en l’église de Saint-Albin, lors de son séjour à Rupt en 1737, par les quels il établit à Saint-Albin, un four où les habitants pourront cuire le pain pour servir à l’église, il interdit les messes les dimanches et les jours fériés dans la chapelle « rurale » d’Ovanches, ou dans toutes autres, ainsi que tous les services du cultes sur l’autel étant près de la chapelle de Chassey-les-Scey ; l’autorisation de servir deux messes chaque dimanche dans la chapelle d’Ovanches fut accordée par l’archevêque de Grammont en 1740, et confirmée par l’évêque suffragant F. Hugon et par le vicaire général Camus ; une pierre de marbre fut placée par ordre sur l’autel de la chapelle de Chassey (feuillet 69). Une peste bovine venue d’Alsace sévit dans la région de Vesoul en 1743-1744 (même feuillet).&lt;lb/&gt;Les deux cloches de l’église de Saint-Albin et la cloche de l’église d’Ovanches furent bénies par le curé Fournier le 4 mai 1757 (feuillet 92) ; une mission fut prêchée à Scey-sur-Saône, par un missionnaire de Beaupré (décembre 1757-janvier 1758, feuillet 93) ; vols d’un calice et d’objets sacrés dans la sacristie (avril 1759) ; chute du clocher (mai 1759, feuillet 95) ; réception du nouveau calice venu de Besançon (février 1760, feuillet 96 verso) ; après avoir consacré les églises de Charentenay, Vy-les-Rupt et Confracourt, l’évêque de Rhosy, suffragant de l’Archevêque de Besançon, administre la confirmation aux paroissiens de Saint-Albin et du voisinage, le 25 septembre 1761, consacre l’église de Rupt le 26, celle de Scey, où il administre aussi la confirmation le 27, consacre celle de Traves le 28, et de là, se rend à Noidans-le-Ferroux pour y consacrer l’église et y administrer la confirmation (feuillet 100) ; découverte en 1747 de reliques dans les deux petits autels collatéraux de la nerf de Saint-Albin, autels qui avaient été consacrés par Mgr. Guérin, évêque suffragant de Besançon ; les reliques sont remise en places : celles de Saint-Hubert à droite, celles de Sainte-Agathe à gauche ; visite de ces reliques le 27 juillet 1762 (feuillet 102) ; offices particuliers célébrés le 5 et le 19 août 1764 (feuillet 105) ; les pluies trop abondantes des années 1766-1770 ont amené une grande misère (feuillet 114 verso) ; par mandement du cardinal de Choiseul, archevêque de Besançon, diminution des jours de jeûne, et permission aux travailleurs de manquer la messe en certains cas (feuille 115) ; prise de possession solennelle et juridique de la cure de Saint-Albin par le prêtre Bourdon, en présence de Jean-Baptiste Thomassin, précédent curé, le 22 août 1784 (feuillet 139).&lt;lb/&gt;Une étoile très brillante est observée dans le ciel depuis la fin de 1743 jusqu’à la fin de février 1744 (feuillet 193 verso).&lt;lb/&gt;1 gros registre composite couvert cuir, 1 pièce.</unittitle>
+                     <unitdate normal="1692/1786">1692-1786</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 33</unitid>
+                     <unitid>GG21</unitid>
+                     <unittitle>Registre paroissial de Saint-Albin et Ovanches : mariages et sépultures (février-août 1784).&lt;lb/&gt;1 cahier sans couverture.</unittitle>
+                     <unitdate normal="1784">1784</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 34</unitid>
+                     <unitid>GG22</unitid>
+                     <unittitle>Registre d’état-civil de Saint-Albin : baptêmes, mariages, sépultures (1793-an XII, en ordre alterné ; an XIII-1806, en mélange) ; 1 extrait des registres d’état-civil de Scey-sur-Saône le 10 pluviose an VII.&lt;lb/&gt;1 registre composite relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1793/1806">1793-1806</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 35</unitid>
+                     <unitid>GG23</unitid>
+                     <unittitle>Registre paroissial de la Neuvelle-les-Scey : baptêmes (1635-avril 1637 ; une inscription du curé qui informe qu’en raison des calamités, il n’y eut plus de baptêmes jusqu’en 1646 ; un acte de 1639 ; février 1646-1657 ; une note du curé informant qu’il n’y eut pas de baptême de 1658 à 1661 ; avril 1663-septembre 1664 ; une note du frère Millot ; février 1665-mars 1686).&lt;lb/&gt;Le cahier est paraphé plusieurs fois par François Soyère, doyen rural de Traves et curé de Scey.&lt;lb/&gt;1 cahier relié carton, dos toile.</unittitle>
+                     <unitdate normal="1635/1686">1635-1686</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 36</unitid>
+                     <unitid>GG24</unitid>
+                     <unittitle>Registre paroissial de Ferrières-les-Scey (extraits des registres de Scey-sur-Saône) ; baptêmes (1635-mars 1636 ; une mention marginale informant qu’en raison des calamités il n’y eut plus de baptêmes jusqu’en 1644 ; 1645-1657 ; inscription du curé Soyère qui atteste avoir fait l’extrait du présent registre en 1667.&lt;lb/&gt;1 cahier relié carton, dos toile.</unittitle>
+                     <unitdate normal="1635/1667">1635-1667</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 37</unitid>
+                     <unitid>GG25</unitid>
+                     <unittitle>Affaires religieuses : pièces à l’appui des comptes du curé Henriot (1758-1773), parmi lesquelles, quittances de Jean Duguet, pour ferrements (1751-1765), Jean Jacquot, maître menuisier (1758-1759) ; Berthier de Besançon pour une lampe et un encensoir (1758) ; « veuves Maldines » doreuse à Besançon (1759) ; Etienne Hory, couvreur (1759) ; Louis Julien serrurier pour appuis de communion (1761) ; Jean-Baptiste Guillon, maçon (1761) ; Bernard, verrier ou vitrier (1763-1771) ; Bouveret, pour ferrements (1763) ; Claude Petit, maître serrurier pour porte de fer et croix du dôme (1764) ; « Jono Batista Morindano » verrier ou vitrier (1764) ; G. Monnot, menuisier (1767) ; Charmet, orfèvre pour une boîte aux saintes huiles et une pyxide en argent (1766) ; Jean-François Marchand et Cie, Lyon pour une chasuble (1767), Joseph Vicari, verrier ou vitrier (1770) ; Lepagnes ainé de Besançon pour livres de chants, graduel, antiphonaire, missel (1770) ; Cressand-Marca pour peinture en simili-marbre dans la chapelle du Rosaire et diverses réparations dans la chapelle Saint-Claude (1771).&lt;lb/&gt;« Loreso Donati » pour peinture et bronzage des statues de Saint-Martin et Saint-Loup (1173) ; compte des fabriciens de l’église (1788). Copie du dénombrement des biens de la cure de Scey-sur-Saône (1648-1723).&lt;lb/&gt;1 liasse, 28 pièces et cahiers papier.</unittitle>
+                     <unitdate normal="1648/1788">1648-1788</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>DOCUMENTS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 38</unitid>
+                     <unitid>II1</unitid>
+                     <unittitle>Mémoire de Roussel (13) adressé au roi de France au sujet de la nécessité des arpentements, principalement en raison des destructions et du dépeuplement de la guerre de 10 ans (dont l’auteur attribue la plus grande part aux troupes alliées espagnoles et allemandes), à la suite desquels la province retournera en friche et en bois, et ne « commença à se rétablir » qu’en 1660 ; les arpentements demandés par les seigneurs pour recouvrer les terres usurpées, échutes et autres, sont profitables à tous, car ils évitent de nombreux et coûteux procès.&lt;lb/&gt;Ils sont exécutés par des officiers subalternes très peu payés, et les frais de ceux-ci, sont supportés par ceux qui ont demandé les arpentements.&lt;lb/&gt;1 cahier papier.</unittitle>
+                     <unitdate>XVIII° siècle</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 39</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal de Scey (14).&lt;lb/&gt;1 registre en mauvais état.</unittitle>
+                     <unitdate normal="1790/1796">1790-1796</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 40</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal de Saint-Albin.&lt;lb/&gt;1 cahier.</unittitle>
+                     <unitdate normal="1800/1807">1800-1807</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 41</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal de Scey-sur-Saône.&lt;lb/&gt;1 registre cartonné.</unittitle>
+                     <unitdate normal="1800/1807">1800-1807</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 42</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal de Scey-sur-Saône.&lt;lb/&gt;1 registre relié parchemin.</unittitle>
+                     <unitdate normal="1808/1813">1808-1813</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 43</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal de Scey-sur-Saône.&lt;lb/&gt;1 registre cartonné.</unittitle>
+                     <unitdate normal="1814/1834">1814-1834</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 44</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal de Scey-sur-Saône.&lt;lb/&gt;1 registre relié parchemin.</unittitle>
+                     <unitdate normal="1834/1838">1834-1838</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 45</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal Scey-sur-Saône.&lt;lb/&gt;1 registre cartonné en mauvais état.</unittitle>
+                     <unitdate normal="1838/1853">1838-1853</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 46</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal Scey-sur-Saône.&lt;lb/&gt;1 registre cartonné.</unittitle>
+                     <unitdate normal="1853/1867">1853-1867</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 47</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal de Scey-sur-Saône.&lt;lb/&gt;1 registre cartonné.</unittitle>
+                     <unitdate normal="1867/1886">1867-1886</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 48</unitid>
+                     <unitid>D10</unitid>
+                     <unittitle>Registre des arrêtés du maire de Scey-sur-Saône.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1800/1805">1800-1805</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 49</unitid>
+                     <unitid>D11</unitid>
+                     <unittitle>Registre des arrêtés du maire de Scey-sur-Saône.&lt;lb/&gt;1 registre cartonné.</unittitle>
+                     <unitdate normal="1805/1814">1805-1814</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 50</unitid>
+                     <unitid>D12</unitid>
+                     <unittitle>Registre des arrêtés du maire de Scey-sur-Saône.&lt;lb/&gt;1 registre relié parchemin.</unittitle>
+                     <unitdate normal="1814/1835">1814-1835</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 51</unitid>
+                     <unitid>D13</unitid>
+                     <unittitle>Registre des arrêtés du maire de Scey-sur-Saône.&lt;lb/&gt;1 registre relié parchemin.</unittitle>
+                     <unitdate normal="1834/1854">1834-1854</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 52</unitid>
+                     <unitid>D14</unitid>
+                     <unittitle>Actes de l’administration municipale : répertoires des actes soumis à l’enregistrement.&lt;lb/&gt;4 répertoires.</unittitle>
+                     <unitdate normal="1847">1847</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 53</unitid>
+                     <unitid>D15</unitid>
+                     <unittitle>Administration de la commune : réunion de la commune de Saint-Albin à la commune de Scey-sur-Saône (1807) ; inventaires des archives de Scey (1811 ; 1816 ; 1892 ; s.d.) ; pièces annexes.&lt;lb/&gt;1 liasse, 7 pièces et cahiers papier.</unittitle>
+                     <unitdate normal="1795/1929">1795-1929</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 54</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : dénombrement de la population de Scey-sur-Saône et de Saint-Albin (1814-1872 ; 1936) ; tableau de la population de Scey-sur-Saône et de Saint-Albin (1815).&lt;lb/&gt;18 pièces papier.</unittitle>
+                     <unitdate normal="1814/1936">1814-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 55</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Agriculture : sel (1792-an III) la communauté manque de sel en raison de l’augmentation des ouvriers des forges et fourneaux ; vignobles, déclarations des surfaces plantées (1808) ; réquisition de céréales pour les ouvriers de cette usine, elle-même réquisitionnée au service de l’armé (an III) ; école d’agriculture d’Alfert (an X) ; tableau des bêtes à cornes (1813) ; pomme de terre, moyens de conservation (1816), etc.&lt;lb/&gt;66 pièces papier.</unittitle>
+                     <unitdate normal="1792/1816">1792-1816</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 56</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs : états de section de la commune de Scey-sur-Saône.&lt;lb/&gt;4 registres.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 57</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Impôts directs : états de section de la commune de Scey-sur-Saône.&lt;lb/&gt;2 cahiers.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 58</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Impôts directs : états de section de la commune de Scey-sur-Saône ; sections E et F.&lt;lb/&gt;3 cahiers.</unittitle>
+                     <unitdate normal="1791/1797">1791-1797</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 59</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Impôts directs : états de section abrégés (s.d.) ; états de section de la commune de Saint-Albin ; section de A à D.&lt;lb/&gt;2 cahiers, 11 pièces.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 60</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Impôts directs : livre des mutations de la commune de Scey-sur-Saône.&lt;lb/&gt;1 registre cartonné.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 61</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Impôts directs : livre des mutations de Scey-sur-Saône.&lt;lb/&gt;1 registre cartonné</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 62</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Impôts directs : livre des mutations de Saint-Albin.&lt;lb/&gt;1 registre cartonné.</unittitle>
+                     <unitdate normal="1818/1824">1818-1824</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 63</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Impôts directs : matrice de contributions (1791-an V) ; correspondance, rôle des redevables pour les vins (1807) ; ouverture à Gray le 1er mai 1808 d’un bureau pour la perception des droits de navigation, etc.&lt;lb/&gt;19 pièces.</unittitle>
+                     <unitdate normal="1791/1797">1791-1797</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 64</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recrutement : tableau de recensement de la commune de Scey-sur-Saône et de Saint-Albin (1808-1809 ; 1812-1814 ; 1816-1870).&lt;lb/&gt;57 pièces papier.</unittitle>
+                     <unitdate normal="1870">1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 65</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Administration militaire : registre des réquisitions de l’armée (an VI-an VIII) ; une partie du registre est consacrée à l’enregistrement des patentes de la commune (an VII-an XI) ; liste des dons adressés à la commune pour les incendies de Beloncourt (an XI) ; tableau de la population (an XII-1810) cahier des réquisitions de l’armée (an II-an III) ; l’autre partie du registre est ouvert pour le visa des coupons de l’emprunt forcé (an VI) ; dénombrement des habitants de la commune de Scey (an XIII) ; contribution foncière de Scey (an IX) ; registre d’écrou servant à l’inscription des militaires et marins déposés dans le dépôt de sureté de Scey-sur-Saône (1863-1867).&lt;lb/&gt;3 registres.</unittitle>
+                     <unitdate normal="1794/1867">1794-1867</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 66</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Garde nationale : tableau des ouvriers de la forges, faisant partie de la garde nationale ; volontaires (1792-an III) ; réquisition d’ouvriers spécialisés pour la construction de bateaux de guerre (an II-an III).&lt;lb/&gt;Réquisition (an II-an III et 1815, en particulier pour l’hôpital militaire provisoire de Scey, an II) ; logement d’officiers de santé (an II) ; troupes (1815) ; salpêtre (an III-1818) ; contrôles de la garde nationale de Scey-sur-Saône (1850) ; etc.&lt;lb/&gt;Sapeurs-pompiers : versement d’une indemnité d’encouragement aux sapeurs-pompiers de Scey (1836).&lt;lb/&gt;109 pièces papier dont 13 imprimés, 1 cachet.</unittitle>
+                     <unitdate normal="1790/1850">1790-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 67</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale : délivrance d’un certificat de civisme à Anne Claude Macon (d’Esboz) ; ancienne religieuse, qui n’a pas quitté la république depuis 1792 (an II) ; arrêté de police concernant le parcours du bétail (an XIII) ; vols au château de Bauffremont où travaillent de nombreux ouvriers et où sont logés les officiers de santé (an II) ; correspondance avec le préfet (1814 et 1815, 2 pièces) ; inhumation et ré-inhumation de cadavres de l’ancien au nouveau cimetière de Scey (1859).&lt;lb/&gt;Police urbaine : pièces relatives à l’interdiction de déposer du fumier sur les places du champ de foire, des forges et de l’avenue de Chargey (1854) ; procès-verbal de délit (1878).&lt;lb/&gt;Police générale : pièces relatives à l’autorisation pour les étrangers de s’établir en France (1831-1833).&lt;lb/&gt;Justice : tribunal de justice de paix du canton de Scey ; affaires diverses, parmi lesquelles, procédure entre la commune et Etienne Guillou, amodiateur des droits de « conduit », appartenant à la commune, qui consistent en redevances perçues sur les voitures qui enlèvent toutes chaux, pierres et laves extraites du territoire des 25 communes du canton, ce droit ayant été supprimé en 1789 comme féodal (an VII-an VIII).Tribunaux de Vesoul : causes diverses, en particulier : inscription sur leur demande des censitaires de la « Grange de Provins » (Provins, ferme, commune de Scey) ; jusqu’alors inscrits à la Neuvelle, sur les rôles d’imposition de Scey (arrêté du directoire de la Haute-Saône du 23 avril 1792) ; contestation par devant Drouhot, commissaire de ce directoire, au sujet des réquisitions en grains : Monnot, aubergiste est déchargé de ces réquisitions en raison du nombre d’officiers de santé en pension chez lui (an II-an III) ; autre causes relatives aux réquisitions, etc. (1790-1829).&lt;lb/&gt;Tribunal criminel de la Haute-Saône (Vesoul) : vols sur les grands chemins sur le territoire de Scey : 2 condamnations aux fers ; présomptions de vols à Scey, acquittements.&lt;lb/&gt;Répression : registre d’écrou des passagers pour le dépôt de sureté de Scey (1863-1871).&lt;lb/&gt;Hygiène et salubrité : registre des procès verbaux de la commission d’hygiène et de salubrité (1851) ; notice sur la vaccine et la petite vérole (s.d.) ; instructions à prendre contre le choléra (1884) ; statistique des décès dû au choléra (1855-1856) ; rapport sur l’épidémie du choléra (1854) ; paiement des honoraires du médecin pendant le choléra (1855).&lt;lb/&gt;134 pièces papier.</unittitle>
+                     <unitdate normal="1790/1884">1790-1884</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 68</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections : listes des électeurs (1859-1870) ; vote du plébiscite (1870) ; élection de députés (1863-1869) ; élection de conseillers généraux et de conseillers d’arrondissement (1864-1870) ; élection des membres du conseil municipal de Scey-sur-Saône (1860-1870) ; nomination de maire et adjoint (1865) ; incapacité électorale (1862).&lt;lb/&gt;Personnel communal : liste des commissaires répartiteurs (1862) ; création d’un emploi de garde champêtre à Saint-Albin (1817) ; révocation du garde forestier (1834) ; sanctions contre le garde forestier de Scey qui a commis un délit (1836-1837) ; démissions (an II-1816) ; réception à Vesoul du comte d’Artois et du duc de Berry ; copie de l’une des inscriptions, versifiée, de l’un des arcs de triomphe (1815) ; « réflexions sur l’état actuel de la France » imprimé anonyme (décembre 1815), etc.&lt;lb/&gt;89 pièces papier dont imprimés.</unittitle>
+                     <unitdate normal="1794/1870">1794-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 69</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptabilité : comptes que rend le receveur de la commune (an I-1815) ; pièces à l’appui des comptes (1793-an IV) ; Crestin (15), homme de loi à Gray, est choisi comme arbitre dans le procès de Scey contre Monsieur de Bauffremont, le 4 juillet 1793, Michel de Vesoul, fait un cachet pour la mairie (1793) ; Mequillet (16)  achète 11 livres de fer de fonderie (1793) ; vérifications des comptes des maires ou procureurs de la commune (1791-an VI).&lt;lb/&gt;Revenus et charges de la commune : concession d’eau (1865-1886), conservation des hypothèques (1810).&lt;lb/&gt;140 pièces papier.</unittitle>
+                     <unitdate normal="1792/1886">1792-1886</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 70</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices publics : acquisition de l’horloge placée à la tour du clocher (1864-1870) ; réparation de l’horloge du clocher par François Joseph Froideveaux, horloger aveugle de Maiche (Doubs ; an III) ; construction d’une maison commune (1831-1869) ; réparations à la maison commune de Scey-sur-Saône (1806-1850) ; construction et ameublement d’une maison d’école des filles (1830-1837) ; réparations à la maison de l’instituteur (an XI) ; construction des halles à Scey (1834-1836) ; amodiation des halles (1836) ; lettre du sieur Calley au maire de Scey concernant la pose d’une clôture et d’une grille sur son terrain (1866).&lt;lb/&gt;Cultes : refontes des cloches de Scey-sur-Saône (1806-1858) ; réparations à l’église, au presbytère et au nouveau cimetière, dont le financement sera en partie assuré par la vente de l’église et au beffroi (1811-1874) ; réparations des chapelles (1872) ; réparations au presbytère (1819-1873) ; réparations au bâtiment annexe au presbytère de Scey (1896) ; mise à la disposition du curé du presbytère de Scey (1806) ; état des communes pourvues de presbytère (1806) ; remplacement du four à la cure de Scey-sur-Saône (1819-1820) ; établissement d’un nouveau cimetière de Scey (an XIII-1860) ; réparations du cimetière de Scey (1832-1852) ; concessions de terrains au cimetière (1845-1874) ; résiliation de bail (an VII).&lt;lb/&gt;La copie de la vente de l’église de Saint-Albin à Jean-Baptiste Bruand, du 31 juillet 1817, signalé dans les anciens inventaires, n’a pas été vue en 1976.&lt;lb/&gt;405 pièces papier dont 8 plans.</unittitle>
+                     <unitdate normal="1795/1896">1795-1896</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 71</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux : vente de deux parcelles de vignes situées sue le territoire de Scey-sur-Saône et appartenant aux communes de Scey, Ferrières-les-Scey, Chassey-les-Scey et Neuvelle-les-Scey (1854-1859) ; vente d’un terrain au sieur Fontaine (1857-1858) ; échange entre la commune de Saint-Albin et un particulier d’une maison contre une construction (1817-1819). Achat de terrains par les communes de Scey, Chassey, Ferrière-les-Scey, et la Neuvelle-les-Scey (1857) ; amodiation de terrain appartenant aux communes de Scey et Saint-Albin (an III-1836) ; plan géométrique du terrain appelé « la côte de Saint-Albin » appartenant aux habitants de cette commune (1811) ; plan géométrique du patis « Champ du Bois » de la commune de Scey-sur-Saône (1852) (16) ; procès entre les commune de Saint-Albin et Avanches relatif à la possession du terrain dit « la Côte » (1823).&lt;lb/&gt;Procès entre la commune et les sieurs Chandey et Brigand relatif au bornage de leurs terrains (1870) ; délimitation de deux terrains de Scey-sur-Saône (1846) ; anticipation de terrains par des particuliers (1837) ; amodiation de deux fours communaux (l’obligation d’y cuire a été rétablie ; an XI-1812). &lt;lb/&gt;Bois : différend entre les communes de Rupt et de Saint-Albin relatif à la délimitation de leur bois (1828-1832) ; délimitation partielle des bois communaux de Scey et des propriétés du Duc de Bauffremont (1859-1860) ; reconnaissance des limites des bois communaux et de l’étang du sieur Barberot (1822) ; aménagement des bois de la commune de Saint-Albin (1821-1824) ; ancien plan des bois de Scey-sur-Saône (1846)13 ; plan général des bois de la commune de Saint-Albin (1826)13 ; repeuplement du bois  de Saint-Albin (1829-1833) ; pièces relatives à la vente du quart en réserve de Saint-Albin (1818-1819). Pièces relatives à la réserve de bois de Scey (1836) ; vente d’arbres (1812) ; abattage d’arbres (1873-1880) ; tonte et élagage d’arbres dans la commune (1834).&lt;lb/&gt;Eaux : conflit entre la commune et le sieur Grenaud relatif à la possession d’une source (1849-1850) ; réparations, constructions et plans des fontaines et lavoirs de Scey-sur-Saône et Saint-Albin (1835-1898)13 ; projet de construction d’une conduite d’eau entre la borne fontaine et la maison commune (1892) ; pièces relatives à l’installation de la conduite d’eaux à Scey-sur-Saône (1813-1884) ; établissement d’un mécanisme de pompe sur le puits communal de Scey (1862-1868) ; adjudication de la construction d’un pontceau et d’un lavoir à Saint-Albin (1822-1823).&lt;lb/&gt;256 pièces papier dont 20 plans.</unittitle>
+                     <unitdate normal="1795/1898">1795-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIES, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 72</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine : procès entre la commune et le sieur Monnot relatif à l’assainissement de la rue du Four (1865-1866) (17) ; construction d’un pontceau (1845) ; réparations aux ponts de la commune (1807-1812) ; alignement des rues de Scey-sur-Saône (1863-1865) ; construction de trottoirs, de rigoles pavées et d’aqueducs dans les rues de Scey (1866-1867) ; construction d’un aqueduc destiné à jeter les eaux du teinturier dans une rigole (1865). &lt;lb/&gt;Petite voirie : tableaux généraux des chemins vicinaux existant sur le territoire de la commune (1870-1873) ; état de classement des chemins vicinaux (1867) ; subventions industrielles pour les chemins vicinaux (1857-1864) ; état des travaux qu’il sera nécessaire d’exécuter sur les chemins vicinaux de la commune (1844-1865) ; élargissement du chemin vicinal de grande communication n° 3 de Besançon à Neuchâteau (1876-1883) ; établissement du chemin de moyenne communication n° 30 de Port-sur-Saône à Fédry (1865-1866) ; réparation du chemin vicinal allant à Chargey (1835) ; confection et entretient du chemin de grande communication n° 26 (1850-1862) ; empierrement  du chemin de défruitement des Rouchois (1934) ; pièces relatives à l’élargissement du chemin rural passant devant le cimetière de Scey (1873) ; prestation, ressources (1860-1866).&lt;lb/&gt;Grande voirie : travaux d’entretient du troisième lot de la route nationale      n° 19 de Paris à Bâle (1880-1883).&lt;lb/&gt;Moyens de transport et travaux divers : pièces relatives aux lignes télégraphiques de la commune (1867-1868) ; autorisation pour le sieur Tisserand d’établir une chaudière et une machine à vapeur dans son atelier (1847).&lt;lb/&gt;Régime des eaux : acquisition de terrains destinés à l’ouverture de canaux d’écoulement des eaux d’inondation (1882) ; construction d’un aqueduc pour conduire les eaux des rue dans la Saône (1872) ; travaux d’achèvement de la dérivation de Scey-sur-Saône (1878) ; curage de ruisseaux (1819-1858) ; curage de fossés (1856-1858).&lt;lb/&gt;208 pièces papier dont 16 plans.</unittitle>
+                     <unitdate normal="1934">1934</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 73</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte : vente de terrains à, la fabrique de Scey (1819-1899) ; vente de terrains provenant de legs par la fabrique (1825-1881) ; amodiation de prés (1896-1900) ; partage de meubles et ornements de l’église de Saint-Albin (1806) ; copie de l’inventaire des effets existant dans l’église de Saint-Albin (1792) ; traitement du vicaire de Scey (1821-1823) ; legs à la fabrique de Scey-sur-Saône (1823-1878).&lt;lb/&gt;66 pièces papier.</unittitle>
+                     <unitdate normal="1792/1900">1792-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 74</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Bureaux de bienfaisance : legs du sieur Watson (1905) ; collecte pour les incendies de Ternuay, Fouvent-le-Haut, Cintrey, Neurey-les-la-Demie (an XI) ; rappel des incendies de Soing, Rigny, Beaujeux, Onay, Mollans, Ormoy, Passavant, Montot, Baudoncourt, Noroy-le-Bourg, Choye, Fontenois-les-Montbozon, Sorans-les-Breurey, Ronchamp, La Longine, Melisey, Moffans, Luxeuil, Champagney, et Serveux qui furent secourus de l’an VIII à l’an X.&lt;lb/&gt;8 pièces papier dont 1 affiche.</unittitle>
+                     <unitdate normal="1803/1905">1803-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>482 Edepot 75</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Registre des délibérations de la délégation du canton de Scey (1867-1898).&lt;lb/&gt;Registre du comté d’instruction primaire de Scey-sur-Saône (1837-1910).&lt;lb/&gt;Inventaire du mobilier de l’école de Scey (1900).&lt;lb/&gt;3 registres.</unittitle>
+                     <unitdate normal="1837/1910">1837-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,1256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_406Edepot_Archives_communales_déposées_de_Percey-le-Grand" url="https://francearchives.fr/findingaid/bcde8bf07cba8f3bfb9492237f55f75c22091bfc">FRAD70_406Edepot_Archives_communales_déposées_de_Percey-le-Grand</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>406Edepot - Archives communales déposées de Percey-le-Grand</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>406Edepot - Archives communales déposées de Percey-le-Grand</unittitle>
+         <unitid>406Edepot1-38</unitid>
+         <unitdate normal="1614/1950">1614-1950</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE PERCEY-LE-GRAND</corpname>
+         </origination>
+         <note label="note">
+            <p>Sources complémentaires aux Archives Départementales de la Haute-Saône :
+
+B1456, demande des habitants pour garder la propriété du chemin "des Angles" (1785).
+B 1598, autorisation de ratifier la vente de la seigneurie (1770-1771).
+B 1616, mise en demeure du charpentier de réparer les défectuosités du presbytère qu'il a construit (1784).
+B 1901, baux des seigneuries de Percey et Leffond (1706-1756).
+B 8696 à 8709, justice seigneuriale (seigneurie laïque) de Percey (1719-1789).
+B 8710 à 8712, justice seigneuriale (seigneurie de l'abbaye de Theuley (1752-1790)).
+B 9343, affaires forestières ; devis et plans de travaux (1703-1793).
+B 9530, reconnaissance et terrier de la seigneurie de Percey dite d'Oyrières (1590).
+C 78, demande du don du retrait féodal sur la terre de Percey (1719-1778).
+C 103, emprunt, construction de l'église et du presbytère (1731-1789).
+C 111, reconstruction de l'église et d'un pont sur la Vingeanne (1783-1789).
+C 154, affaires diverses concernant Percey (1761-1789).
+E 736, conditions de bail de la seigneurie (1720).
+E 796, 804, 808, affaires concernant la famille de Toulongeon sur Percey (1713-1769).
+E 871, comptes d'échevin et du procureur spécial (1784-1785).
+G 8, ventes de vignes (1437-1494).
+G 13, mandement de nouvelleté touchant des prés du chapître de Champlitte sur Percey-le-Grand (1560).
+G 14, difficulté qu sujet de l'amodiation de prés (1740).
+H 417 à 420, archives de l'abbaye de Theuley concernant Percey (1154-1790).
+1 J 619, requête concernant les impositions (1716-1719).
+34 J 746 à 760, archives de la paroisse de Percey (1682-1934).
+20 L 19, 287 L 1, 368 L 402, 389 L 40, 447 L 15, époque révolutionnaire.
+3 O 420, travaux communaux (depuis 1820).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             22/07/2003
+         </p>
+         <p>Dernier ajout le             22/07/2003
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> IMPOTS ET COMPTABILITE (1760-1789)</p>
+         <p>  406 Edepot 1</p>
+         <p> EDIFICES COMMUNAUX (1687-1790)</p>
+         <p>  406 Edepot 2</p>
+         <p> CULTE (1614-1791)</p>
+         <p>  406 Edepot 4-5, 406 Edepot 3</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1807-1950)</p>
+         <p>  406 Edepot 6-11</p>
+         <p> ETAT-CIVIL (...-...)</p>
+         <p>  406 Edepot 12</p>
+         <p> POPULATION-AGRICULTURE-COMMERCE ET INDUSTRIE (1806-1914)</p>
+         <p>  406 Edepot 13-14</p>
+         <p> CONTRIBUTIONS (1845-1911)</p>
+         <p>  406 Edepot 15-20</p>
+         <p> AFFAIRES MILITAIRES (1807-1912)</p>
+         <p>  406 Edepot 21-22</p>
+         <p> POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE (1809-1902)</p>
+         <p>  406 Edepot 23-24</p>
+         <p> ELECTIONS-PERSONNEL COMMUNAL (1805-1914)</p>
+         <p>  406 Edepot 25-27</p>
+         <p> FINANCES DE LA COMMUNE (...-...)</p>
+         <p>  406 Edepot 28</p>
+         <p> EDIFICES COMMUNAUX (...-...)</p>
+         <p>  406 Edepot 29-30</p>
+         <p> BIENS ET BOIS COMMUNAUX (1790-1908)</p>
+         <p>  406 Edepot 31-32</p>
+         <p> VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX (1815-1909)</p>
+         <p>  406 Edepot 33-36</p>
+         <p> CULTE-ASSISTANCE ET PREVOYANCE (...-...)</p>
+         <p>  406 Edepot 37</p>
+         <p> INSTRUCTION PUBLIQUE (...-...)</p>
+         <p>  406 Edepot 38</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Délibération des habitants concernant les dettes et comptes de la communauté (1760). Rôle de répartition de différents impôts et charges dus par la communauté (1789). Pièces justificatives de comptes ((1) (1789).</unittitle>
+                     <unitdate normal="1760/1789">1760-1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES LOCALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 2</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Copies des procès-verbaux de visite et d'estimation des travaux de reconstruction des église, cure et pont de Percey (1768, 1781). Pièces relatives aux réparations faites à l'église (1785-1790). Visite du four banal (1687). Anticipation sur la rue du Château (1736).</unittitle>
+                     <unitdate normal="1687/1790">1687-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHATEAU (rue du)</geogname>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 3</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Percey-le-Grand et de Courchamp (Côte-d'Or) : baptêmes (1614-mai 1630, juin 1646-mai 1655 ; un morceau de page imprimée : "les pardons indulgences et graces donnez à perpétuité (...) confrérie de la très sainte trinité et rédemption des captifs..." ; au revers de cette page, quelques actes de mariages pour 1620 et 1621, 1659-1662, janvier et août-novembre 1663, 1664-1669, janvier-mars et juillet-décembre 1670, 1671, janvier-mars 1672, mars-juin et mars 1670, 1672-1680, janvier et août-décembre 1681, 1682-août 1684, janvier-juillet 1686, août 1684-1685; janvier 1686). Baptêmes, mariages et sépultures (septembre 1696-janvier 1699, janvier 1690-août 1692 ; une page est déchirée ; septembre 1692-août 1696, 1699-juin 1702, novembre 1702-novembre 1711, septembre 1706-novembre 1708, copies d'actes précédemment inscrits, un acte de mariage de septembre 1714, 1712-juin 1731, 1751).&lt;lb/&gt;Parmi ces actes, il faut remarquer le baptême de Pierrette Varney, fille de Pierre Varney, notaire-greffier (16 juin 1616) ; le baptême de la cloche de Courchamp, parrain Blaise Valloux, seigneur de Chazeuil (Côte-d'Or) et marraine, Claude Dubois, dame en partie de Courchamp (20 mai 1685).&lt;lb/&gt;Lacunes en ce qui concerne les baptêmes pour les années 1630 à 1646, 1655 à 1658 et de mars à juillet 1663, de mars à juillet 1681, de 1686 à 1689 ; les mariages pour les années 1622 à 1690 ; les actes de sépultures ne commencent qu'en 1690 ; lacunes en ce qui concerne les baptêmes, mariages et sépultures pour les mois de juin à novembre 1702.</unittitle>
+                     <unitdate normal="1614/1751">1614-1751</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R57</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAZEUIL</geogname>
+                     <geogname>COURCHAMP</geogname>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>DUBOIS (Claude)</persname>
+                     <persname>VALLOUX (Blaise)</persname>
+                     <persname>VARNEY (Pierre)</persname>
+                     <persname>VARNEY (Pierrette)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 4</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Percey-le-Grand : baptêmes, mariages et sépultures (août 1731-1734, 1745, les actes sont en double sur un cahier ; 1746-1762 ; sentence rendue au bailliage de Gray le 18 mars 1778 entre Claude Petitjean, curé du lieu et Nicolas Tarboché, huissier royal à Champlitte, au sujet d'une inscription irrégulière portée sur un acte du 17 février 1753) ; sur la dernière page, inscriptions diverses (1737-1752).</unittitle>
+                     <unitdate normal="1731/1778">1731-1778</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R57</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>PETITJEAN (Claude)</persname>
+                     <persname>TARBOCHE (Nicolas)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 5</unitid>
+                     <unitid>GG3                                                </unitid>
+                     <unittitle>Registre paroissial de Percey-le-Grand : baptêmes, mariages et sépultures (1763-octobre 1789 ; sur un feuillet indépendant, extrait des registres de l'église Saint-Pierre de Besançon : acte de sépulture de Pierre-Antoine Gouget, prêtre-chapelain de l'église Saint-Pierre, le 30 mai 1785 ; novembre 1789-1791).&lt;lb/&gt;Parmi ces actes, il faut remarquer le baptême de trois cloches à Percey-le-Grand, dont une a été présentée par Jeanne-Marie-Rose Dubois, veuve de Claude Henry et par son fils Claude-Louis Henry, seigneur de Percey ; une autre par Joachim Decusey, bourgeois et par Anne-Françoise Champion, veuve de Bertrand Jacob (6 août 1776, 22 décembre 1789).</unittitle>
+                     <unitdate normal="1763/1791">1763-1791</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R57</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BESANCON</geogname>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CHAMPION (Anne-Françoise)</persname>
+                     <persname>DECUSEY (Joachim)</persname>
+                     <persname>DUBOIS (Jeanne-Marie-Rose)</persname>
+                     <persname>GOUGET (Pierre-Antoine)</persname>
+                     <persname>HENRY (Claude-Louis)</persname>
+                     <persname>HENRY (Claude)</persname>
+                     <persname>JACOB (Bertrand)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 6</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Délibérations et actes divers de la municipalité (an II-1806), arrêtés du maire (1807-1831).</unittitle>
+                     <unitdate>An II-1831</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 7</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1807/1837">1807-1837</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 8</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Délibérations du conseil municipal (septembre 1837-mai 1851) ; à l'envers, arrêtés du maire et actes divers (1840-1850).</unittitle>
+                     <unitdate normal="1837/1851">1837-1851</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 9</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Délibérations du conseil municipal (octobre 1851-mai 1865).</unittitle>
+                     <unitdate normal="1851/1865">1851-1865</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 10</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Délibérations du conseil municipal (août 1865-mai 1884).</unittitle>
+                     <unitdate normal="1865/1884">1865-1884</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 11</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Arrêtés du maire (1832-1837). Répertoires des actes soumis à l'enregistrement (1843-1950). Vérification sur le terrain des premières épreuves gravées pour l'établissement de la carte du canton de Champlitte (1857). Assurances des bâtiments communaux (1904).</unittitle>
+                     <unitdate normal="1832/1950">1832-1950</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE (canton)</geogname>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT-CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 12</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Extraits de registres d'état-civil, publications de mariages, jugements.</unittitle>
+                     <unitdate>An III-1886</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-AGRICULTURE-COMMERCE ET INDUSTRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 13</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Dénombrement quinquennal de la population : listes nominatives (1851, 1855, 1856, 1881-1906). Mouvement annuel (1853-1892, 1894-1904, 1906).</unittitle>
+                     <unitdate normal="1851/1906">1851-1906</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi132</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 14</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Listes des électeurs pour le renouvellement partiel des membres du tribunal de commerce de Gray (1906-1914, 1919-1920).&lt;lb/&gt;Concours régional agricole (1862-1869). Registre des cultures (1902-1903). Culture de la vigne (1871-1873). Etats des récoltes en grains et autres farineux (1852-1882). Statistiques agricoles annuelles, questionnaires (1853-1914). Renseignements divers sur la récolte (1885-1899), sur les animaux de ferme et leurs produits (1887-1899). Questionnaire de la statistique agricole décennale (1882, 1892). Bans de vendange (1852). Bans de fauchaison (1861-1882). Culture du tabac (1863-1869). Marchés des taureaux et béliers (1806-1859). Echenillages (1856-1858).&lt;lb/&gt;Registre pour les annotations de délivrance ou de visa des livrets d'ouvriers (1855-1893).</unittitle>
+                     <unitdate normal="1806/1914">1806-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE</genreform>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>QUESTIONNAIRE D'ENQUETE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 15</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Matrices de rôles (1791, 1792, an V). Matrices de rôles des contributions personnelles somptuaires, foncières et mobilières (an III, V, VII). Rôles généraux et particuliers des taxes et prestations de toute nature (an IX, X). Rôles des contributions directes (1853-1886, 1902, 1913, 1914, 1916). Chemins ruraux, prestations et rôles (1910-1915).</unittitle>
+                     <unitdate>An III-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 16</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Matrices générales (1845-1861, 1866-1869, 1882-1894, 1896-1899, 1901-1911).</unittitle>
+                     <unitdate normal="1845/1911">1845-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 17</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Etat de sections (A).</unittitle>
+                     <unitdate>An III</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 18</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Etat de sections (suite).</unittitle>
+                     <unitdate>An III</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 19</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Etat de sections (A et B).</unittitle>
+                     <unitdate>An VII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 20</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Etat de sections (C, D et E, (an VII)). Recensement des portes et fenêtres (1831). Relevé des actes translatifs des propriétés foncières (1836-1837). Registre des déclarations de construction nouvelle (1891-1970). Extraits du plan cadastral (1882-1891). Avertissement du bureau de l'enregistrement et domaine (1823-1888). Mandements, contributions et circulaires (an IX-1821). Registres destinés à l'inscription des déclarations faites par les possesseurs de billards (1871-1872). Etat des contribuables à poursuivre pour obtenir paiement (1843). Réclamations concernant les contributions (1816-1818). Liste des contribuables ayant des mutations à faire (s.d.). Impôts extraordinaires pour le salaire du garde-champêtre (1854-1872). Réquisitions de grains (an IV). Poids et mesures (1860-1866).</unittitle>
+                     <unitdate>An IV-1970</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                     <genreform>PLAN CADASTRAL</genreform>
+                     <genreform>LISTE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 21</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Tableaux de recensements des jeunes gens (1817, 1820-1821, 1823-1837, 1839-1846, 1848-1877, 1879-1892).</unittitle>
+                     <unitdate normal="1817/1892">1817-1892</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 22</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Armée territoriale. Tableaux de recensement des hommes appartenant aux classes de 1855 à 1866. Réfractaires, insoumis et déserteurs (1872). Conseil de révision (1854-1863). Exemptés (1837-1854). Registre des notifications des ordres de route (1854-1862). Engagements volontaires (1813, 1853-1863). Disparus et absents (1856-1875). Changements de domicile (1877-1888). Permissions, congés (1871). Logement et cantonnement des troupes de passage (1876). Remontes de chevaux (1852-1860). Recensement des chevaux (1855-1861).&lt;lb/&gt;Garde-nationale. Organisation, instructions, règlements, contrôles (1832-1870). Salaire de deux tambours (1832). Etat des dépenses résultant de la formation du bataillon cantonal de Champlitte-la-Ville (1836). Etats nominatifs de jeunes gens inscrits sur la liste du contingent départemental de la garde nationale mobile (1848-1870). Elections, procès-verbaux (1831-1870).&lt;lb/&gt;Sapeurs-pompiers. Procès-verbaux d'élection d'un membre du conseil supérieur (1907-1912). Listes des pompiers, nominations, grades (1854-1865). Nomination, blâme et démission du sieur Perrotet, sous-lieutenant (1855-1858). Réorganisation de la compagnie, règlement (1852-1865). Equipement, habillement (1850-1870). Construction d'une pompe à incendie, réparation (1849-1856).&lt;lb/&gt;Faits de guerre. Rôles de répartitions (1807-1817). Invasion de 1815, dettes de la commune, indemnisation aux habitants (1817). Campagne de Crimée du sieur Pinel (1854-1856). Secours viagers aux anciens militaires (1860-1870). Distribution de médailles de Sainte-Hélène (1848-1860). Médailles d'honneur (1857). Souscription armée d'Italie (1859). Guerre de 1870, dossier contenant des documents prussiens pendant l'occupation du département (1870-1871), indemnités aux familles des militaires morts (1855-1870). Dommages de guerre (1871-1872), liste des souscriptions patriotiques en faveur des blessés des armées de terre et de mer (1870), réquisitions (1870-1872), contributions et emprunt de guerre (1871-1879).</unittitle>
+                     <unitdate normal="1807/1912">1807-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                     <genreform>LISTE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>GUERRE</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE (canton)</geogname>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>PERROTTET</persname>
+                     <persname>PINEL</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 23</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Projet de suppression du poste de commissaire cantonal (1866). Rapports du garde-champêtre, du gendarme et du commissaire de police cantonal (1842-1875). Cérémonies (1859). Fêtes patronales (1831-1889). Fêtes nationales et deuil officiel (1842-1881). Police des cabarets (1852-1896). Police des foires (1865-1866). Interdiction des saturnales du donnement ou donnages (1853). Mendicité (1853). Chiens errants et police de la rage (1855). Mesures contre les incendies (1858). Inondations (1866). Etat des déclarations des pertes éprouvées dans le sinistre des gelées (1874, 1902), de la grêle (1809, 1844). Avis et arrêtés concernant l'entretien et la libre circulation sur la voie publique (1856-1879). Avis des bans de vendange (1856-1866), des bans de fauchaison (1852-1882). Défense d'arracher les épines et haies vives (1852). Bouilleurs de cru (s.d.). Pêche (1868). Ramonage des cheminées (1854-1869). Permis d'inhumer (1902). Quête du maire de Percey pour les incendiés de Germigney (1840).&lt;lb/&gt;Police générale. Demande d'un permis de passage gratuit pour l'Algérie (1863). Emigration, concession en Algérie en faveur de la famille Quillet (1859). Nomination de trois membres du conseil municipal pour mission de suppléer le garde-champêtre (1865). Demandes de renseignements concernant François Pauffert, interdit de séjour (1862).</unittitle>
+                     <unitdate normal="1809/1902">1809-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>RAPPORT DE GENDARMERIE</genreform>
+                     <genreform>RAPPORT DE POLICE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>INTERDIT DE SEJOUR</subject>
+                     <subject>POLICE</subject>
+                     <subject>POLICE DE LA PECHE</subject>
+                     <subject>POLICE MUNICIPALE</subject>
+                     <subject>SINISTRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ALGERIE</geogname>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>PAUFFERT (François)</persname>
+                     <persname>QUILLET (famille)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 24</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Justice. Correspondance reçue des tribunaux (1836-1887), contentieux et réclamation de simple police (an X, 1855). Listes des jurés (1849-1853, 1871-1782). &lt;lb/&gt;Hygiène publique et salubrité. Surveillance des eaux potables (1808, 1858). Vaccinations, correspondance (1893), registres (1843-1849, à l'envers, registre des passeports (1852-1859, 1851-1877). Epidémie du choléra (1854-1855). Epizooties du bétail (an X, 1859, 1871, 1894). Surveillance du bétail (1855-1860, 1872).</unittitle>
+                     <unitdate>An X-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU POTABLE</subject>
+                     <subject>EPIDEMIE</subject>
+                     <subject>JURY D'ASSISES</subject>
+                     <subject>JUSTICE</subject>
+                     <subject>PROTECTION SANITAIRE DU CHEPTEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS-PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 25</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes des électeurs (1845-1846, 1851, 1853, 1893, 1906-1914). Plébiscite (1870).</unittitle>
+                     <unitdate normal="1845/1914">1845-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 26</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Procès-verbaux d'élection du Président de la République (1851), vote pour le rétablissement de l'Empire (1851-1852), élections sénatoriales (1876, 1881, 1890, 1907), élections législatives (1907, 1910, 1914), élections au conseil général (1907), au conseil d'arrondissement (1904, 1910), élections des membres du conseil municipal (1846-1912). Arrêtés d'installations du conseil municipal (1832, 1834, 1840, 1843, 1848, 1855, 1860, 1865). Nominations et démissions (1805-1895).</unittitle>
+                     <unitdate normal="1805/1914">1805-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 27</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Traitements du receveur (1876-1877), du cantonnier (1830-1871), du garde-champêtre (1807-1891), du garde-forestier (an VI-1886), du gardien du troupeau (1809-1885), du ramoneur (1852). Marchés de bûcherons (1811-1835).</unittitle>
+                     <unitdate>An VI-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 28</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptes de gestion (an VI-an VIII, an IX, an XIII, 1826-1827, 1829-1844, 1847-1848). Procès-verbal de remise de percepteur (1824).</unittitle>
+                     <unitdate>An VI-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 29</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Enquête préfectorale sur les édifices communaux (1857-1858) ; réfection de la maison commune (1885-1888) ; construction d'un magasin pour la pompe à incendie (plans, 1850-1855) ; construction et réparations aux fontaines (plans, 1851-1887) ; liste de souscripteurs pour la construction d'un monument commémoratif (1920). Eglise, réparations (an X-1900) ;  réparations des cloches (1825-1856) ; acquisition d'une horloge (1833-1836).</unittitle>
+                     <unitdate>An X-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>LISTE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 30</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>Acquisition d'immeubles pour le presbytère et la mairie (1825-1838). Location et réparations du presbytère (an XII-1907). Cimetière, translation et construction d'un nouveau cimetière (1825-1884, plans). Réfection de la maison d'école (plans,1849-1888). Réparations au mur de la clôture du jardin de l'instituteur (1842-1854).</unittitle>
+                     <unitdate>An XII-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 31</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Extrait de délibération imposant au sieur Poncet de laisser libre passage à la prairie des Angles (1790). Demande par F. Simon pour la reconnaissance d'une vigne provenant de l'émigré Faure (1823). Anticipation sur les communaux (1824). Baux  (an XII-1907). Aliénation de terrains communaux (1823-1908). Vaine-pâture (1823-1892). Délimitation d'une friche communale dite la "Grande-Craye" (1857, plan). Etats et estimations de biens communaux (1861-1879).&lt;lb/&gt;Procès-verbaux d'aménagement des bois communux (1832-1833). Rétribution à l'arpenteur forestier pour l'aménagement des bois (1832-1833). Procès-verbaux de balivage, martelage et reconnaissance des coupes (1822-1868). Rôles de distribution de la coupe affouagère (1820-1849). Vidange de la coupe affouagère (1836-1870). Répartition, adjudication et exploitation de la coupe affouagère (1812-1886).</unittitle>
+                     <unitdate normal="1790/1908">1790-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL D'AMENAGEMENT FO</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ANGLES (LES)</geogname>
+                     <geogname>GRANDE-CRAYE (LA)</geogname>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>FAURE</persname>
+                     <persname>PONCET</persname>
+                     <persname>SIMON (F.)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 32</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Tableaux de rectification de la liste des affouagistes (1851-1891). Menus marchés (1836-1871). Menus produits (1858). Certificat de visite des bois (1824). Coupe en réserve (1852-1889). Exploitation périodique de nettoiement sur la coupe des bois (1856-1872). Ramassage gratuit du bois mort pour les habitants pauvres dans la commune (1854). Délits forestiers (1834-1872). Vente d'ételles (1832-1871). Vente des produits de l'ébranchement des peupliers (1849-1891). Vente de bois (1810-1899). Vente de bois futaie (1822-1895). Location de la chasse (1806-1890).</unittitle>
+                     <unitdate normal="1806/1895">1806-1895</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 33</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine. Construction de chaussées et de rigoles pavées : plan et profil, devis, correspondance (1854). Alignements, réparations ou modifications de bâtiments (1824-1897, plans). Reconstruction d'un mur qui conduit à la fontaine (1815). Affiche concernant l'adjudication de travaux communaux (16 octobre 1907). Rétablissement de la circulation (1854).&lt;lb/&gt;Petite voirie. Etat de classement des chemins vicinaux (1865-1893). Etats des travaux à effectuer (1854-1873, 1904, 1908). Prestations, ressources (1830-1891). Subventions (1854-1873). Travaux à effectuer (1845-1873). Exécution d'un chemin de grande communication à établir entre Selongey et Champlitte (1848, 1856). Elargissement du chemin vicinal n° 5 (1885-1889). Redressement et élargissement des chemins n° 3 et 5 (1887). Rectification du chemin n° 2 (1908). Elargissement du chemin n° 1 (1909).</unittitle>
+                     <unitdate normal="1815/1909">1815-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>ROUTE DEPARTEMENTALE</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 34</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Tableaux généraux des chemins ruraux (1846, 1891-1908). Etats des travaux à effectuer (1898-1908). Rôles de prestations (1817-1889). Délimitation et abornement (1852-1855). Bulletins des propriétaires riverains des chemins ruraux à aborner (1853-1854). Bornage d'un chemin dit "de Galigand" (1862-1863). Rétablissement du chemin rural dit "de Montsaugeon" (1857-1858, plan). Projet de reconnaissance du chemin allant à Leffond (1889, plan parcellaire). Projet d'élargissement du chemin du moulin de Faz (1904). Ouverture du chemin de la prairie qui traverse le pré de M. Jeanniot (1846-1847).&lt;lb/&gt;Chemin de fer. Projet qui relierait Langres à Dijon (1860).</unittitle>
+                     <unitdate normal="1817/1908">1817-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>LIGNE DE CHEMIN DE FER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAZ (moulin de)</geogname>
+                     <geogname>GALIGAND (chemin dit de)</geogname>
+                     <geogname>MONTSAUGEON (chemin de)</geogname>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>JEANNIOT</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 35</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Régime des eaux. Construction d'aqueducs (1808-1810, 1844, 1898). Procès au sujet d'un mur qui gène le libre écoulement des eaux (1840-1844, 2 plans). Construction d'un pont sur la Vingeanne, difficultés avec l'entrepreneur (1837-1849, plan). Lavage de minerais : constructions et transfert de lavoirs (an X-1828, 1849). Procès Guyot (1828, 1834-1840). Modification du système d'épuration des lavoirs (1852). Location d'un aqueduc aux sieurs Dienon et Jeanniot (1854, 1860). Curage des rivières, cours d'eau et fossés (1832-1904, plans).</unittitle>
+                     <unitdate>An X-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                     <subject>MINERAI</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                     <geogname>VINGEANNE (LA)</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>DIENON</persname>
+                     <persname>GUYOT</persname>
+                     <persname>JEANNIOT</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 36</unitid>
+                     <unitid>O4</unitid>
+                     <unittitle>Rôles de répartition des cours d'eau (1853, 1855, 1857, 1872). Moulin de Faz (1826-1828, 1857-1867). Moulin Jeanniot (1828-1867). Reconstruction du pont sur le bief du Moulin du sieur Jeanniot (1852-1859).</unittitle>
+                     <unitdate normal="1828/1872">1828-1872</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAZ (moulin de)</geogname>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>JEANNIOT</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE-ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 37</unitid>
+                     <unitid>P1-Q1</unitid>
+                     <unittitle>Traitement du desservant (an XIII-1806). Rapport entre l'autorité municipale et le clergé (1792). Litige entre la fabrique et M. Trécourt (1819). Donation à la fabrique et aux pauvres de la paroisse (1853-1876).&lt;lb/&gt;Assistance et prévoyance. Bureau de bienfaisance, comité, nomination d'un membre, mandats, mémoires de fournitures (1831-1858). Liste des habitants charitables (1854). Distribution générale des bons (1854-1856). Répartition du crédit pour secours aux indigents (1855-1857). Etat des indigents (s.d.). Arrêtés du conseil de préfecture (1883-1891). Secours pour pertes (1874). Ateliers de charité (1853-1857). Société du prince impérial, prêts de l'enfance au travail, listes des souscripteurs (1856-1863). Aliénés et malades (1832, 1859, 1866). Secours accordés aux incendiés de Vaux-le-Moncelot (1832). Souscriptions pour les inondés (1856).</unittitle>
+                     <unitdate>An XIII-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>MINISTRE DU CULTE</subject>
+                     <subject>PROTECTION SOCIALE</subject>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                     <geogname>VAUX-LE-MONCELOT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>TRECOURT</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>406 Edepot 38</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Nominations, démission, renvoi, logement et traitement des instituteurs (an XII-1890). Rétributions scolaires (1854-1859). Inventaires du mobilier scolaire (1856-1889). Ecole facultative des filles (1888-1890). Commission municipale et comité supérieur d'instruction primaire (1842, 1846, 1888). Gratuité scolaire : listes (1853-1882). Extraits du registre d'appel (1857, 1882-1888). Cours d'adultes (1866-1874).</unittitle>
+                     <unitdate>An XII-1890</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE</genreform>
+                     <genreform>INVENTAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PERCEY-LE-GRAND</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

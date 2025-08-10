@@ -1,0 +1,949 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_337Edepot_Archives_communales_déposées_de_Melin" url="https://francearchives.fr/findingaid/47b589670f9bba7e04286c0af8029cbdefa29ee0">FRAD70_337Edepot_Archives_communales_déposées_de_Melin</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>337Edepot - Archives communales déposées de Melin</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>337Edepot - Archives communales déposées de Melin</unittitle>
+         <unitid>337Edepot1-29</unitid>
+         <unitdate normal="1738/1960">1738-1960</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE MELIN</corpname>
+         </origination>
+         <note label="note">
+            <p>Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 4220, états généraux, élections des députés et remontrances, plaintes et doléances des habitants de Melin (1789).
+B 7001, déclarations de propriéts faites en exécution de l'édit de 1749 dans la communauté.
+B 9399, affaires forestières (1700-1776).
+C 12 et 51, affaires diverses (XVIII° siècle).
+C 197, réparations au presbytère, arpentement du territoire (1782-1789).
+C 439, rôles et répartements des impositions (1729-1790).
+H 293, titres de léabbaye de Cherlieu concernant Melin (1264-1727).
+H 703 à 716, idem du prieuré de Morey (1537-1776).
+78 E dépôt 7, archives municipales de Bougey, registre paroissial (1610-1692).
+329 E dépôt , archives municipales de Malvillers, transaction entre l'abbaye de Cherlieu et les habitants de Malvillers d'une part, les bénédictions de Morey et la communauté de Melin d'autre part, au sujet des droits d'usage dans les bois (1706-1719).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             04/08/2005
+         </p>
+         <p>Dernier ajout le             04/08/2005
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> CULTE (1738-1792)</p>
+         <p>  337 Edepot 1-3</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1827-1960)</p>
+         <p>  337 Edepot 4-8</p>
+         <p> ETAT-CIVIL (...)</p>
+         <p>  337 Edepot 9</p>
+         <p> POPULATION-AGRICULTURE (1836-1936)</p>
+         <p>  337 Edepot 10-12</p>
+         <p> CONTIBUTIONS-ADMINISTRATIONS FINANCIERES (1827-1916)</p>
+         <p>  337 Edepot 13-16</p>
+         <p> AFFAIRES MILITAIRES (1823-1930)</p>
+         <p>  337 Edepot 17-18</p>
+         <p> POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE (1807-1939)</p>
+         <p>  337 Edepot 19</p>
+         <p> ELECTIONS-PERSONNEL COMMUNAL (1831-1925)</p>
+         <p>  337 Edepot 20-22</p>
+         <p> FINANCES DE LA COMMUNE (1828-1907)</p>
+         <p>  337 Edepot 29</p>
+         <p> EDIFICES PUBLICS (...)</p>
+         <p>  337 Edepot 23</p>
+         <p> BIENS ET BOIS COMMUNAUX-EAUX-DROITS DIVERS (1825-1940)</p>
+         <p>  337 Edepot 24</p>
+         <p> VOIRIE (1824-1914)</p>
+         <p>  337 Edepot 25</p>
+         <p> CULTE (1865-1896)</p>
+         <p>  337 Edepot 26</p>
+         <p> ASSISTANCE ET PREVOYANCE (1861-1930)</p>
+         <p>  337 Edepot 27</p>
+         <p> INSTRUCTION PUBLIQUE (1870-1900)</p>
+         <p>  337 Edepot 28</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 1</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Melin, des granges de Marlay et des Montants (commune de Montigny-lès-Cherlieu) : baptêmes, mariages, sépultures (décembre 1738-1774).&lt;lb/&gt;La collection des registres déposés aux Archives Départementales par le greffe du Tribunal commence en 1700, avec des lacunes pour 1712 et de 1716 à 1737.</unittitle>
+                     <unitdate normal="1738/1774">1738-1774</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi5R38</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MARLAY (granges de)</geogname>
+                     <geogname>MELIN</geogname>
+                     <geogname>MONTANTS (LES)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 2</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Melin et dépendances : baptêmes, mariages, sépultures (1775-janvier 1792, un acte de mariage du 26 novembre 1782, extrait des registres de l'abbaye de Cherlieu).&lt;lb/&gt;Dans ce registre, on remarque notamment l'acte de réception et d'exposition d'un reliquaire, offert à la paroisse par Sébastien Bricardet, capucin au couvent de Saint-Honoré à Paris (13 mai 1787).</unittitle>
+                     <unitdate normal="1775/1792">1775-1792</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi5R38</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BRICARDET (Sébastien)</persname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Abbaye de Cherlieu</corpname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 3</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Extrait certifié du registre paroissial de Melin : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1792">1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 4</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal et arrêtés du maire (an II-an IV, an IX-1827).</unittitle>
+                     <unitdate>An II-1827</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 5</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1827/1865">1827-1865</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 6</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1865/1882">1865-1882</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 7</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1882/1905">1882-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 8</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Arrêtés du maire (1896-1932, 1 cahier). Répertoire des actes soumis à l'enregistrement (1834-1960).</unittitle>
+                     <unitdate normal="1834/1960">1834-1960</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>CAHIER</genreform>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT-CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 9</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Extraits d'actes d'état-civil envoyés par d'autres communes en vue de mention ou de transcription, naissances, mariages, décès (1806-1846). Registre des mariages et décès délivré par le Directoire du district de Jussey (an III).</unittitle>
+                     <unitdate>An III-1846</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-AGRICULTURE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 10</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Mouvement annuel de la population (1853-1855, 1859-1893, 1895-1906).</unittitle>
+                     <unitdate normal="1853/1906">1853-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POPULATION RURALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 11</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Dénombrement quinquennal de la population : listes nominatives (1836-1851, 1866-1936).</unittitle>
+                     <unitdate normal="1836/1936">1836-1936</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi127</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 12</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Statistiques agricoles annuelles, états des récoltes (1858-1923). Registre des cultures (1902, 1952). Recensement de l'agriculture et du bétail (1929-1930). Recensement du bétail et disponibilités pour la boucherie ou la vente (1918). Taureau communal (1872-1921). Affiche : office agricole de la Haute-Saône "grands concours agricoles" (1931).</unittitle>
+                     <unitdate normal="1858/1931">1858-1931</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>AFFICHE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTIBUTIONS-ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 13</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Etat de section (s.d.). Extrait des inscriptions de parcelles nouvellement ajoutées (1908).</unittitle>
+                     <unitdate normal="1908">1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 14</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1850/1877">1850-1877</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 15</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Matrices des générales.</unittitle>
+                     <unitdate normal="1878/1916">1878-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 16</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Matrices générales (1829-1838, 1842-1848). Toisé des bâtiments de la commune (1827). Listes des répartiteurs (1854-1903). Contributions sur les voitures et les chevaux (1863-1873).&lt;lb/&gt;Téléphone. Etablissement d'un réseau, installation d'une cabine téléphonique (1903-1904).</unittitle>
+                     <unitdate normal="1827/1904">1827-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                     <subject>TELEPHONE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 17</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Tableaux de recensement des jeunes gens (1823-1840, 1842-1844, 1946-1851, 1853-1855, 1857-1859, 1861-1862, 1864-1870). Armée territoriale : tableau de recensement des classes 1855-1866. Etat nominatif des militaires de la commune décédés (1871). Logement et cantonnement des troupes : état des ressources (1878). Recensement des chevaux (1922, 1925, 1928-1929). Recensement des véhicules automobiles ou remorques (1923-1930). Etat récapitulatif des voitures attelées (1899).</unittitle>
+                     <unitdate normal="1823/1930">1823-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 18</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Garde nationale : contrôle matricule, contrôle du service ordinaire, contrôle de la réserve, listes de recensement (1832).  Jury de révision : listes nominatives(1840-1841). Etats nominatifs (1870). Relevés nominatifs, bulletins individuels (1832-1850). Elections des officiers et sous-officiers : procès-verbaux (1831-1848, 1870).&lt;lb/&gt;Sapeurs-pompiers : marché pour l'achat d'une pompe à incendie (1873).</unittitle>
+                     <unitdate normal="1831/1873">1831-1873</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 19</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Sinistres (1892-1894).&lt;lb/&gt;Police générale. Souches de passeports (1807-1849, classement par ordre alphabétique des noms des bénéficiaires). Etrangers : avis de départ de la commune de Champlitte (1939).&lt;lb/&gt;Justice : listes du jury (1849-1853, 1871).&lt;lb/&gt;Hygiène publique et salubrité. Epidémie, choléra (1853-1855). Epizootie du typhus, dénombrement des animaux (1871).</unittitle>
+                     <unitdate normal="1807/1939">1807-1939</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PASSEPORT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EPIDEMIE</subject>
+                     <subject>JURY D'ASSISES</subject>
+                     <subject>POLICE</subject>
+                     <subject>PROTECTION SANITAIRE DU CHEPTEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS-PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 20</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections politiques : listes électorales (1840-1907, 1909, 1911-1914, 1919-1923). Chambre d'agriculture (1919), chambre de commerce (1921).</unittitle>
+                     <unitdate normal="1840/1923">1840-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 21</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections municipales (1831-1925), élections au conseil général (1852-1914), élections législatives (1852-1914), vote pour l'élection du président de la République (1851), rétablissement de l'Empire (1852), plébiscite (1870), élections au conseil d'arrondissement (1861-1922), élections sénatoriales (1876-1919) : procès-verbaux.</unittitle>
+                     <unitdate normal="1831/1925">1831-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 22</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Garde-forestier (an V). Garde-champêtre (1834-1903). Cantonnier, nomination (1862-1904), feuilles mensuelles de travail (1901-1907). Receveur, traitement (1867-1894). Pâtre (1896-1901). Secrétaire de mairie (1936).</unittitle>
+                     <unitdate>An V-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 29</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Budgets (1828-1907). Comptes administratifs (1848-1850).</unittitle>
+                     <unitdate normal="1828/1907">1828-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 23</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Construction de 2 fontaines, 3 ponceaux et d'une tourelle à l'église (an IX). Réparations à l'église et aux fontaines (1903). Réparations à des fontaines et un puits (1844). Projet de réparations des couvertures de l'église, du presbytère et de l'école des garçons : devis (1882). Maison commune-école, reconstruction des murs de clôture, acquisition de maisons, appropriation de l'école de filles : devis (1828-1877). Fontaines, réparations : devis, construction avec conduite d'eau (1830-1866, 1 plan), entretien de la fontaine (1895), entretien et remontage de l'horloge (1896). Projet de couverture de 2 lavoirs : devis (1890). Remise de pompes à incendie, construction (1874, 1 plan). Presbytère, réparations, construction de murs : devis, suppression d'une servitude au jardin (1846-1897). Eglise, réparations : devis, subvention pour l'achat d'un tableau pour la décoration (1873-1882).</unittitle>
+                     <unitdate>An IX-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX-DROITS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 24</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Etat des biens ruraux (s.d.). Amodiations de communaux (1825-1921). Anticipations (1829, 1 plan). Ventes diverses : boues, vieux pavés (1881, 1921).&lt;lb/&gt;Bois communaux. Aménagement (1867-1907). Location de la chasse (1863-1890). Ventes de bois (1877-1901). Amodiations de carrières dans les bois (1833, 1858-1904, 1 plan).&lt;lb/&gt;Eaux. Construction d'un puits, d'une pompe : 1 plan (1838-1851).&lt;lb/&gt;Droits divers. concessions au cimetière (1889-1890, 1938, 1940).</unittitle>
+                     <unitdate normal="1825/1940">1825-1940</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>CARRIERE</subject>
+                     <subject>CHASSE</subject>
+                     <subject>CONCESSION FUNERAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 25</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine. Travaux dans les rues : devis (1833), rigoles pavées et aqueducs (1885, 1901, 5 plans).&lt;lb/&gt;Petite voirie. Chemin vicinal de Melin à Preigney, anticipation (2 plans), travaux (1833). Chemin vicinal ordinaire n°6, de Melin à Montigny-lès-Cherlieu, élargissement (1835, 1877, 1893). Chemin de petite communication n° 3, de Melin à Oigney, élargissement (1836-1880). Chemin de petite communication n° 2, de Melin à Malvillers, élargissement, travaux (1841-1872, 1 plan). Chemin vicinal n° 1, de Malvillers à Oigney, construction d'un canal couvert et de 2 aqueducs, subvention industrielle (1885-1901). Chemin vicinal n° 5, de Melin à la gare de Melin-Lavigney, création (1913-1914, 3 plans). Chemin de grande communication n° 14, de Combeaufontaine à Faverney, fonds centralisés (1837-1861). Chemins vicinaux, tableaux généraux, état de classement, travaux (1824-1896, 1 plan).&lt;lb/&gt;Régime des eaux. Curage des ruisseaux (1906).</unittitle>
+                     <unitdate normal="1824/1914">1824-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>COURS D'EAU</subject>
+                     <subject>ROUTE DEPARTEMENTALE</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 26</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte catholique. Subventions à la fabrique : correspondance, extraits de délibérations (1865-1891). Traitement du curé (1871, 1881). Rétablissement de l'abonnement au casuel (1896).&lt;lb/&gt;Culte protestant. Création d'une place de pasteur à Vesoul (1872).</unittitle>
+                     <unitdate normal="1865/1896">1865-1896</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                     <geogname>VESOUL</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 27</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Médecine gratuite : listes des indigents (1860, 1870-1905), fourniture de médicaments (1886, 1888), nomination d'un médecin (1862). Vaccinations : listes des enfants et jeunes gens qui doivent être vaccinés (1928, 1930).&lt;lb/&gt;Bureau de bienfaisance, nomination des membres (1861, 1898-1904), installation du bureau (1862).</unittitle>
+                     <unitdate normal="1861/1930">1861-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>337 Edepot 28</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Listes des enfants admis gratuitement (1870-1880). Commission municipale scolaire, élections des membres (1882, 1892-1900).</unittitle>
+                     <unitdate normal="1870/1900">1870-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MELIN</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

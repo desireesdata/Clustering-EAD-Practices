@@ -1,0 +1,1052 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_262Edepot_Archives_communales_déposées_de_Genevreuille" url="https://francearchives.fr/findingaid/78683d2ce13186e77f5c9e28b90cce83a479233b">FRAD70_262Edepot_Archives_communales_déposées_de_Genevreuille</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>262Edepot - Archives communales déposées de Genevreuille</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>262Edepot - Archives communales déposées de Genevreuille</unittitle>
+         <unitid>262Edepot1-39</unitid>
+         <unitdate normal="1745/1965">1745-1965</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE GENEVREUILLE</corpname>
+         </origination>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             03/07/2014
+         </p>
+         <p>Dernier ajout le             03/07/2014
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORETS, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Dénombrement des terres de la seigneurie de Genevreuille, Pomoy, Amblans et dépendances, par Anne Magdelaine Faval, veuve d'Antoine Lyautey, et ses enfants, seigneurs des lieux.</unittitle>
+                     <unitdate normal="1745/1754">1745-1754</unitdate>
+                     <physdesc>
+                        <extent>3 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>SEIGNEURIE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>AMBLANS (seigneurie)</geogname>
+                     <geogname>POMOY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 2</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Plans géométriques des bois communaux de Genevreuille levés par Garnier et Gruier (1778) ; sur l’un est figuré le village, avec l’église paroissiale et les maisons.</unittitle>
+                     <unitdate normal="1778">1778</unitdate>
+                     <physdesc>
+                        <extent>2 plans carton et toile, rangés dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>JUSTICE, PROCEDURES, POLICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 3</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Procédure entre la communauté d’Amblans et les habitants de Genevreuille relative au façonnage et enlèvement de chênes dans un canton de bois dit « la Besse des Vernes » dépendant des bois d’Amblans.</unittitle>
+                     <unitdate normal="1781/1783">1781-1783</unitdate>
+                     <physdesc>
+                        <extent>28 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>AMBLANS (seigneurie)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 4</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre des décrets de l’assemblée nationale et des délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1790/1807">1790-1807</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié parchemin.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ASSEMBLEE NATIONALE</subject>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 5</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.</unittitle>
+                     <unitdate normal="1807/1834">1807-1834</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 6</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.</unittitle>
+                     <unitdate normal="1844/1861">1844-1861</unitdate>
+                     <physdesc>
+                        <extent>1 registre en mauvais état.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEILLER MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 7</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.</unittitle>
+                     <unitdate normal="1861/1874">1861-1874</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 8</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Conseil municipal : extraits de délibérations.</unittitle>
+                     <unitdate normal="1851/1905">1851-1905</unitdate>
+                     <physdesc>
+                        <extent>65 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 9</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Registre destiné à la transcription de la correspondance à l’inscription des marchés, à l’enregistrement des passeports, des ports d’armes (1807-1843) ; à la fin du registre, sont enregistrées les fournitures pour l’armée et les réquisitions (1813-1814).</unittitle>
+                     <unitdate normal="1807/1843">1807-1843</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié parchemin.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>PASSEPORT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EQUIPEMENT MILITAIRE</subject>
+                     <subject>REQUISITIONS MILITAIRES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 10</unitid>
+                     <unittitle>Actes de l’administration municipale : correspondance.</unittitle>
+                     <unitdate normal="1864/1913">1864-1913</unitdate>
+                     <physdesc>
+                        <extent>101 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 32</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal. </unittitle>
+                     <unitdate normal="1874/1904">1874-1904</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 11</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Etat civil : extraits des actes de l’état civil de différentes communes.</unittitle>
+                     <unitdate normal="1850/1867">1850-1867</unitdate>
+                     <physdesc>
+                        <extent>3 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 12</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : dénombrements de la population.</unittitle>
+                     <unitdate>An XII-1906</unitdate>
+                     <physdesc>
+                        <extent>48 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 13</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Population : mouvements de la population (1853-1882).&lt;lb/&gt;Agriculture : statistique agricole (1858-1874) ; nomination de membres des commissions communales de statistique agricole (1902).</unittitle>
+                     <unitdate normal="1853/1902">1853-1902</unitdate>
+                     <physdesc>
+                        <extent>56 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 14</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs : états de section, sections A et B.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                     <physdesc>
+                        <extent>2 cahiers papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 15</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Impôts directs : états de section, sections C et D.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                     <physdesc>
+                        <extent>2 cahiers papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 16</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Impôts directs : matrice de rôle pour la contribution foncière et des portes et fenêtres (1820) ; matrice de rôle pour la contribution foncière de la commune (1820) ; matrices générales des contributions directes (1822-1841).</unittitle>
+                     <unitdate normal="1820/1841">1820-1841</unitdate>
+                     <physdesc>
+                        <extent>8 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 17</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Impôts directs : toisé des bâtiments (1848) ; tableau comparatif des évaluations des maisons et usines dans le canton de Lure (s.d.) ; tarif portant sommes à payer en assignats pour la partie de l’impôt à payer en nature (s.d.) ; recensement des portes et fenêtres (1831) ; campagne contre l’impôt sur le revenu des forêts (s.d.) ; extrait des rôles des contributions directes et de la taxe vicinal (1918) ; taxes municipales sur les chiens (1855-1868) ; commissaires répartiteurs (1856-1910).</unittitle>
+                     <unitdate normal="1831/1918">1831-1918</unitdate>
+                     <physdesc>
+                        <extent>62 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TARIF</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 18</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recrutement : tableaux de recensement des jeunes gens (1823-1828, 1830-1838, 1840-1845, 1855-1857, 1859-1881, 1883-1913), accusé de réception, récépissé d’avis d’inscription, extrait des registres des actes de naissance (1908, 1931). </unittitle>
+                     <unitdate normal="1823/1931">1823-1931</unitdate>
+                     <physdesc>
+                        <extent>81 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 33</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Recrutement. –Garde nationale mobile, recensement : tableau, états nominatifs (1868-1874). Exemptés : état nominatif (1868). Camps de vacances pour les jeunes hommes de 14 ans et plus en Algérie-Tunisie et au Maroc, organisation par la 7ème région de corps d’armée : communiqué (1920). </unittitle>
+                     <unitdate normal="1868/1920">1868-1920</unitdate>
+                     <physdesc>
+                        <extent>6  pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 34</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Mesures d’exception et faits de guerre. –Guerre de 1870-1871, réquisitions allemandes et indemnités : extrait du procès-verbal des délibérations du conseil général, communiqués, mémoires, exploit d’huissier, note, extrait du registre de délibérations du conseil municipal, état, déclaration, arrêts de la cour des comptes, arrêté préfectoral, arrêté du conseil de préfecture, reçu (1872-1875, s.d.). Guerre 1914-1918, comptes-rendus des événements : communiqués (1918, s.d.) ; organisation des gardes communales et de voies de communication : communiqués (1912-1917, s.d.) ; travaux exécutés par le 294ème régiment d’infanterie : état (1918) ; logement et cantonnement des troupes : reçus, notes, bordereaux des pièces, croquis, états, communiqués (1915-1920, s.d.) ; dégâts causés par le passage des troupes : procès-verbaux de constat, réclamations, déclaration (1917-1918, s.d.) ; réquisitions : relevés communaux, reçus, ordres, communiqués (1917) ; protection des habitants contre les engins aériens : communiqué (1917) ; ravitaillement : demande d’autorisation d’expédition, permis d’expédition, arrêté préfectoral, communiqués, note, formulaire vierge, état (1917-1918) ; réfugiés et étrangers : communiqués, listes nominatives, note (1914-1917, s.d.) ; œuvre de la reconnaissance des tombes des militaires marins morts pour la patrie : communiqué (1916) ; allocations aux ascendants des mobilisés : communiqué (1917) ; démobilisés nécessiteux et sans travail : communiqué (1919).  &lt;lb/&gt;Comporte également : champ de tir et terrain de manœuvres : projet, plans, note (1916). </unittitle>
+                     <unitdate normal="1872/1920">1872-1920</unitdate>
+                     <physdesc>
+                        <extent>259 pièces papier et 5 plans et croquis. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 19</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police. -Police locale, transport de corps (1867-1869) ; surveillance des voies ferrées (1887-1889) ; déclarations de pertes (an III). Police générale, délivrance de passeports : souches (1840) ; transfert de domicile des époux Maurer de Bust (Bas-Rhin) à Genevreuille : déclaration de départ (1949), surveillances des étrangers : note, avis de mutation, communiqués, listes nominatives, registres, fiche d’arrivée (1914-1964, s.d.) ; instructions en cas d’atterrissage d’aéronefs étrangers : communiqué (1919).</unittitle>
+                     <unitdate>An III-1964</unitdate>
+                     <physdesc>
+                        <extent> 81 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PASSEPORT</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AERONEF</subject>
+                     <subject>ETRANGER</subject>
+                     <subject>POLICE</subject>
+                     <subject>TRANSPORT DE CORPS</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 35</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Justice : certificat de bonne vie et mœurs (1877) ; extrait des minutes du greffe de la justice de paix du canton de Lure (1828).</unittitle>
+                     <unitdate normal="1828/1877">1828-1877</unitdate>
+                     <physdesc>
+                        <extent>2 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 36</unitid>
+                     <unitid>I3</unitid>
+                     <unittitle>Hygiène publique et salubrité. –Vaccinations (1828-1845). Cas de chien enragé à Villers-la-Ville, prescriptions à observer dans les communes du canton de Villersexel et dans les cantons limitrophes : communiqué (1917). Epizootie du typhus (1871).</unittitle>
+                     <unitdate normal="1828/1917">1828-1917</unitdate>
+                     <physdesc>
+                        <extent> 8 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>MALADIE DES ANIMAUX</subject>
+                     <subject>VACCINATION</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 20</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections : listes des électeurs de la commune.</unittitle>
+                     <unitdate normal="1855/1906">1855-1906</unitdate>
+                     <physdesc>
+                        <extent>91 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 21</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections : élections du président de la République (1851) ; plébiscite (1870) ; élections de députés (1863-1906) ; de conseillers généraux et d’arrondissements (1864-1904) ; de conseillers municipaux, de maires, d’adjoints (1852-1904).&lt;lb/&gt;Personnel communal : nominations, démissions (1861-1886).</unittitle>
+                     <unitdate normal="1851/1906">1851-1906</unitdate>
+                     <physdesc>
+                        <extent>139 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION AU CONSEIL D'ARRONDISSEMENT</subject>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>PERSONNEL</subject>
+                     <subject>REFERENDUM</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 37</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Protocole et distinctions honorifiques. –Décorés de la légion d’honneur et médaillés militaires : état. </unittitle>
+                     <unitdate normal="1875">1875</unitdate>
+                     <physdesc>
+                        <extent>1 pièce papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DISTINCTION HONORIFIQUE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 22</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Registre de comptabilité.</unittitle>
+                     <unitdate normal="1836/1856">1836-1856</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié parchemin.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 23</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptabilité : comptes de gestion (1841-1871) ; budgets (1821-1854).</unittitle>
+                     <unitdate normal="1821/1871">1821-1871</unitdate>
+                     <physdesc>
+                        <extent>66 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 24</unitid>
+                     <unitid>L3</unitid>
+                     <unittitle>Comptabilité : budgets (1855-1902) ; don puis legs de Mme veuve Guénot (1842-1873) ; pièces diverses (1835-1874).</unittitle>
+                     <unitdate normal="1835/1902">1835-1902</unitdate>
+                     <physdesc>
+                        <extent>114 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DONS-ET-LEGS</subject>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 25</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices publics : reconstruction et réparations de l’école (1843-1865) ; construction et réparations de l’église (an XIII-1894) ; acquisition et réparations du presbytère (1824-1843) ; fourniture d’une pompe à incendie (1865).</unittitle>
+                     <unitdate>An XIII-1894</unitdate>
+                     <physdesc>
+                        <extent>49 pièces papier et 5 plans, rangés dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS ET EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 26</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux : achats, ventes, échanges (1897) ; amodiations (1825-1904) ; anticipations (1813).&lt;lb/&gt;Bois : plan du quart en réserve de Genevreuille appelé « le grand bois » (1806) ; plan des bois communaux, par M. Beaux géomètre forestier (1823) ; répartition, exploitation, vente, etc. (1851-1898).&lt;lb/&gt;Eaux : recherches et acquisitions de sources (1870-1911).</unittitle>
+                     <unitdate normal="1806/1911">1806-1911</unitdate>
+                     <physdesc>
+                        <extent>150 pièces papier et 2 plans, rangés dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                     <subject>EAU SOUTERRAINE</subject>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIES, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 27</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine : travaux dans les rues (1858-1862).&lt;lb/&gt;Petite voirie : établissements, réparations, classements des chemins ruraux et vicinaux (1842-1919) ; prestations (1842-1881).</unittitle>
+                     <unitdate normal="1842/1919">1842-1919</unitdate>
+                     <physdesc>
+                        <extent>42 pièces papier et 4 plans, rangés dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 28</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Moyens de transport et travaux divers : remise en état des garde corps sur la ligne de chemin de fer Paris Mulhouse  (1964).&lt;lb/&gt;Régime des eaux : curages des rivières et fossés (1826-1933).</unittitle>
+                     <unitdate normal="1826/1964">1826-1964</unitdate>
+                     <physdesc>
+                        <extent>42 pièces papier et 4 plans .</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT DES EAUX</subject>
+                     <subject>LIGNE DE CHEMIN DE FER</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 29</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte : refus des habitants de Genevreuille de faire partie de la paroisse d’Amblans.</unittitle>
+                     <unitdate>An XII</unitdate>
+                     <physdesc>
+                        <extent>1 pièce papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PETITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>CIRCONSCRIPTION ECCLESIASTIQUE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>AMBLANS-ET-VELOTTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 30</unitid>
+                     <unitid>Q3</unitid>
+                     <unittitle>Application des lois d’assistance et de prévoyance. –Allocations militaires : communiqué, formulaires vierges, note (1914, 1919, s.d.). Retraites ouvrières et paysannes : communiqués (1915, 1919). Assistance médicale gratuite (1868-1924). Organisation de travaux d’utilité générale à titre de secours contre le chômage : communiqué (1917).  </unittitle>
+                     <unitdate normal="1868/1924">1868-1924</unitdate>
+                     <physdesc>
+                        <extent> 64 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE MEDICALE</subject>
+                     <subject>CHOMAGE</subject>
+                     <subject>RETRAITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 38</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Bureau de bienfaisance. –Commission administrative : registres de délibérations (7 juin 1891-5 octobre 1913, 12 octobre 1913-18 juin 1938).</unittitle>
+                     <unitdate normal="1891/1938">1891-1938</unitdate>
+                     <physdesc>
+                        <extent>2 cahiers. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>STRUCTURE COMMUNALE D'AIDE SOCIALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 39</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Bureau de bienfaisance. –Commission administrative, nomination de membres : arrêté préfectoral, communiqué, extraits du registre de délibérations du conseil municipal (1913, 1938). Comptabilité : comptes de gestion (1889-1911, première partie ; 1912, 2ème partie-1917). Don : communiqué (1905).</unittitle>
+                     <unitdate normal="1889/1938">1889-1938</unitdate>
+                     <physdesc>
+                        <extent>2 cahiers. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>STRUCTURE COMMUNALE D'AIDE SOCIALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>262 Edepot 31</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Sciences-lettres-arts : classement comme monuments historiques de divers objets mobiliers de l’église de Genevreuille.</unittitle>
+                     <unitdate normal="1965">1965</unitdate>
+                     <physdesc>
+                        <extent>1 pièce papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>MONUMENT HISTORIQUE</subject>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

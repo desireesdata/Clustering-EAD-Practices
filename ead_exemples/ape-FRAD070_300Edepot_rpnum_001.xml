@@ -1,0 +1,1515 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_300Edepot_Archives_communales_déposées_de_Leffond" url="https://francearchives.fr/findingaid/ed98b3a0a48f31de5b3e09464448179dfb5784d2">FRAD70_300Edepot_Archives_communales_déposées_de_Leffond</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>300Edepot - Archives communales déposées de Leffond</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>300Edepot - Archives communales déposées de Leffond</unittitle>
+         <unitid>300Edepot1-50</unitid>
+         <unitdate normal="1646/1917">1646-1917</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE LEFFOND</corpname>
+         </origination>
+         <note label="note">
+            <p>Commune associée avec Champlitte-et-le Prélot, Champlitte-la-Ville, Margilley, Montarlot-lès-Champlitte, Neuvelle-lès-Champlitte en 1972 et prend le nom de Champlitte.
+
+(1)  En très mauvais état. Classé avec les atlas cadastraux des Archives Départementales.
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 2459 à 2464, déclarations de propriétés dans la communauté, procédures civiles et criminelles (1695-1789).
+B 8183 à 8200, justice seigneuriale de Leffond (XVII°-XVIII° siècles).
+C 11 et 149, réparations au presbytère (XVIII° siècle).
+C 100 et 110, travaux à l'église (XVIII° siècle).
+G 2, prise de possession et déclaration des biens de la cure de Leffond par le chapître de Champlitte (1636, 1696).
+G 105, dénombrement de la baronnie d'Autrey, dont dépendait Leffond (1692).
+G 157, église paroissiale de Leffond (1623-1790).
+H 415, titres de l'abbaye de Theuley concernant Leffond (1311, 1328).
+H 961, titres des Annonciades de Champlitte (1624-1772).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             20/10/2003
+         </p>
+         <p>Dernier ajout le             27/10/2003
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> IMPOTS-COMPTABILITE-EDIFICES ET BIENS COMMUNAUX (1655-1818)</p>
+         <p>  300 Edepot 1</p>
+         <p> BOIS COMMUNAUX-VOIRIE (1716-1781)</p>
+         <p>  300 Edepot 2</p>
+         <p> JUSTICE (1732-1781)</p>
+         <p>  300 Edepot 3</p>
+         <p> CULTE (1646-1791)</p>
+         <p>  300 Edepot 5-14, 300 Edepot 4</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION DEPARTEMENTALE (...-...)</p>
+         <p>  300 Edepot 15</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1790-1885)</p>
+         <p>  300 Edepot 16-20</p>
+         <p> ETAT-CIVIL (...-...)</p>
+         <p>  300 Edepot 21</p>
+         <p> POPULATION-AGRICULTURE (1791-1906)</p>
+         <p>  300 Edepot 22-25</p>
+         <p> CONTRIBUTIONS-ADMINISTRATIONS DIVERSES AU POINT DE VUE FINANCIER (1791-1899)</p>
+         <p>  300 Edepot 26-35</p>
+         <p> AFFAIRES MILITAIRES (1813-1917)</p>
+         <p>  300 Edepot 36-38</p>
+         <p> POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE (...-...)</p>
+         <p>  300 Edepot 39</p>
+         <p> ELECTIONS ET PERSONNEL COMMUNAL (1848-1914)</p>
+         <p>  300 Edepot 40-43</p>
+         <p> FINANCES COMMUNALES (1792-1851)</p>
+         <p>  300 Edepot 44</p>
+         <p> EDIFICES COMMUNAUX (...-...)</p>
+         <p>  300 Edepot 45</p>
+         <p> BIENS ET BOIS COMMUNAUX (1792-1895)</p>
+         <p>  300 Edepot 46-48</p>
+         <p> VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX ET CULTE</p>
+         <p> ASSISTANCE ET PREVOYANCE- INSTRUCTION PUBLIQUE-DOCUMENTS D'ORIGINE PRIVEE (...-...)</p>
+         <p>  300 Edepot 50</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>IMPOTS-COMPTABILITE-EDIFICES ET BIENS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 1</unitid>
+                     <unitid>CC1-DD1</unitid>
+                     <unittitle>CC 1&lt;lb/&gt;Transaction entre les habitants et le seigneur du lieu pour la restitution des sommes versées à titre d'impôts par les fermiers des Granges de Louches (1675). Fondations, rentes (1683-1760). Etat des dépenses du procureur spécial des habitants de Leffond suite à un procès contre Jean Marcel l'Aîné (1776).&lt;lb/&gt;DD 1&lt;lb/&gt;Réparations à l'église (1777). Adjudications de réparations à faire à la petite cloche (1781).&lt;lb/&gt;Délibérations pour la mise en ban des prés et des vendanges (1767-1768). Copie de 1655 d'une transaction entre les habitants de Coublanc (Haute-Marne) et ceux de Leffond pour le droit de pâturage (3 août 1507). Droit de parcours, procès avec les habitants de Coublanc (1731-1732). Correspondance avec M. de Toulongeon pour la remise du bois de Louchotte et droit de parcours (1781-1818).</unittitle>
+                     <unitdate normal="1655/1818">1655-1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>IMPOTS LOCAUX</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>COUBLANC</geogname>
+                     <geogname>LEFFOND</geogname>
+                     <geogname>LOUCHES (LES)</geogname>
+                     <geogname>LOUCHOTTE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>MARCEL (Jean l'Aîné)</persname>
+                     <persname>TOULONGEON (famille de)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BOIS COMMUNAUX-VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 2</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Demande d'exploitation des bois pour l'entretien des édifices communaux (1716, 1769). Etat des bois de la commune suite à un procès avec le baron de Montigny (v. 1735). Nomination du procureur spécial pour toucher les revenus de la vente du quart de réserve pour subvenir aux charges et dettes de la commune (1776). Vente du quart en réserve pour règler les dette de la commune (1778). Sentence entre le procureur de la maîtrise des eaux et forêts et les gardes forestiers de Leffond (1779-1781). Entretien du chemin de Champlitte à Dampierre (1769).</unittitle>
+                     <unitdate normal="1716/1781">1716-1781</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>MONTIGNY (baron de)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 3</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Requête des habitants afin que leur seigneur dépose au greffe les titres et papiers de la seigneurie.</unittitle>
+                     <unitdate normal="1732/1781">1732-1781</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 4</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Leffond et de Montarlot-lès-Champlitte ((précédé d'une liste de baptêmes concernant les enfants de Loÿs Cornuel et de Françoise Dupuisel (1665-1674) et de ceux d'André Nicolas, pêcheur et de Jeanne Mathilde (1667-1672)) : baptêmes (septembre 1646-février 1647, mai-septembre 1646, mars 1647-1650, un acte du 15 juin 1653 et un acte du 30 mai 1655 ((actes inscrits sur des feuillets indépendants joints à ce registre concernant Montarlot ("Monstallot") et au dos desquels sont inscrits des avis émanant du chapître de Champlitte au sujet des dîmes de Montarlot, la seigneurie du lieu, etc... Les actes concernant Montarlot sont antérieurs à 1658)), 1651, un acte du 26 avril 1656 ((idem)), un acte du 20 août 1655 ((idem)), 1652-août 1654, un acte du 29 juin 1653 et plusieurs actes de 1654 ((idem)), septembre 1654-1655, un acte du 16 mai 1656 ((idem)), 1656, un acte du 19 septembre 1657 ((idem)), 1657, trois actes de janvier 1658 ((idem)), 1658-1673, plusieurs actes de 1668 à 1675 sans ordre chronologique, 1676-mars 1683, septembre-octobre 1695, un acte du 15 janviers 1690, novembre 1695-mars 1705).&lt;lb/&gt;Lacunes pour la période allant d'avril 1683 à août 1695.&lt;lb/&gt;&lt;lb/&gt;300 E dépôt 4 bis. Registre paroissial de Leffond, mariages (1664-1716), sépultures (1663-1715).&lt;lb/&gt;(ce registre est microfilmé sous la cote 1 Mi EC 21).</unittitle>
+                     <unitdate normal="1646/1715">1646-1715</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R41</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CORNUEL (Loÿs)</persname>
+                     <persname>DUPUISEL (Françoise)</persname>
+                     <persname>MATHILDE (Jeanne)</persname>
+                     <persname>NICOLAS (André)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 5</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Leffond : sépultures (août-décembre 1715), mariages (novembre 1716-mars 1717).&lt;lb/&gt;Ces feuillets semblent provenir d'un registre couvert en parchemin, contenant les actes de mariages et sépultures pour la période allant de juillet 1663 à décembre 1717, mentionnés dans les inventaires des archives municipales et qui n'a pas été vu en 1972. Ces lacunes sont comblées à partir de novembre 1695 par un état récapitulatif dressé postérieurement et inventorié sous la cote 300 E dépôt 11.</unittitle>
+                     <unitdate normal="1715/1717">1715-1717</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R41</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 6</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Leffond : baptêmes ((1705-1717) ; sur la dernière page, quittance de Louis Coüard, imprimeur-libraire à Gray (29 mai 1706)).</unittitle>
+                     <unitdate normal="1705/1717">1705-1717</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R41</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>COÜARD (Louis)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 7</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Leffond : baptêmes, mariages, sépultures (1717-1727).&lt;lb/&gt;Dans ce registre, on remarque l'acte de prise en possession de la cure par Léger-Bernard Philibert, prêtre (12 avril 1717) ; la mention de l'acte de sépulture de François de Clermont-Tonnerre, évêque, duc de Langres, pair de France, enterré à Langres (12 mars 1724).</unittitle>
+                     <unitdate normal="1717/1727">1717-1727</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R41</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CLERMONT-TONNERRE (François de)</persname>
+                     <persname>PHILIBERT (Léger-Bernard)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 8</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Leffond : baptêmes, mariages et sépultures (décembre 1727-janvier 1748), baptêmes, mariages (1748-avril 1753).&lt;lb/&gt;Dans ce registre, on remarque notamment l'acte de bénédiction de la première pierre du château de Leffond  (4 juin 1728) ; plusieurs notes : "22 février (1736) j'ai pris possession et le 4ème mars j'ai commencé à desservir" (Japiot, curé) ; "ce même jour monseigneur du diocèse confirma à Champlitte 250 personnes de Leffond..." (5 septembre 1742) ; "21 février (1745) monseigneur l'évêque de Dijon me nomma à la cure de Leffond, le 4 mars j'y fis mon entrée et le 6 je pris possession (Mevillet, âgé de 32 ans)"</unittitle>
+                     <unitdate normal="1727/1753">1727-1753</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R41</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>JAPIOT</persname>
+                     <persname>MEVILLET</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 9</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Leffond : baptêmes, mariages.</unittitle>
+                     <unitdate normal="1753/1763">1753-1763</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R41</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 10</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial de Leffond : sépultures.</unittitle>
+                     <unitdate normal="1748/1773">1748-1773</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R41</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 11</unitid>
+                     <unitid>GG8</unitid>
+                     <unittitle>Etat récapitulatif des actes abrégés de baptêmes, mariages et sépultures (novembre 1695-février 1763), bilan sur l'état de la population (1768), déclarations de naissances (s.d.)</unittitle>
+                     <unitdate normal="1695/1768">1695-1768</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 12</unitid>
+                     <unitid>GG9</unitid>
+                     <unittitle>Registre paroissial de Leffond : baptêmes, mariages (décembre 1763-1791).&lt;lb/&gt;Dans ce registre, on remarque les actes de bénédictions d'une croix de pierre (1er octobre 1769) et de deux cloches (6 décembre 1769), suivis de notes sur les dépenses relatives aux édifices communaux.</unittitle>
+                     <unitdate normal="1763/1791">1763-1791</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R41</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 13</unitid>
+                     <unitid>GG10</unitid>
+                     <unittitle>Registre paroissial de Leffond : sépultures.</unittitle>
+                     <unitdate normal="1773/1791">1773-1791</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R41</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 14</unitid>
+                     <unitid>GG11</unitid>
+                     <unittitle>Registre de la confrérie du Rosaire érigée en l'église du lieu en 1646 par Laurent Petiot, prêtre-curé : "bienfacteurs et bienfactrices..." (1683) "registre renouvellé des confrères... en la frairie du Sacré Rosaire establi au lieu de Leffonds auparavant les guerres de ce temps 1646...", et actes comptables de la confrérie (1646-1670, 1704) . Procès relatif aux droits curiaux et l'entretien de la maison presbytérale (1777-1781).&lt;lb/&gt;Ce cahier était joint au registre paroissial coté 300 E dépôt 4 (1646-1705).</unittitle>
+                     <unitdate normal="1646/1781">1646-1781</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CAHIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>PETIOT (Laurent)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION DEPARTEMENTALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 15</unitid>
+                     <unitid>B1</unitid>
+                     <unittitle>Lettres-circulaires et arrêtés des autorités départementales.</unittitle>
+                     <unitdate>An III-1843</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 16</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Délibérations du conseil municipal (février 1790-septembre 1792, septembre 1792-floréal an VIII, pluviose an IX-messidor an XI, messidor an XI-juin 1807, juin 1807-septembre 1819, juin 1820-novembre 1829).</unittitle>
+                     <unitdate normal="1790/1829">1790-1829</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 17</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1829/1846">1829-1846</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 18</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1846/1865">1846-1865</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 19</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1865/1885">1865-1885</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 20</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Arrêtés du maire et délibérations municipales (prairial an VIII-ventose an XII, messidor an XII-juillet 1808) ; correspondance (1822-1845) ; répertoires des actes soumis à l'enregistrement (1806-1823, 1823-1837, 1837-1847, 1847-1854, 1854-1864).</unittitle>
+                     <unitdate>An VIII-1864</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT-CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 21</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Publications de mariages (an IV-an XI). Extraits des registres d'état-civil (an XII-1880). Extrait d'une minute de jugement sur requête portant rectification d'acte d'état-civil (1869). </unittitle>
+                     <unitdate>An IV-1880</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-AGRICULTURE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 22</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Mouvement annuel (1823-1829, 1852-1893, 1895-1904, 1906).</unittitle>
+                     <unitdate normal="1823/1906">1823-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 23</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Dénombrement annuel : listes nominatives (1791, an VII, an X-an XIII, 1818-1819, 1824-1831, 186, 1838-1839, 1941-1843, 1845). Etats statistiques (1805, 1807-1817).</unittitle>
+                     <unitdate normal="1791/1845">1791-1845</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi124</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 24</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Dénombrement quinquennal : listes nominatives (1846-1881, 1891-1906).</unittitle>
+                     <unitdate normal="1846/1906">1846-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 25</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>Marchés du taureau  et de la garde de la grosse proie (1824). Secours pour pertes occasionnées par la grêle (1807, 1823-1830). Statistiques agricoles annuelles (an IX-1892). Questionnaire de la statistique agricole décennale (1822, 1892). Chambre d'agriculture, liste de scrutin (1952).&lt;lb/&gt;Registre de délivrance de livrets d'ouvriers (1855-1862). </unittitle>
+                     <unitdate>An IX-1952</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATIONS DIVERSES AU POINT DE VUE FINANCIER</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 26</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Etats des section A à Z.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 27</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Etats des sections AA à ZZ avec matrice générale de rôle.</unittitle>
+                     <unitdate normal="1792">1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 28</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Etats des sections A à Z.</unittitle>
+                     <unitdate>An VII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 29</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Etats des sections AA à TT.</unittitle>
+                     <unitdate>An VII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 30</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Matrices générales de rôles (anIII, an V, an VII).</unittitle>
+                     <unitdate>An III-an VII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 31</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Etats des mutations survenues dans les matrices d'impôts (an X-1839). Fragments d'un livre de mutations (1817-1826). Tableau relatif à la formation des rôles des contributions foncière et mobiliaire (1792-1793). Rôles de contribution mobiliaire (1791).</unittitle>
+                     <unitdate normal="1791/1839">1791-1839</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 32</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Contingent de répartition de la contribution foncière (an IX-1813). Rôles de contributions foncières (1793-1829), des portes et fenêtres (an X-1823), personnelles, somptuaires et mobilières (an XII-1812). Registre de déclarations de patentes (1812-1821). Correspondance relative au cadastre (1823-1826). Atlas (1) cadastral (1824). Matrices générales des quatre contributions directes (1829-1831, 1845-1849).</unittitle>
+                     <unitdate normal="1793/1849">1793-1849</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                     <genreform>ATLAS CADASTRAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 33</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Matrices générales des quatre contributions directes.</unittitle>
+                     <unitdate normal="1850/1873">1850-1873</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 34</unitid>
+                     <unitid>G9</unitid>
+                     <unittitle>Matrices générales des quatre contributions directes.</unittitle>
+                     <unitdate normal="1874/1899">1874-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 35</unitid>
+                     <unitid>G10</unitid>
+                     <unittitle>Déclarations concernant la contribution des prestations (1899-1902). Liste des commissaires-répartiteurs (1857). Instructions (an II-1831). Etats de répartition pour les débitants de boisson (1815). Correspondance relative aux comptes du sieur Guelin, en tant que percepteur de la commune ainsi que des impôts non réglés (an XIII-1806). Enregistrement et domaine (1807-1822). Poids et mesures (1824-1825, 1840).</unittitle>
+                     <unitdate>An II-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENREGISTREMENT</subject>
+                     <subject>POIDS-ET-MESURES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>GUELIN</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 36</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Tableaux de recensement des conscrits (an IX, 1809, 1811-1812, 1816-1822, 1829). Mise en activité, registre des notifications (1819-1842). Instructions et correspondance (an IX-1847). Poudre et salpêtre (an IX-1819). Avis de jugement d'un militaire (1832-1834). Logement et cantonnement (1827). Réquisitions militaires (an IV-1813). Registre de réquisitions et autres actes (an II-an IX).</unittitle>
+                     <unitdate>An II-1847</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 37</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Garde nationale. Contrôle, états nominatifs (1814-1841). Relevés nominatifs des bulletins individuels des citoyens inscrits au registre matricule (1837-1840). Election du secrétaire du conseil de discipline (1831). Instructions, règlements, équipement (1831-1832).&lt;lb/&gt;Sapeurs-pompiers. Election d'un membre du conseil supérieur (1912). Devis pour confection d'une pompe à incendie (1844).&lt;lb/&gt;Faits de guerre. Arrêtés et ordonnances des autorités départementales (1813-1815). Rôle de réquisitions (1814-1815).</unittitle>
+                     <unitdate normal="1813/1912">1813-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 38</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Invasion de 1815. Mandements de réquisitions, quittances, correspondance (1814-1819).&lt;lb/&gt;Guerre de 1914-1918. Registre des cartes d'identité délivrées (1916-1917).</unittitle>
+                     <unitdate normal="1814/1917">1814-1917</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 39</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Circulaire départementale concernant les P.V. des garde-champêtres et forestiers (1819). Arrêtés du maire interdisant le jeu de quille (1818), relatif à la santé publique (1842, 1903). Rapports d'incendie (an VIII, 1823). Bans de vendange et regains (an V, an XIII). Permis de chasse (1860-1864).&lt;lb/&gt;Police générale. Passeports pour l'intérieur (an XII, 1807-1854). Souches de passeports (1807-1861). Registres des passeports délivrés (an VIII-an XIII, an XIV-1829, 1831-1846). Registre civique des individus de plus de 12 ans (1806).&lt;lb/&gt;Justice. Listes générales du jury (1851-1852). Copies de jugements, exploits d'huissiers (1811-1870). Ordres de conduite (1815-1829).&lt;lb/&gt;Hygiènes publique et salubrité. Maladie contagieuse à l'école (1892). Registre de vaccinations (1851-1885). Epizootie du typhus, dénombrement des animaux (1871).</unittitle>
+                     <unitdate>An V-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CIRCULAIRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PASSEPORT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EPIDEMIE</subject>
+                     <subject>JURY D'ASSISES</subject>
+                     <subject>JUSTICE</subject>
+                     <subject>POLICE</subject>
+                     <subject>PROTECTION SANITAIRE DU CHEPTEL</subject>
+                     <subject>VACCINATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 40</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes des électeurs.</unittitle>
+                     <unitdate>An IX-1879</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 41</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Listes des électeurs.</unittitle>
+                     <unitdate normal="1880/1914">1880-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 42</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Election du président de la République (1848), vote général pour la prolongation du pouvoir présidentiel (1851), vote général pour le rétablissement de l'Empire (1852), plébiscite (1870), élections législatives (1852-1914), élections sénatoriales (1876-1893), élections consulaires (1884-1886), élections des membres du conseil général et du conseil d'arrondissement (1860-1913) : procès-verbaux.</unittitle>
+                     <unitdate normal="1848/1914">1848-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 43</unitid>
+                     <unitid>K4</unitid>
+                     <unittitle>Elections des membres du conseil municipal : procès-verbaux, nominations des maires et adjoints (an VIII-1912). Correspondance concernant le élections (1847-1882).&lt;lb/&gt;Nominations de garde-champêtre et garde-forestier (an IV-1811). Marché de pâtre (an V).</unittitle>
+                     <unitdate>An IV-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES COMMUNALES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 44</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptes de maires et agents de la commune (1792-an XII). Etats des recettes et dépenses, bordereaux de situation (an VI-an XIII). Correspondance relative aux comptes (an V-1851). Formation du budget de 1830 (1829).</unittitle>
+                     <unitdate normal="1792/1851">1792-1851</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 45</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Etat des travaux à effectuer aux divers édifices communaux (an XIII). Réparations à la maison d'école de Louche, au puits et au presbytère de Leffond (1858-1860). Travaux de réparations à l'église et à la maison d'école (1864-1866). Réparations aux écoles (1839, 1852, 1881-1882). Etablissement d'une cave ou cellier dans la maison des soeurs-institutrices (1860-1861). Construction d'un lavoir, d'un pontceau, d'un puits et de plusieurs abreuvoirs dans les fermes et hameaux dont 3 plans (1835-1842). Réparations aux fontaines (1845, 1852). Réparations au presbytère et construction du lavoir du Piedmont (1854-1856). Reconstruction de la fontaine de Quicoeur et réparations à plusieurs gués, dont 1 plan (1861-1867). Réparations aux lavoirs des hameaux de Piedmont, de Breuillot, de Louche et à la citerne (1871-1883). Abandon d'un terrain d'un particulier pour construction d'une statue (1867). Réparations à l'église, au clocher et au cimetière, achat d'une horloge, dont 1 plan pour la construction d'un autel de 1837 (1808-1880). Construction et réparations du presbytère, dont 2 plans (1809-1842, 1862-1863). Reconstruction des murs du cimetière (1846-1848).</unittitle>
+                     <unitdate>An XIII-1883</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BREUILLOT</geogname>
+                     <geogname>LEFFOND</geogname>
+                     <geogname>LOUCHES (LES)</geogname>
+                     <geogname>PIEDMONT</geogname>
+                     <geogname>QUICOEUR</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 46</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Anticipations dont 1 plan (an XIII-1839). Réintégration et partage des communaux (an V-1833). Aliénations et acquisitions de terrains (1792-1895). Droits de passage (1850-1891).&lt;lb/&gt;Bois. Registre des P.V. et autres actes concernant l'aménagement des bois communaux (1836-1841). Quart de réserve (an XII-1830). Droit de parcours, quartiers défensables (an XIII-1835).</unittitle>
+                     <unitdate normal="1792/1895">1792-1895</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL D'AMENAGEMENT FO</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                     <subject>BIEN SPOLIE</subject>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 47</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Exploitation de la coupe affouagère, cahiers des charges, permis d'exploiter, P.V. d'arpentage et de martelage, rôles de distribution et de répartition.</unittitle>
+                     <unitdate>An V-1823</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 48</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Exploitation de la coupe affougère, P.V. d'arpentage et de martelage, rôles de distribution et de répartition (1824-1843). Amodiations de la chasse (1818-1839).</unittitle>
+                     <unitdate normal="1818/1843">1818-1843</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>CHASSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE- INSTRUCTION PUBLIQUE-DOCUMENTS D'ORIGINE PRIVEE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>300 Edepot 50</unitid>
+                     <unitid>Q1 - R1 - S1</unitid>
+                     <unittitle>Quêtes et collectes (an XI-1830). Création d'un bureau de bienfaisance (1843), nomination des membres (1861), registre de délibérations (1843-1861, à l'envers : comptes 1856-1862, budgets 1844-1847), arrêté d'apurement des comptes (1898). Etat des indigents (1840). Secours aux indigents (1845-1866). Service de la médecine gratuite (1859-1862). Protection des enfants du premier âge : registres de déclarations de nourrice (1878-1928, 1912-1928), de déclarations de parents ou ayants-droit (1878-1928). Allocations aux familles nombreuses (1929-1932). Statuts de la société d'assurance mutuelle contre la grêle (1919-1922).&lt;lb/&gt;R 1 - Instruction publique. Arrêté préfectoral relatif à la consultation de deux ouvrages par les élèves (an IX). Nomination des membres du comité supérieur d'instruction primaire (1840). Copie d'une lettre adressée au préfet concernant la révocation d'une donation faite pour un établissement des soeurs de la Providence (1846).&lt;lb/&gt;S 1 - Documents d'origine privée. Documents provenant de M. d'Arche, maire, du fait de sa profession d'avocat (1820-1824).</unittitle>
+                     <unitdate>An IX-1932</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                     <genreform>BUDGET</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION MATERNELLE ET INFANTILE</subject>
+                     <subject>PROTECTION SOCIALE</subject>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LEFFOND</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>ARCHE (d')</persname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

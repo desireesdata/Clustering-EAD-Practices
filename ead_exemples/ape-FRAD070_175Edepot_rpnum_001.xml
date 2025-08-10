@@ -1,0 +1,1214 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_175Edepot_Archives_communales_déposées_de_Cornot" url="https://francearchives.fr/findingaid/1d27060a6868393c202df6b936371e58baa159c9">FRAD70_175Edepot_Archives_communales_déposées_de_Cornot</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>175Edepot - Archives communales déposées de Cornot</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>175Edepot - Archives communales déposées de Cornot</unittitle>
+         <unitid>175Edepot1-40</unitid>
+         <unitdate normal="1594/1923">1594-1923</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE CORNOT</corpname>
+         </origination>
+         <note label="note">
+            <p>Sources complémentaires aux Archives Départementales de la Haute-Saône :
+
+B 4215, plaintes et doléances des habitants de Cornot (1789).
+B 6021, requête du seigneur d'Artaufontaine pour que les habitants de Combeaufontaine, Gourgeon, Cornot et Vauconcourt soient condamnés à rétablir le pont gissant de son château d'Artaufontaine qui est rompu et à nettoyer les fossés qui entourent ledit château (1708-1709).
+C 6, administration communale (1685-1742)
+C 39, homologation du traité d'affranchissement passé avec l'abbé de Cherlieu, seigneur de Cornot (1722-1788).
+C 46, correspondance relative à la délivrance du quart en réserve (1732-1745).
+C 194, recouvrement de rétribution pour messes et procession des rogations (1782-1789).
+C 351, rôles et répartements des impositions dans la communauté de Cornot (1729-1790).
+3 O 180, travaux communaux  (depuis 1809).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             20/04/2005
+         </p>
+         <p>Dernier ajout le             20/04/2005
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> FINANCES ET IMPOTS (1722-1783)</p>
+         <p>  175 Edepot 2-3, 175 Edepot 1</p>
+         <p> BIENS ET BOIS COMMUNAUX (1749-1786)</p>
+         <p>  175 Edepot 4</p>
+         <p> CULTE (1594-1791)</p>
+         <p>  175 Edepot 8-9</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> LOIS ET ACTES DU POUVOIR CENTRAL (...)</p>
+         <p>  175 Edepot 5</p>
+         <p> ACTES DE L'ADMINISTRATION DEPARTEMENTALE (...)</p>
+         <p>  175 Edepot 6</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1831-1892)</p>
+         <p>  175 Edepot 7, 175 Edepot 10-14</p>
+         <p> POPULATION-AGRICULTURE (1820-1894)</p>
+         <p>  175 Edepot 15-17</p>
+         <p> CONTRIBUTIONS (1791-1891)</p>
+         <p>  175 Edepot 18-22</p>
+         <p> AFFAIRES MILITAIRES (1816-1891)</p>
+         <p>  175 Edepot 23-25</p>
+         <p> POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE (1791-1894)</p>
+         <p>  175 Edepot 26</p>
+         <p> ELECTIONS-PERSONNEL COMMUNAL (1831-1893)</p>
+         <p>  175 Edepot 27-29</p>
+         <p> FINANCES DE LA COMMUNE (1791-1838)</p>
+         <p>  175 Edepot 30-31</p>
+         <p> EDIFICES PUBLICS (1829-1904)</p>
+         <p>  175 Edepot 32</p>
+         <p> BIENS ET BOIS COMMUNAUX-EAUX (1791-1903)</p>
+         <p>  175 Edepot 33-35</p>
+         <p> VOIRIE-REGIME DES EAUX (1810-1894)</p>
+         <p>  175 Edepot 36-37</p>
+         <p> CULTE (1790-1894)</p>
+         <p>  175 Edepot 38</p>
+         <p> ASSISTANCE ET PREVOYANCE (1856-1893)</p>
+         <p>  175 Edepot 39</p>
+         <p> INSTRUCTION PUBLIQUE (1791-1923)</p>
+         <p>  175 Edepot 40</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>FINANCES ET IMPOTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Terrier de la seigneurie de Cornot.</unittitle>
+                     <unitdate normal="1722/1723">1722-1723</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>arpentement</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 2</unitid>
+                     <unitid>CC2</unitid>
+                     <unittitle>Arpentement du territoire de Cornot.</unittitle>
+                     <unitdate normal="1775/1783">1775-1783</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>arpentement</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 3</unitid>
+                     <unitid>CC3</unitid>
+                     <unittitle>Reçus et quittances (1739-1741). Abolition de la mainmorte sur le territoire de Cornot (1783).</unittitle>
+                     <unitdate normal="1739/1783">1739-1783</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>mainmorte</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 4</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Transaction concernant le droit de parcours dans "le Grand Bois de Cornot" (1749). Aveu, dénombrement et droit du seigneur de Franchevelle sur la seigneurie d'Artaufontaine (1762). Litige concernant l'exploitation d'arbres-futaies (1785-1786).</unittitle>
+                     <unitdate normal="1749/1786">1749-1786</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ARTAUFONTAINE</geogname>
+                     <geogname>CORNOT</geogname>
+                     <geogname>GRAND BOIS (le)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 8</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Cornot : baptêmes (1594 ; 3 folios correspondant aux années 1595 et 1596 manquent ; 1596-1601, 1 folio arraché ; 1601-1602 ; 3 folios correspondant aux années 1602-1605 manquent ; 1605-1616 ; 3 folios correspondant aux années 1616-1618 manquent ; 1618-1667 ; pour la période de 1667 à 1723, il n'existe plus qu'un seul acte de décès de 1687 déchiré d'un registre), baptêmes, mariages, décès (1723-1725).</unittitle>
+                     <unitdate normal="1594/1725">1594-1725</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 1MiEC28-5Mi221</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 9</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Cornot : baptêmes, mariages, décès (1747-1791, 1792). &lt;lb/&gt;Plusieurs extraits et pièces justificatives dans le corps du volume.</unittitle>
+                     <unitdate normal="1747/1791">1747-1791</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi5R20</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>LOIS ET ACTES DU POUVOIR CENTRAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 5</unitid>
+                     <unitid>A1</unitid>
+                     <unittitle>Actes imprimés des ministres de la guerre et de la police générale (an VIII). Arrêtés des consuls de la République. Lois (placards).</unittitle>
+                     <unitdate>An VIII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ACTES DE L'ADMINISTRATION DEPARTEMENTALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 6</unitid>
+                     <unitid>B1</unitid>
+                     <unittitle>Arrêtés du préfet Vergnes (placards et actes imprimés).</unittitle>
+                     <unitdate>An VIII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>VERGNES (Jacques Paul)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 7</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Délibérations du conseil municipal (lacune de l'an IV à l'an X).</unittitle>
+                     <unitdate>1792-an III</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 10</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Délibérations du conseil municipal (lacune de 1814 à 1830).</unittitle>
+                     <unitdate>An XI-1813</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 11</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1831/1855">1831-1855</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 12</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1855/1875">1855-1875</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 13</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1875/1892">1875-1892</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 14</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Registre des arrêtés du maire (an XII-1808). Extraits des arrêtés (an XII-1860). Répertoire des actes soumis à l'enregistrement (1814-1855).</unittitle>
+                     <unitdate>An XII-1860</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-AGRICULTURE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 15</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Mouvement annuel de la population (1820-1821, 1853-1866,1874-1893).</unittitle>
+                     <unitdate normal="1820/1893">1820-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 16</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Recensement quinquennal de la population : listes nominatives (an IX, 1881-1896).</unittitle>
+                     <unitdate>An IX-1896</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi109</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 17</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Comice agricole (1894). Taureau communal (1853-1884). Culture du tabac (1886-1892). Statistique annuelle (1846-1892), décennale (1862-1882).</unittitle>
+                     <unitdate normal="1846/1894">1846-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 18</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Copie de l'arpentement de 1775 (1828).</unittitle>
+                     <unitdate normal="1828">1828</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>arpentement</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 19</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Personnel pour l'établissement des matrices (1791). Rôle du toisé des maisons, mandement, déclaration des artisans cessant leur activité ; recensement des portes et fenêtres ; tableau des maisons et usines (an X-1858). Rôles de prestations pour les chemins vicinaux (1807, 1825, 1829-1830). Inventaire des titres et biens communaux (1813). Enquête sur le bornage des propriétés (1891).</unittitle>
+                     <unitdate normal="1791/1891">1791-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 20</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Etat de section (n° 1 et 2).</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 21</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Etat de section (n° 3, 4, 5).</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 22</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1818/1848">1818-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 23</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Tableaux de recensement des jeunes gens.</unittitle>
+                     <unitdate normal="1816/1891">1816-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 24</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Garde nationale. Tirage au sort (an II, an XI). Bulletins individuels, relevés nominatifs, contrôle matricule, recensement (1832-1850).</unittitle>
+                     <unitdate>An II-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 25</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Garde nationale. Elections des officiers et sous-officiers : procès-verbaux, registre des prestations de serment des officiers (1831-1870). Armement (1840-1851). Pompe à incendie (1837, 1847).&lt;lb/&gt;Armée territoriale. Recensement des classes de 1855 à 1866.&lt;lb/&gt;Guerre de 1870. Réquisitions, indemnisations (1870-1871).</unittitle>
+                     <unitdate normal="1831/1871">1831-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 26</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Délits causés dans les champs (1791). Réglementation de la récolte de farine (1847). Etablissement de foires (1828). Cérémonie du 14 juillet annulée, suite au décès du Président Carnot (1894). Découverte d'un noyer dans la rivière (1812). Police de la pêche (1891). Ramonage des cheminées (1861). Sinistres (1890-1893).&lt;lb/&gt;Police générale. Passeports (1811-1853). Forçat libéré (1820).&lt;lb/&gt;Justice. Listes du jury (1849-1853).&lt;lb/&gt;Hygiène et salubrité. Epidémie du choléra (1853-1855). Epizootie, enfouissement des cadavres d'animaux (1871, 1 plan).</unittitle>
+                     <unitdate normal="1791/1894">1791-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PASSEPORT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EPIDEMIE</subject>
+                     <subject>JURY D'ASSISES</subject>
+                     <subject>POLICE</subject>
+                     <subject>POLICE DE LA PECHE</subject>
+                     <subject>PROTECTION SANITAIRE DU CHEPTEL</subject>
+                     <subject>SINISTRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CARNOT (président)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS-PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 27</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales.</unittitle>
+                     <unitdate normal="1831/1893">1831-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 28</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections municipales (an VIII, 1816, 1834-1892), élections législatives (1852-1893), élections au conseil d'arrondissement (1852-1928), au conseil général (1858-1925), élections sénatoriales (1876-1893), élection du président de la République (1851), vote pour le rétablissement de l'Empire (1852), plébiscite (1870) : procès-verbaux.</unittitle>
+                     <unitdate>An VIII-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 29</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Secrétaire de mairie, nomination et traitement (an V, 1806, 1892). Garde-champêtre, nomination, démission et traitement (1807-1893). Garde-forestier, nomination, traitement, résidence (1829-1890). Cantonnier, nomination (1891-1893).</unittitle>
+                     <unitdate>An V-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 30</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comtes administratifs (1791-1809). Comptes de gestion (1791-1838).</unittitle>
+                     <unitdate normal="1791/1838">1791-1838</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 31</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Reçus et quittances (an II). Budgets (an XIII-1891).</unittitle>
+                     <unitdate>An II-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 32</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Travaux à l'église, la cure et les ponts (1829). Fontaine de la Coua, construction, acquisition d'une source (1832-1833). Construction d'une fontaine et d'un puits (1834, 2 plans), travaux (1859-1860, 1904), reconstruction d'un bassin (1866), couverture (1870-1872). Fontaine du Bas du village, reconstruction et établissement d'une conduite d'eau (1854-1856, 1 plan ; 1894-1895). Acquisition de droits d'aqueducs (1856-1858). Fontaine du Touillery, réparations ; puits des Caubannes, construction ; école de garçons, travaux (1862-1865).</unittitle>
+                     <unitdate normal="1829/1904">1829-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU SOUTERRAINE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                     <geogname>FONTAINE DE LA COUA</geogname>
+                     <geogname>FONTAINE DU TOUILLERY</geogname>
+                     <geogname>PUITS DES CAUBANNES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 33</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Vente du domaine d'Artaufontaine (an IX). Vaine-pâture (1808-1893). Amodiations, état des biens (1811, 1861). Procès entre les communes de Cornot et Lavigney concernant la délimitation d'un terrain (1811-1812, 1 plan).</unittitle>
+                     <unitdate>An IX-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ARTAUFONTAINE</geogname>
+                     <geogname>CORNOT</geogname>
+                     <geogname>LAVIGNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 34</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Exploitation de la coupe affouagère (1791-1890). Ventes des ételles, produits accidentels, menus marchés (1793-1880). Répartition du taillis (1815-1829). Réclamations concernant l'affouage (1821-1841). Distribution de la futaie (1825-1890). Aménagement et délimitation des bois (1825-1880). Procès-verbal de martelage et balivage (1826-1830). Bois destiné à la marine royale, rebut (1812-1826). Location de la chasse (1818-1890). Délits forestiers, incendie du "Petit Bois Fallot" (1893).</unittitle>
+                     <unitdate normal="1791/1893">1791-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>INCENDIE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                     <geogname>PETIT BOIS FALLOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 35</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Amodiations des boues des fontaines (1836-1885). Puits, acquisition d'anges en pierre (1858-1859). Construction de puits (1871, 1884). Pose d'une pompe (1902-1903). (Voir 175 E dépôt 36/O1, puits sur la place publique). Captage de la source Touillery (1894-1898, 7 plans).</unittitle>
+                     <unitdate normal="1836/1903">1836-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 36</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine. Anticipations sur la rue commune (an V-1809). Constructions de rigoles pavées, contentieux (1846-1847, 1861-1868). Rue du Moulin, élargissement (1863-1875, 1 plan).&lt;lb/&gt;Petite voirie. Chemin de petite communication n° 1, de Cornot à Combeaufontaine (1836-1889). Chemin vicinal N° 4, de Cornot à Lavigney (1855-1877). Chemin vicinal n° 5, de Betoncourt-les-Ménétriers à Cornot, litige avec le sieur Goillot au sujet des travaux (1845-1846). Elargissement dans le Petit Bois Fallot (1852-1855, 1 plan). Chemin vicinal n° 7, de Cornot à Confracourt (1857-1868). Chemin de grande communication n° 23 (1892).  Chemins vicinaux : budget pour les travaux (1807), création de chemins de grande communication (1851), tableau général (1892), projet de reconnaissance (1892-1894, 7 plans). Ponts : construction, ainsi qu'un puits sur la place publique (s.d.). (Voir 175 E dépôt 32/M1, pont, 1829, 4 plans). Prestations (1838-1850). Créations de ressources (1846-1871).</unittitle>
+                     <unitdate>An V-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                     <geogname>MOULIN (rue du )</geogname>
+                     <geogname>PETIT BOIS FALLOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 37</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Régime des eaux. Bassin de la Gourgeonne, curage des ruisseaux : le Touillery, Bruaufontaine, la Quemenaille, les Prés Noirs, le Fossé du Breuil, la Sorlière (1891-1892, 2 plans). Plainte au sujet de l'irrigation (1890-1894). Moulin de Lavigney, construction d'un patouillet (1810), règlement d'eau (1833-1835). Moulin d'Artaufontaine, règlement d'eau (1840-1842). Moulin de Cornot (1847-1851).</unittitle>
+                     <unitdate normal="1810/1894">1810-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ARTAUFONTAINE</geogname>
+                     <geogname>BRUAUFONTAINE</geogname>
+                     <geogname>CORNOT</geogname>
+                     <geogname>FOSSE DU BREUIL (LE)</geogname>
+                     <geogname>GOURGEONNE (Ruisseau de LA)</geogname>
+                     <geogname>LAVIGNEY</geogname>
+                     <geogname>PRES NOIRS (LES)</geogname>
+                     <geogname>QUEMENAILLE (LA)</geogname>
+                     <geogname>SORLIERE (LA)</geogname>
+                     <geogname>TOUILLERY (LE)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 38</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Marché du luminaire de l'église (1790). Adjudication des bancs de l'église (1808-1836). Traitement du curé, retrait de l'abonnement au casuel (1791, 1808, 1892-1894).</unittitle>
+                     <unitdate normal="1790/1894">1790-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 39</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Aliénés, admission en hôpital (1856-1858). Secours d'urgence (1893-1894). Médecine gratuite, liste des indigents (1893).</unittitle>
+                     <unitdate normal="1856/1893">1856-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>175 Edepot 40</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Marchés d'instituteurs (1791-1793, 1892). Registre des délibérations de la commission scolaire (1882-1896). Fournitures scolaires (1891-1892). Liste des enfants (1853-1854, 1891). Extraits du registre d'appel (1923).</unittitle>
+                     <unitdate normal="1791/1923">1791-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNOT</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

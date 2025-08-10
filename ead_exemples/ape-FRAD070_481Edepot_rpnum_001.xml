@@ -1,0 +1,1794 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_481Edepot_Archives_communales_déposées_de_Savoyeux" url="https://francearchives.fr/findingaid/e6f14dad541709660992bc20d956dbace306d3e4">FRAD70_481Edepot_Archives_communales_déposées_de_Savoyeux</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>481Edepot - Archives communales déposées de Savoyeux</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>481Edepot - Archives communales déposées de Savoyeux</unittitle>
+         <unitid>481Edepot1-68</unitid>
+         <unitdate normal="1509/1945">1509-1945</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE SAVOYEUX</corpname>
+         </origination>
+         <note label="note">
+            <p>Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 8797, 8801, 8802, justice seigneuriale de Ray (1734-1763).
+B 8886 à 8890, justice seigneuriale de Savoyeux (1713-1789).
+B 9348, affaires forestières diverses (1719-1793).
+C 17, minutes des ordonnances de l'intendant rendues en diverses matières d'administration concernant Savoyeux (1685-1742).
+C 106, 112, réparations à l'église et au presbytère (1731-1790). 
+G 105, copie du dénombrement de la comté et baronnie d'Autrey avec ses dépendances (1692).
+G 177, archives concernant l'église paroissiale de Savoyeux (1676-1726).
+1 J 477, les châteaux de Haute-Saône par CH.-H. Lerch (1967).
+1 J 728, papeterie de Savoyeux (1855-1927).
+34 J 486, archives paroissiale de Savoyeux (1832-1969).
+113 J, archives de la papeterie de Savoyeux (1768-1979).
+3 O 480, travaux communaux, depuis 1813.</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             01/01/1970
+         </p>
+         <p>Dernier ajout le             28/04/2008
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> IMPOTS-COMPTABILITE (1747)</p>
+         <p>  481 Edepot  1</p>
+         <p> BOIS COMMUNAUX-EAUX ET FORETS (1509-1845)</p>
+         <p>  481 Edepot  2 à 9 - </p>
+         <p> JUSTICE-PROCEDURES</p>
+         <p> CULTE (1723-1792)</p>
+         <p>  481 Edepot  10 à 12 - </p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1807-1904)</p>
+         <p>  481 Edepot  13 à 20 - </p>
+         <p> POPULATION-ECONOMIE SOCIALE-STATISTIQUE (1831-1945)</p>
+         <p>  481 Edepot  21 à 24 - </p>
+         <p> CONTRIBUTIONS (1818-1926)</p>
+         <p>  481 Edepot  25 à 32 - </p>
+         <p> AFFAIRES MILITAIRES (1806-1876)</p>
+         <p>  481 Edepot  33 à 38 - </p>
+         <p> POLICE-HYGIENE PUBLIQUE-JUSTICE (...)</p>
+         <p>  481 Edepot  39</p>
+         <p> ELECTIONS ET PERSONNEL (1807-1945)</p>
+         <p>  481 Edepot  40 à 46 - </p>
+         <p> FINANCE DE LA COMMUNE (1807-1872)</p>
+         <p>  481 Edepot  47 à 49 - </p>
+         <p> EDIFICES COMMUNAUX (1791-1922)</p>
+         <p>  481 Edepot  50 à 52 - </p>
+         <p> BIENS ET BOIS COMMUNAUX-EAUX (1790-1944)</p>
+         <p>  481 Edepot  53 à 58 - </p>
+         <p> TRAVAUX PUBLICS-VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX (1808-1941)</p>
+         <p>  481 Edepot  59 à 63 - </p>
+         <p> CULTE (1863-1910)</p>
+         <p>  481 Edepot  64</p>
+         <p> ASSISTANCE ET PREVOYANCE (...)</p>
+         <p>  481 Edepot  65</p>
+         <p> INSTRUCTION PUBLIQUE (1838-1933)</p>
+         <p>  481 Edepot  66 à 68 - </p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>IMPOTS-COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Compte rendu de Ferru Bague, échevin.</unittitle>
+                     <unitdate normal="1747">1747</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BAGUE (Ferru)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BOIS COMMUNAUX-EAUX ET FORETS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 2</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Pièces de procédure entre les habitants de Savoyeux contre les Malarmey de Roussillon, seigneurs de Savoyeux, et François-Philippe, marquis de Marmier, seigneur de Seveux, avec un état des titres utilisés par les Marmier depuis 1275.</unittitle>
+                     <unitdate normal="1625/1845">1625-1845</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                     <geogname>SEVEUX</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>MALARMEY DE ROUSSILLON</persname>
+                     <persname>MARMIER (François-Philippe)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 3</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Pièces de procédure entre les habitants de Savoyeux et les Marmier, seigneurs de Seveux ( avec état des titres produits par monsieur de Marmier depuis 1424, et Marguerite-Emilie d'Hamilton, sa veuve).</unittitle>
+                     <unitdate normal="1672/1739">1672-1739</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                     <geogname>SEVEUX</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>HAMILTON (Marguerite-Emilie d', veuve de Marmier)</persname>
+                     <persname>MARMIER (de)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 4</unitid>
+                     <unitid>DD3</unitid>
+                     <unittitle>Affouage : traité fait entre Marie du Chatelet, les habitants et le clergé de Savoyeux d'une part, et François de Ray, seigneur de Seveux d'autre part, concernant les bois de Seveux.&lt;lb/&gt;2 cahiers papier, 2 parchemins.</unittitle>
+                     <unitdate normal="1509/1520">1509-1520</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                     <geogname>SEVEUX</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CHATELET (Marie du)</persname>
+                     <persname>RAY (François de)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 5</unitid>
+                     <unitid>DD4</unitid>
+                     <unittitle>Plan de cantons de bois.</unittitle>
+                     <unitdate normal="1715">1715</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 6</unitid>
+                     <unitid>DD5</unitid>
+                     <unittitle>Plan de cantons de bois.</unittitle>
+                     <unitdate normal="1743">1743</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 7</unitid>
+                     <unitid>DD6</unitid>
+                     <unittitle>Trois plans de cantons de bois.</unittitle>
+                     <unitdate>Sans date</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 8</unitid>
+                     <unitid>DD7</unitid>
+                     <unittitle>Marché avec Dominique Ravet, pour le passage de la Saône en bac (1783). Extrait des registres du Conseil d'Etat autorisant la commune de Savoyeux à vendre sa réserve de bois et à mettre en adjudication des travaux pour l'église et la fontaine (1789).</unittitle>
+                     <unitdate normal="1783/1789">1783-1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAÔNE (LA)</geogname>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 9</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Pièces de procédures civiles, notamment d'une vente d'une pièce de pré à Membrey par Marie-Célestine, baronne de Ray, à Nicolas Bague, de Savoyeux.</unittitle>
+                     <unitdate normal="1665/1821">1665-1821</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MEMBREY</geogname>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BAGUE (Nicolas)</persname>
+                     <persname>RAY (Marie-Célestine de)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 10</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Savoyeux : sépultures (1723-1729) ; baptêmes, mariages, sépultures (1760-1782) ; table alphabétique par prénoms pour les baptêmes, mariages et sépultures.</unittitle>
+                     <unitdate normal="1723/1782">1723-1782</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi6R74</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 11</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Savoyeux : table alphabétique par prénoms pour les baptêmes, mariages et sépultures.</unittitle>
+                     <unitdate normal="1729/1760">1729-1760</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : registre paroissial</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 12</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Savoyeux : baptêmes, mariages et sépultures.</unittitle>
+                     <unitdate normal="1782/1792">1782-1792</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi6R74-75</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 13</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (31 janvier 1790-29 brumaire an III).</unittitle>
+                     <unitdate>1790-an III</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 14</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (12 avril 1807-10 février 1835).</unittitle>
+                     <unitdate normal="1807/1835">1807-1835</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 15</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (1er août 1838-27 octobre 1842).</unittitle>
+                     <unitdate normal="1838/1842">1838-1842</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 16</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (15 mars 1835-juin 1838, 18 novembre 1842-mars 1858).</unittitle>
+                     <unitdate normal="1835/1858">1835-1858</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 17</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (25 avril 1858-7 juillet 1872).</unittitle>
+                     <unitdate normal="1858/1872">1858-1872</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 18</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (14 juillet 1872-29 novembre 1896).</unittitle>
+                     <unitdate normal="1872/1896">1872-1896</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 19</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Registre servant à l'inscription de la correspondance, des délibérations du conseil municipal et d'actes divers.</unittitle>
+                     <unitdate normal="1807/1882">1807-1882</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 20</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Registre des arrêtés du maire (10 avril 1839-12 mars 1904).</unittitle>
+                     <unitdate normal="1839/1904">1839-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 21</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : mouvements annuels.</unittitle>
+                     <unitdate normal="1852/1906">1852-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 22</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Population, recensements quinquennaux : listes nominatives des habitants (1836-1906), états récapitulatifs (1866-1896).</unittitle>
+                     <unitdate normal="1836/1906">1836-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 23</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Commerce et industrie. - Tribunal et chambre de commerce de Gray : listes des électeurs (1884-1945). Chambre des métiers, inscriptions (1937, 1941), élections (1937-1945). Inscription des livrets d'ouvriers (1856-1903, 2 registres), inscription des livrets délivrés aux enfants employés dans l'industrie (1882-1931).</unittitle>
+                     <unitdate normal="1856/1945">1856-1945</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                     <subject>INDUSTRIE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 24</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>Agriculture : statistiques annuelles (1853-1923), statistiques décennales (1882, 1892). Registre des cultures (1903-1915). Taureau communal : marchés pour l'entretien, l'achat et la vente (1831-1876). Marchés pour l'entretien et la garde des bêtes (1835-1857).</unittitle>
+                     <unitdate normal="1831/1923">1831-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 25</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Cadastre : états de sections (1791). Contributions foncières : matrices de rôles (1793, an VII).</unittitle>
+                     <unitdate>1791-an VII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 26</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Extrait du plan cadastral.</unittitle>
+                     <unitdate normal="1841">1841</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN CADASTRAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 27</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Nouvelles parcelles devenues imposables : 2 plans (1863, 1870).</unittitle>
+                     <unitdate normal="1863/1870">1863-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 28</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Livre des mutations, 1er volume.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 29</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Registre de déclarations des véhicules automobiles.</unittitle>
+                     <unitdate normal="1910/1926">1910-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 30</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Matrices générales des contributions directes.</unittitle>
+                     <unitdate normal="1833/1877">1833-1877</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 31</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Matrices générales des contributions directes.</unittitle>
+                     <unitdate normal="1878/1907">1878-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 32</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Rôles de prestations.</unittitle>
+                     <unitdate normal="1840/1905">1840-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 33</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Listes des conscrits (1806-1850). Extrait du tableau cantonal des citoyens (1848).</unittitle>
+                     <unitdate normal="1806/1850">1806-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 34</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Garde nationale : listes de recensement (s.d.), tables alphabétiques du registre matricule (s.d.), contrôle matricule (s.d.), relevés nominatifs des bulletins individuels des citoyens (1832-1850), bulletins individuels des citoyens mobilisables.</unittitle>
+                     <unitdate normal="1832/1850">1832-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 35</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Garde nationale. Elections des officiers, sous-officiers, caporaux : procès-verbaux.</unittitle>
+                     <unitdate normal="1834/1848">1834-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 36</unitid>
+                     <unitid>H4</unitid>
+                     <unittitle>Garde nationale. Contrôle d'armement et d'équipement (1831). Feuilles d'appel pour servir aux visites des armes (1838, 1846). Entretien des armes (1845-1848). Vente d'armes de l'ancienne garde nationale (1859).</unittitle>
+                     <unitdate normal="1831/1859">1831-1859</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 37</unitid>
+                     <unitid>H5</unitid>
+                     <unittitle>Sapeurs-pompiers. Création d'une compagnie ; habillement ; Listes des citoyens proposés (1852-1876). Pompe à incendie, entretien, vente (1833-1857) ; fourniture, construction et pièces de procès avec l'adjudicataire François Mehu (1839-1847).</unittitle>
+                     <unitdate normal="1833/1876">1833-1876</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>MEHU (François)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 38</unitid>
+                     <unitid>H6</unitid>
+                     <unittitle>Invasion de 1815, réquisitions (1814-1817).&lt;lb/&gt;Guerre de 1870, réquisitions et dépenses occasionnées par l'armée allemande, états des pertes (1870-1875).</unittitle>
+                     <unitdate normal="1814/1875">1814-1875</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE-JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 39</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Débit de boissons, déclaration d'ouverture (1919).&lt;lb/&gt;Police générale. Souches de passeports (1816-1880). Laissez-passer (an II).&lt;lb/&gt;Justice. Certificat de solvabilité délivré à Pierre Lenoir (1844). Différent entre la commune et monsieur Ramel, au sujet d'une anticipation (1910-1912).&lt;lb/&gt;Hygiène publique et salubrité. Statistique du choléra épidémique (1853-1854). Etablissements dangereux, insalubres ou incommodes (1920). Rapport sur la situation de la commune au point de vue de la santé publique (1865). Epizootie du typhus : dénombrement des animaux (1871).</unittitle>
+                     <unitdate>An II-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EPIDEMIE</subject>
+                     <subject>JUSTICE</subject>
+                     <subject>POLICE</subject>
+                     <subject>PROTECTION SANITAIRE DU CHEPTEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>LENOIR (Pierre)</persname>
+                     <persname>RAMEL</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 40</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes des électeurs (1840-1848, 1853, 1872-1905, 1907-1914, 1919-1939).</unittitle>
+                     <unitdate normal="1840/1939">1840-1939</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 41</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Election du Président de la République (1848), vote général pour le rétablissement de l'Empire (1852), plébiscite du 8 mai 1870, référendum du 21 octobre 1945 : procès-verbaux et listes de scrutin.</unittitle>
+                     <unitdate normal="1848/1945">1848-1945</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>REFERENDUM</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 42</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Elections législatives : procès-verbaux et listes de scrutin.</unittitle>
+                     <unitdate normal="1842/1936">1842-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                     <genreform>LISTE D'EMARGEMENT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 43</unitid>
+                     <unitid>K4</unitid>
+                     <unittitle>Elections au conseil général : procès-verbaux et listes de scrutin.</unittitle>
+                     <unitdate normal="1848/1937">1848-1937</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE D'EMARGEMENT</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 44</unitid>
+                     <unitid>K5</unitid>
+                     <unittitle>Elections au conseil d'arrondissement : procès-verbaux et listes de scrutin.</unittitle>
+                     <unitdate normal="1861/1937">1861-1937</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE D'EMARGEMENT</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 45</unitid>
+                     <unitid>K6</unitid>
+                     <unittitle>Elections des membres du conseil municipal : procès-verbaux et listes de scrutin.</unittitle>
+                     <unitdate normal="1812/1919">1812-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE D'EMARGEMENT</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION MUNICIPALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 46</unitid>
+                     <unitid>K7</unitid>
+                     <unittitle>Elections municipales : procès-verbaux d'installation du conseil municipal, d'élections des maires et adjoints (1807-1912).&lt;lb/&gt;Personnel municipal. Garde-champêtre : marché (1826). Cantonniers : marchés (1847, 1849).</unittitle>
+                     <unitdate normal="1807/1912">1807-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 47</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Budgets (an XI-1850), chapitres additionnels au budget (1836-1851).</unittitle>
+                     <unitdate>An XI-1851</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 48</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptes de gestion.</unittitle>
+                     <unitdate normal="1807/1850">1807-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 49</unitid>
+                     <unitid>L3</unitid>
+                     <unittitle>Revenus et charges de la commune, emprunts, taxes assises sur les billards publics et privés.</unittitle>
+                     <unitdate normal="1871/1872">1871-1872</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 50</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Maison commune, travaux de réparations (1910-1912). Puits communaux, construction, réparations, entretien (1820-1877). Fontaines, travaux de réparations (1848-1876). Bateau-lavoir, construction (1886-1903). Lavoir, projet de construction (1903). Bâtiments communaux, travaux de réparations (1844-1861).</unittitle>
+                     <unitdate normal="1820/1912">1820-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>HOTEL DE VILLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 51</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>Eglise, travaux de réparations, ainsi qu'au clocher et au presbytère (1839-1896). Presbytère, réparations (1791-1912), location (1906-1907). Cimetière, construction d'un nouveau cimetière, agrandissement, réparations aux murs, règlement (1866-1922).</unittitle>
+                     <unitdate normal="1791/1922">1791-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 52</unitid>
+                     <unitid>M3</unitid>
+                     <unittitle>Ecole. Acquisition d'une maison  pour servir de classe aux petites filles et de logement à l'institutrice (1840). Travaux de réparations à l'école des filles et des garçons (1841-1844). Construction et travaux de réparations à l'école des filles (1853-1902).</unittitle>
+                     <unitdate normal="1840/1902">1840-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 53</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Amodiations des prés et terrains communaux.</unittitle>
+                     <unitdate normal="1790/1901">1790-1901</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 54</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Etat des biens ruraux (1861). Acquisitions de terrains (1823-1880). Echanges de terrains (1830, 1872). Ventes de terrains (1862-1873). Réclamations, pétitions, anticipations (1816-1845). Rôles de la taxe de pâturage (1863-1944). Droit de parcours dans les prés : pièces de procès entre la commune et Pierre Tramoy  (1846-1850).</unittitle>
+                     <unitdate normal="1816/1944">1816-1944</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>TRAMOY (Pierre)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 55</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Anticipations commises sur les fonds communaux : plan géométrique.</unittitle>
+                     <unitdate normal="1831">1831</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 56</unitid>
+                     <unitid>N4</unitid>
+                     <unittitle>Bois communaux : plan d'aménagement.</unittitle>
+                     <unitdate normal="1867">1867</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 57</unitid>
+                     <unitid>N5</unitid>
+                     <unittitle>Toisé des bâtiments (1820). Marchés de bûcherons (1807-1855). Procès-verbal de reconnaissance et d'estimation d'arbres (1808). Pétition en règlement de compte pour le prix de l'adjudication du quart en réserve (1809). Travaux dans les bois (1835-1848). Ventes de bois (1806-1879). Distribution des futaies : pièces de procès entre la commune et François Tramoy (1826-1829). Amodiations de la chasse (1812-1848).</unittitle>
+                     <unitdate normal="1807/1879">1807-1879</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>TRAMOY (François)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 58</unitid>
+                     <unitid>N6</unitid>
+                     <unittitle>Eaux. Amodiations des boues des fontaines (1832-1837).&lt;lb/&gt;Droits divers. Concessions de terrains au cimetière (1876-1918).</unittitle>
+                     <unitdate normal="1832/1918">1832-1918</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONCESSION FUNERAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS-VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 59</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine. Rue de l'Eglise, travaux de réfection (1906-1907). Alignements des rues (1856-1889). Rachat du pont à péage de Seveux (1880-1884). Construction d'une passerelle sur le chemin allant à la gare de Seveux (1891). Projet de construction d'un pont suspendu sur la Saône entre Mercey et Savoyeux (1900-1901). Pont du chemin de fer sur la Saône : plans (s. d.), correspondance relative à la cession de pierres provenant de la démolition du pont (1941). Pont de Seveux : correspondance au sujet de sa destruction (1940). Plantation de peupliers au Pâtis (1910-1912). Confection et réfection de rigoles pavées (1854-1914). Eau potable,  projet de distribution, détail des conduites : plan (1931).</unittitle>
+                     <unitdate normal="1854/1941">1854-1941</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU POTABLE</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAÔNE (LA)</geogname>
+                     <geogname>SAVOYEUX</geogname>
+                     <geogname>SEVEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 60</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Petite voirie. Chemin de grande communication n° 5, travaux (1850-1906). Chemin de grande communication n° 22, de l'Abbaye de la Charité à Champlitte, ouverture (18451866). Nomenclature et désignation des chemins de grande communication (1885).</unittitle>
+                     <unitdate normal="1845/1906">1845-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ROUTE DEPARTEMENTALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 61</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Petite voirie. Tableaux des chemins vicinaux (1865-1867). Chemin vicinal ordinaire de Savoyeux à Seveux, projet de rectification (1860). Chemin vicinal ordinaire de Savoyeux à Dampierre-sur-Salon, élargissement, rectification, réparations (1864-1885), ouverture (1882-1886). Chemin vicinal ordinaire de Savoyeux à Mercey, projet d'élargissement (1873-1876). Chemin vicinal ordinaire dit des Pâtis : procès-verbal de reconnaissance (1882), déclassement d'une partie (1890). Chemin vicinal ordinaire de Savoyeux à la halte : procès-verbal de reconnaissance (1900). Travaux à exécuter sur les chemins vicinaux (1840-1849). Tableau des chemins ruraux (1861). Chemin rural des Combes, projet de rectification (1884). Chemin rural des Chennevières, projet de reconnaissance (1913). Chemin rural dit "de la halte au canal", projet de reconnaissance (1913). Chemins ruraux abandonnés à aliéner (1884).</unittitle>
+                     <unitdate normal="1840/1913">1840-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 62</unitid>
+                     <unitid>O4</unitid>
+                     <unittitle>Moyens de transport et travaux. Etablissement de la ligne de chemin de fer de Nancy à Gray (1861-1865). Projet de construction d'un tramway, ligne de Gray à Vesoul par Combeaufontaine (1897). Etablissement d'un arrêt de trains, au passage à niveau n° 1 (1896-1899), puis transformation en halte (1907-1910). Affectations de minerai de fer (an XIII-1876). Procès-verbaux de cubage de minerai brut (1868-1876).</unittitle>
+                     <unitdate>An XIII-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>MINERAI</subject>
+                     <subject>VOIE FERREE D'INTERET LOCAL</subject>
+                     <subject>VOIE FERREE D'INTERET NATIONAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 63</unitid>
+                     <unitid>O5</unitid>
+                     <unittitle>Navigation et régime des eaux. Canal de dérivation : correspondance (1808-1910). Etablissements de batelets particuliers (1913-1923).  Curage des fossés (1857, 1885). Papeterie Outhenin-Chalandre fils et Cie, règlements de l'usine établie sur la Saône, vérification et pose de repères définitifs (1855-1911), autorisation de faire usage d'appareils à vapeur (1856-1861), échange de terrains entre messieurs Outhenin-Chalandre et la commune : 4 plans (1865-1899). Moulin de monsieur Tramoy, réparations (1844, 1851).</unittitle>
+                     <unitdate normal="1808/1923">1808-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                     <subject>INDUSTRIE PAPETIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAÔNE (LA)</geogname>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>OUTHENIN-CHALANDRE</persname>
+                     <persname>TRAMOY</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 64</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Casuel du desservant (1863). Fabrique, subvention (1867), correspondance concernant les membres du conseil de fabrique (1876-1878), mise sous séquestre des biens de la fabrique (1906), attribution à la commune du patrimoine de l'ancienne fabrique (1910).</unittitle>
+                     <unitdate normal="1863/1910">1863-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 65</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Médecine gratuite : état  (an III) et listes nominatives des indigents (1868-1879, 1896-1937).</unittitle>
+                     <unitdate>An III-1937</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE MEDICALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 66</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Circulaires et instructions (1828-1875). Listes des enfants admis gratuitement (1853-1875). Listes des enfants nés en 1857, 1858, 1859 et domiciliés dans la commune (1871-1873). Listes nominatives des enfants de 6 à 13 ans (1882-1891). Rétribution scolaire (1859-1875). Acquisition de la grande carte du département (1858). Inventaires du mobilier de l'école (1854-1906).</unittitle>
+                     <unitdate normal="1838/1906">1838-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 67</unitid>
+                     <unitid>R2</unitid>
+                     <unittitle>Notes de services adressées aux instituteurs et institutrices.</unittitle>
+                     <unitdate normal="1863/1927">1863-1927</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>481 Edepot 68</unitid>
+                     <unitid>R3</unitid>
+                     <unittitle>Bibliothèque scolaire et populaire : registre des recettes et des dépenses (1881-1911), cahier des acquisitions de livres (1882-1933), registres d'entrées et de sorties des livres prêtés au dehors de l'école (1882-1930).</unittitle>
+                     <unitdate normal="1881/1933">1881-1933</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CAHIER</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAVOYEUX</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

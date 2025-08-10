@@ -1,0 +1,1848 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_257Edepot_Archives_communales_déposées_de_Fretigney-et-Velloreille" url="https://francearchives.fr/findingaid/edaadddda470f9186474073310c9b01e3e7e2ac1">FRAD70_257Edepot_Archives_communales_déposées_de_Fretigney-et-Velloreille</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>257Edepot - Archives communales déposées de Fretigney-et-Velloreille</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>L. Georgel</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>257Edepot - Archives communales déposées de Fretigney-et-Velloreille</unittitle>
+         <unitid>257Edepot1-83</unitid>
+         <unitdate normal="1680/1959">1680-1959</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE FRETIGNEY ET VELLOREILLE</corpname>
+         </origination>
+         <note label="note">
+            <p>C.f. Inventaires imprimés des Archives départementales de la Haute-Saône : 
+B 2183 à 2194, déclarations de propriétés faites en exécution de l’édit de 1749, procédures civiles et criminelles (XVIIème-XVIIIème siècle) ; 
+B 9328, affaires forestières diverses (1703-1791) ; 
+C 8, 110, 127, réparations au presbytère et à l’église paroissiale (XVIIIème siècle) ; 
+C 61, ordonnances en matière d’alignement dans la communauté (XVIIIème siècle) ; 
+C 391, rôles et répartements des impositions dans la communauté (1729-1790) ; 
+E 853, rôle des cochons qui ont le droit d’aller au pacage dans les bois (1736) ; 
+G 124, titres de la cure de Fretigney (1684 ; 1790) ; 
+H 243, titres de l’abbaye de la Charité concernant Fretigney (1690-1728) ; 
+H 244, titre de l’abbaye concernant Velloreille (1630).
+
+Voir également l’inventaire des Archives municipales de Greucourt : 
+281 E dépôt 1, arrêt concernant les droits de plusieurs communautés dans la forêt de Belle-Vaivre (commune de Fretigney), et en particulier de celle de Velloreille (1723-1724). 
+
+et l’inventaire des Archives municipales de Vezet : 
+551 E dépôt 3, arpentage des bois de plusieurs communautés, dont celle de Velloreille, et partage de la forêt de Belle-Vaivre (1723 ; 1769). </p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             30/08/2011
+         </p>
+         <p>Dernier ajout le             30/08/2011
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Arpentement du territoire de Fretigney, dressé par Jean-François Regnaudin, de Rosey, juge en la justice du lieu, au profit de Jean-Baptiste et François du Fresne et Claude Mourelot, coseigneurs hauts-justiciers de Fretigney. 	&lt;lb/&gt;&lt;lb/&gt;1 registre relié. 	</unittitle>
+                     <unitdate normal="1696/1699">1696-1699</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRETIGNEY-ET-VELLOREILLE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>DU FRESNE (François) DU</persname>
+                     <persname>DU FRESNE (Jean-Baptiste)</persname>
+                     <persname>MOURELOT (Claude)</persname>
+                     <persname>REGNAUDIN</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORETS, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 2</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Plan des bois communaux. 	&lt;lb/&gt;&lt;lb/&gt;1 plan. 	&lt;lb/&gt;&lt;lb/&gt;Non vu en 1972. &lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1740">1740</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 3</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Fretigney, de Recologne-lès-Rioz, et de Villers-Bouton : baptêmes (1680-mars 1706 ; un acte de sépulture ; avril 1706-mai 1714) ; mariages (1680-avril 1714) ; sépultures (avril 1713-mars 1714 ; décembre 1712-mars 1713 ; à l’envers, en commençant par la fin du registre : décembre 1680-janvier 1713). 	&lt;lb/&gt;&lt;lb/&gt;1 registre relié. 	</unittitle>
+                     <unitdate normal="1680/1714">1680-1714</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RECOLOGNE-LES-RIOZ</geogname>
+                     <geogname>VILLERS-BOUTON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 4</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Fretigney, de ses dépendances (Dépendaient de la paroisse de Fretigney, outre les communes de Recologne-lès-Rioz et de Villers-Bouton, les hameaux et fermes de la commune de Fretigney : Velloreille, La Forge, les Granges de Montagne, de Charmont, des Echos, des Bois, ainsi que la tuilerie de l’abbaye de la Charité. ), et de l’abbaye de la Charité (commune de Neuvelle-lès-Charité) : baptêmes (mai 1714-octobre 1717 ; quelques actes de janvier à mars 1718 ; novembre 1717-décembre 1721 ; 1723, mars-novembre ; 1722, mai-décembre ; 1723, janvier-mars ; décembre 1721-avril 1722 ; décembre 1723-septembre 1731) ; sépultures (juillet 1714-octobre 1731) ; baptêmes, mariages, sépultures (octobre 1731-novembre 1733 ; un acte de juillet 1734 ; 1735, janvier-avril ; janvier 1734-janvier 1735 ; novembre 1733-janvier 1734 ; avril 1735-avril 1737) ; mariages (juillet 1714-octobre 1731) ; baptêmes, mariages, sépultures (1737-mai 1747 ; confirmations ; mai 1747-1763) (Dans ce registre on remarque notamment les actes de bénédiction de la première pierre de l’église de Fretigney, en présence de l’entrepreneur-architecte François-Albert Italien (24 mars 1752), et de la nouvelle église (22 septembre 1754), etc.).  	&lt;lb/&gt;&lt;lb/&gt;registre factice relié. </unittitle>
+                     <unitdate normal="1714/1763">1714-1763</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NEUVELLE-LES-LA-CHARITE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 5</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Fretigney et de ses dépendances : baptêmes, mariages, sépultures (1764, janvier-février, juillet-août, juin-juillet, avril-juin, mars-avril, février-mars ; août 1764-1791). 	&lt;lb/&gt;&lt;lb/&gt;1 registre relié. 	</unittitle>
+                     <unitdate normal="1764/1791">1764-1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 6</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de l’abbaye de la Charité (commune de Neuvelle-lès-la-Charité) : baptêmes, mariages, sépultures (1737-1752) ; sépultures (1753-janvier 1786) (Dans ce registre, on remarque notamment l’acte de sépulture de Charles-François Dromenil d’Hallencourt, évêque et comte de Verdun, abbé commendataire du monastère (6 mars 1754)) ; registre de l’état civil de Fretigney : extrait du registre des mariages faits dans le canton de Fresnes-Saint-Mamès pour la commune (an VII-an VIII). &lt;lb/&gt;	&lt;lb/&gt;1 registre factice relié. 	</unittitle>
+                     <unitdate normal="1737/1800">1737-1800</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NEUVELLE-LES-LA-CHARITE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>DOCUMENTS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 7</unitid>
+                     <unitid>II1</unitid>
+                     <unittitle>Pièces diverses : vente d’une maison à Fretigney par Jacques Masson, du lieu, à François Colin, du lieu, et Suzanne Adam, sa femme (22 décembre 1747) ; ces derniers partagent la dite maison avec Claude Adam, du lieu et Madeleine Masson, sa femme (2 décembre 1751) ; extrait de l’acte de baptême de Nicolas Saint-Py, de Neuville, diocèse de Nancy (7 février 1756). 	&lt;lb/&gt;&lt;lb/&gt;3 pièces papier. 	</unittitle>
+                     <unitdate normal="1747/1756">1747-1756</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>LOIS ET ACTES DU POUVOIR CENTRAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 8</unitid>
+                     <unitid>A1</unitid>
+                     <unittitle>Registre d’inscription des lois et décrets de l’Assemblée nationale ; des actes et délibérations du conseil municipal de Velloreille-lès-Fretigney (Le dernier acte de ce registre est le procès-verbal de réunion de la commune de Velloreille à celle de Fretigney, d’après un décret impérial du 9 septembre 1806). 	&lt;lb/&gt;&lt;lb/&gt;Lacunes : les feuillets cotés 66, 68, 71, 72, 77 et suivants, manquent. &lt;lb/&gt;	&lt;lb/&gt;1 registre relié. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1789/1806">1789-1806</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 9</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (1790-mai 1814). 	&lt;lb/&gt;&lt;lb/&gt;1 registre relié. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1790/1814">1790-1814</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 10</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (juillet 1814-novembre 1827). 	&lt;lb/&gt;&lt;lb/&gt;1 registre relié. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1814/1827">1814-1827</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 11</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (novembre 1827-mai 1838). 	&lt;lb/&gt;&lt;lb/&gt;A l’envers : registre des passeports, de la garde nationale, etc. (1827-1831). 	&lt;lb/&gt;&lt;lb/&gt;1 registre relié. 	</unittitle>
+                     <unitdate normal="1827/1838">1827-1838</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 12</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (mai 1838-mars 1857). &lt;lb/&gt;	&lt;lb/&gt;1 registre relié. &lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1838/1857">1838-1857</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 13</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (mai 1857-novembre 1874). 	&lt;lb/&gt;&lt;lb/&gt;1 registre relié. 	</unittitle>
+                     <unitdate normal="1857/1874">1857-1874</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 14</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (décembre 1874-septembre 1893). &lt;lb/&gt;&lt;lb/&gt;1 registre relié. 	</unittitle>
+                     <unitdate normal="1874/1893">1874-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 15</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (novembre 1893-mars 1918). &lt;lb/&gt;	&lt;lb/&gt;1 registre relié. 	</unittitle>
+                     <unitdate normal="1893/1918">1893-1918</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 16</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (avril 1918-février 1944). 	&lt;lb/&gt;&lt;lb/&gt;1 registre relié. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1918/1944">1918-1944</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 38</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Actes de l’administration municipale : extraits du registre des arrêtés du maire (1828, 1839, 1840). 	&lt;lb/&gt;&lt;lb/&gt;5 pièces papier. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1828/1840">1828-1840</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 17</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Etat civil : registres des actes de naissances (1793-an III ; an V-an X ; avec table décennale : 1792-an XI) ; registre des actes de mariages (1793 ; an IV ; an VI ; avec table décennale : 1792-an XI) ; et publications de mariages (an II ; an XIV) ; registres des actes de décès (1793-an V ; an VII ; an X-an XI ; avec table décennale : 1792-an XI) ; registres des actes de naissances, mariages et décès (an XII-1806).  	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 27 cahiers et pièces papier. &lt;lb/&gt;	&lt;lb/&gt;Non communicable. 	</unittitle>
+                     <unitdate normal="1792/1806">1792-1806</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 18</unitid>
+                     <unitid>E2</unitid>
+                     <unittitle>Etat civil : registres des publications de mariages (an IX ; an XIII-1806) (Voir également 257 E dépôt 6, extrait du registre des mariages faits dans le canton de Fresnes-Saint-Mamès pour Fretigney (an VII-an VIII)). 	&lt;lb/&gt;&lt;lb/&gt;3 cahiers papier. 	</unittitle>
+                     <unitdate normal="1801/1806">1801-1806</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 19</unitid>
+                     <unitid>E3</unitid>
+                     <unittitle>Etat civil : extraits des registres d’autres communes, publications de mariages, divorces, etc. (XIXème siècle) ; instructions du parquet concernant l’état civil et la tenue des registres (1834-1925). 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 214 pièces papier. 	</unittitle>
+                     <unitdate normal="1925">1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 39</unitid>
+                     <unitid>E4</unitid>
+                     <unittitle>Etat civil.-Option pour la nationalité française : déclaration. 	&lt;lb/&gt;&lt;lb/&gt;1 pièce papier. 	&lt;lb/&gt;&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1872">1872</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 20</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : dénombrements quinquennaux. &lt;lb/&gt;&lt;lb/&gt;1 liasse, 18 tableaux. 	&lt;lb/&gt;&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1831/1872">1831-1872</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DEMOGRAPHIE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 21</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Population : mouvements annuels (1852-1869, 1872-1906).	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 84 pièces papier. 	</unittitle>
+                     <unitdate normal="1852/1906">1852-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DEMOGRAPHIE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 40</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Population : dénombrements quinquennaux (1876-1906, s.d.).  	&lt;lb/&gt;&lt;lb/&gt;10 pièces papier. 	</unittitle>
+                     <unitdate normal="1876/1906">1876-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DEMOGRAPHIE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 41</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>Commerce et industrie.-Chambre de commerce, renouvellement : listes des électeurs, communiqué (1908-1919). Tribunal de commerce, élection du président et des membres : listes des électeurs (1891) ; renouvellement partiel des membres : listes des électeurs (1884-1886, 1888-1892, 1894-1896, 1898-1914).	&lt;lb/&gt;&lt;lb/&gt;43 pièces papier. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1884/1919">1884-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHAMBRE CONSULAIRE</subject>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 42</unitid>
+                     <unitid>F5</unitid>
+                     <unittitle>Agriculture.-Statistiques annuelles : registres des cultures (1903-1915), communiqués, questionnaires, états (1855-1861, 1864-1869, 1871-1874, 1888-1890, 1892-1914). Statistiques quinquennales : questionnaires (1852). Statistiques décennales : questionnaires (1882, 1892). Destruction de campagnols : communiqués, état, notes, mode d’emploi (1912, s.d.).	&lt;lb/&gt;&lt;lb/&gt;4 cahiers, 95 pièces papier. 	</unittitle>
+                     <unitdate normal="1852/1915">1852-1915</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATION FINANCIERE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 22</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Contributions : adjudication du toisé des maisons (1810) ; mandements de contributions (1816-1824) ; demande de fonds pour la perception de Fretigney (1815) ; répartition de la somme imposable sur les débits de boissons (1815) ; listes des commissaires répartiteurs (1846-1926) ; correspondance relative à la suppression de plusieurs perceptions dont celle de Fretigney (1909). 	&lt;lb/&gt;1 liasse, 57 pièces papier. 	</unittitle>
+                     <unitdate normal="1810/1926">1810-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 43</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Impôts directs.-Contributions cadastrales : matrice de rôle (1er volume). 	&lt;lb/&gt;&lt;lb/&gt;1 registre cartonné. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1813">1813</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 44</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Impôts directs.-Contribution foncière : matrice cadastrale (2ème volume). 	&lt;lb/&gt;&lt;lb/&gt;1 registre. 	</unittitle>
+                     <unitdate normal="1817">1817</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 45</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Impôts directs.-Contribution foncière : matrice cadastrale (3ème volume). &lt;lb/&gt;	&lt;lb/&gt;1 registre composé de 3 cahiers distincts. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1818/1820">1818-1820</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 46</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Impôts directs.-Cadastre, augmentations et diminutions survenues dans les contenances et les revenus portés sur les matrices : registre.   	&lt;lb/&gt;&lt;lb/&gt;1 registre. 	</unittitle>
+                     <unitdate normal="1823/1832">1823-1832</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 47</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Impôts directs.-Contributions foncière, personnelle-mobilière et des portes et fenêtres : instruction (1831), matrices générales (1850-1881). &lt;lb/&gt;	&lt;lb/&gt;8 cahiers, 1 pièce papier. 	</unittitle>
+                     <unitdate normal="1831/1881">1831-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 48</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Impôts directs.-Contributions foncière, personnelle-mobilière et des portes et fenêtres : matrices générales. 	&lt;lb/&gt;&lt;lb/&gt;8 cahiers. 	</unittitle>
+                     <unitdate normal="1882/1916">1882-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 49</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Impôts directs.-Contributions directes : matrices générales (1818-1821, 1826-1828, 1829 (1 feuillet provenant de la matrice, le restant est lacunaire)).	&lt;lb/&gt;&lt;lb/&gt;2 registres, 1 feuillet papier. 	</unittitle>
+                     <unitdate normal="1818/1829">1818-1829</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 50</unitid>
+                     <unitid>G9</unitid>
+                     <unittitle>Impôts directs.-Contributions directes : matrices générales (1833-1835, 1836-1838, 1842-1844).	&lt;lb/&gt;3 registres. 	</unittitle>
+                     <unitdate normal="1833/1844">1833-1844</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 51</unitid>
+                     <unitid>G10</unitid>
+                     <unittitle>Impôts directs.-Contributions directes : saisie-brandon (1849). Maisons et usines du canton de Fresne-Saint-Mames, évaluation : tableau comparatif (s.d.). Contributions des patentes, transfert de droit en cas de cession d’établissement : état spécial (1903). Taxe sur les billards publics et privés, déclarations des propriétaires : registres (1872).	&lt;lb/&gt;&lt;lb/&gt;7 pièces papier. 	</unittitle>
+                     <unitdate normal="1849/1903">1849-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 52</unitid>
+                     <unitid>G11</unitid>
+                     <unittitle>Impôts directs.-Rétribution scolaire : rôles trimestriels, arrêtés préfectoraux. 	&lt;lb/&gt;&lt;lb/&gt;30 pièces papier. 	</unittitle>
+                     <unitdate normal="1857/1878">1857-1878</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 53</unitid>
+                     <unitid>G12</unitid>
+                     <unittitle>Rapports de la commune avec les diverses administrations au point de vue financier.-Direction générale de l’enregistrement et des domaines, expertise d’immeubles acquis par le sieur Laurent : requête. 	&lt;lb/&gt;&lt;lb/&gt;1 pièce papier. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1860">1860</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENREGISTREMENT</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 23</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Affaires militaires : tableaux de recensement des jeunes gens. &lt;lb/&gt;	&lt;lb/&gt;1 liasse, 100 pièces papier. 	</unittitle>
+                     <unitdate normal="1816/1914">1816-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 24</unitid>
+                     <unitid>H6</unitid>
+                     <unittitle>Garde nationale : registres de contrôle, de recensement et d’appel.  	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 12 cahiers. 	</unittitle>
+                     <unitdate normal="1832/1848">1832-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GARDE NATIONALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 25</unitid>
+                     <unitid>H7</unitid>
+                     <unittitle>Garde nationale : bulletins individuels, avec table alphabétique (1831-1846) ; procès-verbaux d’élections des officiers, sous-officiers et caporaux (1831-1848) ; équipement, instructions (1831). 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 387 pièces papier. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1831/1848">1831-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GARDE NATIONALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 26</unitid>
+                     <unitid>H8</unitid>
+                     <unittitle>Sapeurs-pompiers : liste nominative (1864) ; acquisitions de pompes et autre matériel (1830 (Marché passé avec Louis Roy, fondateur de cloches et fabriquant de pompes à Besançon (6 juin 1860)) ; 1942-1943). 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 214 pièces papier. 	</unittitle>
+                     <unitdate normal="1830/1943">1830-1943</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 54</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Recrutement.-Mise en activité des classes : ordres de route (1912). Militaires voyageant isolément, délivrance de feuilles de route et de mandats : registre [1856-1858]. Armée territoriale, recensement : tableau (1874). Soutien de famille : correspondance (1909).&lt;lb/&gt;	&lt;lb/&gt;7 pièces papier. 	</unittitle>
+                     <unitdate>[1856]-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 55</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Administration militaire.-Champ de tir de circonstance, organisation : communiqués, procès-verbaux de conférence et annexes (1910-1922). Service géographique de l’armée, travaux géodésiques : arrêtés préfectoraux (1910, 1912). Achat d’aéroplanes, souscription publique : liste (1912). Passages d’officiers allemands sur le territoire français, obligation de déclaration : communiqué (1912). Passages de troupes : instruction, communiqué, avis (1876-1913). Logement et cantonnement des troupes de passage : communiqués, notes, télégramme, tableaux récapitulatifs, état, certificat de bien vivre (1842-1939, s.d.).	&lt;lb/&gt;&lt;lb/&gt;50 pièces papier. 	</unittitle>
+                     <unitdate normal="1842/1939">1842-1939</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ORGANISATION DE L'ARMEE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 56</unitid>
+                     <unitid>H4</unitid>
+                     <unittitle>Administration militaire.-Logement et cantonnement des troupes de passage : registre. 	&lt;lb/&gt;&lt;lb/&gt;Contient également : Guerre de 1870.-Passages et séjours des troupes allemandes dans la commune : mémoire (s.d.). Réquisitions allemandes en argent et en nature fournies par la commune pendant l’occupation prussienne : relevé (s.d.). Individus ayant livré de l’avoine et des pommes de terre à la commune pendant l’invasion : liste (s.d.). 	&lt;lb/&gt;&lt;lb/&gt;1 registre cartonné.  	</unittitle>
+                     <unitdate normal="1864/1939">1864-1939</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ORGANISATION DE L'ARMEE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 57</unitid>
+                     <unitid>H5</unitid>
+                     <unittitle>Administration militaire.-Subsistances : correspondance, circulaire, cahiers des charges et marché (1845-1852). Réquisitions dues par les communes du canton de Fresne-Saint-Mames : état (1815). Dégâts causés pendant les manœuvres, indemnités : communiqués (1910, 1912). Armée d’orient, dons patriotiques : état (1855). Erection à Alger d’un monument aux morts de l’armée d’Afrique, souscription nationale : communiqués, liste de souscription (1910).	&lt;lb/&gt;&lt;lb/&gt;13 pièces papier. 	</unittitle>
+                     <unitdate normal="1815/1912">1815-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ORGANISATION DE L'ARMEE</subject>
+                     <subject>REQUISITIONS MILITAIRES</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 27</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale.-Police des lieux publics : règlement (s.d.). Hôteliers, aubergistes et logeurs, obligation de tenir un registre des voyageurs : communiqué (1887). Foires, création : arrêté préfectoral, correspondance (1873) ; adjudication du droit de places : procès-verbaux (1873-1926) ; déplacement du champ de foire : arrêté municipal, procès-verbal d’enquête commodo et incommodo (1854, 1874). Tenue des marchés : arrêté ministériel, communiqué, extrait du registre des arrêtés du maire (1842, 1849). Poids et  mesures, vérifications annuelles : tableaux des quantités (1824, 1826). Nomades, réglementation : communiqué, circulaire (1913). Chiens errants : arrêté municipal (1851). Sinistres et incendies, secours pour pertes : procès-verbaux, tableaux de renseignements, états, communiqués, tableaux de répartition des sommes, arrêté préfectoral (1835-1919). 	&lt;lb/&gt;&lt;lb/&gt;87 pièces papier, 2 cahiers. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1824/1926">1824-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>MANIFESTATION COMMERCIALE</subject>
+                     <subject>POLICE</subject>
+                     <subject>SINISTRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 58</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Police rurale.- Police de la chasse, autorisation de battues : arrêté préfectoral (1877). Ramonage des cheminées : marchés, certificat (1817, 1865). 	&lt;lb/&gt;&lt;lb/&gt;5 pièces papier. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1817/1877">1817-1877</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POLICE DE LA CHASSE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 59</unitid>
+                     <unitid>I3</unitid>
+                     <unittitle>Police générale.- Attentats contre les personnes et les propriétés, répression : communiqué (1907). Quadruple exécution capitale de Béthune, représentation publique : communiqué (1909). Manœuvres de dirigeables allemands près de la frontière française : communiqué (1910). Etrangers : télégramme, communiqués, circulaires (1876-1919, s.d.). Passeports pour l’extérieur : souches (1811-1856).	&lt;lb/&gt;&lt;lb/&gt;167 pièces papier. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1811/1919">1811-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETRANGER</subject>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 60</unitid>
+                     <unitid>I4</unitid>
+                     <unittitle>Justice.-Tribunal de police : citation à prévenu (1900). Tribunal correctionnel : assignation à prévenu (1899). Procès-verbaux dressés par les gardes-champêtres et les particuliers, transmission au Parquet : correspondance (1886). Amendes et condamnations pécuniaires : commandement (1908). Contributions directes et taxes assimilées : sommations avec frais (1912). Huissiers : exploits (1846-1914). 	&lt;lb/&gt;&lt;lb/&gt;37 pièces papier. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1846/1914">1846-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 61</unitid>
+                     <unitid>I5</unitid>
+                     <unittitle>Hygiène publique et salubrité.-Tuilerie, autorisation de construction : arrêté préfectoral (1863). Tueries particulières, inspections sanitaires : arrêté municipal, arrêtés préfectoraux, plans, extraits du registre des délibérations du conseil municipal, communiqué (1908-1909). Foires, abattoirs et clos d’équarrissage, inspection : communiqué (1907). Epidémie de choléra, mesures de prévention : instructions, communiqué (1910). Epizootie du typhus : dénombrement des animaux (1871). Epizootie de morve : arrêtés préfectoraux (1884, 1911). Epizootie du charbon : arrêtés préfectoraux (1896, 1908). Epizootie de tuberculose : arrêté préfectoral (1906). 	&lt;lb/&gt;&lt;lb/&gt;25 pièces papier, 3 plans. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1863/1911">1863-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ABATTOIR</subject>
+                     <subject>EPIDEMIE</subject>
+                     <subject>HYGIENE</subject>
+                     <subject>MALADIE DES ANIMAUX</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 28</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections : listes des électeurs (1831, 1840-1914). 	&lt;lb/&gt;&lt;lb/&gt;163 pièces papier. 	&lt;lb/&gt;&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1831/1914">1831-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 62</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections.-Elections présidentielles : communiqué, procès-verbal (1851). Vote général pour le rétablissement de l’Empire : liste du scrutin, procès-verbal (1852). Elections sénatoriales : procès-verbaux (1881-1908). Elections législatives : procès-verbaux, listes des électeurs, listes de scrutin (1852-1914). Elections des membres du conseil d’arrondissement et du conseil général : procès-verbaux, listes de scrutin, listes des électeurs (1852-1913). 	&lt;lb/&gt;&lt;lb/&gt;111 pièces papier. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1851/1914">1851-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                     <subject>ELECTION AU CONSEIL D'ARRONDISSEMENT</subject>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 63</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Elections.-Election des membres du conseil municipal : procès-verbaux, listes de scrutin (1831-1912). Installation du conseil municipal et élection du maire et des adjoints : procès-verbaux (1876-1912).	&lt;lb/&gt;&lt;lb/&gt;84 pièces papier. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1831/1912">1831-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 64</unitid>
+                     <unitid>K4</unitid>
+                     <unittitle>Personnel municipal.-Pâtres, nominations : marchés. 	&lt;lb/&gt;&lt;lb/&gt;6 pièces papier. 	&lt;lb/&gt;	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1826/1841">1826-1841</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 65</unitid>
+                     <unitid>K5</unitid>
+                     <unittitle>Protocole et distinctions honorifiques.-Légionnaires et décorés de la médaille militaire domiciliés dans la commune : état. 	&lt;lb/&gt;&lt;lb/&gt;1 pièce papier. 	</unittitle>
+                     <unitdate normal="1875">1875</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DISTINCTION HONORIFIQUE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 66</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Revenus et charges de la commune.-Donations Neurtard et Varin : actes notariés, notes, arrêté, certificat de vie. 	&lt;lb/&gt;&lt;lb/&gt;7 pièces papier. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1825/1907">1825-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DONS-ET-LEGS</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 29</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices publics.-Maison commune, construction : plan, soumissions, arrêté, notes, bordereau de créance, acte de vente, correspondance, rapport, devis, avant-projet, procès-verbal d’adjudication, conditions (1829, 1854, 1856-1859) ; projet de construction d’une cave : plan, extrait du registre des délibérations du conseil municipal (1830) ; réparations : devis, procès-verbal d’adjudication des travaux (1839-1893). Lavoirs, construction et couverture : devis, ordonnance (1827, 1903). 	&lt;lb/&gt;&lt;lb/&gt;Contient également : Réparation de la chambre de M. le curé, de la salle d’école des filles, de la salle d’asile, du cimetière et de l’école maternelle : devis, procès-verbal d’adjudication des travaux, correspondance (1880, 1893, 1895). &lt;lb/&gt;&lt;lb/&gt;25 pièces papier, 2 plans. </unittitle>
+                     <unitdate normal="1827/1903">1827-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DEVIS</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EQUIPEMENT COLLECTIF</subject>
+                     <subject>LAVOIR</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 67</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>Edifices du culte et cimetières.-Eglise, acquisition de cloches : correspondance, marché (1826, 1873) ; remplacement et entretien de l’horloge : devis, soumission, état des ouvrages, traité, correspondance (1831, 1846, 1868) ; réparation et assainissement des murs : devis, cahier des charges, rapport (1840) ; confection d’un tableau : arrêté préfectoral (1851) ; reconstruction du piedouche du clocher : arrêté préfectoral, mémoire et devis, extrait du registre des délibérations du conseil municipal, plan (1872) ; reconstruction de la flèche du clocher et travaux d’entretien : arrêté préfectoral, extraits du registre des délibérations du conseil municipal, correspondance, marché, devis (1909-1912) ; réparation de l’intérieur de l’édifice : extrait du registre des délibérations du conseil municipal, devis, correspondance (1912). Presbytère, projet d’achat : plan, rapport (1828) ; travaux de réparation : soumissions, procès-verbal d’adjudication, cahier des charges, notes, devis et état estimatif, devis instructif, extrait du registre des délibérations, charges et conditions, rapport (1829-1855) ; vente des anciens bâtiments : procès-verbal d’adjudication, arrêté préfectoral (1910). Cimetière, cession d’une partie du mur à M. Mourlot : correspondance, extrait des délibérations du conseil de fabrique, extrait du registre des délibérations du conseil municipal, plan, procès-verbal d’enquête de commodo et incommdo (1841) ; cession d’une partie du mur à M. Dupaillet : expédition d’un acte notarié (1901) ; établissement d’un nouveau cimetière : procès-verbal descriptif et estimatif, soumission, marché, certificats, états individuels, plan, arrêté préfectoral, extraits du registre des délibérations du conseil municipal, devis, expéditions d’actes notariés (1906-1907).	    &lt;lb/&gt;&lt;lb/&gt;69 pièces papier, 4 plans. </unittitle>
+                     <unitdate normal="1826/1912">1826-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DEVIS</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 68</unitid>
+                     <unitid>M3</unitid>
+                     <unittitle>Edifices à usage d’établissements d’enseignements, de sciences et d’art.-Ecole des filles, construction d’un mur de clôture : arrêté préfectoral, plan, extrait du registre des délibérations du conseil municipal (1879) ; travaux de réparations : devis, plan, état métrique et estimatif, mémoire explicatif (1862, 1902, s.d.). Ecoles de filles et de garçons, réparations : procès-verbal d’adjudication (1850). Maison d’école, construction : correspondance (1854-1855) ; travaux de réparation : devis, procès-verbal d’adjudication (1847, 1910). Salle d’asile, projet de construction : devis et état estimatif, état métrique et analyse des prix, mémoire explicatif (1868). 	&lt;lb/&gt;&lt;lb/&gt;Contient également : fontaines, travaux de réparations : devis (1910). 	&lt;lb/&gt;&lt;lb/&gt;21 pièces papier, 2 plans. 	</unittitle>
+                     <unitdate normal="1847/1910">1847-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DEVIS</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECOLE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS ET EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 30</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux : baux de biens et marchés divers (1808-1920) ; ventes ou achats de terrains par la commune (1811-1866) ; recherche de sources (1846) ; concessions d’eau (1889 ; 1959) ; état des biens ruraux autres que les bois (1861). &lt;lb/&gt;	&lt;lb/&gt;1 liasse, 106 pièces papier. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1808/1959">1808-1959</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 31</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Bois : pièces diverses et plans relatifs à l’aménagement des bois communaux (1808-1921) ; cahier d’aménagement des bois de la section de Velloreille (1862-1864). &lt;lb/&gt;	&lt;lb/&gt;1 liasse, 75 pièces papier et 12 plans. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1808/1921">1808-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 32</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Bois : adjudication de la coupe affouagère (1807-1870) ; autres marchés forestiers (1808-1870). 	&lt;lb/&gt;1 liasse, 215 pièces papier. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1807/1870">1807-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 33</unitid>
+                     <unitid>N6</unitid>
+                     <unittitle>Pièces de procès soutenus par la commune contre les héritiers Vernot, du lieu, pour la propriété de la source des Duits et de la force motrice alimentant le moulin de la Rouchotte, avec plan (an II-1881) ; contre les héritiers Ferrey, du lieu, pour anticipation, avec plan (an IV-1843) ; et contre François Dupaillet, aubergiste du lieu, pour la même cause, avec plan (1863-1864). 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 73 pièces papier et 5 plans. 	</unittitle>
+                     <unitdate>An II-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU SOUTERRAINE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 69</unitid>
+                     <unitid>N4</unitid>
+                     <unittitle>Bois.-Futaie et taillis de la coupe affouagère, répartition : rôles (1816, 1823-1850). Bois communaux de Fretigney, aménagement : procès-verbaux et croquis géométriques (1836).	&lt;lb/&gt;&lt;lb/&gt;28 pièces papier, 1 cahier. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1816/1850">1816-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 70</unitid>
+                     <unitid>N5</unitid>
+                     <unittitle>Bois.-Bois communaux de Fretigney : plan dressé par l’administration des forêts. 	&lt;lb/&gt;&lt;lb/&gt;1 plan, rangé dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône. &lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1872">1872</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 71</unitid>
+                     <unitid>N7</unitid>
+                     <unittitle>Eaux.-Fontaines, construction et réparations : devis, état métrique des travaux, état estimatif, plans, arrêtés, projets, extrait du registre des délibérations, rapport (1825-1889) ; concession du trop plein des eaux : arrêté municipal, correspondance, extrait du registre des délibérations du conseil municipal (1922). Puits communaux, construction : devis, plan, métré, rapport, correspondance, analyse, programme (1844). Barrage, construction : cahier des charges et procès-verbal d’adjudication (1868). 	&lt;lb/&gt;&lt;lb/&gt;Contient également : Travaux de réparation à la maison commune, à la maison de l’instituteur et à l’école des filles ; construction d’un aqueduc ; démolition et reconstruction d’un ponceau ; établissement d’un puits (1878). 	&lt;lb/&gt;&lt;lb/&gt;62 pièces papier, 10 plans. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1825/1922">1825-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DEVIS</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU SOUTERRAINE</subject>
+                     <subject>FONTAINE</subject>
+                     <subject>PUITS</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIES, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 34</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Travaux publics et voirie en général.-Voirie urbaine, construction de ponts et de ponceaux : dessin des ouvrages, devis, procès-verbal d’adjudication des travaux, devis et cahier des charges, marché, procès-verbal, extrait du registre des délibérations du conseil municipal, arrêté préfectoral, correspondance, plan (1829-1910) ; ventes de terrains : plan, arrêtés préfectoraux, correspondance, marchés (1843-1876, s.d.) ; alignements des rues : avis, plan, extrait du registre des délibérations du conseil municipal, procès-verbal d’expertise, soumission, arrêtés préfectoraux, correspondance, note, acte notarié, acte d’aliénation de terrain, procès-verbal de métré, communiqué (1841-1925, s.d.) ; construction de rigoles pavées : plans, devis, extrait du registre des délibérations du conseil municipal, soumission (1858-1868) ; demande d’autorisation d’établissement d’une clôture sur la voie publique : correspondance (1882) ; projet de travaux de terrassements pour l’amélioration du champ de foire : plans, devis, procès-verbal d’adjudication (1876-1877) ; pose de poteaux pour interdire la mendicité : procès-verbal d’adjudication (1861) ; suppression d’une place à fumier : plan (1840).  &lt;lb/&gt;	&lt;lb/&gt;44 pièces papier, 11 plans. 	</unittitle>
+                     <unitdate normal="1829/1925">1829-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DEVIS</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 35</unitid>
+                     <unitid>O4</unitid>
+                     <unittitle>Voirie : rôles des prestations et de la taxe vicinale (1831 ; 1848 ; 1866-1905). 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 41 tableaux. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1831/1905">1831-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 72</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Travaux publics et voirie en général.-Petite voirie, reconnaissance et classement des chemins : état, arrêté préfectoral, extraits du registre des délibérations du conseil municipal, tableaux (1825-1894) ; élargissement du chemin vicinal n°3 : plans, état, tableau indicatif, rôles des journées employées (1835-1882) ; construction et entretien du chemin de grande communication n°22 de l’abbaye à Champlitte : comptes de recettes et dépenses, tarifs de conversion en tâches, états d’indication des travaux, arrêtés, tableau des parcelles de terrains à acquérir, correspondance (1850-1868) ; réparations au chemin vicinal n°4 de Rioz à Soing : états d’indication, comptes des recettes et dépenses (1859-1864) ; réparations au chemin vicinal de Bourguignon à Fretigney : devis, procès-verbal d’adjudication, procès-verbal de reconnaissance des travaux, traité, arrêtés, plan (1825-1844) ; délimitation et construction d’un chemin de défruitement : plan, extrait du registre des délibérations, arrêté préfectoral (1867-1868) ; travaux d’entretien : arrêtés préfectoraux, état d’indication, correspondance, tarif de conversion en tâches, rôles de prestations, états approximatifs (1844-1877, s.d.) ; votes des journées de prestations : extraits du registre des délibérations du conseil municipal, rapports, note (1920). 	&lt;lb/&gt;99 pièces papier, 5 plans. 	</unittitle>
+                     <unitdate normal="1825/1920">1825-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>DEVIS</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 73</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Travaux publics et voirie en général.-Grande voirie, rectification de la route départementale n°3 de Besançon à Neufchâteau : correspondance, extrait du registre des délibérations du conseil municipal, bordereau, rapport, plans (1873-1874) ; révision du réseau des routes départementales : projet (1855).  	&lt;lb/&gt;&lt;lb/&gt;6 pièces papier, 3 plans. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1855/1874">1855-1874</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 74</unitid>
+                     <unitid>O5</unitid>
+                     <unittitle>Moyens de transport et travaux divers.-Chemin de fer d’intérêt local, établissement de la ligne Vesoul-Fretigney : rapport, arrêtés préfectoraux (1900, 1904) ; établissement de la ligne Besançon-Vesoul avec embranchement de Grandvelle à Fretigney : correspondance, plans, arrêtés préfectoraux, notifications des offres légales, significations de jugements d’expropriations (1907-1910, s.d.). Tramway à vapeur, établissement de la ligne de Fretigney à Bucey-les-Gy : signification de jugements d’expropriation, arrêtés préfectoraux, rapport, significations des offres légales (1894-1898). Réseau téléphonique départemental, rattachement : traité, communiqué (1904-1905, s.d.). Mines, autorisation donnée à Mme Derose et M. Masson pour le maintient en activité d’un lavoir pour le lavage du minerai de fer : ordonnance royale [1830] ; autorisation d’extractions : extraits du registre des délibérations du conseil municipal, correspondance, procès-verbaux, arrêtés préfectoraux, rapports, traités de concessions (1837-1929) ; recherches de minerai de fer dans les terrains communaux : correspondance, extrait du registre des délibérations du conseil municipal, arrêtés préfectoraux (1908-1912).   	&lt;lb/&gt;&lt;lb/&gt;80 pièces papier, 2 plans. 	</unittitle>
+                     <unitdate>[1830]-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>MINERAI</subject>
+                     <subject>TELEPHONE</subject>
+                     <subject>TRANSPORT EN COMMUN</subject>
+                     <subject>TRANSPORT FERROVIAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 75</unitid>
+                     <unitid>O6</unitid>
+                     <unittitle>Navigation et régime des eaux.-Canal couvert sous la route départementale n°1, construction : rôle des journées employées (1865). Fossés, curage : plans, états indicatifs, arrêtés préfectoraux, devis et cahier des charges, registres des déclarations (1899-1900, s.d.). Ruisseaux, faucardement : arrêtés, extrait du registre des délibérations du conseil municipal (1909-1926) ; curage : rapport, plans, états indicatif, procès-verbal et registre d’enquête, arrêtés préfectoraux, extraits du registre des délibérations, correspondance, registres des déclarations, devis et cahier des charges, rôle de répartition, extrait du registre des arrêtés du maire (1837-1928). Rivière « La Romaine », curage : note, correspondance, devis et cahiers des charges, extraits des délibérations du conseil municipal, procès-verbal d’adjudication de travaux, état indicatif, registre des déclarations, plan (1892-1894). Aqueduc, construction : extrait du registre des délibérations du conseil municipal (1904). Moulin du sieur Masson : arrêtés, procès-verbal de récolement, pétition, correspondance (1838-1915).	&lt;lb/&gt;&lt;lb/&gt;67 pièces papier, 6 plans. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1837/1928">1837-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                     <subject>ENERGIE HYDRAULIQUE</subject>
+                     <subject>TRAITEMENT DES EAUX USEES</subject>
+                     <subject>VOIE NAVIGABLE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 76</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte catholique.-Biens des anciens établissements ecclésiastiques, attribution à la commune de Fretigney : décret, notification (1910-1911). Location du presbytère : correspondance, procès-verbal d’adjudication, bail (1908-1909). Loi de séparation des églises et de l’Etat, mise en application : circulaires, inventaire des biens mobiliers et immobiliers, avis de convocation (1906-1907). Fabrique, demande de subvention : correspondance (1871) ; comptabilité : comptes (1828-1830). 	&lt;lb/&gt;&lt;lb/&gt;16 pièces papier. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1828/1911">1828-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CULTE</subject>
+                     <subject>FABRIQUE D'EGLISE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 36</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Sociétés de bienfaisance : assistance aux familles nombreuses (1910) ; œuvre de l’allaitement maternel (1921). 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 6 pièces imprimées. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1910/1921">1910-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>STRUCTURE COMMUNALE D'AIDE SOCIALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 77</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Œuvres charitables.-Comité communal de bienfaisance : tableau de répartition du crédit pour secours aux indigents, arrêté de nomination des membres, procès-verbal d’installation, communiqué (1860-1867). Donation de la comtesse du Taillis aux pauvres de la commune : décret, acte notarié (1875-1876). &lt;lb/&gt;&lt;lb/&gt;7 pièces papier. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1860/1876">1860-1876</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DONS-ET-LEGS</subject>
+                     <subject>STRUCTURE COMMUNALE D'AIDE SOCIALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 78</unitid>
+                     <unitid>Q3</unitid>
+                     <unittitle>Institutions diverses.-Caisse d’assurances mutuelles agricoles contre l’incendie : statuts (1910, 1912). Syndicat communal agricole et viticole : statuts, correspondance, listes (1900-1927, s.d.). Syndicat d’élevage : statuts (1924). Caisse locale d’assurances mutuelles agricoles contre les accidents : statuts (1924-1925). Caisse de réassurance contre la mortalité du bétail : statuts (1907, 1920, 1923). Société fraternelle d’assurances mutuelles contre la mortalité du bétail : statuts (1902).&lt;lb/&gt;&lt;lb/&gt;10 pièces papier, 5 livrets. 	</unittitle>
+                     <unitdate normal="1900/1927">1900-1927</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 79</unitid>
+                     <unitid>Q4</unitid>
+                     <unittitle>Institutions diverses.-Société fraternelle d’assurances contre la mortalité du bétail, opérations de recettes et de dépenses : registre.  &lt;lb/&gt;	&lt;lb/&gt;1 registre cartonné. 	</unittitle>
+                     <unitdate normal="1903/1922">1903-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 80</unitid>
+                     <unitid>Q5</unitid>
+                     <unittitle>Institutions diverses.-Société fraternelle d’assurances contre la mortalité du bétail, délibérations : registre.  &lt;lb/&gt;&lt;lb/&gt;1 registre cartonné. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1904/1923">1904-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 81</unitid>
+                     <unitid>Q6</unitid>
+                     <unittitle>Application des lois d’assistance et de prévoyance.- Retraites et pensions civiles et militaires : certificat, correspondance, copie d’un extrait des minutes du greffe du tribunal civil (1878, 1888). Accidents du travail, déclarations : registre (1903-1920). Secours accordé par le préfet aux indigents : extrait du registre des délibérations du conseil municipal (1867). Médicaments fournis aux indigents : états (1851-1853). Médecins cantonaux, organisation d’un service médical gratuit en faveur des malades indigents : communiqué (1859). Service de la médecine gratuite, attribution de soins aux indigents malades : traités (1860, 1863). Bureau d’assistance médicale gratuite, nomination des membres de la commission administrative : arrêtés, extraits du registre des délibérations du conseil municipal (1895-1927) ; fourniture de médicaments : communiqué (1895) ; règlement des dépenses : communiqué (1911) ; révision des taux des allocations mensuelles : communiqués, extrait du registre des délibérations du conseil municipal (1911, 1925-1926) ; élections de délégués à la commission cantonale : arrêté, communiqués, extraits du registre des délibérations de la commission administrative (1911, 1920). 	&lt;lb/&gt;&lt;lb/&gt;63 pièces papier, 1 registre. 	</unittitle>
+                     <unitdate normal="1851/1927">1851-1927</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ACCIDENT DU TRAVAIL</subject>
+                     <subject>AIDE MEDICALE</subject>
+                     <subject>AIDE SOCIALE</subject>
+                     <subject>RETRAITE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 82</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique.-Enfants âgés de 6 à 13 ans, déclarations de mode d’instruction : listes nominatives (1887-1895, s.d.). Instituteurs et institutrices, nomination et traitement : marchés, correspondance, état (1789, 1819-1820, 1844) ; réclamation : extrait des registres des arrêtés du conseil de préfecture (1853). Instituteurs et institutrices adjoints, nomination et traitement : correspondance, arrêtés (1851-1864). Ecole maternelle, comptabilité : correspondance (1895) ; conversion en classe enfantine : correspondance (1895, 1897). Classe enfantine, séparation de la garderie : correspondance, extrait du registre des délibérations du conseil municipal (1899). Mobilier scolaire : inventaires, notes, correspondance, factures, traité de gré à gré, brochure, devis (1876-1926, s.d.). Comité local d’instruction primaire, délibérations : registre (1834-1847) ; nomination des membres : arrêtés (1843, 1846).  	&lt;lb/&gt;&lt;lb/&gt;59 pièces papier, 3 cahiers. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1887/1895">1887-1895</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENSEIGNEMENT</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 83</unitid>
+                     <unitid>R2</unitid>
+                     <unittitle>Sciences, lettres et arts.-Fanfare : statuts (1909, s.d.), livre de caisse (1910-1921), journal officiel, liste des membres, récépissé de déclaration, correspondance (1910-1911, s.d.), reçus, notes, factures (1910-1912). 	&lt;lb/&gt;&lt;lb/&gt;2 cahiers, 36 pièces papier. 	</unittitle>
+                     <unitdate normal="1909/1921">1909-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>MUSIQUE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>PIECES NE RENTRANT PAS DANS LES SERIES PRECEDENTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>257 Edepot 37</unitid>
+                     <unitid>S1</unitid>
+                     <unittitle>Pièces diverses : reconnaissances de dettes faites par Pierre Pernin, de Velloreille, et par son fils, au profit de Pierre-Féréol Poncelin de Raucourt, demeurant à Besançon (4 octobre 1810) ; et de Jacques-Dauphin Marmet, capitaine en retraite à Besançon (12 janvier 1815) ; difficulté au sujet de la succession Froissard (3 avril 1817) ; reconnaissance de dette faite par Pierre Cugnet au profit de Claude Maire, tous de Fretigney (9 avril 1818) ; souscription du comté Pasteur (1911). 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 7 pièces papier.	</unittitle>
+                     <unitdate normal="1810/1911">1810-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,1860 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_464Edepot_Archives_communales_déposées_de_Saint-Germain" url="https://francearchives.fr/findingaid/5149a216b8a97dbe1314a38ef0e553e7e7a91e6c">FRAD70_464Edepot_Archives_communales_déposées_de_Saint-Germain</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>464Edepot - Archives communales déposées de Saint-Germain</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>464Edepot - Archives communales déposées de Saint-Germain</unittitle>
+         <unitid>464Edepot1-70</unitid>
+         <unitdate normal="1626/1966">1626-1966</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE SAINT-GERMAIN</corpname>
+         </origination>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             07/07/2014
+         </p>
+         <p>Dernier ajout le             07/07/2014
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORETS, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Arpentement et estimation des fonds, terres et héritages de la commune de Saint-Germain, dressé par l’arpenteur Charles Grandmougin, demeurant à Sainte-Marie-en-Chanois, avec table et notes ajoutées en marge concernant les titres de propriétés.  </unittitle>
+                     <unitdate normal="1765">1765</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>arpentement</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 2</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Copie du précédent arpentement, avec table alphabétique moderne.  </unittitle>
+                     <unitdate normal="1765">1765</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>arpentement</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 3</unitid>
+                     <unitid>DD3</unitid>
+                     <unittitle>Plans des bois communaux de Saint-Germain (1727 ; 1767) ; plan des communautés de Saint-Germain et de La-Neuvelle-lès-Lure (1790). </unittitle>
+                     <unitdate normal="1727/1790">1727-1790</unitdate>
+                     <physdesc>
+                        <extent>3 plans.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NEUVELLE-LES-LURE (LA)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 4</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Saint-Germain, du Saulcy, du Mont, du Moulin de l’Aulne (hameaux de Saint-Germain), de Froideterre, de La Neuvelle, de Lantenot et de Saint-Barthélémy : baptêmes (août 1719-juillet 1723 ; octobre 1723-janvier 1724) ; mariages (octobre-novembre 1719) ; baptêmes (janvier, février 1724 ; janvier 1709) ; sépultures (1724-mai-juillet) ; mariages (février 1724-mai 1725 ; un acte de janvier 1746) ; baptêmes (février-avril 1724) ; mariages (1720, janvier-février) ; baptêmes (1724, juillet-septembre) ; mariages (1723, avril-novembre) ; baptêmes (1724, avril-juillet ; 1723, mai-octobre) ; sépultures (1721 ; 1722, janvier-février ; novembre 1722-mai 1724) ; baptêmes (juillet 1628-avril 1629 ; février-août 1626) ; mariages (1723, février ; un acte de février 1721 ; un acte d’août 1722) ; baptêmes (1743-mai-août) ; baptêmes, sépultures (décembre 1745-janvier 1746 ; 1745, septembre-novembre ; décembre 1743-janvier 1745) ; mariages (juillet 1743-septembre 1744 ; un acte de baptême de 1744 ; un acte de décès de novembre 1744) ; baptêmes, mariages, sépultures (1745, janvier-août) ; baptêmes et sépultures (1743, octobre-décembre, août-octobre ; 1746, janvier-avril). </unittitle>
+                     <unitdate normal="1626/1746">1626-1746</unitdate>
+                     <physdesc>
+                        <extent>1 registre factice relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FROIDETERRE</geogname>
+                     <geogname>LANTENOT</geogname>
+                     <geogname>NEUVELLE-LES-LURE (LA)</geogname>
+                     <geogname>SAINT-BARTHELEMY</geogname>
+                     <geogname>SAULCY (LE)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 5</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Saint-Germain, du Moulin de l’Aulne, du Mont, du Saulcy (même commune), de Froideterre, de Lantenot, et de La Neuvelle-lès-Lure : baptêmes (décembre 1724-mars 1730 ; un acte de février 1731 ; octobre 1732-janvier 1733 ; avril 1730-octobre 1732 ; un acte de décembre 1732 ; janvier 1733-septembre 1741) ; mariages (octobre 1725-août 1742) ; baptêmes (septembre 1741-mai 1743) ; sépultures (septembre 1724-juillet 1743) ; un acte de baptême de septembre 1763 ; mariages (septembre 1742-juillet 1743) ; sur le dernier feuillet ; notes relatives à Jean-Dominique Boillot (1742), et Doval « père » (1736). </unittitle>
+                     <unitdate normal="1724/1763">1724-1763</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FROIDETERRE</geogname>
+                     <geogname>LANTENOT</geogname>
+                     <geogname>NEUVELLE-LES-LURE (LA)</geogname>
+                     <geogname>SAULCY (LE)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 6</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Saint-Germain, de Montaigu (hameau de cette commune) et autres dépendances : baptêmes, mariages, sépultures (juin 1746-janvier 1765). </unittitle>
+                     <unitdate normal="1746/1765">1746-1765</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 7</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Saint-Germain, et dépendances : baptêmes, mariages, sépultures (1765 ; acte certifiant la mort de Joseph Jandel, de Neuvelle survenue le 31 juillet 1730 ; 1766-mai 1768 ; acte certifiant la naissance de Jean-Baptiste Duttois, de Lantenot, survenue en 1745 ; mai 1768-juin 1787 ; confirmations faites le 3 septembre 1770 ; juin-septembre 1787). </unittitle>
+                     <unitdate normal="1730/1787">1730-1787</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 8</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Saint-Germain et dépendances : baptêmes, mariages, sépultures (septembre 1787-mai 1789 ; un acte certifiant la naissance et le baptême de Marie Sage, survenus le 7 décembre 1752 ; mai 1789-janvier 1792) ; à la fin du registre, un acte certifiant la naissance et le baptême de Joseph Roy survenu le 13 avril 1789 ; deux extraits d’actes de décès de militaires du 43ème Régiment d’Infanterie de Ligne (Armée d’Espagne), concernant la mort, suite à des blessures, de François-Simon Coudret (31 juillet 1809) et de Simon Garnier (7 avril 1810), natifs de Saint-Germain ; un extrait du registre des décès de l’hôpital militaire de la ville de Metz concernant Antonin Chassignet, natif de Saint-Germain (30 octobre 1810). </unittitle>
+                     <unitdate normal="1752/1810">1752-1810</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>LOIS ET ACTES DU POUVOIR CENTRAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 9</unitid>
+                     <unitid>A1</unitid>
+                     <unittitle>Registre des lois, lettres patentes, et décrets de l’Assemblée nationale à l’usage de la municipalité de Saint-Germain (1790-an II ; les feuillets 1, 18, 19, 138 et 139 manquent). </unittitle>
+                     <unitdate>1790-an II</unitdate>
+                     <physdesc>
+                        <extent>1 registre en cahiers séparés.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION CENTRALE</subject>
+                     <subject>ASSEMBLEE NATIONALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 10</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal. -Délibérations : registre de délibérations du conseil municipal de Saint-Germain et le Mont (1790-an V). &lt;lb/&gt;Registre composite, comporte également : administration militaire, arrêtés du maire et actes divers (an VII-1815) ; délibérations municipales (mars 1816-décembre 1831).</unittitle>
+                     <unitdate normal="1790/1831">1790-1831</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 11</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal. –Délibérations : registres de délibérations du conseil municipal de Saint-Germain (mai 1791-fructidor an III ; 1807, juin-novembre ; mai 1815-février 1816). </unittitle>
+                     <unitdate normal="1791/1816">1791-1816</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 3 cahiers sans couverture.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 12</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal. -Délibérations : registre (décembre 1831-novembre 1840). </unittitle>
+                     <unitdate normal="1831/1840">1831-1840</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 13</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Conseil municipal. -Délibérations : registre (décembre 1840-octobre 1851). </unittitle>
+                     <unitdate normal="1840/1851">1840-1851</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 14</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Conseil municipal. -Délibérations : registre (novembre 1851-novembre 1863). </unittitle>
+                     <unitdate normal="1851/1863">1851-1863</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 15</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Conseil municipal. -Délibérations : registre (novembre 1863-1876). </unittitle>
+                     <unitdate normal="1863/1876">1863-1876</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 16</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Actes de l’administration municipale.- Arrêtés du maire : registre (avril 1852-janvier 1881). </unittitle>
+                     <unitdate normal="1852/1881">1852-1881</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 36</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Conseil municipal. –Délibérations : registre (28 décembre 1876-17 février 1900). </unittitle>
+                     <unitdate normal="1876/1900">1876-1900</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 37</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Administration de la commune. -Association des maires du département de la Haute-Saône, recueil de vœux et de suggestions concernant l’administration communale en vue du 28ème congrès national des maires de France : communiqué ([1930]). </unittitle>
+                     <unitdate>0</unitdate>
+                     <physdesc>
+                        <extent>1 pièce papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION COMMUNALE</subject>
+                     <subject>ASSOCIATION</subject>
+                     <subject>MAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 38</unitid>
+                     <unitid>D10</unitid>
+                     <unittitle>Contentieux et assurances. –Contentieux, réclamation de la commune à l’encontre des sieurs Dirand et Loroyenne au sujet de dégradations commises sur des chemins vicinaux : extrait du registre de délibérations du conseil municipal (1823) ; intervention de la commune dans l’instance qui oppose les frères Laroyenne à la veuve et à la fille de feu François Vuillemin au sujet d’un droit de passage pour l’exploitation du bois de la Basse Goulotte : pièces de procès, arrêté du conseil de préfecture (1825-1827) ; litige entre la commune et le sieur Laroyenne pour la réclamation de trois années de loyer sur les communaux du Pré la Dame : pièces de procès, arrêté du conseil de préfecture, extrait du registre des délibérations du conseil municipal, avis du sous-préfet de Lure, plan (1808, 1826) ; action de la commune contre le sieur Simonin au sujet de la réfection d’un mur bordant le chemin vicinal allant du Mont de Saint-Germain à Froideterre : extrait du registre des délibérations du conseil municipal, communiqué, arrêté du conseil de préfecture, pièces de procès (1838-1841) ; litige entre la commune et le sieur Laroyenne au sujet du curage et de l’élargissement du canal des Dor au-dessus et au-dessous de la croix de l’Epinotte : communiqués, extraits du registre des délibérations du conseil municipal, pétition (1842-1853) ; action de la commune contre le sieur Enoc au sujet de la propriété du chemin dit de « Derrière Montaigu » : plan, certificat, extrait des minutes du greffe de la justice de paix, extrait des minutes des arrêtés du conseil de préfecture (1847) ; action intentée par Jacques Lacoste, ancien instituteur, contre la commune pour obtenir le paiement des loyers de la salle de classe et du logement de l’instituteur : engagement (1850) ; action de la commune contre le sieur Laiprey au sujet de l’enlèvement de bois sur un terrain communal à lui amodié : arrêtés du conseil de préfecture (1858) ; action du sieur Mougenot, architecte à Lure, contre la commune pour demande en paiement de matériaux fournis pour la construction d’un pont : arrêté du conseil de préfecture, exploits d’huissiers, marché, extrait du registre des délibérations du conseil municipal (1863-1864) ; action de la commune contre le sieur Lamboley pour le contraindre à souffrir une servitude de passage des eaux : pétition, arrêté du conseil de préfectire (1868) ; action de la commune contre M.M. Girardot et Petitcolin,  anciens instituteurs, pour avoir laissé disparaître des volumes de la bibliothèque scolaire : extrait du registre des délibérations du conseil municipal, arrêté du conseil de préfecture (1878-1879). Assurances : polices, reçus, avenant d’augmentation, proposition (1834-1908).    </unittitle>
+                     <unitdate normal="1808/1879">1808-1879</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 71 pièces papier et 2 plans.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PETITION</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>AVIS</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 17</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Registre paroissial de Saint-Germain et dépendances : baptêmes, mariages, sépultures (1792) ; registre d’état-civil de la commune de Saint-Germain et le Mont : mariages (1793-an XII), avec tables alphabétiques ; demande de recherche généalogique faite par A. Orsini, demeurant à Sainte-Foy-lès-Lyon (1966). </unittitle>
+                     <unitdate normal="1792/1966">1792-1966</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié et 1 pièce papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 18</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Population. -Recensements quinquennaux : documents préparatoires (1861-1911), listes nominatives (1836, 1841, 1846, 1851, 1856, 1861, 1866, 1872, 1876, 1881, 1886, 1891, 1896).   Relevés de la population de la commune de Saint-Germain et du hameau du Mont (s.d.).</unittitle>
+                     <unitdate normal="1836/1911">1836-1911</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 43 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 39</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : mouvements (1853-1883, 1885-1904). </unittitle>
+                     <unitdate normal="1853/1904">1853-1904</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 52 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 40</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Commerce et industrie. –Chambre de commerce de Gray, élection des membres : carte d’électeur (1872). Société industrielle de la Haute-Saône, création : statuts, règlement général, communiqué (1925, 1929, s.d.). Etablissements commerciaux, industriels ou artisanaux, création et extension : arrêtés d’autorisations et de rejets (1941-1945).  </unittitle>
+                     <unitdate normal="1872/1945">1872-1945</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 11 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGLEMENT</genreform>
+                     <genreform>STATUT D'ASSOCIATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHAMBRE CONSULAIRE</subject>
+                     <subject>ENTREPRISE INDUSTRIELLE</subject>
+                     <subject>INDUSTRIE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 41</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>Subsistances. –Prix limites de la farine et du pain, fixation : arrêté préfectoral. </unittitle>
+                     <unitdate normal="1937">1937</unitdate>
+                     <physdesc>
+                        <extent>1 pièce papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PRIX</subject>
+                     <subject>SUBSISTANCES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 42</unitid>
+                     <unitid>F5</unitid>
+                     <unittitle>Travail. –Syndicats existant dans la commune, recensement : listes, communiqués (1946-1950). Confédération générale du travail force ouvrière du textile de Saint-Germain, création : statuts, récépissé de dépôt légal, liste des membres (1953). Syndicat chrétien des ouvriers du textile de Saint-Germain : listes des membres, statuts (1945-1950). Syndicat des usines du textile de Le Saucy, constitution : communiqué, statuts (1946) ; demande de renseignements : communiqué (1947).   </unittitle>
+                     <unitdate normal="1945/1953">1945-1953</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 15 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>STATUT</genreform>
+                     <genreform>LISTE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>SYNDICAT PROFESSIONNEL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 19</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Impôts directs. –Contributions foncière, personnelle-mobilière, de la patente et des portes et fenêtres : toisé des bâtiments (1817-1840), rôles de répartition de contributions foncières (1810-1811, 1813), matrice de rôle des propriétés bâties (1820), tableau comparatif des évaluations des maisons et usines des communes du canton de Lure (s.d.), relevé des actes translatifs de propriétés foncières (1837-1838), recensement des portes et fenêtres (1831), tableau de répartition des contributions foncières, mobilière et des patentes (1937), matrices générales des contributions foncière, personnelle-mobilière et des portes et fenêtres (1826-1828, 1833-1835, 1842-1848).  </unittitle>
+                     <unitdate normal="1810/1937">1810-1937</unitdate>
+                     <physdesc>
+                        <extent>14 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 43</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs : états de sections (A, B, C). </unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                     <physdesc>
+                        <extent>3 registres papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 44</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Impôts directs : états de sections (D, E, F). </unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                     <physdesc>
+                        <extent>3 registres papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 45</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Impôts directs. -Fonds et revenus des sections de la commune : registre. </unittitle>
+                     <unitdate>1790-an II</unitdate>
+                     <physdesc>
+                        <extent>1 registre.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 46</unitid>
+                     <unittitle>Impôts directs : fragment de plan cadastral. </unittitle>
+                     <unitdate>0</unitdate>
+                     <physdesc>
+                        <extent>1 plan lacunaire et en mauvais état.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN CADASTRAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 47</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Impôts directs : matrices générales des contributions foncière, personnelle-mobilière et des portes et fenêtres (1850-1861, 1866-1881). </unittitle>
+                     <unitdate normal="1850/1881">1850-1881</unitdate>
+                     <physdesc>
+                        <extent>7 cahiers papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 48</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Impôts directs : matrices générales des contributions foncière, personnelle-mobilière et des portes et fenêtres (1882-1889, 1891-1899, 1904-1916). </unittitle>
+                     <unitdate normal="1882/1916">1882-1916</unitdate>
+                     <physdesc>
+                        <extent>8 cahiers papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 49</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Impôts directs. –Rétribution scolaire : résumés des rôles trimestriels, extrait du registre de délibérations du conseil municipal, arrêtés préfectoraux, communiqués, décomptes (1852-1860, s.d.). </unittitle>
+                     <unitdate normal="1852/1860">1852-1860</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 16 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 20</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recrutement : tableaux de recensement.</unittitle>
+                     <unitdate normal="1820/1870">1820-1870</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 51 cahiers papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 21</unitid>
+                     <unitid>H4</unitid>
+                     <unittitle>Garde nationale de Saint-Germain : registres de contrôle, et table alphabétique (1831) ; listes et états divers de gardes-nationaux (1840, 1843-1844, 1851, 1870) ; procès-verbaux d’élections des officiers, sous-officiers et caporaux (1831-1870) ; pièces relatives à l’organisation et à l’équipement de la garde-nationale (1831-1853) ; bulletins individuels et relevés nominatifs (1848-1849).&lt;lb/&gt;Armée territoriale : tableaux (1855-1865, 1874-1875) ; formation : avis d’inscriptions, convocations, correspondance (1874-1876).&lt;lb/&gt;Sapeurs-pompiers : marchés d’entretien et d’acquisition de pompes à incendie (1841-1880), notamment avec François Robert, fondeur, constructeur de pompes à Lure (1871, 1880). </unittitle>
+                     <unitdate normal="1831/1880">1831-1880</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 272 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>AVIS</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GARDE NATIONALE</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 50</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Recrutement : tableaux de recensement (1871-1926, 1928 ).</unittitle>
+                     <unitdate normal="1871/1928">1871-1928</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 58 cahiers papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 51</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Recrutement : communiqués, avis d’inscription, ordres de route, convocation devant le conseil de révision, listes nominatives, bulletins de naissance, notes, récépissés d’avis d’inscription, bulletin de renseignements, extraits des registres de l’état civil (classement par ordre numérique des classes) (1864-1926), registre des hommes de 17 à 50 ans domiciliés dans la commune [1945], état nominatif des jeunes gens nés de 1922 à 1929 en résidence dans la commune (1953), états nominatifs des jeunes gens inscrits sur la liste du contingent de la garde nationale mobile (1868), dossiers d’exemptions (1856-1870). </unittitle>
+                     <unitdate normal="1856/1953">1856-1953</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 164 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>AVIS</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 52</unitid>
+                     <unitid>H5</unitid>
+                     <unittitle>Mesures d’exception et faits de guerre. –Guerre de 1870-1871 : tableau estimatif de réquisitions faites dans la commune (1870). Guerre 1914-1918 : ravitaillement (1917-1917, s.d.), réglementation de l’heure (1918), fourniture de désinfectants (1918), liste nominative des morts pour la patrie (1919) (affiche rangée dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône).  </unittitle>
+                     <unitdate normal="1870/1919">1870-1919</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 37 pièces papier et 1 affiche.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 22</unitid>
+                     <unitid>I3</unitid>
+                     <unittitle>Hygiène publique et salubrité. –Etablissements insalubres et incommodes : arrêtés et plans (1865-1951). Déclaration d’un cas de rougeole : communiqué, carte-lettre (1937). </unittitle>
+                     <unitdate normal="1865/1951">1865-1951</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 31 pièces papier et 8 plans.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CARTE</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EPIDEMIE</subject>
+                     <subject>HYGIENE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 53</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. –Cérémonie en l’honneur d’Aristide Briand : communiqué (1937). Pertes éprouvées par l’effet de l’orage, des incendies et de la grêle : communiqués, procès-verbal de vérification (1852-1853). Destruction des animaux nuisibles, autorisation de procéder à des battues : arrêté préfectoral (1918). Cheminées et fours, visites et ramonage : marchés (1848-1910). </unittitle>
+                     <unitdate normal="1848/1937">1848-1937</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 18 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ANIMAL NUISIBLE</subject>
+                     <subject>CATASTROPHE NATURELLE</subject>
+                     <subject>COMMEMORATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 54</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Police générale. –Changement de domicile, déclarations : registre (1873).Associations : récépissé de dépôt légal, statuts, listes nominatives, communiqué (1925-1959, s.d.).  Erection d’un monument à la gloire des armées américaines et du général Pershing à Versailles, ouverture d’une souscription : communiqué (1937). Etrangers, recensement et contrôle : communiqué, listes nominatives, registre mentionnant les visas accordés (1919-1927).  </unittitle>
+                     <unitdate normal="1873/1959">1873-1959</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 17 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>STATUT</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ASSOCIATION</subject>
+                     <subject>COMMEMORATION</subject>
+                     <subject>ETRANGER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>PERSHING</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 23</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections. –Listes électorales : liste définitives, tableaux de rectifications (1831-1848, 1850-1851, 1853-1871). </unittitle>
+                     <unitdate normal="1831/1871">1831-1871</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 62 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 24</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections. –Listes électorales : liste préparatoire, listes définitives, tableaux de rectifications (1872-1899), registre des réclamations (1874). </unittitle>
+                     <unitdate normal="1874/1899">1874-1899</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 94 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 55</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Elections. –Vote pour le plébiscite : procès-verbal, liste de scrutin, communiqué (1870). Vote général pour le rétablissement de l’Empire : communiqués, arrêté préfectoral, instruction, liste de scrutin, rectification de la liste des électeurs, procès-verbal (1852). Elections présidentielles : communiqués, liste des électeurs, procès-verbal (1848, 1851). Elections législatives : listes des électeurs, procès-verbaux, communiqués, liste des cartes électorales (1848-1924). Elections de membres du conseil d’arrondissement : listes des électeurs, liste de scrutin, feuille de dépouillement, procès-verbal (1871, 1877, 1882, 1889, s.d.). Elections de membres du conseil général : listes des électeurs, feuilles de dépouillement (1870-1889, s.d.). </unittitle>
+                     <unitdate normal="1848/1924">1848-1924</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 96 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>LISTE D'EMARGEMENT</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                     <subject>ELECTION AU CONSEIL D'ARRONDISSEMENT</subject>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>REFERENDUM</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 56</unitid>
+                     <unitid>K4</unitid>
+                     <unittitle>Elections. –Elections municipales : listes de scrutin, procès-verbaux, communiqués, feuilles de dépouillement (1831-1912, s.d.). Installation du conseil municipal : procès-verbaux, arrêtés préfectoraux (1840-1875). Nomination des maires et adjoints : communiqués, arrêtés préfectoraux, procès-verbal (1874-1944). Réclamations et annulations d’élections municipales : arrêtés du conseil de préfecture (1865-1902). Démissions de conseillers municipaux : communiqués (1850-1876).  </unittitle>
+                     <unitdate normal="1831/1944">1831-1944</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 117 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>LISTE D'EMARGEMENT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>MAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 57</unitid>
+                     <unitid>K5</unitid>
+                     <unittitle>Personnel communal. -Tambour afficheur, nomination : arrêté municipal.  </unittitle>
+                     <unitdate normal="1945">1945</unitdate>
+                     <physdesc>
+                        <extent>1 pièce papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 25</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptabilité municipale : budgets et comptes de la commune de Saint-Germain (1816-1826, 1828-1839, 1841-1842, 1847-1871). </unittitle>
+                     <unitdate normal="1816/1871">1816-1871</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 51 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 26</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptabilité municipale : comptes de gestion de la commune de Saint-Germain (an VI-an XIII, 1806, 1816-1846, 1850-1871) ; poursuite à l’encontre de Praileur, receveur municipal de Saint-Germain, par le sous-préfet (1825).  </unittitle>
+                     <unitdate>An VI-1871</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 74 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 27</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices publics. –Maison commune à usage de mairie et de maison d’école, achat du bâtiment : soumission, rapport (1822) ; travaux de reconstruction : devis (1823) ; travaux à exécuter pour les boiseries de quatre armoires dans les salles de mairie et pour la fourniture d’une table : état estimatif (1861) ; plantation d’une haie vive aux pourtours des dépendances : procès-verbal d’adjudication (1861) ;  transport et façonnage du bois de chauffage : procès-verbal d’adjudication (1899). Maison forestière, projet de construction : détail métrique et estimatif, plans, extrait du registre des délibérations du conseil municipal, rapport (1889). Lavoirs, constructions et réparations : devis, détails métriques, état estimatif, croquis, marchés, procès-verbal d’adjudication, grosse de vente, enquête commodo et incommodo (1823-1880, s.d.). Vente de matériaux issus de bâtiments communaux : procès-verbaux d’adjudication (1861-1879).  </unittitle>
+                     <unitdate normal="1822/1899">1822-1899</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 31 cahiers et pièces papier, 3 plans et 1 croquis.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>DEVIS</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>HOTEL DE VILLE</subject>
+                     <subject>LAVOIR</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 58</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>Edifices du culte et cimetière. –Eglise, réparations au maître-autel (1823, 1851-1853) ; réparations diverses (1840-1843) ; achat de bancs (1841) ; acquisitions d’horloges, notamment à Jean-Baptiste-Sosime Schnilgué, et ses successeurs : les frères Ungerer, horlogers à Strasbourg ; et à Jean-Jacques Merières, horloger (1852-1860). Erection de deux croix (1844 ; 1860-1861). Presbytère, différends entre les communes co-paroissiales (1823-1877). Cimetière, établissement et agrandissement (1833-1875) ; concessions de terrain (1833-1844) ; terres et murs de l’ancien cimetière (1841-1843).  </unittitle>
+                     <unitdate normal="1823/1877">1823-1877</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 133 pièces papier et 4 plan.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HORLOGE PUBLIQUE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 59</unitid>
+                     <unitid>M3</unitid>
+                     <unittitle>Edifices à usage d’établissements d’enseignement, de science et d’arts.- Maison d’école, construction de lieux d’aisance : état métrique et estimatif, devis, procès-verbal d’adjudication (1850) ; travaux : état estimatif, procès-verbal d’adjudication, détail métrique (1861-1862). Salles de classes, transport, façonnage et montage du bois de chauffage : procès-verbaux d’adjudication, notes (1898-1930) ; balayage : procès-verbal d’adjudication [1922]. Logement de l’instituteur, réparation et blanchissage des salles d’écoles : procès-verbal d’adjudication (1852) ; construction : procès-verbal d’adjudication [1855]. Ecole de filles, travaux d’agrandissement : devis, procès-verbal d’adjudication, plan (plan rangé à part, dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône) (1842) ; aliénation d’un droit de mitoyenneté d’un mur : extrait du registre des délibérations du conseil municipal, arrêté préfectoral (1893-1894). Ecole de la section du Mont, location de la salle de classe et du logement de l’instituteur : résolution de bail, communiqués (1848-1850) ; chauffage de l’instituteur : communiqué (s.d.). &lt;lb/&gt;Comporte également : bureau de poste, mairie et salle de catéchisme, transport, façonnage et montage du bois de chauffage : procès-verbaux d’adjudication, notes (1919-1930). </unittitle>
+                     <unitdate normal="1842/1930">1842-1930</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 49 pièces papier et 1 plan.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>DEVIS</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETABLISSEMENT D'ENSEIGNEMENT</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 28</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux : délibérations municipales, procès-verbaux, et plan concernant le partage des fonds communaux de Saint-Germain (1793-an II) (plan rangé à part, dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône ; voir 144 L 1) ; locations et exploitation des carrières de pierres de la commune (1828-1914) ; anticipations : liste nominative (1816) (document rangé à part, dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône), requêtes et procès (1828-1862) ; aliénations à divers de terrains communaux (1842-1913) ; échange avec des particuliers (1856) ; procédure concernant les biens communaux : procès entre la commune et Charles Joly, entrepreneur à Franchevelle, au sujet de divers travaux dont ce dernier était adjudicataire (1835-1837).  </unittitle>
+                     <unitdate normal="1793/1914">1793-1914</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 125 cahiers et pièces papier, 3 plans.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 29</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Biens communaux : baux et marchés divers pour la commune de Saint-Germain (1815-1890) ; achats, ventes et échanges de terrains, immeubles, et étangs pour la commune (1829-1905). </unittitle>
+                     <unitdate normal="1815/1905">1815-1905</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 178 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BAIL IMMOBILIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 30</unitid>
+                     <unitid>N4</unitid>
+                     <unittitle>Bois communaux : cahier d’aménagement des bois communaux de Saint-Germain (1824-1825) ; et décret de mise en régime forestier de plusieurs parcelles de bois (1856) ; rôles de répartition des taillis et futaie de la coupe affouagère et d’autres produits forestiers de la commune de Saint-Germain (1817-1820, 1822-1849).</unittitle>
+                     <unitdate normal="1817/1856">1817-1856</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 114 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                     <genreform>CAHIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 31</unitid>
+                     <unitid>N5</unitid>
+                     <unittitle>Bois communaux. –Taillis et futaie de la coupe affouagère et autres produits forestiers : rôles de répartition, listes nominatives, liste des travaux à imposer, extrait du registre des délibérations du conseil municipal, communiqués, tableau de rectification, requêtes, arrêté préfectoral (1825-1904). Arpentage, délimitation de l’assiette : procès-verbaux (1818-1820). Quart en réserve : communiqué, concessions, détail, extrait des pièces originales déposées à la préfecture (1819-1867). Chemins forestiers, ouverture et entretien : procès-verbal avec plan géométrique, procès-verbal d’adjudication, extrait du registre des délibérations du conseil municipal, avis de l’inspecteur des forêts (1832-1836). Pâturage : communiqué, actes de notification des cantons défensables (1842-1900). Délimitation et bornage : arrêté préfectoral, extrait du registre des délibérations du conseil municipal, plan (1875-1879).   </unittitle>
+                     <unitdate normal="1818/1904">1818-1904</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 190 pièces papier, 1 plan.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 60</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Bois : plan des bois communaux.</unittitle>
+                     <unitdate normal="1824">1824</unitdate>
+                     <physdesc>
+                        <extent>1 plan entoilé.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 61</unitid>
+                     <unitid>N6</unitid>
+                     <unittitle>Eaux. –Etang Morveaux, projet de remise en eaux : procès-verbal de reconnaissance (1847). Exploitation des tourbières : arrêtés préfectoraux, communiqués, extraits du registre des délibérations du conseil municipal, règlement, rôles de répartition, procès-verbal, plan (1829-1942). Pêche : bail (1951).  </unittitle>
+                     <unitdate normal="1829/1951">1829-1951</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 30 pièces papier et 1 plan. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>INDUSTRIE EXTRACTIVE</subject>
+                     <subject>NAPPE D'EAU</subject>
+                     <subject>PECHE A LA LIGNE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIE, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 32</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Travaux publics et voirie en général. –Ponts et passerelles, construction et réfection : état estimatif, tableau comparatif des travaux projetés, rapports de l’agent voyer, état général des travaux exécutés, plan et coupes, devis, arrêtés préfectoraux, profil en travers, extraits du registre des délibérations du conseil municipal, soumissions, communiqués (1851-1913). Commande et installation de poteaux indicateurs : communiqués (1868). Chemins vicinaux, classement : communiqués, procès-verbal de reconnaissance (1865-1867) ; situation : états (1867) ; travaux à exécuter : états approximatifs (1867-1870) ; ressources affectées à la construction et à l’entretien : extraits du registre des délibérations du conseil municipal, arrêtés préfectoraux (1845-1872) ; attribution d’une subvention du ministre de l’Intérieur pour travaux d’utilité communale : communiqué (1854) ; prestations en nature : tarifs, propositions de l’agent voyer, communiqués, états des décisions rendues sur réclamations, état des travaux exécutés (1852-1904).  </unittitle>
+                     <unitdate normal="1845/1913">1845-1913</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 72 pièces papier et 2 plans.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>TARIF</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>DEVIS</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>RAPPORT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 62</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Travaux publics et voirie en général : atlas des anticipations . </unittitle>
+                     <unitdate normal="1829">1829</unitdate>
+                     <physdesc>
+                        <extent>1 atlas couleur. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 63</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Travaux publics et voirie en général. –Petite voirie, travaux de construction et d’entretien : communiqué, pétitions, extraits du plan cadastral, rapports, communiqués, arrêtés municipaux, acte de dépôt, actes d’échange de terrains, certificat, procès-verbaux, plan, acte de vente, soumissions (1833-1937). Route départementale n°4 de Besançon aux Vosges, évacuation des eaux venant des carrières : communiqués, rapport, extrait du plan cadastral, extraits du registre des délibérations du conseil municipal, soumissions (1856-1861). </unittitle>
+                     <unitdate normal="1833/1937">1833-1937</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 41 pièces papier et 5 plans.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>PETITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 64</unitid>
+                     <unitid>O4</unitid>
+                     <unittitle>Moyens de transport et travaux divers. –Ligne de chemin de fer d’intérêt local de Lure à Le Thillot (Vosges), établissement de la partie comprise entre Lure et Le Haut-du-Them : jugements d’expropriations, arrêté préfectoral (1901-1902) ; demande de création d’une halte à « Le Saulcy » : arrêté du sous-préfet de Lure (1903) ; rectification du tracé entre Lure et Le Haut-du-Them : notifications de jugements d’expropriation, arrêtés préfectoraux, extraits des registres du greffe du tribunal civil (1908-1909) ; raccordement de la féculerie de Saint-Germain : arrêté préfectoral, procès-verbal de visite des lieux, arrêté municipal (1922) ; demande de modification des horaires : rapports (1926). Services automobiles Belfort-Luxeuil et Luxeuil-Epinal, modification de l’itinéraire de la ligne d’autobus Belfort-Epinal : communiqué, horaires (1928) ; correspondance des lignes d’autobus avec les trains : horaires (s.d.) ; suspension : communiqué (1929).   </unittitle>
+                     <unitdate normal="1901/1929">1901-1929</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 32 pièces papier et 1 affiche.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU FERROVIAIRE</subject>
+                     <subject>TRANSPORT EN COMMUN</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 65</unitid>
+                     <unitid>O5</unitid>
+                     <unittitle>Navigation et régime des eaux. –Canton dit de « Champ et près », demande de travaux d’écoulement des eaux : extrait du registre des délibérations du conseil municipal (1842). Parcelle de terrain communal située au « Grandes Rayes », drainage : plan, arrêté préfectoral, soumission, communiqués, procès-verbal de réception définitive, extrait du registre des délibérations du conseil municipal (1866-1869). Curage de ruisseaux : procès-verbaux, rôles de répartition, communiqués, arrêtés préfectoraux, extraits du registre des délibérations du conseil municipal, arrêtés municipal (1831-1861). Barrage d’irrigation des héritiers de Mollans, réglementation et reconstruction : arrêté préfectoral (1863). Moulin de l’Aulne : règlements d’eau, ordonnance, communiqués, arrêtés préfectoraux, procès-verbaux de récolement, état des frais dus, procès-verbal des opérations (1842-1931).  </unittitle>
+                     <unitdate normal="1831/1931">1831-1931</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 85 pièces papier et 1 plan.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT DES EAUX</subject>
+                     <subject>DRAINAGE</subject>
+                     <subject>ENERGIE HYDRAULIQUE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 33</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Catholicisme : nomination du chantre-sacristain (1833) ; budgets de la fabrique de l’église de Saint-Germain (1841-1862, 1894-1903) ; délibérations municipales concernant les comptes de fabrique (1903-1905) ; décrets et correspondance au sujet d’un legs fait à la fabrique du lieu par Marguerite-Charles-Elizabeth Romagny (1858-1859) ; vente de terrains ayant appartenu à l’ancienne fabrique (1911-1912). </unittitle>
+                     <unitdate normal="1833/1912">1833-1912</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 35 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DONS-ET-LEGS</subject>
+                     <subject>FABRIQUE D'EGLISE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 66</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Œuvres charitables. -Indigents, attribution d’une subvention du gouvernement de l’Empereur : avis (1855) ; demandes de secours : communiqué, avis (1855). Ouverture d’ateliers de charité, attribution d’une subvention : circulaire (1857). </unittitle>
+                     <unitdate normal="1855/1857">1855-1857</unitdate>
+                     <physdesc>
+                        <extent>4 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CIRCULAIRE</genreform>
+                     <genreform>AVIS</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>INDIGENT</subject>
+                     <subject>TRAVAIL PROTEGE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 67</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Etablissements hospitaliers ; hospitalisation. –Frais d’hospitalisation d’aliénés à l’hospice de Maréville (Meurthe), établissement du contingent de la commune : avis de répartition des dépenses. </unittitle>
+                     <unitdate normal="1856/1857">1856-1857</unitdate>
+                     <physdesc>
+                        <extent>2 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>AVIS</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETABLISSEMENT DE SANTE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Asile de Maréville</corpname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 68</unitid>
+                     <unitid>Q3</unitid>
+                     <unittitle>Application des lois d’assistance et de prévoyance. –Service médical gratuit, organisation en faveur des malades indigents : communiqué (1859). Caisse locale d’assurances mutuelles agricoles contre les accidents, adhésions : bulletins de déclaration, statuts (1946-1954). </unittitle>
+                     <unitdate normal="1859/1954">1859-1954</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 5 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATUT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE MEDICALE</subject>
+                     <subject>SOCIETE MUTUALISTE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 34</unitid>
+                     <unitid>R2</unitid>
+                     <unittitle>Instruction publique. –Commission municipale de l’instruction primaire, délibérations : registre. </unittitle>
+                     <unitdate normal="1834/1849">1834-1849</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENSEIGNEMENT</subject>
+                     <subject>ORGANISME CONSULTATIF</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 35</unitid>
+                     <unitid>R3</unitid>
+                     <unittitle>Instruction publique. –Commission municipale scolaire, élection des délégués : extraits du registre des délibérations du conseil municipal, avis (1882-1904) ; attribution d’un congé aux enfants aidant leurs parents aux travaux des champs : demandes de dispenses, avis de la commission scolaire (1882). Ecoles primaires publiques : règlements (1851-1856). Enfants fréquentant l’école de Saint-Germain : listes nominatives (1855-1860, s.d.). Elèves admis à titre d’indigents : listes nominatives (1854). Enfants admis gratuitement : listes nominatives (1852-1859). Absences des élèves inscrits : extraits du registre d’appel (1882-1886). Instituteurs et institutrices, nominations : avis, arrêtés, traités, communiqué, extraits du registre des délibérations du conseil municipal (1806-1890) ; rapports sommaires d’activité : bulletins mensuels, communiqués, règlement horaire (1852-1853) ; traitements : communiqués, extraits du registre des délibérations du conseil municipal, arrêté préfectoral (1850-1859) ; démission : communiqué (1851) ; révocations : correspondance, communiqué, extrait de délibération (1849-1856, s.d.) ; contentieux entre le recteur et le conseil municipal au sujet de l’institutrice Melle Nicollot : correspondance (1853, s.d.). Félicitations adressées aux élèves et au personnel enseignant : brouillons de discours (s.d.). Mobilier scolaire, confection, installation et entretien : devis, plans, extraits du registre de délibérations du conseil municipal, procès-verbaux d’adjudication, soumission, états des travaux exécutés, communiqués, notes, arrêtés préfectoraux, autorisation (1835-1936) ; recensement : inventaires (1851-1862). Acquisition d’un cinématographe scolaire, attribution d’une subvention de l’Etat : avis (1929). Ecole publique du hameau du Mont, ouverture et nomination d’un instituteur : extraits du registre des délibérations du conseil municipal (1845) ; fermeture et établissement d’une école privée : arrêté municipal, communiqué, attestation, extrait du registre des délibérations du conseil municipal, déclaration (1849).</unittitle>
+                     <unitdate normal="1806/1936">1806-1936</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 240 pièces et cahiers papier, 2 plans.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>INVENTAIRE</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>DEVIS</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>REGLEMENT</genreform>
+                     <genreform>AVIS</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ABSENTEISME SCOLAIRE</subject>
+                     <subject>ENSEIGNANT</subject>
+                     <subject>ENSEIGNEMENT</subject>
+                     <subject>MATERIEL PEDAGOGIQUE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 69</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique. -Caisse des écoles, fondation : extraits du registre de délibérations du conseil municipal, statuts (1881-1882) ; sollicitation du ministre de l’Instruction publique des Beaux Arts pour l’attribution d’une subvention : communiqué (1882) ; désignation des membres de la commission d’administration : extrait du registre des délibérations du conseil municipal (1882). Dépenses des écoles primaires et gratuité scolaire : extraits du registre des délibérations du conseil municipal (1858-1861).</unittitle>
+                     <unitdate normal="1858/1882">1858-1882</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 10 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>STATUT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENSEIGNEMENT</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>464 Edepot 70</unitid>
+                     <unitid>R4</unitid>
+                     <unittitle>Sport et tourisme. –Association sportive de Saint-Germain : statuts. </unittitle>
+                     <unitdate normal="1946">1946</unitdate>
+                     <physdesc>
+                        <extent>1 pièce papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATUT D'ASSOCIATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ASSOCIATION SPORTIVE</subject>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

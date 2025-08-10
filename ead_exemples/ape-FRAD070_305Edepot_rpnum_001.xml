@@ -1,0 +1,915 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_305Edepot_Archives_communales_déposées_de_Loeuilley" url="https://francearchives.fr/findingaid/ef4dc80761eea47e907dff56ce7c8332d2fd7444">FRAD70_305Edepot_Archives_communales_déposées_de_Loeuilley</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>305Edepot - Archives communales déposées de Loeuilley</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>305Edepot - Archives communales déposées de Loeuilley</unittitle>
+         <unitid>305Edepot1-29</unitid>
+         <unitdate normal="1687/1952">1687-1952</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE LOEUILLEY</corpname>
+         </origination>
+         <note label="note">
+            <p>Avant la Révolution, Loeuilley dépendait de la paroisse de Beaumont-sur-Vingeanne (Côte-d'Or). Après la ruine de l'église du prieuré de Saint-Martin-sur-Beaumont, les paroissiens furent admis dans l'église de Champagne-sur-Vingeanne, de 1725 à 1755, époque où les offices purent être célébrés dans la nouvelle église de Loeuilley. Pendant la période de 1724 à 1792, cette communauté eut toujours un vicaire particulier.
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+Voir 41 E dépôt, archives communales d'Autrey-lès-Gray.
+B 1048, mandements de nouvelleté sur le fief de la seigneurie de Loeuilley (1685-1687).
+B 1425, procès intenté par le seigneur de Loeuilley contre la fabrique (1775-1776).
+B 7698, justice seigneuriale d'Autrey (1791).
+B 8228 à 8232, justice seigneuriale de Loeuilley (1737-1789).
+B 9335, affaires forestières (1690-1791).
+C 42, construction de l'église (1722-1788),
+C 131, fixation du traitement du curé (1762-1789).
+C 149, règlement de dettes, échanges de terrains, réparations à l'église et au clocher (1761-1789).
+G 1O5, copie du dénombrement de la comté et baronnie d'Autrey avec ses dépendances dont Loeuilley, rédigé en 1692.
+H 886, donation aux Cordeliers de Gray par Girard de la Chaume, de tous ses biens sis à Loeuilley (1420).
+3 O 315, travaux communaux (depuis 1806).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             02/02/2004
+         </p>
+         <p>Dernier ajout le             02/02/2004
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> IMPOTS ET COMPTABILITE (1780-1788)</p>
+         <p>  305 Edepot 1</p>
+         <p> BIENS ET BOIS COMMUNAUX (1780-1785)</p>
+         <p>  305 Edepot 2</p>
+         <p> CULTE (1724-1792)</p>
+         <p>  305 Edepot 3-4</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1790-1916)</p>
+         <p>  305 Edepot 5-11</p>
+         <p> POPULATION-COMMERCE ET INDUSTRIE-AGRICULTURE (1829-1914)</p>
+         <p>  305 Edepot 12-14</p>
+         <p> CONTRIBUTIONS (1818-1916)</p>
+         <p>  305 Edepot 15-17</p>
+         <p> AFFAIRES MILITAIRES (1791-1952)</p>
+         <p>  305 Edepot 18-19</p>
+         <p> POLICE-HYGIENE PUBLIQUE ET SALUBRITE (1844-1933)</p>
+         <p>  305 Edepot 20</p>
+         <p> ELECTIONS-PERSONNEL COMMUNAL (1840-1914)</p>
+         <p>  305 Edepot 21-22</p>
+         <p> FINANCES DE LA COMMUNE (1826-1850)</p>
+         <p>  305 Edepot 23</p>
+         <p> EDIFICES PUBLICS (1807-1889)</p>
+         <p>  305 Edepot 24</p>
+         <p> BIENS ET BOIS COMMUNAUX (1687-1915)</p>
+         <p>  305 Edepot 25-27</p>
+         <p> VOIRIE-TRAVAUX DIVERS-REGIME DES EAUX (1826-1930)</p>
+         <p>  305 Edepot 28</p>
+         <p> INSTRUCTION PUBLIQUE (1839-1894)</p>
+         <p>  305 Edepot 29</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Rôle d'abonnement des deux vingtièmes (1780). Rôles d'impositions (1785, 1788). Comptes d'échevins (1780, 1788).</unittitle>
+                     <unitdate normal="1780/1788">1780-1788</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES LOCALES</subject>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 2</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Amodiation des prés communaux (1780). Mesurage et récolement de l'assiette (1785).</unittitle>
+                     <unitdate normal="1780/1785">1780-1785</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 3</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial : baptêmes, mariages, sépultures (juillet 1724-janvier 1750) ; baptêmes, mariages (septembre 1754-1756) ; sépultures (juin-décembre 1756) ; baptêmes, mariages, sépultures (1757-1759) ; baptêmes, mariages (1760) ; baptêmes, mariages, sépultures (1763-1769).&lt;lb/&gt;Lacunes pour les baptêmes, mariages de 1750 à 1754, 1761-1762 et pour les sépultures de 1750 à 1756, 1760 à 1762.</unittitle>
+                     <unitdate normal="1724/1769">1724-1769</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R50</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 4</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial, baptêmes, mariages et sépultures (1770-janvier 1792).</unittitle>
+                     <unitdate normal="1770/1792">1770-1792</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R50</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 5</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Délibérations du conseil municipal, lettres-patentes, proclamations du Roi, lois, décrets et autres actes.</unittitle>
+                     <unitdate normal="1790/1808">1790-1808</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 6</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate>An IX-an XIII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 7</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1809/1832">1809-1832</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 8</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1832/1863">1832-1863</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 9</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1863/1891">1863-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 10</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1891/1916">1891-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 11</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Arrêtés du maire.</unittitle>
+                     <unitdate>An X-an XIII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-COMMERCE ET INDUSTRIE-AGRICULTURE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 12</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Mouvement annuel (1852-1853, 1855-1906).</unittitle>
+                     <unitdate normal="1852/1906">1852-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 13</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Recensement quinquennal : listes nominatives (1836-1881, 1901-1906).</unittitle>
+                     <unitdate normal="1836/1906">1836-1906</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi124</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 14</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Elections au tribunal de commerce de Gray (1888-1914), à la chambre de commerce de Gray (1908-1912) : procès-verbaux.&lt;lb/&gt;Agriculture. Entretien et vente du taureau communale (1829-1835). Statistiques agricoles annuelles (1857-1914), décennales (1882, 1892). Registre des cultures (1902).</unittitle>
+                     <unitdate normal="1829/1914">1829-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 15</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Etats de sections (1791). Contribution foncière (an II)</unittitle>
+                     <unitdate>1791-an II</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 16</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Livre des mutations.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 17</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Matrices générales des contributions directes (1818-1831, 1833-1838, 1842-1916).</unittitle>
+                     <unitdate normal="1818/1916">1818-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 18</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Tableaux de recensement des jeunes gens (1839, 1952). Etats des mutations (1844-1850). Extrait du tableau cantonal des citoyens mobilisables (1848). Ordres de route (1833-1856). Armée territoriale ou garde nationale mobile : formation, recensement, états nominatifs (1868-1875). Etats des militaires rentrés ou morts depuis 1791. Avis de décès du militaire François Chevillot (1875). Militaire condamné (1873). Etat des médaillés (1875). Logement et cantonnement des troupes (1875-1891). Recensement des voitures attelés (1877-1899). Invasion de 1815 : réquisitions, correspondance (1815).</unittitle>
+                     <unitdate normal="1791/1952">1791-1952</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CHEVILLOT (François)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 19</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Garde nationale. Recensement, états nominatifs, contrôle matricule, contrôle général (1840-1870). Relevés nominatifs des bulletins individuels (1839-1846). Bulletins individuels. Elections des officiers, sous-officiers : procès-verbaux (1831-1848). Projet de règlement (1832). Conseil de discipline (1833). Visites des armes (1838, 1849).&lt;lb/&gt;Sapeurs-pompiers. Organisation de subdivisions (1886-1893). Habillement (1888). Pompe à incendie (1886).</unittitle>
+                     <unitdate normal="1831/1893">1831-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 20</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Amodiations de la fête patronale (1844-1893).&lt;lb/&gt;Police générale. Recensement des fils d'étrangers (1917). Etat des étrangers résidant dans la commune (1925-1933).&lt;lb/&gt;Hygiène publique et salubrité. Epizootie du typhus (1871).</unittitle>
+                     <unitdate normal="1844/1933">1844-1933</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETRANGER</subject>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS-PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 21</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales (1840-1847, 1855-1864, 1866-1914).</unittitle>
+                     <unitdate normal="1840/1914">1840-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 22</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections législatives (1852-1914), élections au conseil d'arrondissement et au conseil général (1852-1955), élections municipales (1837-1912) : procès-verbaux. Nominations des maires et adjoints, procès-verbaux d'installation (1837-1912).&lt;lb/&gt;Nominations de pâtres, garde-champêtres et forestiers (an XI-1841).</unittitle>
+                     <unitdate>An XI-1955</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 23</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Budgets (1827, 1832-1850). Comptes administratifs et de gestion (1826-1850).</unittitle>
+                     <unitdate normal="1826/1850">1826-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 24</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Maison commune, travaux (1887). Salle de classe, réparations (1853). Fontaine du Vernois, travaux (1836-1838). Reconstruction du lavoir (1882-1889). Eglise, réparations (1807-1810).</unittitle>
+                     <unitdate normal="1807/1889">1807-1889</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECOLE</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                     <geogname>VERNOIS (LE)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 25</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Action intentée par le comte d'Orsay pour revendiquer à la commune plusieurs terres dont il se prétend propriétaire (1687-1824). Action en bornage intentée contre Léon Perdrix (1863-1876).</unittitle>
+                     <unitdate normal="1687/1876">1687-1876</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIEN SPOLIE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>ORSAY (d')</persname>
+                     <persname>PERDRIX (Léon)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 26</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Plan d'aménagement des bois communaux.</unittitle>
+                     <unitdate normal="1868">1868</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN D'AMENAGEMENT DE ZONE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 27</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Délimitation, arpentage, bornage (1808-1850). Réclamations au sujet de la distribution de l'affouage (1812-1841). Ventes de bois (1822-1848). Procès-verbaux de reconnaissance des cantons défensables (1836-1871). Demande de passage temporaire dans la forêt communale (1915).</unittitle>
+                     <unitdate normal="1808/1915">1808-1915</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-TRAVAUX DIVERS-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 28</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Pont de l'Arsoye, réparations (1869). Construction d'un puits (1885). Chemins vicinaux, travaux de réparations (1838-1851).&lt;lb/&gt;Travaux divers. Extraction de minerai de fer (1847-1848).&lt;lb/&gt;Régime des eaux. Curage des ruisseaux, fossés et rivières (1826-1930). Canal de la Marne à la Saône, travaux (1888). Etablissement d'une conduite double sur palées de bois, traversant la rivière de la Vingeanne (1926).</unittitle>
+                     <unitdate normal="1826/1930">1826-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>COURS D'EAU</subject>
+                     <subject>MINERAI</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>VOIE NAVIGABLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ARSOYE (pont de l')</geogname>
+                     <geogname>LOEUILLEY</geogname>
+                     <geogname>VINGEANNE (LA)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>305 Edepot 29</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Listes nominatives des enfants de 6 à 13 ans (1886-1894). Vente des meubles de l'école (1839).</unittitle>
+                     <unitdate normal="1839/1894">1839-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LOEUILLEY</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

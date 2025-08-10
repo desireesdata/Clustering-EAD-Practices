@@ -1,0 +1,2613 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_477Edepot_Archives_communales_déposées_de_Saulnot" url="https://francearchives.fr/findingaid/18b71e5495f97b739c825cdac6761192b489509b">FRAD70_477Edepot_Archives_communales_déposées_de_Saulnot</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>477Edepot - Archives communales déposées de Saulnot</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>477Edepot - Archives communales déposées de Saulnot</unittitle>
+         <unitid>477Edepot1-95</unitid>
+         <unitdate normal="1630/1948">1630-1948</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE SAULNOT</corpname>
+         </origination>
+         <note label="note">
+            <p>La commune de Malval est supprimée et rattachée à Saulnot par décret impérial en date du 17 janvier 1814.  </p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             07/07/2014
+         </p>
+         <p>Dernier ajout le             07/07/2014
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORETS, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Territoire et biens de Saulnot. –Plan du village (1757, pièce non vue en mairie en 1969). Droit de triage, cession au duc de Wirtemberg : transaction avec le prince de Montbéliard (1754), arrêt du Conseil d’Etat (1755) faisant suite à une procédure relative aux prétentions du seigneur (1630, s.d.) ; restitution aux communes de Saulnot, Villers-sur-Saulnot et de Chavanne : inventaire, pétition, exploit d’huissier, expédition de décision, extraits des minutes de l’administration centrale du département de la Haute-Saône (an VII-1810). </unittitle>
+                     <unitdate normal="1630/1810">1630-1810</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 11 cahiers et pièces papier et 1 plan non vu en mairie en 1969. 	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PETITION</genreform>
+                     <genreform>INVENTAIRE</genreform>
+                     <genreform>EXPLOIT D'HUISSIER</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAVANNE</geogname>
+                     <geogname>VILLERS-SUR-SAULNOT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>WIRTEMBERG (Charles-Eugène de)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 2</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Territoire de Malval : plan des bois attribués à cette communauté lors du partage des bois de la paroisse de Granges-la-Ville, levé par Jean Gruier, géomètre-arpenteur de la maitrise des Eaux-et-Forêts de Vesoul, avec une représentation du village.</unittitle>
+                     <unitdate normal="1776">1776</unitdate>
+                     <physdesc>
+                        <extent>1 plan, rangé dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 3</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Saulnot, Chavanne, Villers-sur-Saulnot, Gonvillars, Corcelles, La Sapoye (moulin de la Sapoye, commune de Villers-sur-Saulnot, à partir de 1681) ; Essouavre (Doubs, à partir de 1706), et parfois Crevans, Champey inscription du curé qui signale qu’en 1680 il a fait reblanchir l’église, que la confrérie du Saint-Esprit y a été érigée la même année, et qu’une bulle d’indulgence plénière a été obtenue ; deux fondations de messes (1681) ; baptêmes (octobre 1665-1679 ; quatre actes de 1648 à 1656 concernent les enfants de Claude Bardot et d’Eva Bermont, copiés sur le vieux registre par le curé Menestrier (1648-1656 ; 1680-1711) ; sépultures (à l’envers, décembre 1665-1710) ; baptêmes (à l’endroit, 1711-février 1719) ; mariages (à l’envers, septembre 1685-1707 ; mai 1709-1719) ; sépultures (également à l’envers, 1710-1719) ; mariages (à l’endroit, 1684-1685). &lt;lb/&gt;A la fin du volume, inscription relative à la fermeture du cimetière ; dons faits à l’église (Messieurs les fermiers généraux de Lorraine, Alsace et Comté et Saulnot ont donné 9 pistoles pour acheter le crucifix placé dans l’église, le 28 mai 1682 ; Claudine de Vaux, veuve de Claude Garney, procureur d’office à Granges, a donné une chappe de damas rouge le 12 mars 1681) ; fondations de messes (1684 et 1685) ; une formule d’abjuration, une fondation de litanies de la Sainte Vierge ; mariages (1665-1682 ; 1684).</unittitle>
+                     <unitdate normal="1648/1719">1648-1719</unitdate>
+                     <physdesc>
+                        <extent>1 petit registre relié carton.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPAGNEY</geogname>
+                     <geogname>CHAVANNE</geogname>
+                     <geogname>CORCELLES</geogname>
+                     <geogname>CREVANS</geogname>
+                     <geogname>GONVILLARS</geogname>
+                     <geogname>VILLERS-SUR-SAULNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 4</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Saulnot, Villers-sur-Saulnot, Chavanne, Corcelles, Gonvillars, La Sapoye, La Goutte-aux-Loups et parfois Granges-la-Ville : mariages (1660-1664) ; sépultures (1661-1664 ; 1658 ; 1660) ; baptêmes (1657-1665) ; au verso du premier petit cahier, un feuillet à demi déchiré : mariages (1657-1659) ; baptêmes (1710) ; sépultures (1710) ; mariages (1710) ; baptêmes, mariages, sépultures (1711, en désordre ; 1712-1714) ; baptêmes (1715) ; sépultures (1715) ; mariages (1715) ; baptêmes (1716) ; mariages (1716) ; sépultures (1716) ; baptêmes (1717) ; mariages (1717) ; sépultures (1717) ; baptêmes (1718) ; mariages (1718) ; sépultures (1718) ; baptêmes (janvier 1719-mai 1719) ; baptêmes, mariages, sépultures (mai 1719-1721).   </unittitle>
+                     <unitdate normal="1657/1721">1657-1721</unitdate>
+                     <physdesc>
+                        <extent>1 registre composite relié carton.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAVANNE</geogname>
+                     <geogname>CORCELLES</geogname>
+                     <geogname>GONVILLARS</geogname>
+                     <geogname>GRANGES-LA-VILLE</geogname>
+                     <geogname>VILLERS-SUR-SAULNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 5</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Saulnot et des mêmes dépendances : une inscription du curé relative à une petite fille trouvée dans le cimetière et baptisée par le précédent curé, le 27 décembre 1714, sous le nom de Catherine, et envoyée ensuite à l’hôpital du Saint-Esprit de Besançon où elle est morte depuis, elle aurait été la fille d’un gentilhomme de Banvillars (Territoire de Belfort), nommé « Landeberg » (peut être Landenberg, de vieille noblesse alsacienne), ou de l’un de ses parents, elle aurait d’abord été baptisée à Banvillars comme garçon beaucoup d’écus furent versés pour arranger l’affaire, par l’intermédiaire du maire de Banvillars (1723) ; baptêmes (1719-mars 1732, avec une abjuration le 4 juillet 1723) ; mariages (1730-avril 1732) ; sépultures (septembre 1731-avril 1732) ; mariages (novembre 1726-novembre 1729 ; juillet 1719-1721 ; un baptême de 1721 ; 1721-octobre 1726) ; sépultures (1719-août 1731).  </unittitle>
+                     <unitdate normal="1714/1737">1714-1737</unitdate>
+                     <physdesc>
+                        <extent>1 registre composite relié carton.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 6</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Saulnot, Villers-sur-Saulnot, Chavanne, Corcelles, Gonvillars : baptêmes, mariages, sépultures (1722-1730, avec un baptême pour 1738 à la fin du cahier de 1726 et sur un feuillet séparé, des actes de 1659 à 1694, intéressant les familles Jannot, Magnin, Gaussin et Carlin). </unittitle>
+                     <unitdate normal="1659/1738">1659-1738</unitdate>
+                     <physdesc>
+                        <extent>1 registre composite relié carton.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAVANNE</geogname>
+                     <geogname>CORCELLES</geogname>
+                     <geogname>GONVILLARS</geogname>
+                     <geogname>VILLERS-SUR-SAULNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 7</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Saulnot, Villers-sur-Saulnot, Chavanne, Corcelles, Gonvillars, Essouavre (Doubs), du Moulin de la Goutte ou la Goutte-aux-Loups et parfois de Champey : baptêmes, mariages et sépultures (1731-1732 ; 1737-juillet 1755) un extrait des registres mortuaires de « Palma » (Belme ou Baume) du diocèse de Besançon en 1747. </unittitle>
+                     <unitdate normal="1731/1755">1731-1755</unitdate>
+                     <physdesc>
+                        <extent>1 registre composite relié carton.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPEY</geogname>
+                     <geogname>CHAVANNE</geogname>
+                     <geogname>CORCELLES</geogname>
+                     <geogname>GONVILLARS</geogname>
+                     <geogname>VILLERS-SUR-SAULNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 8</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Saulnot : baptêmes, mariages, sépultures. </unittitle>
+                     <unitdate normal="1755/1772">1755-1772</unitdate>
+                     <physdesc>
+                        <extent>1 registre.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 9</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial de Saulnot : baptêmes, mariages, sépultures. </unittitle>
+                     <unitdate normal="1773/1792">1773-1792</unitdate>
+                     <physdesc>
+                        <extent>1 registre.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 10</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal. –Délibérations de la commune de Malval : registre (29 août 1790-8 mai 1842). </unittitle>
+                     <unitdate normal="1790/1842">1790-1842</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MALVAL</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 11</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal. -Délibérations de la commune de Malval : extrait des registres de délibérations. </unittitle>
+                     <unitdate normal="1808/1811">1808-1811</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 4 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 12</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal. –Délibérations de la commune de Saulnot : registre (15 pluviôse an X-20 juin 1811). &lt;lb/&gt;Registre composite, comporte à la suite : livraisons de minerai (1848-1851) ; à l’envers : délibérations des conseils municipaux des communes de Saulnot, Villers-sur-Saulnot, Chavanne, Gonvillars, Corcelles et Malval ([an II]-1812), certificat accordé à Pedro Routhier (acte rédigé en espagnol, 1802), congé de réforme et certificat de visite des officiers de santé de Guénin Jean-Baptiste (1813), lettres et pétitions reçues (1814-1852). </unittitle>
+                     <unitdate>An II-1852</unitdate>
+                     <physdesc>
+                        <extent>1 registre dont les dernières pages sont déchirées.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION COMMUNALE</subject>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                     <subject>MINERAI</subject>
+                     <subject>ORGANISATION DE L'ARMEE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAVANNE</geogname>
+                     <geogname>CORCELLES</geogname>
+                     <geogname>GONVILLARS</geogname>
+                     <geogname>MALVAL</geogname>
+                     <geogname>VILLERS-SUR-SAULNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 13</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Conseil municipal. -Délibérations de la commune de Saulnot : registre (2 décembre 1812-16 octobre 1836). </unittitle>
+                     <unitdate normal="1812/1836">1812-1836</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 14</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Conseil municipal. -Délibérations de la commune de Saulnot : registre (7 novembre 1836-24 septembre 1848). </unittitle>
+                     <unitdate normal="1836/1848">1836-1848</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 15</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Conseil municipal. -Délibérations de la commune de Saulnot : registre (6 octobre 1848-6 avril 1865). </unittitle>
+                     <unitdate normal="1848/1865">1848-1865</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 16</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Conseil municipal. -Délibérations de la commune de Saulnot : registre (7 mai 1865-9 juillet 1880). </unittitle>
+                     <unitdate normal="1865/1880">1865-1880</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 17</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Conseil municipal. -Délibérations de la commune de Saulnot : registre (26 juillet 1880-3 novembre 1895). </unittitle>
+                     <unitdate normal="1880/1895">1880-1895</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 18</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Conseil municipal. -Délibérations de la commune de Saulnot : registre (3 novembre 1895-9 février 1912). </unittitle>
+                     <unitdate normal="1895/1912">1895-1912</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 19</unitid>
+                     <unitid>D10</unitid>
+                     <unittitle>Conseil municipal. -Délibérations de la commune de Saulnot : extraits des registres de délibérations. </unittitle>
+                     <unitdate normal="1808/1811">1808-1811</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 8 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 20</unitid>
+                     <unitid>D11</unitid>
+                     <unittitle>Conseil municipal. –Délibérations de la commune de Villers-sur-Saulnot : extraits des registres de délibérations. </unittitle>
+                     <unitdate normal="1814">1814</unitdate>
+                     <physdesc>
+                        <extent>2 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>VILLERS-SUR-SAULNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 21</unitid>
+                     <unitid>D12</unitid>
+                     <unittitle>Actes de l’administration municipale. -Actes soumis à l’enregistrement : répertoires. </unittitle>
+                     <unitdate normal="1807/1908">1807-1908</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 10 cahiers papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION COMMUNALE</subject>
+                     <subject>ENREGISTREMENT</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 22</unitid>
+                     <unitid>D13</unitid>
+                     <unittitle>Administration de la commune. –Projet de réunion des communes de Chavanne, Corcelles, Gonvillars, Malval et de Villers-sur-Saulnot à celle de Saulnot : extraits des registres de délibérations des conseils municipaux des communes de Chavanne, Corcelles, Gonvillars, Malval et de Villers-sur-Saulnot (1808). Réclamation de la commune de Chavanne tendant à obtenir sa séparation de la commune de Saulnot : pétition, extrait du registre des délibérations du conseil municipal de la commune de Chavanne (1811-1814). Réunion de la commune de Malval à celle de Saulnot : extrait du registre des délibérations du conseil municipal de Malval (1815). Réclamations tendant à obtenir la séparation des communes de Malval et de Saulnot : extraits des registres de délibérations des conseils municipaux des communes de Malval et de Saulnot, pétition (1815-1844). Titres, papiers, registres et objets appartenant aux  communes de Chavanne, Saulnot-et-Malval et de Villers : inventaires (1813, 1816, 1819). </unittitle>
+                     <unitdate normal="1808/1819">1808-1819</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 13 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>INVENTAIRE</genreform>
+                     <genreform>PETITION</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAVANNE</geogname>
+                     <geogname>CORCELLES</geogname>
+                     <geogname>GONVILLARS</geogname>
+                     <geogname>MALVAL</geogname>
+                     <geogname>VILLERS-SUR-SAULNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 23</unitid>
+                     <unitid>D14</unitid>
+                     <unittitle>Contentieux.-Assurances : polices, quittances de primes, extrait du registre des délibérations du conseil municipal, communiqué. </unittitle>
+                     <unitdate normal="1877/1908">1877-1908</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 10 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 24</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Etat civil. –Commune de Malval : registre des naissances, mariages, décès. </unittitle>
+                     <unitdate normal="1792/1835">1792-1835</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MALVAL</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 25</unitid>
+                     <unitid>E2</unitid>
+                     <unittitle>Etat civil. –Commune de Malval : registre des décès. </unittitle>
+                     <unitdate normal="1792/1803">1792-1803</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MALVAL</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 26</unitid>
+                     <unitid>E3</unitid>
+                     <unittitle>Etat civil. –Commune de Malval : registre des publications de mariages et des actes préliminaires de divorce. &lt;lb/&gt;Comporte, à la fin du registre : table décennale des actes de mariages de la commune de Malval (an III-an X) ; table décennale des actes de naissances, mariages et décès de la commune de Malval (1813-1822). </unittitle>
+                     <unitdate normal="1796/1807">1796-1807</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TABLE DECENNALE</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AFFAIRE FAMILIALE</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MALVAL</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 27</unitid>
+                     <unitid>E4</unitid>
+                     <unittitle>Etat civil. –Commune de Saulnot : registre des naissances et des décès. </unittitle>
+                     <unitdate normal="1793/1802">1793-1802</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 28</unitid>
+                     <unitid>E5</unitid>
+                     <unittitle>Etat civil. –Commune de Saulnot : registre des mariages. </unittitle>
+                     <unitdate normal="1793/1802">1793-1802</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 29</unitid>
+                     <unitid>E6</unitid>
+                     <unittitle>Etat civil. –Commune de Saulnot : registre des actes de publication de promesse de mariage.</unittitle>
+                     <unitdate>An X-an XI</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 30</unitid>
+                     <unitid>E7</unitid>
+                     <unittitle>Etat civil. –Commune de Saulnot : registre des naissances, mariages et décès. </unittitle>
+                     <unitdate normal="1803/1812">1803-1812</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 31</unitid>
+                     <unitid>E8</unitid>
+                     <unittitle>Etat civil. –Commune de Saulnot puis de Saulnot-et-Malval : registre des naissances, mariages et décès. </unittitle>
+                     <unitdate normal="1813/1822">1813-1822</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 32</unitid>
+                     <unitid>E9</unitid>
+                     <unittitle>Etat civil. –Commune de Saulnot-et-Malval : registre des naissances, mariages et décès. &lt;lb/&gt;Comporte, à la fin : table décennale des actes de naissances, mariages et décès de la commune de Saulnot-et-Malval (1823-1832).</unittitle>
+                     <unitdate normal="1823/1831">1823-1831</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TABLE DECENNALE</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 33</unitid>
+                     <unitid>E10</unitid>
+                     <unittitle>Etat civil. –Commune de Saulnot-et-Malval : registre des naissances, mariages et décès. &lt;lb/&gt;Comporte, à la fin : table décennale des actes de naissances, mariages et décès de la commune de Saulnot-et-Malval (1833-1842).</unittitle>
+                     <unitdate normal="1832/1839">1832-1839</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TABLE DECENNALE</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 34</unitid>
+                     <unitid>E11</unitid>
+                     <unittitle>Etat civil. –Commune de Saulnot-et-Malval : registre des naissances, mariages et décès. </unittitle>
+                     <unitdate normal="1840/1847">1840-1847</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 35</unitid>
+                     <unitid>E12</unitid>
+                     <unittitle>Etat civil. –Commune de Saulnot-et-Malval : registre des naissances, mariages et décès. </unittitle>
+                     <unitdate normal="1848/1852">1848-1852</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 36</unitid>
+                     <unitid>E13</unitid>
+                     <unittitle>Etat civil. –Commune de Saulnot-et-Malval : registre des naissances, mariages et décès. </unittitle>
+                     <unitdate normal="1853/1862">1853-1862</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 37</unitid>
+                     <unitid>E14</unitid>
+                     <unittitle>Etat civil. –Commune de Saulnot-et-Malval : registre des naissances, mariages et décès. </unittitle>
+                     <unitdate normal="1863/1872">1863-1872</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 38</unitid>
+                     <unitid>E15</unitid>
+                     <unittitle>Etat civil : extraits mortuaires, déclarations et avis de décès des établissements hospitaliers et de détention (1828-1886), extraits d’état civil envoyés par d’autres communes en vue de transcription ou de mention (an VII-1904), extrait d’acte de reconnaissance envoyé en vue de transcription ou de mention (1825), expédition de jugement portant divorce envoyé en vue de transcription ou de mention (1812), naturalisation du sieur François Paulin Nimetz : attestations, communiqué (1861). </unittitle>
+                     <unitdate>An VII-1904</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 63 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 39</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : mouvements (1852, 1854-1899, 1902, 1904-1906). </unittitle>
+                     <unitdate normal="1852/1906">1852-1906</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 56 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 40</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Population. –Recensement quinquennal : listes nominatives (1841, 1846, 1851, 1856, 1861, 1866, 1872, 1876, 1881, 1886, 1891, 1896, 1901, 1906, 1931), instructions et documents préparatoires (1856-1911, s.d.). </unittitle>
+                     <unitdate normal="1841/1931">1841-1931</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 64 pièces et cahiers papier.	</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 41</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Commerces et industrie. –Chambre de commerce de Lure, élections : communiqué, listes des électeurs (1910-1914). Exposition internationale Paris 1937, demande de subventions pour l’ouverture du pavillon de la région Bourgogne-Franche-Comté-Pays de l’Ain : communiqué [1936]. Fromageries, étude de développement en Haute-Saône : rapport extrait des délibérations du conseil général de la Haute-Saône (1885). Industries établies sur la commune de Saulnot : situation (1885). </unittitle>
+                     <unitdate>1885-[1936]</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 6 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHAMBRE CONSULAIRE</subject>
+                     <subject>INDUSTRIE</subject>
+                     <subject>MANIFESTATION COMMERCIALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 42</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>Agriculture. –Syndicat agricole de Saulnot, nomination des membres du bureau : communiqué (1910). Comice agricole, ouverture d’un crédit en faveur d’expériences de drainage : extrait du registre des délibérations du conseil municipal (1856). Céréales et pommes de terre, déclarations des surfaces ensemencées et des récoltes : tableaux récapitulatifs, registres, bulletins, communiqué (1918-1943). Déclarations agricoles : bulletins, récapitulatifs, registre (1941-1943). Bétail existant dans la commune : états (1941). Statistique agricole annuelle : questionnaires, tableaux de renseignements, registre des cultures (1894-1940). </unittitle>
+                     <unitdate normal="1856/1943">1856-1943</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 173 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>QUESTIONNAIRE D'ENQUETE</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ASSOCIATION</subject>
+                     <subject>MANIFESTATION COMMERCIALE</subject>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 43</unitid>
+                     <unitid>F5</unitid>
+                     <unittitle>Agriculture. –Taureau communal, fourniture : extraits du registre des délibérations du conseil municipal, communiqués (1806-1843) ; entretien : procès-verbaux d’adjudication, baux, extraits du registre des délibérations du conseil municipal, communiqués (1844-1911).  Animaux et insectes nuisibles, destruction : arrêtés préfectoraux, communiqué, baux de taupiers, extraits du registre des délibérations du conseil municipal, procès-verbal d’adjudication (1805-1938). </unittitle>
+                     <unitdate normal="1805/1938">1805-1938</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 53 pièces papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ANIMAL NUISIBLE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 44</unitid>
+                     <unitid>F6</unitid>
+                     <unittitle>Subsistances. –Création de foires : communiqués, arrêté préfectoral. </unittitle>
+                     <unitdate normal="1897">1897</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 4 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>MANIFESTATION COMMERCIALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 45</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs. –Contribution foncière : état de section de la commune de [Saulnot]. </unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 46</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Impôts directs.-Contribution foncière : livre des mutations de la commune de Malval. </unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 47</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Impôts directs. –Contribution foncière : état des biens et propriétés foncières, créances, dettes et des ressources de la municipalité de Saulnot (1792), rôles des propriétés foncières de la commune de [Saulnot] (1797-an VII, s.d.), tarifs des évaluations des propriétés non bâties (1911). Contributions Foncières, Personnelle-Mobilière, des Portes et Fenêtres et des Patentes : mandements (an VII-1824), matrices sommaires de la commune de Saulnot (1816-1817), recensement (1831), tableaux de répartition du produit des rôles (1911-1923).</unittitle>
+                     <unitdate normal="1792/1923">1792-1923</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 125 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TARIF</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 48</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Impôts directs. - Contributions Foncière, Personnelle-Mobilière, des Portes et Fenêtres et des Patentes : matrices générales.  </unittitle>
+                     <unitdate normal="1818/1844">1818-1844</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 8 cahiers papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 49</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Impôts directs. -Contributions Foncière, Personnelle-Mobilière et des Portes et Fenêtres : matrices générales.  </unittitle>
+                     <unitdate normal="1845/1885">1845-1885</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 7 cahiers papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 50</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Impôts directs. -Contributions Foncière, Personnelle-Mobilière et des Portes et Fenêtres : matrices générales.  </unittitle>
+                     <unitdate normal="1886/1916">1886-1916</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 10 cahiers papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 51</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Impôts directs. –Toisé et métré des bâtiments : communiqué, pétitions, rôles, arrêtés municipaux, état, autorisation, extraits du registre des délibérations du conseil municipal (an XI-1843). Commissaires-répartiteurs, renouvellement : extrait du registre des délibérations du conseil municipal (1911). Contribution sur les voitures, chevaux, mules et mulets, gardes-chasse et sur les chiens : registre des déclarations (1923-1935). Taxe sur les chiens : rôles (1860-1902), registre des déclarations (1888-1901). Impôt de prestation, réclamations : états des décisions rendues (1867-1878) ; remplacement : circulaires (1903). Taxe vicinale, déclarations d’option en nature : registres (1905). </unittitle>
+                     <unitdate>An XI-1935</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 47 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ROLE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>PETITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 52</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Rapports de la commune avec les diverses administrations au point de vue financier. –Caisse des Dépôts et Consignations : comptes des produits de coupes extraordinaires de bois (1818-1822). Poids et mesures : arrêté préfectoral, tableau (1826-1847).  </unittitle>
+                     <unitdate normal="1818/1847">1818-1847</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 6 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POIDS-ET-MESURES</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 53</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recrutement : tableaux de recensement des jeunes gens (an VIII-1814, 1816-1817, 1904-1905).</unittitle>
+                     <unitdate>An VIII-1905</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 25 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 54</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Recrutement : pièces relatives à l’établissement des tableaux de recensement (1859-1906), extrait du tableau cantonal des citoyens mobilisables (1848), arrêté du sous-préfet de Lure fixant la date des réunions du Conseil des communes réunies pour la désignation des conscrits (an XI), ordres et feuilles de route (1852-1908).</unittitle>
+                     <unitdate>An XI-1908</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 72 pièces papier et 1 affiche.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 55</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Recrutement. –Garde impériale : extrait de l’état nominatif des conscrits appelés (1809). Régiment de chasseur de la Charente : certificat d’acceptation du sieur Pichon Jean-Baptiste (1823). Régiment d’infanterie de ligne : certificat d’acception du sieur Drezet Auguste (s.d.). Armée territoriale et garde nationale mobile : avis d’inscription, états nominatifs, communiqué, tableau de recensement (1868-1875). Enrôlés volontaires : circulaire et pièces annexes (1813). Remplaçants : liste nominative (1859). Exemptés : certificat, tableaux (an XI-1904). Carrière militaire, permissions, congés : livret du sieur Léon Billet (1896-1919).   </unittitle>
+                     <unitdate>An XI-1919</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 29 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CERTIFICAT</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                     <genreform>AVIS</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 56</unitid>
+                     <unitid>H4</unitid>
+                     <unittitle>Administration militaire. –Conseil de guerre permanent : extraits de jugements militaires (1843-1844). Poudres et salpêtre recensés dans les maisons de particuliers : états (1815, 1818, s.d.). Logement et cantonnement des troupes : plans, répertoires des habitants, état de prévision, programme des travaux, description topographique, consignes, état du matériel, notes de service, modèle de procès-verbal de constat, état des ressources (1878-1917, s.d.). Exercices de défense passive : arrêté préfectoral, télégrammes (1936). Catégories de véhicules et bâts devant être recensés : tableau (s.d.).</unittitle>
+                     <unitdate normal="1815/1936">1815-1936</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 30 pièces papier, 2 plans et 1 affiche.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ORGANISATION DE L'ARMEE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 57</unitid>
+                     <unitid>H5</unitid>
+                     <unittitle>Administration militaire. –Chevaux, juments, mulets, mules, voitures attelées et automobiles, recensement et déclaration : communiqué, liste alphabétique des propriétaires, feuilles, listes et registres (1876-1939, s.d.) ; classement et réquisition : instructions, procès-verbaux constatant l’examen et la visite, tableaux (1875-1918).</unittitle>
+                     <unitdate normal="1875/1939">1875-1939</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 141 pièces papier et 1 affiche.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ORGANISATION DE L'ARMEE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 58</unitid>
+                     <unitid>H6</unitid>
+                     <unittitle>Garde nationale et sapeurs-pompiers. –Garde nationale : registre des congés (1814-1854). &lt;lb/&gt;Registre composite, comporte également à la suite : livrets délivrés (1858-1860) ; à l’envers : notifications des ordres de route (1832-1864).</unittitle>
+                     <unitdate normal="1814/1864">1814-1864</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GARDE NATIONALE</subject>
+                     <subject>ORGANISATION DE L'ARMEE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 59</unitid>
+                     <unitid>H7</unitid>
+                     <unittitle>Garde nationale et sapeurs-pompiers. –Garde nationale, organisation : règlement de service (1831) ; recrutement et contrôle : circulaires, communiqué, relevés nominatifs par rang d’âge, états des mutations survenues, état nominatif, listes et tableau de recensement, registres de contrôles (1809-1850, s.d.) ; élections d’officiers et de sous-officiers : procès-verbaux (1831-1848) ; membres du conseil de discipline : tableau (s.d.) ; armement et équipement : listes nominatives, feuilles d’appel des visites d’armes, rôle de souscription, extrait du registre des délibérations du conseil municipal, communiqué, marchés (1832-1851, s.d.). Sapeurs-pompiers, création d’un corps dans la commune de Saulnot : communiqué, extrait du registre des délibérations du conseil municipal, arrêté préfectoral (1867) ; installation du sous-lieutenant Pierre-Claude Cuenin : procès-verbal, communiqué (1868) ; organisation des corps : circulaire et pièces annexes (1876) ; modalités d’utilisation de matériel d’incendie et procédures d’intervention : manuel (1883).  </unittitle>
+                     <unitdate normal="1809/1883">1809-1883</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 109 cahiers et pièces papier et 2 registres.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>ROLE</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>CIRCULAIRE</genreform>
+                     <genreform>REGLEMENT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GARDE NATIONALE</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 60</unitid>
+                     <unitid>H8</unitid>
+                     <unittitle>Mesures d’exception et faits de guerre.-Guerres de 1813-1814, réquisitions et répartition des pertes : billets de logements et de réquisitions, états, rôles, communiqués, bordereau (1813-1814, s.d.). Guerre de 1870-1871, dépôt des armes aux chefs-lieux d’arrondissement : communiqué (1871) ; versement d’impôts aux autorités d’occupation : communiqué (1871) ; réquisitions effectuées par l’armée prussiennes : communiqués (1871) ; évaluation des pertes éprouvées et versement d’indemnités aux habitants : notes de réclamation, états, bordereau, communiqué (1871-1876, s.d.). Guerre de 1914-1918, mobilisation : communiqué (1914). Guerre de 1939-1945, ravitaillement : communiqué (1943).  </unittitle>
+                     <unitdate normal="1813/1943">1813-1943</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 296 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 61</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. –Célébration des fêtes de la naissance et du baptême de sa majesté le roi de Rome : communiqué (1811). Débits de boisson : déclarations d’ouverture (1885, 1904, s.d.). Auberges et cabarets, détermination des heures de fermeture au public : arrêté municipal (1839). Commission communale de mendicité, nomination et installation des membres (1840). Abatage des chiens errants : arrêté municipal (1847). Rassemblements, troubles de l’ordre publique et tapage nocturne : communiqués, arrêtés municipaux, règlement (1807-1852). Coups portés au sieur Beljean par le sieur Jacotey : procès-verbal (1843). Sinistres, incendies, inondations : états, extrait du registre des délibérations du conseil municipal, déclarations des pertes occasionnées (1854-1906). Transport de corps, autorisations : certificats (1860-1894). Propreté des fontaines publiques : arrêté municipal (1838). &lt;lb/&gt;Dépôts de bois et de fumier sur la voie publique : extrait du registre des délibérations de la commission sanitaire de la circonscription d’Héricourt, communiqués, arrêtés municipaux, plan (1832-1904). Plaintes à l’encontre des sieurs Henri Pierre François et Laude Nicolas pour braconnage : communiqué (1808). Mobilisation d’une patrouille pour la surveillance des champs de pommes de terre la nuit : arrêté municipal (1816). Droit de chasse dans les bois communaux : baux, procès-verbaux d’adjudication, soumissions, communiqués, arrêté préfectoral, reçu, extraits du registre des délibérations du conseil municipal (1811-1908). Ramonage et visite des fours et cheminées : extrait du registre des délibérations du conseil municipal, traités (1845-1905).   </unittitle>
+                     <unitdate normal="1807/1908">1807-1908</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 107 pièces papier et 1 plan.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>DECLARATION</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DEBIT DE BOISSON</subject>
+                     <subject>HOTEL DE TOURISME</subject>
+                     <subject>POLICE DE LA CHASSE</subject>
+                     <subject>POLICE MUNICIPALE</subject>
+                     <subject>SINISTRE</subject>
+                     <subject>TRANSPORT DE CORPS</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 62</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Police générale. –Délivrance de passeports : passeports (1824-1827), souches (1808-1859), registre (an VIII-an XII). Etrangers : registre matricule (1893-1903).</unittitle>
+                     <unitdate>An VIII-1903</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 154 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>PASSEPORT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETRANGER</subject>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 63</unitid>
+                     <unitid>I3</unitid>
+                     <unittitle>Justice. –Mise eu demeure, par M. Chevillot Augustin, de sa fille, Julie, d’avoir à subvenir à l’entretien de l’enfant qu’elle lui a confié : communiqués, rapports (1884). Jugements : extraits des registres et minutes du greffe de la cour de justice criminelle de la Haute-Saône (1808-1810). Libération du forçat Henri Pierre François : feuille de route (1822). Jurés : listes générales, extrait du registre des délibérations du conseil municipal, demandes de dispenses (1832-1872). </unittitle>
+                     <unitdate normal="1808/1884">1808-1884</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 32 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>RAPPORT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 64</unitid>
+                     <unitid>I4</unitid>
+                     <unittitle>Hygiène publique et salubrité. –Elèves sages-femmes à l’asile départemental du Doubs, règlement des frais à la charge de la commune de Saulnot : états nominatifs (1891). Vaccination des enfants et des jeunes gens : listes nominatives (1935, 1940). Choléra épidémique : statistique (1853-1854). Epizooties : registre à souches des certificats de santé, dénombrement des animaux, communiqués, certificats, états de pertes, arrêtés préfectoraux (1814-1907).    </unittitle>
+                     <unitdate normal="1814/1940">1814-1940</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 27 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EPIDEMIE</subject>
+                     <subject>MALADIE DES ANIMAUX</subject>
+                     <subject>SAGE FEMME</subject>
+                     <subject>VACCINATION</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 65</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections : sectionnement électoral (1881-1892), listes électorales (1848, 1851-1852, 1858-1881).  </unittitle>
+                     <unitdate normal="1848/1892">1848-1892</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 81 pièces papier et 1 plan.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECOUPAGE ELECTORAL</subject>
+                     <subject>ELECTION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 66</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections : listes électorales (1882-1914, 1919).  </unittitle>
+                     <unitdate normal="1882/1919">1882-1919</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 105 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 67</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Elections.-Vote pour le plébiscite du 8 mai 1870 : liste de scrutin, procès-verbal (1870). Vote pour le rétablissement de l’Empire : procès-verbal, liste de scrutin (1852). Elections présidentielles : procès-verbal (1851). Elections législatives : communiqué, procès-verbaux (1906-1919). Election de délégués sénatoriaux : procès-verbal (1908). Elections de membres du conseil général et du conseil d’arrondissement : listes de scrutin, procès-verbaux (1852-1937). Elections municipales : listes de scrutin, procès-verbaux, feuilles de dépouillement, arrêtés du conseil de préfecture (1831-1939). Conseillers municipaux, maires et adjoints, installation et élection : procès-verbaux, arrêtés préfectoraux, communiqué (1831-1919) ; démission, révocation et suspension : copie de décret présidentiel, arrêté préfectoral, communiqué (1848-1881). </unittitle>
+                     <unitdate normal="1831/1939">1831-1939</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 142 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEILLER MUNICIPAL</subject>
+                     <subject>ELECTION</subject>
+                     <subject>ELECTION AU CONSEIL D'ARRONDISSEMENT</subject>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                     <subject>MAIRE</subject>
+                     <subject>REFERENDUM</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 68</unitid>
+                     <unitid>K4</unitid>
+                     <unittitle>Personnel municipal. –Cantonniers, nominations : arrêté municipal, extraits du registre des délibérations du conseil municipal, communiqué (1842-1883). Gardes champêtres, nomination : pétition, certificats, extraits du registre des délibérations du conseil municipal, déclarations, arrêtés municipaux (an XIII-1846) ; traitement : extraits du registre des délibérations du conseil municipal, communiqué (1817-1904) ; réclamations et révocations : communiqués, arrêté préfectoral, procès-verbal, extrait du registre des délibérations du conseil municipal (1835-1872) ; démissions : lettes de démission (1834-1846, s.d.). Gardes communales, organisation : communiqué (s.d.). Gardes forestiers, nominations : arrêtés préfectoraux (1848, 1886) ; traitement et gratification : communiqués, pétition, extraits du registre des délibérations du conseil municipal (1826-1903) ; habillement : extrait du registre des délibérations du conseil municipal (1857) ; proposition du sieur Robert Félix pour la surveillance de l’exploitation des harts : procès-verbal (1875) ; plainte : arrêté préfectoral (1842) ; révocation : arrêté préfectoral (1848) ; démission : lettre de démission (1848). Géomètre Degratery, règlement d’honoraires : extrait du registre des délibérations du conseil municipal (1854). Pâtres, nominations : marchés (1837-1903). Vaccinateurs, nomination : arrêtés (1938-1940). Vétérinaire chargé de l’inspection sanitaire des foires, nomination et rémunération : extraits du registre des délibérations du conseil municipal (1890-1898). </unittitle>
+                     <unitdate>An XIII-1940</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 128 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>CERTIFICAT</genreform>
+                     <genreform>PETITION</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 69</unitid>
+                     <unitid>K5</unitid>
+                     <unittitle>Protocole et distinction honorifiques. –Légionnaires et décorés de la médaille militaire : état.  </unittitle>
+                     <unitdate normal="1875">1875</unitdate>
+                     <physdesc>
+                        <extent>1 pièce papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DISTINCTION HONORIFIQUE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 70</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptabilité : comptes administratifs (an VIII, 1835-1836, 1838-1841, 1843-1850), comptes de gestion (1807, 1818-1823, 1826-1833, 1836, 1838-1839, 1843-1846), procès-verbal de clôture des livres et comptes-journaux et vérification de la caisse du receveur municipal (1825), états de situation des recettes et dépenses (1835-1836, 1840, 1850).</unittitle>
+                     <unitdate>An VIII-1850</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 57 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 71</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptabilité : budgets et chapitres additionnels (an XIII-an XIV, 1807-1853), réclamation de la somme de 348 francs au sieur Mourey Jean-Baptiste, ancien maire, pour gestion irrégulière (1836).</unittitle>
+                     <unitdate>An XIII-1853</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 100 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 72</unitid>
+                     <unitid>L3</unitid>
+                     <unittitle>Revenus et charges de la commune. –Habitants de Saulnot-et-Malval débiteurs envers la commune d’un cens de rente annuel : état nominatif.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                     <physdesc>
+                        <extent>1 pièce papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 73</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices publics.- Maison commune avec mairie, salle de classe et logements de l’instituteur et de l’institutrice, acquisition et aménagement : devis, estimation, procès-verbaux, pétition, extraits du registre des délibérations du conseil municipal de Saulnot, état recognitif, plans, soumissions, communiqué (1817-1869) ; construction d’un nouveau bâtiment : plan, détail estimatif, cahier de détails, devis, rapport, extrait du registre des délibérations du conseil municipal de la commune de Saulnot, états estimatifs (1824-1862) ; réparations : marché, procès-verbaux d’adjudication, extraits du registre des délibérations du conseil municipal de Saulnot, soumission, devis supplémentaire (1842-1905) ; pose d’une cloche : marché, dessin (1868-1869) ; établissement d’une horloge : extrait du registre des délibérations du conseil municipal de Saulnot, traité (1902) ; chauffage : communiqué, extrait du registre des délibérations du conseil municipal de Saulnot (1855-1892). Fontaines publiques, réparation : pétition (deux exemplaires, an VII). Vente de matériaux provenant de bâtiments communaux : extraits du registre de délibérations du conseil municipal de Saulnot, procès-verbaux d’adjudication (1862-1882). </unittitle>
+                     <unitdate>An VII-1905</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 40 cahiers et pièces papier, 3 plans et 1 dessin. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>PETITION</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>DEVIS</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSTRUCTION</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HORLOGE PUBLIQUE</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                     <subject>LOGEMENT DE FONCTION</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 74</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>Edifices du culte et cimetières.-Eglise, travaux de réparation et d’ameublement : communiqués, arrêtés préfectoraux, soumissions, extraits des registres de délibérations des conseils municipaux de Chavanne, Corcelles, Gonvillars, Saulnot et Villers-sur-Saulnot, extrait des registres de la fabrique paroissiale de Saulnot, détails métriques, devis, approbation des plans et devis, estimation et cahier des charges, bordereau et détails des prix, note et marché, traités, procès-verbaux d’adjudication (1806-1911, s.d.) ; reconstruction : communiqués, extraits du registre de délibérations du conseil municipal de Saulnot, devis descriptif, analyse de prix, arrêté préfectoral, procès-verbal de reconnaissance et de réception des travaux, état résumé des travaux exécutés, état de répartition des frais (1844-1850, s.d.). Presbytère, projets de construction : extraits du registre de délibérations des communes de Saulnot et de Gonvillars (an XI-1811) ; acquisition d’un nouveau bâtiment : certificat, rapport, plan, procès-verbal, communiqués, arrêté préfectoral, extraits des registres de délibérations des conseils municipaux des communes de Chavanne, Corcelles, Gonvillars, Malval, Saulnot et de Villers-sur-Saulnot, (1828-1833, s.d.) ; travaux de réparation : extrait du registre de délibérations du conseil municipal de Saulnot, extrait des délibérations du conseil de fabrique de la paroisse de Saulnot, devis (1835-1862) ; location : communiqués, extraits du registre de délibérations des conseils municipaux de Chavanne, Gonvillars, Saulnot et de Villers-sur-Saulnot, notes, arrêté préfectoral, projets de baux (1906-1908, s.d.). Cimetière, translation au lieu-dit « Bois Saint Père » : plan, analyse de prix, état estimatif, devis, mémoire, expédition d’acte de vente (1845-1849) ; construction d’un nouveau cimetière : arrêté préfectoral, communiqué (1851-1852) ; enlèvement des terres de l’ancien cimetière : note, marché, extrait du registre de délibérations du conseil municipal de Saulnot (1867) ; projet d’agrandissement : communiqué (1891). </unittitle>
+                     <unitdate>An XI-1911</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 148 pièces papier et 2 plans. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>MEMOIRE </genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>DEVIS</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>LOGEMENT DE FONCTION</subject>
+                     <subject>PRESBYTERE</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAVANNE</geogname>
+                     <geogname>CORCELLES</geogname>
+                     <geogname>GONVILLARS</geogname>
+                     <geogname>VILLERS-SUR-SAULNOT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 75</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux. –Achats d’immeubles par la commune auprès de particuliers : expéditions d’actes de vente, soumission de vente, extrait du registre des délibérations du conseil municipal (1832-1862). Aliénation de biens communaux : procès-verbaux d’adjudication, extraits du registre des délibérations du conseil municipal, plans, procès-verbal d’expertise et d’estimation, bordereau des pièces, arrêté préfectoral, soumissions, procès-verbal descriptif et estimatif (1864-1917). Demandes d’autorisation formulées par messieurs Frahier Louis Auguste et Emile pour la construction de deux maisons d’habitation sur des terrains communaux : pétitions, extrait du registre des délibérations du conseil municipal, communiqués (1877-1878). Vaine pâture : extraits du registre de délibérations du conseil municipal, arrêtés municipaux (1816-1852).     </unittitle>
+                     <unitdate normal="1816/1917">1816-1917</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 30 pièces papier et 3 plans.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 76</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Bois. –Brigades et triages communaux, projet de réorganisation : communiqués (1888-1904). Partage des bois indivis entre les communes de Saulnot, Chavanne et de Villers-sur-Saulnot : expédition d’acte notarié, communiqué, exploit d’huissier, extraits du registre des délibérations du conseil municipal de Saulnot, extraits du registre des délibérations des consuls de la république, pétitions, extrait des minutes du secrétariat de la sous-préfecture de l’arrondissement de Lure, communiqué, procès-verbaux, rapports (an IX-1835, s.d.). Aménagement, délimitation et bornage des bois des communes de Champagney,  Champey, Granges-le-Bourg et de Saulnot-et-Malval : arrêtés préfectoraux, communiqué, procès-verbal d’adjudication, extraits du registre de délibérations du conseil municipal de Saulnot, procès-verbaux d’arpentage et de réarpentage, plans, procès-verbaux d’aménagement (1811-1868).  </unittitle>
+                     <unitdate>An IX-1904</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 73 pièces papier et 3 plans.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>EXPLOIT D'HUISSIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPAGNEY</geogname>
+                     <geogname>CHAVANNE</geogname>
+                     <geogname>GRANGES-LE-BOURG</geogname>
+                     <geogname>VILLERS-SUR-SAULNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 77</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Bois. –Droits de passage : extraits de registre de délibération du conseil municipal de Saulnot (1883-1892). Chemins forestiers, établissement et entretien : plans, devis et cahier des charges, détail estimatif, analyse des prix, profils, extraits du registre des délibérations de la commune de Saulnot, soumissions, procès-verbaux d’adjudication, avant-métré, rapports, communiqué, état général des travaux (1844-1891).Tranchée, ouverture pour l’établissement d’une conduite d’eau et l’abatage des bois : extrait du registre des délibérations du conseil municipal de Saulnot (1867). Extraction de pierre et de sable : extraits du registre des délibérations du conseil municipal de Saulnot, communiqués, rapport, procès-verbal d’adjudication (1858-1905). Recherches de minerai de fer : arrêtés préfectoraux, communiqué (1839-1847). Défrichements : bail, copies de décrets du Président de la République, communiqués, extraits du registre des délibérations du conseil municipal, procès-verbal de reconnaissance, signification de décret présidentiel (1836-1899). </unittitle>
+                     <unitdate normal="1836/1905">1836-1905</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 52 pièces papier et 4 plans.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>CAHIER DES CHARGES</genreform>
+                     <genreform>DEVIS</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DEFRICHEMENT</subject>
+                     <subject>FORET COMMUNALE</subject>
+                     <subject>INDUSTRIE EXTRACTIVE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 78</unitid>
+                     <unitid>N4</unitid>
+                     <unittitle>Bois. –Vaine pâture : procès-verbaux de reconnaissance des cantons défensables, communiqué, extraits des registres de délibérations des conseils municipaux des communes Saulnot et de Malval, listes nominatives (1816-1909, s.d.). Droits d’usage : listes des habitants autorisés à ramasser des menus produits (1850-1905). Quart en réserve : communiqué, extraits du registre de délibérations du conseil municipal de Saulnot, arrêtés préfectoraux, procès-verbaux d’adjudication, communiqués, extrait des minutes de la secrétairerie d’Etat, procès-verbal de décharge d’exploitation (1806-1900).   </unittitle>
+                     <unitdate normal="1806/1909">1806-1909</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 287 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                     <subject>FORET COMMUNALE</subject>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 79</unitid>
+                     <unitid>N5</unitid>
+                     <unittitle>Bois. –Exploitation : procès-verbaux de délivrance et permis d’exploiter, procès-verbaux de récolement, procès-verbaux de balivage et martelage, état, rapport (1819-1877). Bois pour la Marine : pétition, marché, procès-verbaux de martelage, états de recette provisionnelle (1808-1826). Vente de coupes de bois : procès-verbaux d’adjudication, communiqués, extrait du registre de délibérations du conseil municipal de la commune de Saulnot, cahiers des charges, traites d’adjudicataires (1807-1917). Vente de menus produits, branches, souches et chablis : procès-verbaux d’adjudication, communiqués, extraits du registre de délibérations du conseil municipal de Saulnot, règlement (1812-1906). </unittitle>
+                     <unitdate normal="1807/1917">1807-1917</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 145 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CAHIER DES CHARGES</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>PETITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 80</unitid>
+                     <unitid>N6</unitid>
+                     <unittitle>Bois. –Affouage : états de la distribution de la futaie (1791-1840), rôle de répartition du taillis (1825-1850), procès-verbaux d’adjudication de l’exploitation de la coupe (1817-1904). </unittitle>
+                     <unitdate normal="1791/1904">1791-1904</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 177 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 81</unitid>
+                     <unitid>N7</unitid>
+                     <unittitle>Bois. –Affouage : extraits du registre des délibérations de la commune de Saulnot, pétitions, arrêtés du sous-préfet de l’arrondissement de Lure, soumissions, communiqués, listes nominatives, arrêtés du conseil de préfecture, mémoire, procès-verbaux d’adjudication, extraits des minutes du greffe du tribunal de première instance, avis, arrêt du conseil d’Etat, registre (an XIII-1913, s.d.). Assiette en usance : communiqués, lettre de réclamation, extrait du registre de délibérations du conseil municipal, procès-verbaux d’adjudication (1806-1822). Prélèvement du vingtième forestier : délibérations du conseil municipal (1842-1860). Délits forestiers : extraits du registre des délibérations du conseil municipal de Saulnot, notifications de décisions, avis de l’inspecteur des forêts, extrait de jugement, communiqué, procès-verbaux de délits (1845-1913).     </unittitle>
+                     <unitdate>An XIII-1913</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 270 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>AVIS</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>MEMOIRE </genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>PETITION</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 82</unitid>
+                     <unitid>N8</unitid>
+                     <unittitle>Eaux. –Construction de réservoirs d’eau : procès-verbal de métré et d’estimation, promesse de vente (1934-1935). Installation et entretien d’une pompe foulante : soumissions (1935). Installation d’une station de pompage : facture (1936). </unittitle>
+                     <unitdate normal="1934/1936">1934-1936</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 5 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>FACTURE</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU POTABLE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIE, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 83</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Travaux publics et voirie en général. –Rue de l’église, classement : communiqué (1855) ; rétablissement avec construction d’un mur de soutènement : procès-verbal de réception des travaux (1839) ; ouverture : plan, actes d’acquisition à l’amiable, devis et cahier des charges, arrêtés préfectoraux, extrait du registre des délibérations du conseil municipal, tableau des parcelles à acquérir (1859-1862) ; redressement : acte d’acquisition à l’amiable, extrait du registre des arrêtés du préfet, tableau des parcelles à acquérir (1862). Rue principale, travaux de réparation : extrait du registre de délibérations du conseil municipal (1842). Rue des Noyers, élargissement : tableau des parcelles à acquérir, actes d’acquisition, plans (1878-1881) ; construction d’un aqueduc : devis estimatif (1881). Alignements et anticipations : extraits du registre des délibérations du conseil municipal, arrêtés municipaux, communiqués, procès-verbal d’alignement des rues, arrêtés préfectoraux, avis, conventions, plans géométriques des anticipations commises sur la commune de Chennebier (1812-1904). Pont à bascule, établissement : traité, extrait du registre des délibérations du conseil municipal (1902).  &lt;lb/&gt;Comporte également : construction de deux aqueducs sur le chemin vicinal de Crevans et construction de deux petites fontaines : procès-verbal de réception des travaux (1839).  </unittitle>
+                     <unitdate normal="1812/1904">1812-1904</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 42 cahiers et pièces papier et 9 plans. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>CAHIER DES CHARGES</genreform>
+                     <genreform>DEVIS</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FONTAINE</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 84</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Travaux publics et voirie en général. –Prestations en nature : extraits du registre des délibérations du conseil municipal, communiqués (1833-1889). Chemins de grande communication, d’intérêt commun, de petite vicinalité et chemin ruraux, établissement, réparations et entretien : arrêtés préfectoraux, extraits du registre des délibérations du conseil municipal, procès-verbaux d’adjudication, communiqués, rapports, acte de cession, décision, tableaux généraux, procès-verbaux de reconnaissance, devis et cahier des charges, traités, actes d’acquisition, avis, décompte, tableaux des parcelles à acquérir et à exproprier, états d’indication, états des contingents, comptes des recettes et dépenses, profils, plans, certificat, soumissions, procès-verbaux de métré et d’estimations, nomenclature et désignation, situations, état des propriétaires à indemniser, acte de vente pour cause d’utilité publique (1822-1921, s.d.) (classement par typologie puis par ordre numérique).  </unittitle>
+                     <unitdate normal="1822/1921">1822-1921</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 177 cahiers et pièces papier et 8 plans. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CERTIFICAT</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>AVIS</genreform>
+                     <genreform>CAHIER DES CHARGES</genreform>
+                     <genreform>DEVIS</genreform>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 85</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Moyens de transport et travaux divers. –Chemin de fer, établissement de la ligne de Lure à Héricourt : jugements d’expropriation, arrêtés préfectoraux, tableau des surfaces, plans, extrait du registre des délibérations du conseil municipal, rapport, extrait du registre des délibérations du conseil municipal (1834-1901, s.d.) ; vente d’immeubles dépendant de l’ancien réseau de chemins de fer vicinaux : communiqués, cahier des charges, extrait de délibération (1938). Réseau téléphonique départemental, raccordement de la commune de Saulnot et installation d’un bureau téléphonique : extraits du registre des délibérations du conseil municipal, communiqués, traité (1902-1904). Saline, vente des bâtiments et dépendances appartenant à l’Etat : cahier des charges (1827) ; proposition d’acquisition des bâtiments par la commune : plan, coupe et élévation (1846) ; réclamation au sujet des travaux de fermeture : communiqué (1862) ; enlèvement des matériaux : extrait du registre des délibérations du conseil municipal, procès-verbal d’adjudication (1866-1867). Mines de fer, règles et conditions d’exploitation : communiqués, extraits du registre des délibérations des conseils municipaux de Saulnot, Villers-sur-Saulnot et Chavanne, arrêtés préfectoraux, procès-verbaux de visite et de concession, soumission, ordonnances du roi, cahier des charges, avis, mémoire (an XIII-1848, s.d.) ; livraisons de minerai : états, arrêté préfectoral (1808-1855) ; nomination de commis au cubage : extrait du registre des délibérations du conseil municipal, communiqué, lettre de démission (1816-1832) ; litiges et réclamations : communiqués, arrêtés préfectoraux, pétitions, exploits d’huissiers, extraits du registre des délibérations du conseil municipal de Saulnot et de Villers-sur-Saulnot, certificat (1806-1873, s.d.).   </unittitle>
+                     <unitdate>An XIII-1938</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 129 cahiers et pièces papier, 4 plans, 1 croquis et 2 affiches.  </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>EXPLOIT D'HUISSIER</genreform>
+                     <genreform>PETITION</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>CAHIER DES CHARGES</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>INDUSTRIE EXTRACTIVE</subject>
+                     <subject>LIGNE DE CHEMIN DE FER</subject>
+                     <subject>TELEPHONE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 86</unitid>
+                     <unitid>O4</unitid>
+                     <unittitle>Navigation et régime des eaux. –Sources : plan (s.d.). Canal ouvert, établissement dans la traverse de Saulnot : extrait du registre des délibérations du conseil municipal de Saulnot (1872). Plainte formulée à l’encontre de M. Mathie pour obstruction d’un aqueduc : communiqué (1939). Curage des cours d’eau et des fossés : plans, procès-verbaux de réception définitive, devis et cahiers des charges, états indicatifs, arrêtés préfectoraux, procès-verbaux d’adjudication, registres de déclarations des propriétaires, rôles de répartition, extraits du registre des délibérations du conseil municipal, rapport, procès-verbal, pétitions, procès-verbal de piquetage (1807-1927, s.d.).  </unittitle>
+                     <unitdate normal="1807/1939">1807-1939</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 11 plans et 82 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PETITION</genreform>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>ROLE</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>CAHIER DES CHARGES</genreform>
+                     <genreform>DEVIS</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT DES EAUX</subject>
+                     <subject>COURS D'EAU</subject>
+                     <subject>EAU POTABLE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 87</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte catholique. –Vicaire, nomination et traitement : déclaration, extrait du registre de délibérations du conseil municipal, extrait du registre des délibérations de la Fabrique de la paroisse de Saulnot (1833-1834). Chantre-sacristain, demande de rémunération : pétition (1813). Fabrique, vote d’une subvention par le conseil municipal de Saulnot : extrait du registre des délibérations du conseil municipal de la commune de Saulnot (1904) ; comptabilité : budgets (1836-1850). Mission diocésaine, rétablissement au hameau d’Ecole près Besançon (Doubs) : pétition des conseils municipaux de Saulnot, Villers et Chavanne pour l’attribution d’un don (1817). Loi de séparation de l’Eglise et de l’Etat, dévolution des biens : communiqués, télégramme, arrêtés de mise sous séquestre, inventaire, circulaires, article de presse, extrait du registre des délibérations du bureau de bienfaisance (1905-1921) ; constitution d’une association cultuelle : modèle de statuts (s.d.). </unittitle>
+                     <unitdate normal="1813/1921">1813-1921</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 32 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATUT D'ASSOCIATION</genreform>
+                     <genreform>CIRCULAIRE</genreform>
+                     <genreform>INVENTAIRE</genreform>
+                     <genreform>BUDGET</genreform>
+                     <genreform>PETITION</genreform>
+                     <genreform>DECLARATION</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>FABRIQUE D'EGLISE</subject>
+                     <subject>MINISTRE DU CULTE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAVANNE</geogname>
+                     <geogname>VILLERS-SUR-SAULNOT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 88</unitid>
+                     <unitid>P2</unitid>
+                     <unittitle>Police des cultes. –Cérémonies religieuses publiques, déclaration : communiqué (1906). Sonneries religieuses et civiles, réglementation : communiqué (1907). </unittitle>
+                     <unitdate normal="1906/1907">1906-1907</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 2 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POLICE DES CULTES</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 89</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Bureaux de bienfaisance, secours d’urgence. –Bureau de bienfaisance, création : ampliation de décret impérial, communiqués, extraits du registre des délibérations du conseil municipal (1861-1862) ; nomination de membres de la commission administrative : arrêtés préfectoraux, délibération du conseil municipal (1904-1937). </unittitle>
+                     <unitdate normal="1861/1937">1861-1937</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 19 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>STRUCTURE COMMUNALE D'AIDE SOCIALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 90</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Bureaux de bienfaisance, secours d’urgence. –Bureau de bienfaisance, délibérations de la commission administrative : registre. </unittitle>
+                     <unitdate normal="1862/1930">1862-1930</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>STRUCTURE COMMUNALE D'AIDE SOCIALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 91</unitid>
+                     <unitid>Q3</unitid>
+                     <unittitle>Bureaux de bienfaisance, secours d’urgence. –Bureau de bienfaisance, élection de délégués à la commission cantonale : communiqué, extrait du registre des délibérations de la commission administrative (1920, 1929) ; désignation de commissaires répartiteurs pour l’élaboration de la liste des indigents : arrêtés préfectoraux (1904, 1912) ; règlement définitif des recettes et dépenses : extrait du registre de délibérations de la commission administrative (1936) ; dons : arrêté préfectoral, déclaration (1876) ; suppression : communiqué (1867). Secours d’urgence : passeports d’indigents avec secours de route, communiqués, pétitions, états des individus se livrant à la mendicité, extraits du registre des délibérations du bureau de bienfaisance, listes des indigents secourus (1816-1937, s.d.). </unittitle>
+                     <unitdate normal="1816/1937">1816-1937</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 34 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PETITION</genreform>
+                     <genreform>PASSEPORT</genreform>
+                     <genreform>DECLARATION</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>STRUCTURE COMMUNALE D'AIDE SOCIALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 92</unitid>
+                     <unitid>Q4</unitid>
+                     <unittitle>Œuvres charitables. –Ateliers de charité : communiqués, extraits du registre des délibérations du conseil municipal, listes nominatives.</unittitle>
+                     <unitdate normal="1847/1869">1847-1869</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 9 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>TRAVAIL PROTEGE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 93</unitid>
+                     <unitid>Q5</unitid>
+                     <unittitle>Application des lois d’assistance et de prévoyance. –Militaires, demandes et attributions de secours : pétitions, état nominatif (1810-1876) ; attribution de pensions : communiqué (1869). Retraites ouvrières et paysannes, formation de la liste provisoire des assurés obligatoires et facultatifs : extrait du registre des délibérations du conseil municipal (1911). Caisse nationale des retraites pour la vieillesse, majoration de rentes viagères : communiqué [1909]. Assistance médicale gratuite : autorisation, communiqués, états nominatifs, reçu, extraits du registre des délibérations du conseil municipal, arrêté préfectoraux, notes, décomptes (1855-1939). Encouragement national aux familles nombreuses, assistance aux femmes en couches et aux vieillards, infirmes et incurables, révision des taux d’allocations : communiqué, extraits du registre des délibérations du conseil municipal (1922-1931) ; rejet d’une demande d’assistance de femme en couche : procès-verbal de décision (1936) ; demandes d’admissions à l’assistance aux vieillards, infirmes et incurables : états nominatifs des proposés et des admis, états des déductions à opérer sur les ressources (1907-1914). Nourrices, sevreuses ou gardeuses, déclarations : registre des maires (1879-1912). Enfants placés en nourrice, déclaration des parents ou ayants-droit : registre des maires (1912-1920). Placement des enfants Tardy à l’hospice des enfants abandonnés de Gray : arrêté préfectoral (1810).   </unittitle>
+                     <unitdate normal="1810/1939">1810-1939</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 1 affiche, 2 registres et 96 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PETITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 94</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique. -Comité local de surveillance de l’instruction primaire de la commune de Saulnot-et-Malval, délibérations : registre (1834-1847).&lt;lb/&gt;Registre composite, comporte également à l’endroit : communaux loués (1942), locations de friches (1902-1904, 1907-1912), mutations des parcelles de défrichement [1871-1882], partage des friches (1884, 1899, 1920, 1943, 1948) ; à l’envers : répartition du traitement de l’instituteur (1826-1827), registre d’ordre (1814-1820), demande de nationalité française du sieur Paulin Nimetz (1861) , autorisation de reconstruction d’une maison incendiée (1862).  </unittitle>
+                     <unitdate normal="1814/1948">1814-1948</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                     <subject>ENSEIGNEMENT</subject>
+                     <subject>NATURALISATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>477 Edepot 95</unitid>
+                     <unitid>R2</unitid>
+                     <unittitle>Instruction publique.-Instituteurs et institutrices, nomination : marchés (1825-1826) ; traitement et gratification : extraits du registre des délibérations du conseil municipal, extrait d’arrêté préfectoral, état de répartition, pétition, communiqué (1833-1897) ; logement : extrait du registre des délibérations du conseil municipal, baux, communiqués (1813-1893) ; démission : communiqué (1849). Dépenses des écoles primaires : extraits du registre des délibérations du conseil municipal (1839-1859). Gratuité de l’enseignement primaire : arrêté préfectoral, extrait des registres de délibérations du conseil municipal (1861, 1876). Mobilier et matériel scolaires : mandat, extraits du registre des délibérations du conseil municipal, communiqué (1878-1901). Constructions scolaires de 1878 à 1885 en Haute-Saône : relevé général des dépenses (1889). </unittitle>
+                     <unitdate normal="1813/1901">1813-1901</unitdate>
+                     <physdesc>
+                        <extent>32 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PETITION</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENSEIGNEMENT</subject>
+                     <subject>ORGANISATION SCOLAIRE</subject>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

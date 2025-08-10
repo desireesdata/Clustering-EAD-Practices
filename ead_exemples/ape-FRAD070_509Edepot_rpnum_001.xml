@@ -1,0 +1,956 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_509Edepot_Archives_communales_déposées_de_Tromarey-et-Chancevigney" url="https://francearchives.fr/findingaid/9547cff30a58087348ac957ea8c1bfa467fff3f6">FRAD70_509Edepot_Archives_communales_déposées_de_Tromarey-et-Chancevigney</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>509Edepot - Archives communales déposées de Tromarey-et-Chancevigney</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>509Edepot - Archives communales déposées de Tromarey-et-Chancevigney</unittitle>
+         <unitid>509Edepot1-29</unitid>
+         <unitdate normal="1647/1968">1647-1968</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE TROMAREY-ET-CHANCEVIGNEY</corpname>
+         </origination>
+         <note label="note">
+            <p>Inventaire des archives municipales déposées aux Archives Départementales de la Haute-Saône en 1966, 1971 et 2002.
+Sources complémentaires aux A.D.H.S. :
+B1951-1955, déclarations de propriété dans la communauté de Chancevigney, en exécution de l'édit de 1749 ; procédures civiles et criminelles concernant des habitants du lieu (1696-1789).
+B 2797-2799, déclarations de propriété dans la communauté de Tromarey, en exécution de l'édit de 1749 ; procédures civiles et criminelles concernant des habitants du lieu (1698-1789).
+B7829-7832, justice seigneuriale de Chancevigney (1708-1789).
+B 9015, justice seigneuriale de Tromarey (1752-1787).
+C 18, délimitation des bois de Tromarey et chancevigney (1685-1743).
+C 107, réparations au presbytère de Tromarey (1731-1789).
+C 143, travaux sur les routes de Chancevigney (1758-1789).
+E 875, rôle de l'avoine due au seigneur de Tromarey (1699).
+G 185, biens dépendant de la cure de Tromarey (1703-1790).
+H 915, actes sous seing-privé concernant Tromarey, provenant du fonds du couvent des Carmes déchaussés de Gray (1606-1648).
+3 O 509, travaux communaux, depuis 1851.</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             04/05/2009
+         </p>
+         <p>Dernier ajout le             07/05/2009
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> EAUX ET FORETS (1775)</p>
+         <p>  509 Edepot  1</p>
+         <p> CULTE (1647-1792)</p>
+         <p>  509 Edepot  2 à 6 - 509 Edepot  25</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1790-1928)</p>
+         <p>  509 Edepot  8 à 11 - 509 Edepot  20</p>
+         <p> ETAT-CIVIL (...)</p>
+         <p>  509 Edepot  7</p>
+         <p> POPULATION (1901-1911)</p>
+         <p>  509 Edepot  21</p>
+         <p> CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES (1822-1914)</p>
+         <p>  509 Edepot  12 à 15</p>
+         <p> AFFAIRES MILITAIRES (1952-1968)</p>
+         <p>  509 Edepot  22</p>
+         <p> POLICE-HYGIENE PUBLIQUE-JUSTICE (1909-1947)</p>
+         <p>  509 Edepot  23</p>
+         <p> ELECTIONS ET PERSONNEL (1854-1925)</p>
+         <p>  509 Edepot  24</p>
+         <p> FINANCES DE LA COMMUNE (1810-1944)</p>
+         <p>  509 Edepot  16 à 17</p>
+         <p> EDIFICES COMMUNAUX (1850-1910)</p>
+         <p>  509 Edepot  18</p>
+         <p> BIENS ET BOIS COMMUNAUX-EAUX (1839-1928)</p>
+         <p>  509 Edepot  19</p>
+         <p> VOIRIE (1852-1899)</p>
+         <p>  509 Edepot  26</p>
+         <p> CULTES (1894-1923)</p>
+         <p>  509 Edepot  27</p>
+         <p> ASSISTANCE ET PREVOYANCE (1854-1925)</p>
+         <p>  509 Edepot  28</p>
+         <p> DOCUMENTS D'ORIGINE PRIVEE (1848)</p>
+         <p>  509 Edepot  29</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>EAUX ET FORETS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Plan des biens communaux de Tromarey, pour servir à un procès, dressé par Jacques-Etienne Dupoirier et Jacques Poncelin, géomètres (juillet 1775).</unittitle>
+                     <unitdate normal="1775">1775</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>DUPOIRIER (Jacques Etienne)</persname>
+                     <persname>PONCELIN (Jacques)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 2</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Tromarey : baptêmes.&lt;lb/&gt;NON VU EN 1969.</unittitle>
+                     <unitdate normal="1701/1706">1701-1706</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Non vu en 1969</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 3</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Tromarey, Chancevigney et Bonboillon : sépultures (mars 1706-décembre 1718) ; mariages (septembre 1706-février 1729) : sépultures (1719-1729) ; baptêmes, mariages, sépultures (septembre 1729-janvier 1737).&lt;lb/&gt;1 registre factice relié carton.</unittitle>
+                     <unitdate normal="1706/1737">1706-1737</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi15R65</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BONBOILLON</geogname>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 4</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Tromarey, Chancevigney et Bonboillon : baptêmes, mariages, sépultures (janvier 1737-janvier 1770) ; bénédiction le 6 décembre 1780 à Bonboillon d'une cloche fondue par Limaux frères, dont le parrain est François-Thérèse Richard, marquis de Villers-Vaudey (1), seigneur de Bonboillon, et la marraine Marguerite-Bonaventure Bergeret, d'une autre cloche fondue à Beaumotte (lès-Pin ?) par Brunel, dont le parrain est Pierre Estier, fils du maire de Bonboillon, et la marraine Thérèse Rabbe, fille de Jean-Baptiste Rabbe, officier municipal.&lt;lb/&gt;1 registre couvert de carton.</unittitle>
+                     <unitdate normal="1737/1791">1737-1791</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi15R65</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BONBOILLON</geogname>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BERGERET (Marguerite Bonaventure, femme RICHARD)</persname>
+                     <persname>BRUNEL</persname>
+                     <persname>ESTIER (Pierre)</persname>
+                     <persname>LIMAUX</persname>
+                     <persname>RABBE (Thérèse)</persname>
+                     <persname>RICHARD (François Thérèse)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 5</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Tromarey, Chancevigney et Bonboillon : baptêmes, mariages, sépultures (1770, 1771, 1772-janvier 1773, 1773-février 1774, février 1774-janvier 1775, 1775, un extrait des registres de Champtonnay et Onay 1775, janvier-novembre 1792, un procès-verbal et un extrait du greffe de la justice de paix du canton de Marnay, sépultures 1792).&lt;lb/&gt;1 registre factice relié en carton.</unittitle>
+                     <unitdate normal="1770/1792">1770-1792</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi15R65</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BONBOILLON</geogname>
+                     <geogname>CHAMPTONNAY</geogname>
+                     <geogname>MARNAY (canton)</geogname>
+                     <geogname>ONAY</geogname>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 6</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Tromarey, Chancevigney et Bonboillon : baptêmes, mariages, sépultures (janvier 1776-décembre 1791).&lt;lb/&gt;1 registre relié carton.</unittitle>
+                     <unitdate normal="1776/1791">1776-1791</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi15R65</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BONBOILLON</geogname>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 25</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Tromarey, Bonboillon et Chancevigney : baptêmes, mariages et sépultures. </unittitle>
+                     <unitdate normal="1647/1711">1647-1711</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BONBOILLON</geogname>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 8</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal : délibérations des communes de Tromarey, Chancevigney et Virey.&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1790/1818">1790-1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHANCEVIGNEY</geogname>
+                     <geogname>TROMAREY</geogname>
+                     <geogname>VIREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 9</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal : délibérations des communes de Tromarey, Chancevigney et Virey (1819-1863). A la fin du registre et à l'envers, registre matricule et états des contributions pour la commune de Tromarey et Chancevigney, actes divers (1831-1862).&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1819/1863">1819-1863</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                     <geogname>VIREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 10</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal : délibérations de la commune de Tromarey-et-Chancevigney (1863-1876). A la fin du registre et à l'envers, estimations des coupes affouagères (1862-1876).&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1863/1876">1863-1876</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 11</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Répertoires des actes de la municipalité soumis à l'enregistrement.</unittitle>
+                     <unitdate normal="1830/1928">1830-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 20</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Conseil municipal : délibérations de la commune de Tromarey-et-Chancevigney.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1876/1893">1876-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT-CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 7</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Registre des actes d'état-civil de la commune de Chancevigney, sur un feuillet indépendant : table décennale des actes de naissances (an II-an XI), mariages (an VIII), table décennale des actes de décès (an XI), publications de mariages (an XII-an XIII), naissances et décès (an XII).</unittitle>
+                     <unitdate>An II-an XIII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHANCEVIGNEY</geogname>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 21</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Recensement quinquennal de la population : listes nominatives.</unittitle>
+                     <unitdate normal="1901/1911">1901-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 12</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Contributions foncières : matrices des propriétés foncières de Tromarey et Chancevigney.</unittitle>
+                     <unitdate normal="1835/1914">1835-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 13</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Cadastre : états de section (s. d. en mauvais état, 1791, an VII).</unittitle>
+                     <unitdate>1791-an VII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 14</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Cadastre : atlas.</unittitle>
+                     <unitdate normal="1834">1834</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ATLAS CADASTRAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 15</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Contributions foncières. Délimitation du territoire de la commune : procès-verbal et plans (1831). Registre présentant les augmentations et diminutions survenues dans les contenances et revenus portés sur les matrices cadastrales (1838-1914). Matrice générale des quatre contributions (1822-1824).&lt;lb/&gt;Poids et mesures. Vérification annuelle pour l'année 1854 : affiche.</unittitle>
+                     <unitdate normal="1822/1914">1822-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 22</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recensement des jeunes gens : tableaux (1952, 1954-1956, 1958-1960, 1962, 1967-1968). Recensement des cantonnements susceptibles d'être utilisés par les troupes (1964).</unittitle>
+                     <unitdate normal="1952/1968">1952-1968</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE-JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 23</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. -Ramonage des cheminées : traité (1920).&lt;lb/&gt;Vaccination : listes nominatives de la vaccine (1909-1947).</unittitle>
+                     <unitdate normal="1909/1947">1909-1947</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POLICE</subject>
+                     <subject>VACCINATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 24</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections municipales (1908, 1925), élections sénatoriales (1908) : procès-verbaux.&lt;lb/&gt;Pâtres : marchés (1854, 1864).</unittitle>
+                     <unitdate normal="1854/1925">1854-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 16</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Budgets (1810-1832, 1874, 1877-1879, 1889).</unittitle>
+                     <unitdate normal="1810/1889">1810-1889</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 17</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptes de gestion (1848-1855, 1857-1861, 1863-1868, 1894-1898). Règlement définitif des recettes et des dépenses : délibérations du conseil municipal (1892-1944).</unittitle>
+                     <unitdate normal="1848/1944">1848-1944</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 18</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Maison commune-école, réparations : factures, correspondance, devis (1884-1910). Réservoir d'eau, établissement d'une voûte : devis, factures (1884-1892). Fontaine et puits, réparations, construction : devis (1875-1884). Réparations à l'église et au presbytère, aux murs d'enceinte de l'église et du cimetière : devis, arrêté préfectoral (1864, 1880-1881). Eglise, réparations : correspondance (1865-1874). Presbytère, acquisition d'une maison, réparations : devis, prêt du curé, construction d'un bâtiment de dépendances (1850-1854, 1876, 1896-1900). Loyer du presbytère (1874).</unittitle>
+                     <unitdate normal="1850/1910">1850-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 19</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux. -Vente (1873). Amodiations des herbes et pelouses (1927-1928). Amodiations des boues (1842-1873). Concessions au cimetière : tarif (1862).&lt;lb/&gt;Bois communaux. -Aménagement : procès-verbaux et plans (1839). Droits d'usage forestiers dans les communes de Tromarey et Chancevigney, Bay et Sornay : pièces de procès (1868-1874, 1894). Vente de bois (1849-1875). Location de la chasse (1848-1926). Exploitation de la coupe affouagère : procès-verbaux d'adjudication (1845-1879).</unittitle>
+                     <unitdate normal="1839/1928">1839-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL D'AMENAGEMENT FO</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                     <subject>BOIS</subject>
+                     <subject>CONCESSION FUNERAIRE</subject>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 26</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Chemins ruraux, travaux, entretien (1852-1899, plans). Route nationale n° 67, rectification entre Bonboillon et Cult (1890).</unittitle>
+                     <unitdate normal="1852/1899">1852-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BONBOILLON</geogname>
+                     <geogname>CULT</geogname>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 27</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Séparation des églises et de l'état : correspondance (1921, 1923).&lt;lb/&gt;Fabrique. -Comptes de gestion (1894-1895), budgets (1895-1897).</unittitle>
+                     <unitdate normal="1894/1923">1894-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 28</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Médecine gratuite : listes des indigents (1854, 1860-1903, 1933), liste des habitants charitables (1854), nomination d'un médecin (1861), enfant assisté : arrêté préfectoral (1874), aliénés (1884),  assistance aux vieillards infirmes et incurables (1907, 1942), soins médicaux aux victimes de la guerre : extrait de décret (1919), assistance aux familles nombreuses (1925), nomination d'un vaccinateur (1906, 1908).&lt;lb/&gt;Bureau de bienfaisance. -Nomination des membres (1861, 1908, 1912).</unittitle>
+                     <unitdate normal="1854/1925">1854-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE MEDICALE</subject>
+                     <subject>AIDE SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>DOCUMENTS D'ORIGINE PRIVEE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>509 Edepot 29</unitid>
+                     <unitid>S1</unitid>
+                     <unittitle>Partage des biens de Jean-Baptiste Longet, décédé.</unittitle>
+                     <unitdate normal="1848">1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>TROMAREY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>LONGET (Jean-Baptiste)</persname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

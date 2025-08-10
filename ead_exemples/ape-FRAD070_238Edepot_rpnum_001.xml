@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_238Edepot_Archives_communales_déposées_de_Fleurey-lès-Saint-Loup" url="https://francearchives.fr/findingaid/b6400db14ed6d50f8bce196bd215b4aaf042e7da">FRAD70_238Edepot_Archives_communales_déposées_de_Fleurey-lès-Saint-Loup</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>238Edepot - Archives communales déposées de Fleurey-lès-Saint-Loup</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>L. GEORGEL</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>238Edepot - Archives communales déposées de Fleurey-lès-Saint-Loup</unittitle>
+         <unitid>238Edepot1-27</unitid>
+         <unitdate normal="1740/1955">1740-1955</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE FLEUREY-LES-SAINT-LOUP</corpname>
+         </origination>
+         <note label="note">
+            <p>FLEUREY-LES-SAINT-LOUP. Inventaire des Archives de la commune déposées aux Archives départementales en 1981 (Avant la révolution, Fleurey-lès-Saint-Loup faisait partie de la paroisse de Saint-Loup-sur-Semouse. Registres paroissiaux : 467 E dépôt 30 à 48).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             25/10/2011
+         </p>
+         <p>Dernier ajout le             25/10/2011
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 1</unitid>
+                     <unitid>CC1, DD1</unitid>
+                     <unittitle>1 registre, couvert en parchemin et portant des inscriptions de l'époque médiévale. Arpentement du territoire de Fleurey-lès-Saint-Loup (1740). 1 page portant acte de vente à la commune d'un terrain pour en faire un chemin de défruitement (1813).&lt;lb/&gt;&lt;lb/&gt;1 pièce papier,&lt;lb/&gt;Circulaire relative à la confection des rôles (s.d.). Adjudication, récolement et ré-arpentage du 1/4 en réserve (1786 ; 1789).</unittitle>
+                     <unitdate normal="1740/1813">1740-1813</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 2</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>1 registre relié, en parchemin avec inscription d'époque médiévale. Délibérations du conseil municipal (floréal an II-floréal an IV).</unittitle>
+                     <unitdate normal="1794/1796">1794-1796</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 3</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>1 registre couvert en parchemin. Délibérations du conseil municipal (messidor an V-mars 1829).</unittitle>
+                     <unitdate normal="1797/1829">1797-1829</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 4</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>1 registre. Délibérations du conseil municipal (mai 1829-novembre 1849).</unittitle>
+                     <unitdate normal="1829/1849">1829-1849</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 5</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>1 registre. Délibérations du conseil municipal (janvier 1850-septembre 1871), avec table.</unittitle>
+                     <unitdate normal="1850/1871">1850-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 6</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>1 registre de 13 feuillets. Arrêtés des maires de la commune.</unittitle>
+                     <unitdate normal="1847/1854">1847-1854</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 7</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>49 pièces. Dénombrement de la population : état nominatif des habitants (1851-1946) ; mouvement de la population : états annuels (1853-1880).</unittitle>
+                     <unitdate normal="1851/1946">1851-1946</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 8</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>39 pièces. Statistiques agricoles décennales (1882 ; 1892) ; statistiques annuelles sur les produits agricoles (1859-1937, discontinu) ; état des récoltes en grains et autres farineux (1858-1859 ; 1864-1874) ; résultats de diverses autres récoltes (1871-1873).</unittitle>
+                     <unitdate normal="1858/1939">1858-1939</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 9</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>1 registre, 2 livrets et 11 pièces. Rapport du directeur des Contributions directes sur une nouvelle sous-répartition de la contribution foncière (1826) ; livre des mutations des propriétés (1818-1834) ; métré des bâtiments dans la commune (1822 ; 1839 ; 1842 ; 1855) ; recensement des portes et fenêtres (1831) ; contributions directes : montant et répartition (1851-1863).</unittitle>
+                     <unitdate normal="1822/1863">1822-1863</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 10</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>44 pièces. Tableau de recensement des jeunes gens (1847-1892 ; 1915 ; 1954).</unittitle>
+                     <unitdate normal="1847/1954">1847-1954</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 11</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>13 pièces. Recensement des chevaux et mulets susceptibles d'être requis pour le service de l'armée (1874-1891) ; réquisitions : état nominatif des personnes ayant droit à une indemnité (1915).</unittitle>
+                     <unitdate normal="1874/1915">1874-1915</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE-JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 12</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>6 pièces. Police locale : arrêtés sur la divagation des chiens errants (1851), sur l'entretien voirie urbaine, fumiers et écoulement des eaux (1853) ; règlement concernant l'utilisation des fontaines publiques (1853 ; 1855) ; ramonage des cheminées (1854 ; 1905).</unittitle>
+                     <unitdate normal="1851/1905">1851-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 13</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>14 pièces. Police générale : souches de passeports.</unittitle>
+                     <unitdate normal="1821/1847">1821-1847</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 14</unitid>
+                     <unitid>I3</unitid>
+                     <unittitle>15 pièces. Salubrité : altération des eaux de la source dite des ""Gorgeottes"" par les eaux de la carrière Thomas, contentieux.</unittitle>
+                     <unitdate normal="1851/1854">1851-1854</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 15</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>54 pièces. Budgets de la commune (1835-1852 ; 1854-1856 ; 1859-1873 ; 1875-1878) ; budget supplémentaire (1878-1893).</unittitle>
+                     <unitdate normal="1835/1893">1835-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 16</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>1 registre et 3 pièces. Demande de subsides au gouvernement pour la construction ou la réparation des bâtiments communaux (1878) ; demande d'autorisation d'emprunt pour financer la quote-part des travaux de l'église de Saint-Loup (1882) ; registre de la taxe sur les chiens (1855-1880).</unittitle>
+                     <unitdate normal="1855/1882">1855-1882</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 17</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>2 plans et 58 pièces. Reconstruction de la maison commune : programme de la restauration, plan, descriptif des travaux, modifications apportées au projet initial, construction d'un clocheton et acquisition d'une cloche, souscription pour financement, correspondance avec les Etablissements Goussel fournisseurs, acquisition d'une parcelle sur la veuve Brochet pour agrandissements des dépendances de la maison d'école, réception provisoire et définitive des travaux, crédit pour paiement du loyer de l'instituteur pendant les travaux (1859-1864). Réparations : de la salle de classe et blanchissage (1867 ; 1881) ; construction d'un mur de clôture pour le jardin de l'instituteur, adjudication des travaux (1867) ; réparation d'une palissade et de la toiture (1872), réparation d'une pièce de la maison commune (1882) ; projet d'ouverture d'une fenêtre supplémentaire dans la salle de classe et contentieux avec le voisin sieur Détrié (1882), adjudication des travaux (1890). Acquisition d'un terrain pour agrandissement de la cour d'école sur le sieur Hugon (1910) ; litige avec le sieur Roussel pour l'acquisition d'une autre parcelle (1911) ; assurance de la maison commune et du mobilier scolaire (1877-1934).</unittitle>
+                     <unitdate normal="1859/1934">1859-1934</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 18</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>3 pièces. Erection d'un monument commémoratif aux morts de la Patrie : marché de gré à gré et réception des travaux.</unittitle>
+                     <unitdate normal="1921/1922">1921-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 19</unitid>
+                     <unitid>M3</unitid>
+                     <unittitle>1 plan et 17 pièces. &lt;lb/&gt;&lt;lb/&gt;Eglise de Saint Loup (Fleurey-lès-Saint-Loup, Magnoncourt et Saint-Loup forment une seule paroisse dont l'église, le cimetière et le presbytère sont sis sur le territoire de Saint-Loup) : acquitement de la quote part pour l'achat de la cloche (1850) ; réparation de la toiture : accord du conseil municipal (1851) ; plan de la toiture de l'église de Saint-Loup (1926). &lt;lb/&gt;Presbytère : restauration, fixation de la quote part (1869) ; bail pour la location du presbytère (1907). &lt;lb/&gt;Cimetière : quote part des communes pour travaux (1880), vente de peupliers situés dans le cimetière (1878), contentieux entre les communes sur concessions et participation aux frais d'entretien (1884) ; agrandissement et construction d'un mur : autorisation, détail des frais d'acquisition des terrains nécessaires et des travaux (1899-1900).</unittitle>
+                     <unitdate normal="1850/1926">1850-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 20</unitid>
+                     <unitid>M4</unitid>
+                     <unittitle>3 plans et 42 pièces. Acquisition d'une maison sur le sieur Brochet pour y établir les archives et le logement de l'instituteur : acte (1828). Four communal : autorisation de construire un four sur terrain communal (1863) ; construction d'un nouveau four : crédit, plans, coupes, devis, adjudication des travaux (1890) ; nouveaux plans-coupes, devis et adjudications et réception des travaux (1893-1894) ; factures des travaux de réparations des fours dits ""du bas"" et du ""haut"" (1920-1921). Fontaines publiques : acquisition de la source dite de ""Gorgeottes"" (1842), contrôle du débit de la source (1891). Démolition de la fontaine des ""Gorgeottes"" : adjudication des travaux (1891), vente de l'auge (1896) ; projet d'amenée d'eau : plan (1905) ; fontaine-lavoir : métré, descriptif, devis et soumissions des travaux de réparations (1908) ; réfection en fonte de deux conduites de grès et installation d'un lavoir abreuvoir en fonte : descriptifs, devis et état des travaux ; acquisition d'une parcelle pour étendre la zone de captage de ""la Huppe"" sur le sieur Détrié (1911-1913).</unittitle>
+                     <unitdate normal="1828/1921">1828-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX-DROITS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 21</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>40 pièces. Bois : rôle de répartition d'affouage (1916) ; adjudication de l'affouage (1849-1854 ; 1863-1920-discontinu) ; vente de bois de futaie et de taillis (1870 ; 1875 ; 1879), d'ételles (1871 ; 1914) ; de produits accidentels (1873 ; 1881 ; 1887).</unittitle>
+                     <unitdate normal="1849/1920">1849-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 22</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>56 pièces. Carrière : amodiation avec droit de passage de la carrière dite de Senssaux (1860-1906) ; un amodiataire le sieur Dufour Cornu (1872-1875 ; 1890 ; 1894) ; autres amodiations, ventes et cessions de droits de passage au sieurs Luzet (1839 ; 1854), entrepreneurs du chemin de fer (1858) ; Denis (1859), Jules Royer (1862), Samarin (1871), Damidaux (1876), Régent Désiré (1879), Drapier Denis (1903 ; 1906) ; acquisitions de parcelles sur le sieur Lafuge et sur la commune d'Aillevillers pour établissement de carrières (1907 ; 1930).</unittitle>
+                     <unitdate normal="1839/1930">1839-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 23</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>13 pièces. Amodiation des eaux et boues des fontaines : adjudications (1853-1879 discontinu).</unittitle>
+                     <unitdate normal="1853/1879">1853-1879</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS-VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 24</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>3 plans, 1 livret et 5 pièces. Voirie urbaine : plan des chemins dits ""La Petite Rangée"" (1840) ; plan (1848) ; vente d'une parcelle communale (1890) ; anticipation et contentieux avec le sieur Félicien Deschène (1877-1879). Eclairage des rues : relevé de consommation (1928).</unittitle>
+                     <unitdate normal="1840/1928">1840-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 25</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>1 livret, 1 plan et 32 pièces. Petite voirie : tableau, état de classement et état des travaux nécessaires, désignation du réseau à achever (1865-1868). Prestations : rôles (1856 ; 1883), tarifs pour conversions en tâches (1863-1870 ; 1883-1892). Entretien : devis général et cahier des charges (1850) ; acquisition d'une parcelle (1860), exploitation d'une sablière (1905), pour la fourniture des matériaux nécessaires. Acquisitions de terrains pour élaragissement du chemin vicinal n°1 sur le sieur Roussel (1846), du chemin vicinal n°3 sur les sieurs Gabrion, Paris, Roussel, Grand-mougin, Collin, Jeanpetit, Parisey, Vautrin (1874), du chemin vicinal n°4 sur le sieur Détrié (1872). Chemins ruraux : construction d'aqueducs (1890 ; 1894).</unittitle>
+                     <unitdate normal="1846/1905">1846-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 26</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>1 plan et 25 pièces. Travaux de curage : rôles de répartition des tâches, avis exécutoires, demande de prolongation de délai (1854-1855 ; 1857) ; ruisseau de la Curtille (1845-1885) ; ruisseau du Cornevain avec un plan des lieux (1857 ; 1913) ; Grand Ruisseau (1857 ; 1884). Projet de curage d'un fossé d'irrigation : état indicatif, devis et cahier des charges, rapport des Ingénieurs du Service Hydraulique des Ponts et chaussées (1880). Concessions d'eau avec sieurs Chevalme (1885) et Damideau (1920).</unittitle>
+                     <unitdate normal="1845/1920">1845-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE-SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>238 Edepot 27</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>2 pièces. Relevé général des constructions scolaires dans le département (1878-1885) ; paiement d'un acompte de la caisse départementale scolaire (1955).</unittitle>
+                     <unitdate normal="1878/1955">1878-1955</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

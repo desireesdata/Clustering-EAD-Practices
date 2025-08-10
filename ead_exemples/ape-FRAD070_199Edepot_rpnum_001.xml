@@ -1,0 +1,480 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_199Edepot_Archives_communales_déposées_de_Dampvalley-lès-Colombe" url="https://francearchives.fr/findingaid/f388c59086ac367318926d46001bd164f4257e40">FRAD70_199Edepot_Archives_communales_déposées_de_Dampvalley-lès-Colombe</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>199Edepot - Archives communales déposées de Dampvalley-lès-Colombe</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>L. Georgel</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>199Edepot - Archives communales déposées de Dampvalley-lès-Colombe</unittitle>
+         <unitid>199Edepot1-24</unitid>
+         <unitdate normal="1703/1908">1703-1908</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE DAMPVALLEY-LES-COLOMBE</corpname>
+         </origination>
+         <note label="note">
+            <p>"C.f. Inventaires imprimés des Archives départementales de la Haute-Saône : 
+B 4216, Etats-généraux. Elections des députés et remontrances, plaintes et doléances de la communauté (1789). 
+B 6980, Déclarations de propriétés faites en exécution de l'édit de 1749. 
+C 7 (?), 48, 194, 218, 266, Administration communale, affaires diverses (XVIIIème siècle). 
+C 365, Rôles et répartements des impositions (1729-1790). 
+G 65, 66 et 92, Titres du chapitre de Vesoul concernant Dampvalley (1566-1788).
+H 361, Id. de l'abbaye de Clairefontaine (XIIème siècle-1260). 
+H 986, Id. des Annonciades de Vesoul (1607-1614). 
+Voir également : A. ECKEL, Inventaire sommaire des Archives départementales antérieures à 1790, (Vesoul, 1942, p. 163), Dampvalley-lès-Colombes, E suppl. 799 et 800 (1703-1787). "</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             09/08/2011
+         </p>
+         <p>Dernier ajout le             09/08/2011
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORETS, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Biens communaux : transaction entre le sieur Lyautey de Vesoul et les habitants de Dampvalley concernant le bois de Charmont (1704, sur parchemin) ; plan des bois communaux (1757) (classé dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône.) ; réparations au presbytère, devis, marché (1763-1765).</unittitle>
+                     <unitdate normal="1704/1765">1704-1765</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>JUSTICE, PROCEDURES, POLICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 2</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Justice : requête auprès de l'intendant pour l'exécution d'une transaction (sans précision) entre les habitants et Jean et Jacques Milliot d'Essernay et Edme Oudot de Colombe.</unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Non communicable</p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 3</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Culte.-Registre paroissial de Dampvalley-lès-Colombe: baptêmes, mariages, sépultures (mars 1703-mai 1778) (Il faut noter que la collection des registres déposés aux Achives départementales par le Greffe du tribunal commence en 1699, mais que le premier cahier de la collection (1699-1711) a été inséré par erreur dans le premier registre de la paroisse de Dampvalley-Saint-Pancras) ; sur deux feuillets indépendants : 1 acte de baptême (avril 1707) ; et déclaration d'une vente faite au sieur Joly, curé du lieu (1727).</unittitle>
+                     <unitdate normal="1703/1778">1703-1778</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 4</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Culte.-Registre paroissial de Dampvalley-lès-Colombe : baptêmes, mariages, sépultures (mai 1778-1787). Lacune de 1788 à 1792, comblée par la collection déposée aux Archives départementales par le Greffe du Tribunal.</unittitle>
+                     <unitdate normal="1778/1787">1778-1787</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 5</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Culte.-Amodiations des biens de la cure (1759) ; désignation d'experts pour la reconnaissance des fonds curiaux, au profit de Jean Vincent, curé de la paroisse contre la communauté de Dampvalley (1760).</unittitle>
+                     <unitdate normal="1759/1760">1759-1760</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>LOIS ET ACTES DU POUVOIR CENTRAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 6</unitid>
+                     <unitid>A1</unitid>
+                     <unittitle>Lois et actes du pouvoir central : lois, arrêtés, lettres-circulaires des ministres.</unittitle>
+                     <unitdate normal="1799/1804">1799-1804</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ACTES DE L'ADMINISTRATION DEPARTEMENTALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 7</unitid>
+                     <unitid>B1</unitid>
+                     <unittitle>Actes de l'administration départementale : arrêtés et lettres-circulaires du Préfet.</unittitle>
+                     <unitdate normal="1800/1804">1800-1804</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 8</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal : délibérations (1790-1811) ; à la fin du registre et à l'envers, notes diverses: procès-verbaux, états de secours accordés, état des salpétriers… (1793-an III ; 1806).</unittitle>
+                     <unitdate normal="1790/1811">1790-1811</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 9</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.</unittitle>
+                     <unitdate normal="1812/1846">1812-1846</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 10</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (1846-1872).Actes de l'administration municipale : répertoire des actes soumis à l'enregistrement (1821-1839).</unittitle>
+                     <unitdate normal="1821/1872">1821-1872</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 11</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Etat civil : extrait de naissance de Simon BERNARD à Dampvalley-lès-Colombe.</unittitle>
+                     <unitdate normal="1793">1793</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 12</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : états du recensement de la population (an II ; 1872) ; mouvement annuel (1870-1906).</unittitle>
+                     <unitdate normal="1794/1906">1794-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 13</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Contributions : nominations de répartiteurs (an VIII ; 1853 ; 1858) ; extraits d'un état de section (1824) ; rôles de la rétribution scolaire (1872-1881).</unittitle>
+                     <unitdate normal="1800/1881">1800-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 14</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Contributions : rôles de prestations sur les chemins vicinaux.</unittitle>
+                     <unitdate normal="1872/1898">1872-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 15</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Affaires militaires : circonscription et levées d'hommes (an IV ; an IX; an XI) ; état des fusils (1792). Garde nationale : liste des membres du conseil de discipline et des sous-officiers d'armement (1835). Armée du Danube : réquisitions (an II-an VII). Guerre de 1870 : réquisitions, indemnités (1871-1873).</unittitle>
+                     <unitdate normal="1792/1873">1792-1873</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 16</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police rurale : visite des fours particuliers (1826). Police générale : procès-verbal d'arrestation de Claude-François Roland (1792) ; prisonnier libéré (1878).Salubrité : épizootie, déclaration de perte de bétail (an II).</unittitle>
+                     <unitdate normal="1792/1878">1792-1878</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 17</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections : listes électorales (1872-1905) ; élections municipales (an VIII ; 1809 ; 1852). Personnel communal : marché de pâtres (1824).</unittitle>
+                     <unitdate normal="1800/1905">1800-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 18</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Finances de la commune : budget (an XII ; 1879) ; compte du maire, reçus et quittances (an II) ; compte de l'administration municipale du canton de Noroy (an IV-an VI).</unittitle>
+                     <unitdate normal="1794/1879">1794-1879</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 19</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices publics.-Maison commune, travaux (1826 ; 1856 ; 1876). Four communal, projet de construction (1821-1824), réparations (1825-1831). Fontaine, réparations (1839). Eglise, travaux (1830-1849 ; 1898). Ecole/presbytère, achat de maisons pour l'école et le logement de l'instituteur (1793-1825 ; 1838, 1 croquis) ; réparations dans l'écurie et le grangeage du presbytère pour loger l'instituteur (1833, 1 plan) ; création d'une école dans le presbytère (1836) ; réparations au presbytère (1839 ; 1847 ; 1851) ; construction d'une nouvelle école mixte (1880-1889, 1 plan (classé dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône.) (s.d.). Presbytère, acquisition et échange d'une maison, restauration (1830) ; procès concernant les réparations du mur de clôture (1851-1852).</unittitle>
+                     <unitdate normal="1793/1898">1793-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 20</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux : réintégration de la commune dans la possession de ses biens (an XIII) ; vente de terrains (1843) ; amodiations (1874 ; 1880). Bois communaux : aménagement (1823-1824) ; anticipation de la limite d'un bois (1853) ; litige concernant la propriété du bois dit ""Fort Brousse"" entre Louis Lyautey de Colombe et la commune de Dampvalley (an II-1821, 1 plan (classé dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône.)).</unittitle>
+                     <unitdate normal="1794/1880">1794-1880</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 21</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Bois communaux.-Répartition du taillis et de la futaie (1809 ; 1851-1908) ; vente de bois de futaie (1844-1908); exploitation de la coupe affouagère (1819, 1 plan (classé dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône) ; 1871-1908) ; menus marchés et produits accidentels (1877-1890). </unittitle>
+                     <unitdate normal="1809/1908">1809-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIES, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 22</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie : alignement de la Grand'Rue (1858, 1 plan) ; chemins vicinaux, travaux (1825 ; 1856) ; procès-verbal de délimitation (1827) ; états des travaux (1854 ; 1873) ; tableau général (1890) ; chemin vicinal n° 2, de Noroy-le-Bourg à Vesoul (1882-1884) ; chemin vicinal n° 3, de Dampvalley à la R.N. 19 (1874) ; chemin de grande communication n° 24, de Vesoul à Villersexel par Noroy (1850-1853) ; R.N. 19, de Paris à Bâle (1875) ; ponts, constructions (1832 ; 1850-1851 ; 1872 ; 1901) ; créations de ressources (1896-1906) ; prestations (1884-1885). Régime des eaux : règlement d'eau du moulin (1884-1886) ; curage de la Colombine (1857-1885).</unittitle>
+                     <unitdate normal="1825/1906">1825-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 23</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Assistance : secours d'urgence aux familles de militaires (an II-an III) ; crédit accordé pour l'assistance médicale (1873).</unittitle>
+                     <unitdate normal="1794/1873">1794-1873</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>199 Edepot 24</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique : bibliothèque scolaire (1881) ; instituteurs, marché et traitement (1829 ; 1872).</unittitle>
+                     <unitdate normal="1829/1881">1829-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

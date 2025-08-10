@@ -1,0 +1,413 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_239Edepot_Archives_communales_déposées_de_Fondremand" url="https://francearchives.fr/findingaid/40f1828367d07e2af548f4f4854d5b9cd87ef057">FRAD70_239Edepot_Archives_communales_déposées_de_Fondremand</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>239Edepot - Archives communales déposées de Fondremand</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>L. GEORGEL</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>239Edepot - Archives communales déposées de Fondremand</unittitle>
+         <unitid>239Edepot1-22</unitid>
+         <unitdate normal="1577/1907">1577-1907</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE FONDREMAND</corpname>
+         </origination>
+         <note label="note">
+            <p>C.f. Inventaires imprimés des Archives départementales de la Haute-Saône : 
+B 4217, états généraux. Elections des députés et remontrances, plaintes et doléances des habitants de Fondremand (1789) ; 
+B 6985, déclarations de propriétés dans la communauté faites en exécution de l'édit du mois de mai 1749 ; 
+B 8046, justice seigneuriale de Fondremand : dénombrement de la dite seigneurie (1585-1778) ; 
+C 7, 195, 198, administration communale, affaires diverses (XVIIIème siècle) ; 
+C 384, rôles et répartements des impositions dans la communauté (1722-1790) ; 
+G 121 et 205, titres de la cure de Fondrement (1713-1790) ; 
+Cf. A. RICHARDOT, Monographie de Fondremand (Grasse, 1942), </p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             25/10/2011
+         </p>
+         <p>Dernier ajout le             25/10/2011
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX-EAUX ET FORETS-TRAVAUX PUBLICS-VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>1 liasse, 4 cahiers, 1 pièce papier. Partage et transaction entre les habitants de Fondremand, Eguilley, les Fontenis, la Malachère, Quenoche, Hyet, Traitiefontaine et la Villedieu-lès-Quenoche, au sujet des bois cédés par Jean-Henri-François de Rosières, baron de Fondremand, aux susdites communautés (1771). Sentence contre Nicolas Chambellan, pour délit dans les bois (1781)</unittitle>
+                     <unitdate normal="1771/1781">1771-1781</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES-INSTRUCTION PUBLIQUE-ASSISTANCE PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 2</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>1 registre sans couverture en très mauvais état. Non communicable. Registre paroissial de Fondremand et de la Roselière ( même commune), de la Goutte (commune de le Cordonnet), de Eguilley, des Fontenis, de la Malachère, de la Bourotte (commune de Rioz) et de Trésilley : baptêmes (les premiers et les derniers feuillets du registre manquent ; un feuillet détaché de 1577 ; 1603-1605 ; plusieurs feuillets arrachés ; novembre 1608-1618).</unittitle>
+                     <unitdate normal="1577/1618">1577-1618</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 3</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>1 registre sans couverture en très mauvais état. Non communicable. Registre paroissial de Fondremand et dépendances, avec de nombreux actes concernant Granvelle et Maizières : baptêmes (le registre est très incomplet du début et de la fin, et les feuillets sont déchirés et attaqués par l'humidité ; 1632-1636 ; 1645-1670, plusieurs feuillets manquent ; 1671, plusieurs feuillets manquent ; 1673-1675 incomplet ; plusieurs feuillets manquent ; 1680-1682, 1 feuillet manque ; 1683-mai 1685).</unittitle>
+                     <unitdate normal="1632/1684">1632-1684</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 4</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>1 registre sans couverture et en très mauvais état. Non communicable. Registre paroissial de Fondremand et dépendances : baptêmes (le registre est très incomplet du début et de la fin et les feuillets sont déchirés et rognés ; 1683-1687, plusieurs feuillets manquent ; 1689-1701, un feuillet manque ; 1702-1705, plusieurs feuillets manquent ; 1707-1710, le feuillet 69 manque ; 1710-1711, plusieurs feuillets manquent ; 1714-1718, plusieurs feuillets manquent ; 1718-1720, deux feuillets manquent ; 1720-1727, plusieurs feuillets manquent ; 1729).</unittitle>
+                     <unitdate normal="1683/1729">1683-1729</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 5</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>1 registre sans couverture en très mauvais état. Registre paroissial de Fondremand et dépendances : mariages (les premiers feuilelts manquent ; 1582-1605, 1 feuillet découpé ; 1606-1636 ; 1658-1709) ; en commencant par la fin du registre, à l'envers : sépultures (les premiers feuillets qui étaient les derniers du registre manquent ; 1635-1636) notes du curé sur ses moissons (1636) ; à l'endroit : anniversaires fondés et célébrés à l'église de Fondremand (vers 1620-1630), 1 feuillet découpé ; à l'envers : sépultures (1658-1709).</unittitle>
+                     <unitdate normal="1582/1709">1582-1709</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 6</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>1 registre sans couverture en très mauvais état. Registre paroissial de Fondremand : mariages (1 feuillet détaché avec des actes de 1695-1696 ; 1 feuillet détaché, de même 1701-1702 ; 1709-1736).</unittitle>
+                     <unitdate normal="1695/1736">1695-1736</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 7</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>1 registre sans couverture. Registre paroissial de Fondremand : sépultures (1670-1688 ; 1709-1737).</unittitle>
+                     <unitdate normal="1670/1737">1670-1737</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 8</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>1 cahier sans couverture. Registre parroisial de Fondremand : baptêmes, mariages et sépultures.</unittitle>
+                     <unitdate normal="1737/1738">1737-1738</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 9</unitid>
+                     <unitid>GG8</unitid>
+                     <unittitle>1 registre, reliure ancienne en cuir, en très mauvais état. Registre paroissial de Fondremand et dépendances : baptêmes (mars 1729-1730, les pages 15 et 16 manquent ; 1731-1736) ; baptêmes, mariages et sépultures (1737-mai 1753).</unittitle>
+                     <unitdate normal="1729/1753">1729-1753</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 10</unitid>
+                     <unitid>GG9</unitid>
+                     <unittitle>1 registre couvert en parchemin en mauvais état. Registre parroissial de Fondremand et dépendances : baptêmes, mariages, sépultures (1753, mai-juin ; août 1753-juillet 1775). Les feuillets cotés 2, 170 et 180 manquent.</unittitle>
+                     <unitdate normal="1753/1775">1753-1775</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 11</unitid>
+                     <unitid>GG10</unitid>
+                     <unittitle>1 registre couvert en parchemin. Registre paroissial de Fondremand et dépendances : baptêmes, mariages, sépultures (août 1775-1792).</unittitle>
+                     <unitdate normal="1775/1792">1775-1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>DOCUMENTS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 12</unitid>
+                     <unitid>II1</unitid>
+                     <unittitle>2 pièces papier. Pièces diverses : état de la dépense faite au sujet de l'entretien du ménage de ""Claude"" (1753) ; quittance du receveur de l'abbaye de la Charité pour le paiement de ""cent basses messes et cinquante hautes messes"" (1781)</unittitle>
+                     <unitdate normal="1753/1781">1753-1781</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 13</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>1 registre relié parchemin. Registre des délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1791/1819">1791-1819</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 14</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>1 registre relié parchemin. Registre des délibérations du conseil municipal (1819-1851) ; à la fin du registre liste des citoyens faisant partie de la garde nationale.</unittitle>
+                     <unitdate normal="1819/1851">1819-1851</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 15</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>1 registre cartonné. Registre des délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1851/1877">1851-1877</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 16</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>164 pièces papier. &lt;lb/&gt;Population : état de la population (an II) ; dénombrements de la population (1866-1872) ; tableaux annuels des statistiques des décès (1877).&lt;lb/&gt;Agriculture : statistiques agricoles (1856 ; 1875) ; état des récoltes (1856) ; demande d'établissement de grandes foires (1792) ; indémnités relancées pour pertes (1790-an III),</unittitle>
+                     <unitdate normal="1790/1877">1790-1877</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 17</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>117 pièces papier. 4 cahiers papier. Impôts directs : rôles de la taxe municipale sur les chiens (1861-1903), matrices de rôle des contributions foncières (1791 ; an VI) ; matrices de rôle de la contribution mobilière (1791, an V) ; quittances pour droit de patente (an V-an VIII).</unittitle>
+                     <unitdate normal="1791/1903">1791-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 18</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>28 pièces papier. Recrutement : tableaux de recensement des jeunes gens de Fondremand (1842-1870) ; états des militaires (an II-an VII) ; militaires pensionnés (1791) ; secours aux parents des militaires (an III) ; états de recensement des grains, montures, attelages, fourrages, bestiaux (an II-an III) ; état des récquisitions (an II),</unittitle>
+                     <unitdate normal="1791/1870">1791-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX-DROITS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 19</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>172 pièces papiers, &lt;lb/&gt;Biens communaux : vente de biens nationaux (1791-an V) ; aliénation de terrains communaux avec plans (1853-1868) ; acquisition, partage, délimitation, aménagement en bois du terrain appelé ""la forêt"" par les communes d'Eguilley, Trésilley, Fondremand (1762-1862). &lt;lb/&gt;Bois : pièces relatives à l'abattage, à l'exploitation, la délivrance, la vente de bois de la commune (1843-1904) ; exploitation de la coupe affouagère (1853-1906) ; listes provisoires des ayants-droit à la répartition du taillis et de la futaie de la coupe (1870-1907) ; aménagement des bois de la commune (1807). Arpentement des lois (an II) ; procès entre les agents de Rioz et de Fondremand au sujet d'un bois (an V) ; P.V de reconnaissance de délit dans les bois (an III) ; P.V d'adjudication de menus marchés (1839-1844) ; rapports mensuels du garde-champêtre (1862).</unittitle>
+                     <unitdate normal="1762/1907">1762-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS-VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 20</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>25 pièces papier, dont 2 plans. Petite voirie : élargissement du chemin vicinal ordinaire n° 2 de Fondremant à Recologne (1869) ; élargissement du chemin de la ""Carrière"" (1864) ; rôles de prestation (1880-1903).</unittitle>
+                     <unitdate normal="1864/1903">1864-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 21</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>6 pièces papier. Application des lois d'assistance et de prévoyance : livres à souches des certificats délivrés par le maire aux nourrices, gardeuses ou sevreuses (1880) ; registre servant à l'inscription des livrets des enfants et filles mineurs employés dans l'industrie (s.d.). Liste et état des indigents (1854).</unittitle>
+                     <unitdate normal="1854/1880">1854-1880</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE-SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>239 Edepot 22</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>7 pièces papier. Nomination de l'instituteur Projean (an III) ; procèdure entre particuliers (1792) ; sel de Salins (an III).</unittitle>
+                     <unitdate normal="1792">1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

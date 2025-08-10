@@ -1,0 +1,865 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_242Edepot_Archives_communales_déposées_de_Fontenois-la-Ville" url="https://francearchives.fr/findingaid/f43f9e636068553532d28163de6eb69c852c6d50">FRAD70_242Edepot_Archives_communales_déposées_de_Fontenois-la-Ville</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>242Edepot - Archives communales déposées de Fontenois-la-Ville</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>L. Georgel</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>242Edepot - Archives communales déposées de Fontenois-la-Ville</unittitle>
+         <unitid>242Edepot1-57</unitid>
+         <unitdate normal="1582/1952">1582-1952</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE FONTENOIS-LA-VILLE</corpname>
+         </origination>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             09/08/2011
+         </p>
+         <p>Dernier ajout le             09/08/2011
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Finances et impôts : taxes perçues au nom du roi Stanislas (1758).Bois communaux : procès entre les habitants de Fontenois-la-Ville et ceux de Fontenoy-le-Château, concernant les droits dans les bois de Fontenois-la-Ville (1582 ; 1613 ; 1685) ; transaction relative aux bois entre les habitants de Fontenois-la-Ville et ceux de Fontenoy-la-Côte (1616 ; 1738) ;  transaction entre les habitants de Dampvalley-les-Cuve et ceux de Fontenois-la-Ville au sujet de la propriété d'un bois (1702 ; 1709) ; arrêt du conseil d'état concernant les bois de Fontenois-la-Ville, avec une lettre du roi Stanislas pour exécution (1761, un plan (classé dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône) ; ordonnance pour le nettoiement des fossés (1783)).Biens communaux: procès entre les habitants de Fontenois-la-Ville et ceux de Fontenoy-le-Château au sujet de la vaine pâture (1628) ; échange de terrains entre les habitants de Fontenois-la-Ville et les sieurs Poirot et Chassard de Fontenoy-le-Château (1692) ; acensement (1719).Edifices publics : transaction par laquelle les habitants de Fontenois-la-Ville décident que leurs droits et bénéfices seront consacrés à la reconstruction de l'église (1611).</unittitle>
+                     <unitdate normal="1582/1783">1582-1783</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 2</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Culte : registre paroissial de Fontenois-la-Ville et dépendances : baptêmes (1677-1688 ; 1701-mars 1710) ; mariages (1673-1676 ; 1681-1685 ; 1701-1710) ; feuillet interverti, de baptêmes (1674-novembre 1675), décès (1673-1677 ; 1681-1686 ; décembre 1700-1709).</unittitle>
+                     <unitdate normal="1673/1710">1673-1710</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 3</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Fontenois-la-Ville et dépendances : baptêmes, mariages, décès (juin 1687-décembre 1706).</unittitle>
+                     <unitdate normal="1687/1706">1687-1706</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 4</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Fontenois-la-Ville et dépendances : baptêmes, mariages, décès (juin 1687-octobre 1703) ; baptêmes, mariages, (novembre 1711-mars1712 ; décembre 1710-juillet 1713).</unittitle>
+                     <unitdate normal="1687/1713">1687-1713</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 5</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Fontenois-la-Ville et dépendances : baptèmes, mariages, décès (octobre 1713-décembre 1764) ; mariages (1647-1667) ; baptêmes (1682-1685) ; baptêmes, mariages, sépultures (1713-1764).</unittitle>
+                     <unitdate normal="1647/1764">1647-1764</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 6</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Fontenois-la-Ville et dépendances : baptêmes, mariages, décès (janvier 1765-octobre 1772).</unittitle>
+                     <unitdate normal="1765/1772">1765-1772</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 7</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Fontenois-la-Ville et dépendances : baptêmes, mariages, décès (janvier 1774-décembre 1775 ; novembre 1772-décembre 1773 ; décembre 1775-1787 ;  dans le registre de 1788, est signalée la bénédiction de l'église, le 22 avril ; 1788-décembre 1791).</unittitle>
+                     <unitdate normal="1772/1791">1772-1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 8</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Culte : sentence concernant une fondation de 24 messes, non acquittée (1754).Commerce : litige entre le comté de Bourgogne et le comté de Lorraine au sujet d'un transport de vin par les habitants de Fontenois-la-Ville (1569).Douments divers : contrat de mariage entre François Olivier et Marie Paris (1754) ; accord avec le curé Gounot pour détourner un ruisseau dans un terrain lui appartenant afin d'irriguer le terrain du sieur Paquier (1759) ; échange de terres entre particuliers (1765) ; tuelle des enfants Gaspard Mercier de Fontenois-la-Ville (1772).</unittitle>
+                     <unitdate normal="1754/1772">1754-1772</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>LOIS ET ACTES DU POUVOIR CENTRAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 9</unitid>
+                     <unitid>A1</unitid>
+                     <unittitle>Lois et actes du pouvoir central : loi et ordonnance du Roi (1790 ; 1842) ; actes imprimés des ministres (1814-1820 ; 1876).</unittitle>
+                     <unitdate normal="1792/1876">1792-1876</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ACTES DE L'ADMINISTRATION DEPARTEMENTALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 10</unitid>
+                     <unitid>B1</unitid>
+                     <unittitle>Actes de l'administration départementale : actes imprimés des préfets et sous-préfets (an XIII-1831) ; placards (1833-1843).</unittitle>
+                     <unitdate normal="1805/1843">1805-1843</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 11</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Administration de la commune : délibérations du conseil municipal (1 cahier, 1791-1792 ; 1 registre, an II-1831).</unittitle>
+                     <unitdate normal="1791/1831">1791-1831</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 12</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1831/1848">1831-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 13</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1848/1878">1848-1878</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 14</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1878/1893">1878-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 15</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Répertoires des actes soumis l'enregistrement.</unittitle>
+                     <unitdate normal="1807/1952">1807-1952</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 16</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Etat civil : extraits d'état civil envoyés par d'autres communes en vue de transcription ou de mention, naissances (1824-1874) ; mariages (1897-1898) ; promesses de mariages (1828 ; 1874-1875) ; décès (1842-1854) ; correspondance avec le Parquet au sujet des erreurs et omissions dans les registres d'état civil (1826-1839).</unittitle>
+                     <unitdate normal="1824/1898">1824-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 17</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population: mouvement.</unittitle>
+                     <unitdate normal="1853/1906">1853-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 18</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Dénombrement de la population.</unittitle>
+                     <unitdate normal="1856/1906">1856-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 19</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Agriculture: listes électorales de la chambre d'agriculture (1919-1933) ; statistique agricole annuelle (1853-1906) ; subvention pour la reconstitution des vignes (1892) ; liste de récoltants (1917) ; statistique agricole décennale (1852-1892) ; marché d'entretien du taureau communal (1825 ; 1899-1924).</unittitle>
+                     <unitdate normal="1825/1933">1825-1933</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 20</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>Industrie: listes électorales de la chambre de commerce (1908, Gray ; 1909-1927, Lure). Subsistance: restriction à la consommation du pain (1918).</unittitle>
+                     <unitdate normal="1908/1927">1908-1927</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 21</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Contributions: état de section, section A (incomplet).</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 22</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Etat de section, section C (incomplet).</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 23</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Etat de section, section D (incomplet).</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 24</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Livres des mutations, 1er volume.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 25</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Livres des mutations, 2ème volume.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 26</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Livres des mutations, 3ème volume.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 27</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Matrices.</unittitle>
+                     <unitdate normal="1822/1841">1822-1841</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 28</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Matrices.</unittitle>
+                     <unitdate normal="1850/1865">1850-1865</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 29</unitid>
+                     <unitid>G9</unitid>
+                     <unittitle>Matrices.</unittitle>
+                     <unitdate normal="1866/1881">1866-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 30</unitid>
+                     <unitid>G10</unitid>
+                     <unittitle>Matrices.</unittitle>
+                     <unitdate normal="1882/1899">1882-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 31</unitid>
+                     <unitid>G11</unitid>
+                     <unittitle>Délimitation des départements des Vosges et de la Haute-Saône (1824-1825, correspondance) ; patentes, réclamations et avertissement (1853-1860) ; nomination des commissaires répartiteurs (1816-1841) ; rôles de prestations en nature (1848-1910).</unittitle>
+                     <unitdate normal="1816/1910">1816-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 32</unitid>
+                     <unitid>G12</unitid>
+                     <unittitle>Mandement (1808-1824) ; rôles des 4 contributions (1861-1872). Postes et téléphone: tournée du facteur, réclamation de la mairie (1875) ; ligne et bureau téléphonique (1902-1907).</unittitle>
+                     <unitdate normal="1808/1907">1808-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 33</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Affaires militaires : recensement, tableaux et extraits (an IX-1911 ; 1944).</unittitle>
+                     <unitdate normal="1801/1944">1801-1944</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 34</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Armée territoriale : tableau de recensement (1855-1866) ; formation (1874) ; réquisitions de voitures pour le parc de Landau (an II) ; décès de militaires (an II ; 1832 ; 1853) ; transferts de corps (1921-1922 ; 1949) ; conscrits libérés ou décédés (1809-1810) ; libérations de militaires (1843 ; 1855) ; soutien de famille (1872-1942) ; logement et cantonnement des troupes (1878-1879 ; 1891 ; 1916).</unittitle>
+                     <unitdate normal="1794/1949">1794-1949</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 35</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Garde Nationnale : livret de règlement du service (1816) ; élections des officiers et sous-officiers (1831-1870) ; contrôle du service ordinaire (1848) ;  état nominatif des jeunes gens (1848-1870) ; conseil de recensement (1870). Sapeurs-pompiers: achat d'une pompe à incendie (1846) ; création d'un corps de sapeurs (1852) ; engagement ; démisson (1871 ; 1900-1911 ; 1921) ; subventions de l'état (1901 ; 1921-1922) ; subventions de la commune (1905) ; élections au conseil suppérieur (1907-1912).</unittitle>
+                     <unitdate normal="1816/1922">1816-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 36</unitid>
+                     <unitid>H4</unitid>
+                     <unittitle>Invasion de 1815 : réquisitions, réclamations, indemnisations (1815-1822). Guerre de 1870 : réquisitions, demande de remplacement d'un solat par son frère (1870-1871). Guerre de 1914-1918 : réquisitions ; ravitaillement ; cantonnement ; indemnisations ; demande de renseignements militaires ; démobilisation (1914-1919).</unittitle>
+                     <unitdate normal="1815/1919">1815-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 37</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale : cérémonies, naissance du duc de Bordeaux et décès du duc de Berri (1820) ; demandes de renseignements (1793-an III ; 1909) ; délits, arrestations, condamnations, acquittements (an III-1873) ; certificat de bonne conduite (1833-1844) ; découverte d'un noyé (1909) ; sinistres, incendies, grêle, victimes du froid (1822-1825 : 1890-1894) ; salpêtres (1816-1819); four particulier (1824) ; ouverture illégale d'une auberge (1852) ; toitures en chaume (1853) ; ramonage des cheminées (1861-1896).</unittitle>
+                     <unitdate normal="1793/1909">1793-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 38</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Police générale : passeports (1815-1861) ; condamnés libérés (1817-1853).</unittitle>
+                     <unitdate normal="1815/1861">1815-1861</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 39</unitid>
+                     <unitid>I3</unitid>
+                     <unittitle>Justice : extraits de jugement (1806 ; 1811 ; 1839 ; 1872 ; 1904) ; différend entre deux particuliers au sujet d'un conduit qui inonde la maison de l'un (1809) ; lettres imprimées des procureurs, notaire, et avoué, adressées au maire (1814-1831) ; vente entre particuliers, puis contentieux avec la commune concernant le droit de passage (1819-1837) ; séparation entre époux (1872 ; 1892) ; contrat de mariage (1885).</unittitle>
+                     <unitdate normal="1806/1904">1806-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 40</unitid>
+                     <unitid>I4</unitid>
+                     <unittitle>Hygiène publique : épizooties (an V-1938) ;  épidémies, choléra (1853-1854) ; enquête sanitaire (1904-1906) ; sage-femme (1921).</unittitle>
+                     <unitdate normal="1797/1938">1797-1938</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 41</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections : listes électorales (1831-1934) ; incapcités électorales (1864-1874).</unittitle>
+                     <unitdate normal="1831/1934">1831-1934</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 42</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections municipales, démission du maire (1808-1819) ; élection du Président de la République (1851) ; rétablissement de l'Empire (1852) ; élections législatvies (1852-1919) ; élections au conseil général (1852-1934) ; élections au conseil d'arrondissement (1861-1919) ; éléctions sénatoriales (1876-1907). </unittitle>
+                     <unitdate normal="1808/1934">1808-1934</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 43</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Personnel communal.-Garde champêtre, nomination, rénovation, démission (1806-1941) ; bûcheron (1807-1827) ; nomination d'un clerc, démission (1808-1810) ; pâtre (1817-1900) ; garde-forestier (1832 ; 1881 ; 1901) ; cantonnier (1852-1941) ; marché de nettoiement des fontaines (1866) ; receveur municipal, traitement (1882-1923) ; secrétaire de mairie, nomination (1941).</unittitle>
+                     <unitdate normal="1806/1941">1806-1941</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 44</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Finances de la commune : comptes administratifs (an II-1850), comptes de gestion (1800-1823) ; arrêtés d'apurement (1865-1866) ; arrêté du conseil de préfecture concernant la gestion de 1875 ; budgets (1857 ; 1867 ; 1869) ; reçus et quittances (an II-an IV ; 1815-1817) ; offres de prêt à la commune (1887) ; vente de mobilier ayant appartenu aux religieuses (1898).</unittitle>
+                     <unitdate normal="1794/1898">1794-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 45</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices communaux et publics : maison commune, réparations (1823-1836) ; travaux aux édifices publics (1887) ; école de garçons, travaux (1873) ; déplacement d'un escalier (s.d., 2 plans) ; école de filles, réparations (1928) ; acquisition de maisons pour loger les instituteurs (1822) ; presbytère :  achat (1814) ; réparations (1822 ; 1849 ; 1862 ; 1931) ; location (1911-1938) ; église, décoration (1825 ; 1840) ; achat d'une horloge (1847) et réparation (1887) ; réparation de la croix (1860) ; boiserie dans la nef (1864, 1 plan) ; pose d'un coq (1873) ; travaux à l'église (1897) ; réparations au clocher (1928) ; cloches, refonte (1812 ; 1844) ; achat (1822) ; cimetière, construction (1851-1856 ; 1854 1 plan (classé dans la collection des plans communaux déposés aux Archives départementale de la Haute-Saône)) ; échange de terrain pour agrandissement (1860) ; acquisition d'une Vierge (1862); monument aux morts (1920-1921, 2 plans classés dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône ; pont à bascule, achat installation (1909).</unittitle>
+                     <unitdate normal="1812/1938">1812-1938</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 46</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>Fontaines : réparations (1819) ; construction (1824-1828 ; 1876-1877 ; 1886 (1 plan)) ; achat d'une source (1851-1869) ; captage (1871-1880) ; construction d'un lavoir couvert et un établissement de deux bornes-fontaines (1886-1888, 2 plans) ; plainte au sujet d'infiltrations dues à la fontaine et au égoûts (1902) ; alimentation en eau des fontaines (1912) ; couverture des lavoirs (1926, 1 plan) ; fontaine de la Grange Grillot, travaux (1839 ; 1911 ; 1 plan ; 1912) ; fontaine Gagnez, construction d'un récipient et établissement d'une conduite d'eau (1904-1906) ; fontaine Médéon, réparations (1910).</unittitle>
+                     <unitdate normal="1819/1926">1819-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 47</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Bois communaux : répartition du taillis de la coupe affouagère (1790-1860) ; affouage, réclamations (1819-1874).</unittitle>
+                     <unitdate normal="1790/1874">1790-1874</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 48</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Exploration des bois communaux (1806-1857) ; ventes de chablis, ételles, menus marchés (1807-1906).</unittitle>
+                     <unitdate normal="1806/1906">1806-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 49</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Pétition des habitants de Fontenois-la-Ville pour garder leurs droits dans les bois, après la création des départements (an XIII), aménagement et boisement des bois communaux (1823-1923) ; procès-verbal de martelage des bois pour la marine (1821-1823) ; délits forestiers (1825 ; 1837 ; 1896) ; construction dans le rayon prohibé des forêts (1871) ; prise d'eau dans la forêt communale (1874).</unittitle>
+                     <unitdate normal="1805/1896">1805-1896</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 50</unitid>
+                     <unitid>N4</unitid>
+                     <unittitle>Biens communaux : amodiations (an II-1857) ; inventaire et état (1813 ; s.d.) ; vente des communaux (1 plan classé dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône s.d.) ; vaine-pâture (1825-1901) ; réclamations (1900) ; vente (s.d.) et échange (1814) entre particuliers ; plan classé dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône d'une parcelle de la section A (1849).</unittitle>
+                     <unitdate normal="1794/1901">1794-1901</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 51</unitid>
+                     <unitid>N5</unitid>
+                     <unittitle>Eaux et droits divers : puits publics, achat (1858) ; réparations au puits du Faubourg (1879) ; projet de construction (1880) ; construction d'une auge (1895, 1 plan) ; conduite d'eau (1875-1876 ; 1934) ; travaux (1906 ; 2 plans s.d) ; achat d'une source à un particulier (1912) ; concessions au cimetière (1862-1932).</unittitle>
+                     <unitdate normal="1858/1934">1858-1934</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIES, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 52</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine : réparations aux pavés des rues (1829) ; alignement (1849-1905, 5 plans et 1 fragment s.d. ; 1 plan classé dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône des rues du village s.d.) ; anticipations sur la voie publique (1810-1856 ; 1824, 1 plan) ; dont l'affaire Gallet (1828-1839) ; rue Médéon, construction d'une nouvelle passerelle (1860-1861, 1 plan) ; construction de canaux d'égoût (1824 ; 1866) ; grille d'égoût (1923) ; aqueducs (1860, 1 plan ; 1901).</unittitle>
+                     <unitdate normal="1810/1923">1810-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 53</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Petite voirie.- Chemins vicinaux : tableau général ; travaux ; rectifications (1902, 1 plan) ; procès-verbal de reconnaissance (1901, 1 plan ; 1905, 1 plan) ; état de classement (1821-1905) ; 2 plans classés dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône des chemins vicinaux (s.d) ; 1 plan classé dans la collection des plans communaux déposés aux Archives départementales de la Haute-Saône des chemins de défruitement (1825) ; chemins vicinal de Fontenois-la-Ville à Mailleroncourt-Saint-Pancras (1839-1908, 5 plans) ; chemin vicinal n° 4, de Fontenois-la-Ville à Fontenoy-le-Château (1876-1883) ; chemins de grande communication n° 18 et 30 (1892) ; chemin rural n° 2, dit ""de Chauffour"" (1898, 1 plan) ; chemin rural n° 4, dit de ""Grands Champs"" (1922, 1 plan) ; prestations en nature (1837-1904) ; réclamations (1853-1864) ; créations de ressources (1849-1906).</unittitle>
+                     <unitdate normal="1821/1922">1821-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 54</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Régime des eaux: canal de l'Est, établissement de parapets (1886); curage des ruisseaux (1825-1923, 2 plans); curage des fossés, procès entre la commune et le sieur Hayaux (1842); étangs pricés, délimitation, classement, curage des ruisseaux, mise en eau (1824-1833 ; 1875).</unittitle>
+                     <unitdate normal="1824/1923">1824-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 55</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte.-Fabrique : demande de subvention à la commune (1853) ; comptes et budgets (1869-1887) ; extraits de délibérations (1883-1903) ; indemnité allouée au curé en remplacement du casuel (1875-1879) ; attribution des anciens biens de la fabrique au bureau de bienfaisance, dont la fondation Thérèse Simon (1909 ; 1932) ; séparation de l'église et de l'Etat (1917-1925).</unittitle>
+                     <unitdate normal="1853/1932">1853-1932</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 56</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Assistance et prévoyance : bureau de bienfaisance, règlement des recettes et dépenses (1831 ; 1873 ; 1913-1923) ; registre de délibérations (1839-1914) ; extraits (1914-1923) ; membres de la commission (1864-1925) ; traitement du receveur (1924-1925) ; atelier de charité (1857 ; 1894) ; médecine gratuite (1868-1925) ; réclamations (1909 ; 1925) ; crédit attribué par la commune (1876-1896) ; listes des indigents (1914-1937) ; admissions dans une maison de soins (1876-1926) ; allocations aux vieillards, infirmes et familles nombreuses (1901-1925) ; soins médicaux aux victimes de guerre, demande, rejet, acceptation (1850-1931) ; secours aux militaires blessés ou à leur famille (1879-1918).</unittitle>
+                     <unitdate normal="1831/1937">1831-1937</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>242 Edepot 57</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique: nominations d'instituteurs (1807-1874) ; liste des enfants qui fréquentent l'école (1811-1820) ; demandes de bourses pour l'école sage-femme (1829 ; 1851) ; un cahier concernant ""l'art de lever les plans"" (s.d.).</unittitle>
+                     <unitdate normal="1807/1874">1807-1874</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

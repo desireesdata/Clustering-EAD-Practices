@@ -1,0 +1,1525 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_438Edepot_Archives_communales_déposées_de_Ray-sur-Saône" url="https://francearchives.fr/findingaid/0bc2dd49bd5a7d7c3b347d56ba9f7888c4c910a7">FRAD70_438Edepot_Archives_communales_déposées_de_Ray-sur-Saône</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>438Edepot - Archives communales déposées de Ray-sur-Saône</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>438Edepot - Archives communales déposées de Ray-sur-Saône</unittitle>
+         <unitid>438Edepot1-48</unitid>
+         <unitdate normal="1576/1954">1576-1954</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE RAY-SUR-SAONE</corpname>
+         </origination>
+         <note label="note">
+            <p>Sources complémentaires aux Archives Départementales de la Haute-Saône :
+
+B 2694-2704, déclarations de propriétés dans la communauté de Ray, procédures civiles et religieuses concernant les habitants et seigneurs de Ray (1597-1788).
+B 8769-8841, justice seigneuriale de Ray (1633-1790).
+B 9703, affaires forestières (1761-1774).
+C 16, construction d'une maison curiale (XVIII° siècle)
+C 106, acensements de terrains communaux (1731-1789).
+C 111, difficulté entre les habitants de Ray et leur seigneur, pour l'affranchissement de certains droits (1436-1554, 1783-1789).
+C 127, difficultés entre les habitants de Ferrières-Lès-Ray et ceux de Ray, pour le droit de parcours, avec production du dénombrement des droits seigneuriaux (1662-1785).
+E 923, seigneurie de Ray (1685, 1760).
+G 30 bis, chapitre de Ray (1341-1790).
+G 207, paroisse de Ray (1682-1718).
+H 810, donations de biens situés à Ray, au profit de l'abbaye de Corneux à Saint-Broing (1288, 1477).
+H 1029, titres de biens des Ursulines de Gray à Ray-sur-Saône (1604, 1769).
+1 J 387, 721-724, 807, archives concernant le chapitre de Ray (1341-1774).
+1 J 228/3, 377, notices sur le château de Ray (1967, s.d.).
+3 O 452, travaux communaux, depuis l'an IX.</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             01/01/1971
+         </p>
+         <p>Dernier ajout le             16/06/2008
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> FINANCES, IMPOTS ET COMPTABILITE (1681-1790)</p>
+         <p>  438 Edepot  1 à 2 - </p>
+         <p> BIENS COMMUNAUX (1781-1785)</p>
+         <p>  438 Edepot  3</p>
+         <p> CULTE-INSTRUCTION PUBLIQUE (1576-1832)</p>
+         <p>  438 Edepot  4 à 12 - </p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1790-1936)</p>
+         <p>  438 Edepot  13 à 19 - 438 Edepot  37 à 40 - </p>
+         <p> ETAT-CIVIL (...)</p>
+         <p>  438 Edepot  20</p>
+         <p> POPULATION-ECONOMIE SOCIALE-STATISTIQUE (1836-1913)</p>
+         <p>  438 Edepot  21 à 22 - 438 Edepot  41</p>
+         <p> CONTRIBUTIONS (1791-1919)</p>
+         <p>  438 Edepot  23 - 438 Edepot  42 à 45 - </p>
+         <p> AFFAIRES MILITAIRES (1812-1913)</p>
+         <p>  438 Edepot  24 à 25 - </p>
+         <p> POLICE-HYGIENE PUBLIQUE-JUSTICE (1791-1909)</p>
+         <p>  438 Edepot  26</p>
+         <p> ELECTIONS ET PERSONNEL (1838-1953)</p>
+         <p>  438 Edepot  27 - 438 Edepot  46</p>
+         <p> FINANCES DE LA COMMUNE (1881-1954)</p>
+         <p>  438 Edepot  28 à 29 - </p>
+         <p> EDIFICES COMMUNAUX (1851-1947)</p>
+         <p>  438 Edepot  47</p>
+         <p> BIENS ET BOIS COMMUNAUX (1828-1903)</p>
+         <p>  438 Edepot  30 à 32 - </p>
+         <p> VOIRIE-REGIME DES EAUX (1844-1943)</p>
+         <p>  438 Edepot  33 - 438 Edepot  48</p>
+         <p> ASSISTANCE ET PREVOYANCE (1861-1947)</p>
+         <p>  438 Edepot  34 à 35 - </p>
+         <p> INSTRUCTION PUBLIQUE (1849-1947)</p>
+         <p>  438 Edepot  36</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Arpentement du territoire de Ray-sur-Saône, fait par Jean-Claude Maréchal, arpenteur juré, demeurant à Renaucourt.&lt;lb/&gt;1 cahier papier.</unittitle>
+                     <unitdate normal="1681/1687">1681-1687</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>arpentement</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>MARECHAL (Jean-Claude)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 2</unitid>
+                     <unitid>CC2</unitid>
+                     <unittitle> Marché du sel et fourniture du luminaire : marché (1738). Comptes des échevins (1780-1788).  Répartition d'une somme d'argent due au curé et à l'instituteur : rôle (1782). Imposition ordinaire (1782), restant de l'abonnement du deux vingtièmes (1788), abonnement des deux vingtièmes (1789-1790), impositions ordinaires et accessoires et capitation (1789-1790), contribution patriotique (1790) : rôles.</unittitle>
+                     <unitdate normal="1738/1790">1738-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 3</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Acensements de biens communaux (1781, 1785).</unittitle>
+                     <unitdate normal="1781/1785">1781-1785</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE-INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 4</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Ray-sur-Saône, Ferrières-lès-Ray, "Pontrebault" (Pontrebeau, commune de Tincey) et Recologne-lès-Ray : baptêmes (décembre 1576-février 1622 ; mai 1622-mars 1623 ; février-mai 1622 ; 1623, avril-mai, deux pages sont collées, août-décembre ; janvier 1624-janvier 1629). A la fin du registre et à l'envers, deux actes de baptêmes, dont un de 1576 ; mariages (janvier 1586-janvier 1596 ; une page est déchirée ; octobre 1596-juillet 1628).&lt;lb/&gt;Dans ce registre, il faut remarquer les baptêmes d'Henri, fils de Claude Rouhier, seigneur de Charentenay, et de Claudine d'Amandre (16 janvier 1578) ; Philippe, fils de Jean Logre, notaire (1er mars 1587) ; Anne-Jeanne, fille de noble Claude de Montfort (Ternier, dit le Jeune), sieur de Velleguindry et autres lieux, et de Jeanne Boutechoux (24 septembre 1588) ; Jean, fils de Pierre Logre "cirurgi" (4 octobre 1588) ; Claudine, fille de Claude l'Inglois, seigneur de Champrougier (Jura), et de Anne du Pin, mariés le 28 janvier 1591 (27 février 1593) ; Claudine, fille de Louis de Mesmay, docteur en droit, et de Claudine du Pin (27 janvier 1597) ; Anne-Françoise, fille de noble Jacob-François du Tel, et de Claudine Vurry (4 avril 1625).&lt;lb/&gt;Lacunes en ce qui concerne les baptêmes pour les mois de juin et juillet 1623 ; et pour les mois de février à septembre 1596, en ce qui concerne les mariages.&lt;lb/&gt;1 registre factice relié.</unittitle>
+                     <unitdate normal="1576/1629">1576-1629</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi6R61</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FERRIERES-LES-RAY</geogname>
+                     <geogname>PONTREBEAU</geogname>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                     <geogname>RECOLOGNE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>INGLOIS (Claudine l')</persname>
+                     <persname>LOGRE (Jean)</persname>
+                     <persname>LOGRE (Philippe)</persname>
+                     <persname>MESMAY (Claudine de)</persname>
+                     <persname>MONTFORT (Anne-Jeanne de)</persname>
+                     <persname>ROUHIER (Henri)</persname>
+                     <persname>TEL (Anne-Françoise du)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 5</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Ray et de ses dépendances : baptêmes (février-août 1629) ; mariages (mai 1633-novembre 1634 ; janvier-avril 1633) ; baptêmes (septembre 1629-septembre 1633) ; à l'envers : mariages (juillet 1628-avril 1632 ; novembre 1632-avril 1633 ; septembre 1632-février 1633 ; novembre 1634-juin 1635) ; à l'endroit : baptêmes (novembre 1634-juillet 1635 ; août 1633-novembre 1634 ; avril-juillet 1633 ; décembre 1647-novembre 1682 ; "ycy manque le registre des baptêmes (soussignés) monsieur Loigerot vicaire depuis l'an 1682 jusqu'à 1689 inclusivement auquel temps il quitta le vicariat de Ray pour prendre la cure d'Amance où il doit avoir ledit registre" ; décembre 1689-mars 1698 ; prise de succession de la cure par Jean-François Faguelin, mars 1698-septembre 1706) ; mariages (juillet 1649 ; mai 1654-1666 ; juin 1672-novembre 1681 ; un acte de janvier 1672 ; août 1694-janvier 1701) ; sépultures (mai 1695-avril 1701) ; confirmations pour Saint-Julien, Morey, Rupt et Chemilly (1708) ; registre des futurs mariages (1702-1706) ; confirmations (1702).&lt;lb/&gt;Dans ce registre, il faut remarquer les baptêmes de Jean-Guillemin, fils de Georges Broichot, pharmacien (20 décembre 1629) ; de Claude-Catherine, fille de noble Nicolas-Louis de Lannoy et de Guillemette de Mont-Saint-Ligier (22 avril 1651) ; de Claude-François, fils d'Albert de Mérode, chevalier de la Toison d'Or, marquis de Treslon (Marne), prince de Monglion, baron de Ray, et de Marie-Célestin de Ray (30 mai 1652) ; le mariage de noble Marc Martin et d'Anne Lambert, fille de défunt noble François Lambert, procureur en la baronnie de Ray, en présence de François Tricornot, procureur en la baronnie de Ray, Jean Turmillet, notaire, Claude Bavoux, docteur en médecine et François Petit, docteur en droit (19 avril 1633)...&lt;lb/&gt;Lacune en ce qui concerne les baptêmes pour les années 1635 à 1647 et 1684 à 1689 [voir le registre paroissial suivant 438 E dépôt 6/GG 3] ; en ce qui concerne les mariages pour les mois de mai à juillet 1632, pour les années 1635 à 1654, 1666 à 1672, 1683 à 1690 et de 1693 à 1694 [voir le registre paroissial suivant 438 E dépôt 6/GG 3]. Les actes de sépultures commencent dans le registre suivant [438 E dépôt 6/GG 3] en 1674.&lt;lb/&gt;1 registre relié.</unittitle>
+                     <unitdate normal="1628/1708">1628-1708</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi6R61</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHEMILLY</geogname>
+                     <geogname>FERRIERES-LES-RAY</geogname>
+                     <geogname>MOREY</geogname>
+                     <geogname>PONTREBEAU</geogname>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                     <geogname>RECOLOGNE</geogname>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                     <geogname>SAINT-JULIEN</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BROICHOT (Georges)</persname>
+                     <persname>BROICHOT (Jean-Guillemin)</persname>
+                     <persname>FAGUELIN (Jean-François)</persname>
+                     <persname>LAMBERT (Anne)</persname>
+                     <persname>LANNOY (Claude-Catherine de)</persname>
+                     <persname>MARTIN (Marc)</persname>
+                     <persname>MERODE (Claude François de)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 6</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Ray et de ses dépendances ; pour Ray-sur-Saône uniquement : baptêmes (janvier 1663-mars 1684) ; mariages (juillet 1672-octobre 1678) ; sépultures (mai 1674-janvier 1681) ; mariages (avril 1682-avril 1683 ; juillet 1690-août 1693 ; avril 1681-avril 1682 ; un acte de janvier 1684) ; sépultures (mai 1682-septembre 1684). Pour Ferrières : baptêmes (avril 1671-janvier 1674) ; sépultures (mars 1674-mai 1681) ; baptêmes (juillet 1683-août 1685 ; décembre 1682-juillet 1683 ; août 1685-janvier 1689) ; sépultures (juillet 1681-février 1688) ; baptêmes (octobre 1687-mai 1688 ; sur un feuillet indépendant, février-avril 1689 ; mars 1674-avril 1682; quelques actes de mariage de 1680 à 1682 ; juillet 1682-avril 1684). Pour Recologne et "Pontrebaud" : baptêmes (mai 1671-avril 1684) ; mariages (1675-1683) ; sépultures (1674-1681). Pour Pontrebeau uniquement : baptêmes (septembre 1671-janvier 1680) ; mariages (juin 1677) ; sépultures (décembre 1674).&lt;lb/&gt;Dans ce registre, il faut remarquer les baptêmes des filles de Claude-François de Mérode et d'Anne-Dieudonné de Fabert : Elisabeth-Angélique-Joséphine (6 juillet 1683) et Joséphine-Monique-Mélanie (1er avril 1686).&lt;lb/&gt;Lacunes pour Ray-sur-Saône en ce qui concerne les sépultures pour les années 1681 et 1682, 1684 à 1695.&lt;lb/&gt;1 registre factice relié.</unittitle>
+                     <unitdate normal="1663/1693">1663-1693</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi6R61</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FERRIERES-LES-RAY</geogname>
+                     <geogname>PONTREBEAU</geogname>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                     <geogname>RECOLOGNE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>MERODE (Elisabeth Angélique Joséphine)</persname>
+                     <persname>MERODE (Joséphine Monique Mélanie)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 7</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Ray et de ses dépendances : baptêmes (décembre 1689-septembre 1706) ; baptêmes, mariages, sépultures (octobre 1706-décembre 1736).&lt;lb/&gt;Lacunes en ce qui concerne les mariages et les sépultures pour les années 1701 à 1706.&lt;lb/&gt;1 registre relié.</unittitle>
+                     <unitdate normal="1689/1736">1689-1736</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi6R61</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FERRIERES-LES-RAY</geogname>
+                     <geogname>PONTREBEAU</geogname>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                     <geogname>RECOLOGNE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 8</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Ray et de ses dépendances ; sur un feuillet : copie de 1722 d'un acte de baptême de 1682 ; baptêmes, mariages, sépultures (janvier 1737-novembre 1753 ; janvier 1790-décembre 1791, avec tables pour ces 2 dernières années.&lt;lb/&gt;1 registre factice relié, 1 pièce papier.</unittitle>
+                     <unitdate normal="1682/1791">1682-1791</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi6R61-62</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FERRIERES-LES-RAY</geogname>
+                     <geogname>PONTREBEAU</geogname>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                     <geogname>RECOLOGNE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>RAY (Emmanuel Marie Louis Ferdinand de)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 9</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Ray et de ses dépendances : baptêmes, mariages, sépultures (novembre 1753-décembre 1757 ; sur un feuillet indépendant, acte de décès de Claude-François Oudot, chevalier de la compagnie de "Verselle" au régiment de Fumel, natif de Ferrières, extrait des registres de l'hôpital de Pont-à-Mousson, le 29 avril 1757 ; janvier 1758-décembre 1759).&lt;lb/&gt;1 registre factice relié, 1 pièce papier.</unittitle>
+                     <unitdate normal="1753/1759">1753-1759</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi6R61-62</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FERRIERES-LES-RAY</geogname>
+                     <geogname>PONTREBEAU</geogname>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                     <geogname>RECOLOGNE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>OUDOT (Claude-François)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 10</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial de Ray et de ses dépendances ; sur un feuillet indépendant : actes concernant la famille de Laurent Gérard (1765-1832) ; baptêmes, mariages, sépultures (janvier 1760-février 1777).&lt;lb/&gt;Dans ce registre, acte de sépulture de Marie-Thérèse-Apolline de Mérode, princesse de Monglion, dame souveraine des terres libres et impériales d'Hermalès et Argentans, comtesse de Bancigny, baronne de Ray (3 janvier 1768).&lt;lb/&gt;1 registre relié couvert de parchemin.</unittitle>
+                     <unitdate normal="1760/1832">1760-1832</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi6R62</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FERRIERES-LES-RAY</geogname>
+                     <geogname>PONTREBEAU</geogname>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                     <geogname>RECOLOGNE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>GERARD (Laurent)</persname>
+                     <persname>MERODE (Marie-Thérèse-Apolline de)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 11</unitid>
+                     <unitid>GG8</unitid>
+                     <unittitle>Registre paroissial de Ray et de ses dépendances : baptêmes, mariages, sépultures (février 1777-juin 1789, bénédiction d'une cloche et d'une chapelle à Recologne-lès-Ray les 29 et 30 juin 1789, juillet 1789-janvier 1792 avec tables alphabétiques des actes).&lt;lb/&gt;Dans ce registre, il faut remarquer l'acte de sépulture d'Anne-Marguerite de Saint-Blain, veuve de Charles-Joseph Gérard, seigneur de Queutrey, morte dans son château de Queutrey, inhumée dans le charnier du marquis de Marmier (29 décembre 1780) et le baptême de Philippe-Gabriel, fils posthume de Charles-Philippe-Marie-Elisabeth Constantin, marquis de la Lorie (20 juin 1783).&lt;lb/&gt;1 registre relié couvert de parchemin.</unittitle>
+                     <unitdate normal="1777/1792">1777-1792</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi6R62</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FERRIERES-LES-RAY</geogname>
+                     <geogname>PONTREBEAU</geogname>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                     <geogname>RECOLOGNE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CONSTANTIN (Charles Philippe Marie Elisabeth Gabriel)</persname>
+                     <persname>SAINT-BLAIN (Anne-Marguerite de, veuve GERARD)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 12</unitid>
+                     <unitid>GG9</unitid>
+                     <unittitle>Marché de l'instituteur pour les fonctions de chantre (1689). Pièces d'un procès entre François Loigerot, curé d'Amance, et Jean-François Nivelon, curé de Saint-Hilaire dans le Doubs (1697-1698). Pièces d'un procès entre Jean-François Faguelin, curé, et Anne-Pierrette Normand, veuve de Jacques Logre, en son vivant conseiller au présidial de Gray, concernant la possession d'un terrain à Ray (1711-1714).</unittitle>
+                     <unitdate normal="1689/1714">1689-1714</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>FAGUELIN (Jean-François)</persname>
+                     <persname>LOIGEROT (François)</persname>
+                     <persname>NIVELON (Jean-François)</persname>
+                     <persname>NORMAND (Anne-Pierrette, veuve LOGRE)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 13</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal, une note indique comment le registre qui était à la cure a été réintégré aux archives en 1908, et quelles en sont les lacunes (il manque plusieurs feuillets au début, mars 1790-janvier 1791, plusieurs pages manquent, avril 1792-nivose an III, les derniers feuillets sont arrachés).</unittitle>
+                     <unitdate normal="1790/1908">1790-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 14</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.&lt;lb/&gt;NON VU EN 1971.</unittitle>
+                     <unitdate normal="1795/1817">1795-1817</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document non vu en 1971</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 15</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Cahier des délibérations du conseil municipal (mai 1817-novembre 1825). Ce cahier a été recouvert par une partie de plan d'un bois sans date).</unittitle>
+                     <unitdate normal="1817/1825">1817-1825</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CAHIER</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 16</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal (novembre 1825-mai 1843).</unittitle>
+                     <unitdate normal="1825/1843">1825-1843</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 17</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal, avec table (mai 1843-août 1855).</unittitle>
+                     <unitdate normal="1843/1855">1843-1855</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 18</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal (août 1855-décembre 1861). Au début du registre, délibération unique du comité local de l'instruction primaire (mars 1845).</unittitle>
+                     <unitdate normal="1845/1861">1845-1861</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 19</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal (janvier 1862-octobre 1881).</unittitle>
+                     <unitdate normal="1862/1881">1862-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 37</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal, avec table chronologique (novembre 1881-avril 1904). Voir 438 E dépôt 28/L1, extraits de délibérations (1881-1910).</unittitle>
+                     <unitdate normal="1881/1904">1881-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 38</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal, avec table chronologique  (mai 1904-février 1936). Voir 438 E dépôt 29/L2, extraits de délibérations (1911-1954).</unittitle>
+                     <unitdate normal="1904/1936">1904-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 39</unitid>
+                     <unitid>D10</unitid>
+                     <unittitle>Registre des arrêtés municipaux (an VIII-1961). A la fin du registre et à l'envers : actes divers (1812-1853).</unittitle>
+                     <unitdate>An VIII-1961</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 40</unitid>
+                     <unitid>D11</unitid>
+                     <unittitle>Registre de correspondance (1884-1919). A la fin du registre et à l'envers : mandats de paiement délivrés par le maire (1884-1888).</unittitle>
+                     <unitdate normal="1884/1919">1884-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT-CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 20</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Registre des mariages du canton de Ray-sur-Saône (brumaire-messidor an VIII, avec table), lettre (1933) demandant des renseignements sur la famille Licot, originaire de Ray, signée R. Licot à Montreuil (Seine).</unittitle>
+                     <unitdate>An VIII-1933</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>LICOT (famille)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 21</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Recensements quinquennaux de la population : listes nominatives.</unittitle>
+                     <unitdate normal="1836/1906">1836-1906</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi136</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 22</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Mouvement annuel de la population (1853-1906). Recensement des communautés religieuses (1861).</unittitle>
+                     <unitdate normal="1853/1906">1853-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POPULATION RURALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 41</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Statistiques agricoles annuelles (1853-1913), décennales (1882-1892). Registre des cultures (1902). Taureau communal : marchés d'entretien et de garde (1846-1906), vente (1868-1893).&lt;lb/&gt;Industrie : registre pour les annotations de délivrance ou de visa des livrets d'ouvriers (1857-1883).</unittitle>
+                     <unitdate normal="1846/1913">1846-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>INDUSTRIE</subject>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 23</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Contributions foncières et mobilières (1791). Délimitation du territoire : procès-verbaux (1828, 1830). Toisé des bâtiments (1830). Etablissement d'un nouveau plan cadastral : correspondance (1867-1878). Listes des commissaires répartiteurs (1887-1919). Taxe vicinale (1895, 1905), taxe sur les chiens (1888) : rôles. Taxe sur les billards publics et privés : extrait de la loi (1871, affiche).</unittitle>
+                     <unitdate normal="1791/1919">1791-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>AFFICHE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 42</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Cadastre : état de sections.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 43</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Livre des mutations (2è volume).</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 44</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Matrices générales des quatre contributions.</unittitle>
+                     <unitdate normal="1850/1881">1850-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 45</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Matrices générales des quatre contributions.</unittitle>
+                     <unitdate normal="1882/1916">1882-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 24</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recensement des jeunes gens : listes nominatives (1812-1813, 1816-1879, 1881-1913)</unittitle>
+                     <unitdate normal="1812/1913">1812-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 25</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Armée territoriale : tableau de recensement des classes 1855 à 1866. Réserve de l'armée active : affiche (1892). Recensement militaire : avis d'inscription sur les tableaux et extraits d'actes de naissance (1905-1910). Ressources chevalines : registre statistique (1855).&lt;lb/&gt;Garde nationale : listes de recensement, état nominatif des mobilisés (1870) ; élections des officiers et sous-officiers : procès-verbaux (1870).&lt;lb/&gt;Sapeurs-pompiers : liste nominative, règlement (1850) ; création d'un corps (1865-1866) ; réorganisation, engagement (1889) ; élection des officiers : procès-verbaux (1851 ; matériel et équipement (1850-1875).&lt;lb/&gt;Guerre de 1870 : liste supplémentaire des gardes nationaux, état des contributions de guerre, instructions (1870), enquête prussienne sur le logement dans la commune et sur le ravitaillement (1875).</unittitle>
+                     <unitdate normal="1850/1910">1850-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>REGLEMENT</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>GUERRE</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE-JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 26</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Animaux nuisibles : arrêté du Directoire (an V). Foires : ordonnance fixant les jours de foire à Ray (1839). Ramonage des cheminées : marché (1887). Sinistres : états des déclarations de pertes, secours pour pertes (1897, 1907-1909). &lt;lb/&gt;Hygiène publique et salubrité. Santé publique : rapport sur la situation de la commune (1865), enquête sur le goitre et le crétinisme (1863), statistique du choléra épidémique (1853-1854). Tueries particulières : arrêtés d'autorisation, plans (1908). Nomination d'un vétérinaire-inspecteur (1909). Epizootie : affiche sur la peste bovine, dénombrement des animaux (1871).&lt;lb/&gt;Justice. Condamnations diverses (1791-1882).</unittitle>
+                     <unitdate normal="1791/1909">1791-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>AFFICHE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                     <subject>POLICE</subject>
+                     <subject>PROTECTION SANITAIRE DU CHEPTEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 27</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales ( 1850-1852, 1855-1903).</unittitle>
+                     <unitdate normal="1850/1903">1850-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 46</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Tribunal de commerce : listes électorales (1932-1933). Chambre de commerce : listes électorale et de scrutin (1933). Chambre d'agriculture : listes électorales et de scrutin (1935-1936). Elections municipales (1843-1953), nominations des maires et adjoints (1838), élections au conseil d'arrondissement (1861-1871), élections au conseil général (1864-1871), élections législatives (1852-1870), élection du président de la République (1851), vote pour le rétablissement de l'Empire (1852), plébiscite (1870) : procès-verbaux.&lt;lb/&gt;Personnel communal. Cantonniers : traités de nomination (1845-1851). Pâtres (1853-1882). Gardes forestiers, nomination (1889) et traitement (1886). Secrétaire de mairie, traitement (1940). </unittitle>
+                     <unitdate normal="1838/1953">1838-1953</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 28</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Recettes et dépenses : extraits de délibérations du conseil municipal et pièces diverses.</unittitle>
+                     <unitdate normal="1881/1910">1881-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 29</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Recettes et dépenses : extraits de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1911/1954">1911-1954</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 47</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Travaux communaux : adjudications (1889, 1896), plan de la maison des Soeurs (1851). Ecole, réparations : correspondance (1900). Terrain de sports, aménagement (1941). Cimetière, construction d'un nouveau cimetière : devis, correspondance, plan (1908-1913) ; porte de l'ancien cimetière : demande d'ouverture (1947). Litige concernant le presbytère, l'église et le cimetière entre les trois communes co-paroissiales de Ray, Recologne et Ferrières (1908-1910). Litige entre la commune et le duc de Marmier, relatif à la propriété du presbytère (1907-1910).</unittitle>
+                     <unitdate normal="1851/1947">1851-1947</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FERRIERES-LES-RAY</geogname>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                     <geogname>RECOLOGNE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>MARMIER (de)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 30</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux. Vente (1 croquis), acquisition (1833-1864). Amodiations (an X, 1835-1909, 1 plan de 1842). Abornement : procès-verbaux, 2 plans, dont un non communicable (1863-1865). Contestation entre l'Etat et la commune, au sujet de la propriété de l'île dite des Prés de la Roche : pièces de procédure, correspondance (1817, 1852-1869). Litige entre la commune et Antoine Vieille, concernant un terrain : pièce de procédure, 1 plan (1865-1866). Vaine-pâture : plainte rejetée (1910-1911).</unittitle>
+                     <unitdate>An X-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>VIEILLE (Antoine)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 31</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Répartition du taillis et de la futaie : rôles (1828-1829, 1831-1833, 1836-1840, 1842-1886).</unittitle>
+                     <unitdate normal="1828/1886">1828-1886</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 32</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Bois communaux. Aménagement : décret impérial, plan (1862-1864, 1886). Coupe affouagère, exploitation (1836-1896). Attribution de bois de chauffage aux gardes forestiers (1881). Menus marchés, ventes de bois, d'ételles (1837-1903). Droit de parcours : procès-verbaux de reconnaissance des cantons défensables (1856-1871). Location de la chasse (1836-1899).</unittitle>
+                     <unitdate normal="1836/1903">1836-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 33</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine. Rigoles pavées, construction : devis, extrait de délibération, correspondance (1847-1869). Ecoulement des eaux de la rue du Moulin (1869, 1 plan).&lt;lb/&gt;Petite voirie. Chemin vicinal de Ferrières à Tincey, établissement : plan, élargissement (1850-1856). Chemin vicinal ordinaire n° 5 allant à Tincey, classement, déclassement (1858, 1870, 1877). Chemin d'intérêt commun n° 36, puis n° 12 de Francourt à Vellexon, redressement, rectification, acquisition de terrain : plan (1865-1883). Chemin de grande communication n° 13, de Gray à Lure, élargissement, acquisition de terrain (1889-1897). Dégradations des chemins, subventions industrielles : rapport (1878-1881). Pont sur la Saône, construction entre ray et Vellexon : correspondance, 2 plans (1861-1876. Chemins vicinaux, tableaux généraux, travaux de réparations, alignement, établissement (1837-1898, 6 plans). Prestations, conversion en tâches (1884-1896). Création de ressources (1884-1896).</unittitle>
+                     <unitdate normal="1847/1898">1847-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                     <geogname>SAÔNE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 48</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Curage de ruisseau le Rupt Patey et les fossés de la Noue : 2 plans (1844-1892). Curage des fossés d'assainissement sur les territoires de Ray et Charentenay : devis, arrêtés préfectoraux, plan (1890). Curage du ruisseau de la Vanne : devis, arrêtés préfectoraux, plans (1892-1901). Règlement d'eau, moulin du sieur Marmier sur la Saône : décret, procès-verbal de récolement (1852-1856). Etablissement de batelets particuliers : rapport de l'ingénieur, arrêté préfectoral (1881-1883). Amodiations des produits des terrains dépendant de la Saône : affiche (1892), cahier des charges (1943). Rivière de la Saône, extraction de graviers (1852-1887), abattage d'arbres (1863), canalisation : étude de l'achèvement des travaux entre Gray et Port-sur-Saône (1874).</unittitle>
+                     <unitdate normal="1844/1943">1844-1943</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                     <geogname>SAÔNE (LA)</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>MARMIER (de)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 34</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Bureau de bienfaisance : registre des délibérations, avec table chronologique.</unittitle>
+                     <unitdate normal="1881/1943">1881-1943</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 35</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Médecine gratuite : correspondance, subvention, traités avec un médecin (1861-1876, 1907). Secours aux indigents, factures de pain et de viande de porc (1876-1882). Enfants assistés : registre d'inscription (1875). Listes des indigents (1887, 1922). Accidents du travail : déclaration et attestations (1900-1910).&lt;lb/&gt;Bureau de bienfaisance. Création d'un bureau (1862). Règlement définitif des recettes et dépenses : délibérations (1880). Traitement du receveur (1877). Amodiations de terres appartenant au bureau (1875-1913). Legs au bureau (1865-1873). Commission administrative, nomination de membres (1866-1907). Bureau : délibérations (1871-1884, 1 cahier) et extraits (1867-1947).</unittitle>
+                     <unitdate normal="1861/1947">1861-1947</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>CAHIER</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ACCIDENT DU TRAVAIL</subject>
+                     <subject>DONS-ET-LEGS</subject>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>438 Edepot 36</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Fréquentation scolaire : listes nominatives des enfants de 6 à 13 ans (1882, 1888, 1891),  extraits du registre d'appel des filles (octobre 1882-juin 1883) et des garçons (octobre-novembre 1882, mars 1883). Enfants instruits dans la famille : déclaration verbale (1882).  Ecole de filles, laïcisation (1903, location d'un immeuble pour son installation (1903, 1911). Suppression d'une école : correspondance (1947). Ecole de Ferrières, autorisation de se séparer de l'école de Ray : arrêté préfectoral (1849).  Comité local de l'instruction primaire : délibération unique (mars 1845, voir 438 E dépôt 18/D6. Commission municipale scolaire, élections de délégués (1884-1935).</unittitle>
+                     <unitdate normal="1849/1947">1849-1947</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FERRIERES-LES-RAY</geogname>
+                     <geogname>RAY-SUR-SAONE</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

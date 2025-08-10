@@ -1,0 +1,1412 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_417Edepot_Archives_communales_déposées_de_Pontcey" url="https://francearchives.fr/findingaid/9d63badaf00d2eb390d906deecd71012d314f284">FRAD70_417Edepot_Archives_communales_déposées_de_Pontcey</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>417Edepot - Archives communales déposées de Pontcey</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>417Edepot - Archives communales déposées de Pontcey</unittitle>
+         <unitid>417Edepot1-58</unitid>
+         <unitdate normal="1630/1961">1630-1961</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE PONTCEY</corpname>
+         </origination>
+         <note label="note">
+            <p>Cf. Inventaires imprimés des Archives départementales de la Haute-Saône :
+B 7013, déclarations de propriétés faites en exécution de l’édit de 1749  dans la communauté de Pontcey (1750-1751) ;
+B 9403, règlements de bois pour Pontcey (1787) ; 
+B 9503, dîmes dues par la communauté de Pontcey à l’abbaye de Saint-Paul de Besançon (1592) ; 
+B 9504, dénombrement et terrier des droits et biens de l’abbaye de Saint Paul de Besançon à Pontcey (1518) ;
+B 9703, justice seigneuriale de Pontcey (1788) ; 
+C 85, contestation au sujet d’un pont à Pontcey (1787) ; 
+C 200, rôles et marchés divers à Pontcey (1782-1789) ; 
+C 481, rôles et répartements des impositions dans la communauté de Pontcey (1729-1790) ; 
+G 174, paroisse de Pontcey (1366-1790) ; 
+H 592, pièces d’un procès entre l’abbaye de Montigny-lès-Vesoul, d’une part, le curé et la communauté de Pontcey, d’autre part au sujet du paiement des dîmes (1678-1726).
+
+et voir l’inventaire des archives municipales anciennes de Montigny-lès-Vesoul : 
+363 E dépôt 1, traité entre les communautés de Montigny-lès-Chariez et de Pontcey, au sujet du droit de vaîne pâture dans leurs prairies (1464, copie de 1774).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             04/07/2014
+         </p>
+         <p>Dernier ajout le             04/07/2014
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Extrait de l’arpentement général du territoire de Pontcey.</unittitle>
+                     <unitdate normal="1692">1692</unitdate>
+                     <physdesc>
+                        <extent>1 pièce papier. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 57</unitid>
+                     <unitid>CC2</unitid>
+                     <unittitle>Arpentement du territoire de Pontcey.</unittitle>
+                     <unitdate normal="1742">1742</unitdate>
+                     <physdesc>
+                        <extent>1 registre factice et 1 pièce. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>arpentement</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 2</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Pontcey, Chemilly et Boursières : baptêmes (extrait d’un acte de 1749 sur un feuillet séparé ; 1742-1791).&lt;lb/&gt;&lt;lb/&gt;Parmi les actes concernant les seigneurs : baptêmes, le 12 juin 1750 , de Louis-François-Antoine, fils de Claude-François-Madeleine Damedor, comte de Mollans, seigneur de Chemilly, Pontcey, Aroz et Grattery et de Joséphine-Clémentine-Marie  «  Planta », parrain, François-Gaëtan-Fortuné de Simon, président à mortier du parlement de Besançon, marraine, Anne-Louise-Claire de Rothembourg, comtesse de Remiremont, cérémonie célébrée dans la chapelle du château de Chemilly par Jean-Marie Fournel, père gardien du couvent de Chemilly ; le 29 mai 1755, de Charles-Eugène-Augustin-Dieudonné, fils des mêmes ; le 12 octobre 1766, de Jean-Antoine, fils de François Varin d’Ainvelle, conseiller au parlement, et de Marie-Françoise Pusel, de Boursières, avec cérémonie supplétive le 29 octobre, dans la chapelle du château de Boursières, parrain, Jacque-Antoine Varin, conseiller honoraire au parlement, marraine, Jeanne-Thérèse Ramasson, douairière de feu Jean-Claude de Pusel de Boursières, conseiller honoraire au parlement ; le 15 novembre 1777, de Louis-Anne-Jean-Baptiste, fils de Louis Bonnaventure de Pusel, seigneur de Boursières, capitaine, commandant au régiment de Bresse, et de Louise-Désirée Damey.</unittitle>
+                     <unitdate normal="1742/1791">1742-1791</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié carton. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BOURSIERES</geogname>
+                     <geogname>CHEMILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 3</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Pontcey,  Chemilly, Boursières : mariages.</unittitle>
+                     <unitdate normal="1742/1791">1742-1791</unitdate>
+                     <physdesc>
+                        <extent>1 registre couvert carton.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BOURSIERES</geogname>
+                     <geogname>CHEMILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 4</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Pontcey, Chemilly et Boursières : sépultures. &lt;lb/&gt;&lt;lb/&gt;Parmi les actes intéressants, le 3 juillet 1756, décès de Marie-Madeleine, fille du comte de Mollans, âgée de trois jours, enterrée dans l’église des Tiercelins de Chemilly ; le 17 mars 1788, sépulture du curé de Pontcey, Pierre-Charles Bardoz.</unittitle>
+                     <unitdate normal="1742/1791">1742-1791</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié carton.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BOURSIERES</geogname>
+                     <geogname>CHEMILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 58</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Pontcey, Chemilly et Boursières : sur la feuille de garde,  note du maire de Pontcey, Jean-Baptiste Mariot, qui déclare en 1790-1971, avoir reçu le registre des mains du curé Ardin ; baptêmes (1630-1659 ; sépulture et épitaphe du curé de Pontcey, Ferdinand Gallois, dit Rampont en 1659 ; 1659-1741, avec quelques actes de décès en 1737-1738) ; sépultures (mai 1659-mai 1737 ; février 1738-1741) ; mariages (1631-1741) ; deux feuillets coupés ; confirmations (1651, à Gray pour les paroissiens de Pontcey et de Chemilly ; à Scey, 1654 ; 1671 ; 1675 ; 1676 ; 1678 ; 1679 ; 1692-1695 ; 1703 ; 1708 ; 1713) ; mention d’une naissance en 1778.</unittitle>
+                     <unitdate normal="1630/1791">1630-1791</unitdate>
+                     <physdesc>
+                        <extent>1 registre couvert en cuir. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BOURSIERES</geogname>
+                     <geogname>CHEMILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 5</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal de Pontcey (1790-an VI) ; déclarations de grossesses, actes divers (an XII-1810) ; parmi ces derniers actes, il faut remarquer l’inventaire des ornements de l’église du lieu (ventôse an XII).</unittitle>
+                     <unitdate normal="1790/1810">1790-1810</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 6</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre  de délibérations du conseil municipal de Pontcey, arrêtés du maire et actes divers.</unittitle>
+                     <unitdate>An VIII-1809</unitdate>
+                     <physdesc>
+                        <extent>1 registre non relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 7</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal de Pontcey (1810-novembre 1845).</unittitle>
+                     <unitdate normal="1810/1845">1810-1845</unitdate>
+                     <physdesc>
+                        <extent>1 registre non relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 9</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal de Pontcey (mai 1865-mars 1882).</unittitle>
+                     <unitdate normal="1865/1882">1865-1882</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 10</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Administration communale : extraits des registres de délibérations du conseil municipal de Pontcey (an II-1950) ; circulaires et correspondances de la préfecture de Haute-Saône (1909-1956) ; correspondance générale (1904) ; répertoires des actes de la municipalité de Pontcey soumis à l’enregistrement  (1806-1890) ; inventaires des archives communales (1877 ; 1891).</unittitle>
+                     <unitdate>An II-1956</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 254 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>INVENTAIRE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>CIRCULAIRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 39</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Registre de délibération du conseil municipal de Pontcey.</unittitle>
+                     <unitdate normal="1882/1915">1882-1915</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 40</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Contentieux. -Assurance : polices (1879-1899). Entrepreneur de travaux public Cordier, litige avec la commune au sujet de non paiement de travaux réalisés : correspondance, avis d’un arrêté définitif du greffe du conseil de préfecture (1885-1886).</unittitle>
+                     <unitdate normal="1879/1899">1879-1899</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 4 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 11</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Etat civil : pièces diverses concernant des habitants de Pontcey.</unittitle>
+                     <unitdate normal="1876/1934">1876-1934</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 8 pièces.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 12</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population. - Recensements quinquennaux de la population de Pontcey : état récapitulatif, feuilles de dépouillement, circulaire (1866-1876), listes nominatives (1851 ; 1856 ; 1861 ;  1866 ; 1872 ; 1881 ; 1886 ; 1891 ; 1896 ; 1901 ; 1906 et 1911, incomplet ; 1931 ; 1936).</unittitle>
+                     <unitdate normal="1851/1936">1851-1936</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 47 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 13</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Population : mouvements annuels de la population de Pontcey (1853 ; 1855-1861 ; 1863-1871 ; 1874-1884 ; 1886-1890 ; 1894-1895 ; 1899-1906).</unittitle>
+                     <unitdate normal="1853/1906">1853-1906</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 43 tableaux.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 14</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>Agriculture : statistiques agricoles pour la commune de Pontcey (1854-1938) ; statuts du syndicat communal de Pontcey (1902) ; du syndicat de destruction des rongeurs (1904) ; procès-verbal d’amodiation  de la récolte des fruits des prés (1904-1910).</unittitle>
+                     <unitdate normal="1854/1938">1854-1938</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 126 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 41</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Commerce et industrie. –Chambre de commerce : liste des électeurs (1908-1933, s.d.).</unittitle>
+                     <unitdate normal="1908/1933">1908-1933</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 19 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 15</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Administration financière : états des sections de la commune de Pontcey.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 6 cahiers.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 16</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Administration financière : livre des mutations de propriétés survenues parmi les contribuables de Pontcey (1818-1835, 1er  volume).</unittitle>
+                     <unitdate normal="1818/1835">1818-1835</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 17</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Administration financière : livre des mutations (1818-1835, 2ème volume).</unittitle>
+                     <unitdate normal="1818/1835">1818-1835</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 18</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Atlas cadastral de la commune de Pontcey.</unittitle>
+                     <unitdate normal="1837">1837</unitdate>
+                     <physdesc>
+                        <extent>1 grand registre cartonné.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ATLAS CADASTRAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 19</unitid>
+                     <unitid>G10</unitid>
+                     <unittitle>Administration financière : croquis des parcelles devenues imposables et qui ne figurent pas sur le plan cadastral de Pontcey (1864-1868) ; quittances des contributions directes pour la commune (1807-1824) ; matrice générale des contributions directes de Pontcey (1882-1885) ; liste des commissaires répartiteurs (1843-1927) ; désignation des contributions directes pour la commune (1881-1891 ; 1901 ; 1907 ; 1908 ; 1910 ) ; listes de contribuables de Pontcey assujettis à divers impôts (1946-1949).</unittitle>
+                     <unitdate normal="1807/1949">1807-1949</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 1 cahier et 76 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 42</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Impôts directs : matrice générale des contributions directes.</unittitle>
+                     <unitdate normal="1836/1848">1836-1848</unitdate>
+                     <physdesc>
+                        <extent>4 registres.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 43</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Impôts directs. –Contributions foncières personnelle mobilières et des portes et fenêtres : matrices (1850-1881, 1886, 1916).</unittitle>
+                     <unitdate normal="1850/1916">1850-1916</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 15 cahiers.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 44</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Impôts directs. –Impôt général sur le revenu : liste des contribuables assujettis.</unittitle>
+                     <unitdate normal="1926">1926</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 1 pièce papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 45</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Impôts directs. –Rétribution scolaire : rôles trimestriels.</unittitle>
+                     <unitdate normal="1868">1868</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 5 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 46</unitid>
+                     <unitid>G9</unitid>
+                     <unittitle>Impôts directs. –Chemins vicinaux, prestations en argent ou en nature pour travaux de réparation et entretien : registre des déclarations d’option (1837, 1838,1840), rôles (1825, 1830, 1836, 1836, 1840, 1843, 1865, 1870, 1875, 1880, 1890, 1895).</unittitle>
+                     <unitdate normal="1825/1895">1825-1895</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 14 pièces papier et 3 registres.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 20</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Affaires militaires : tableaux de recensement des jeunes gens mobilisables de Pontcey (1816-1819 ; 1821-1845 ; 1847-1849 ; 1851-1853 ; 1855-1856 ; 1858-1891 ; 1894-1901 ; 1903-1908 ; 1911-1914) ; liste du contingent de la réserve (1873) ; exemptés ou libérés (1868) ; armée territoriale : recensement (1855-1866) et inscriptions (1874). </unittitle>
+                     <unitdate normal="1816/1914">1816-1914</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 110 tableaux et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 21</unitid>
+                     <unittitle>Affaires militaires : recensement des chevaux, voitures attelées et automobiles de Pontcey (1874-1926) ; recensement des cantonnements (1880-1891).</unittitle>
+                     <unitdate normal="1874/1926">1874-1926</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 74 tableaux et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ORGANISATION DE L'ARMEE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 22</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Garde nationale : registre  de contrôle de la garde nationale de Pontcey (1832 ; 1868-1870) ; marché d’un tambour pour la garde nationale (1834) ; sapeurs pompiers : marché pour une pompe à incendie entre la commune de Pontcey et Louis Ogier fondeur, fabricant de pompes à Luxeuil (1872).</unittitle>
+                     <unitdate normal="1832/1872">1832-1872</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 15 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GARDE NATIONALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 23</unitid>
+                     <unitid>H4</unitid>
+                     <unittitle>Faits de guerre : états de réquisitions faites à Pontcey pendant l’invasion allemande (1870-1872) ; pièces diverses concernant les subsistances en temps de guerre (1915-1918 ; 1940-1945).</unittitle>
+                     <unitdate normal="1870/1945">1870-1945</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 87 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 24</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale : ouverture d’un débit de boisson à Pontcey (1891) ; marché de ramonage (1865-1922) ; justice : formation du jury à Pontcey (1850-1876) ; condamnations emportant privation du droit électoral (1878-1894) ; hygiène : protection des enfants en bas âge, vaccinations, etc. (1874-1938).</unittitle>
+                     <unitdate normal="1850/1938">1850-1938</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 34 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DEBIT DE BOISSON</subject>
+                     <subject>HYGIENE</subject>
+                     <subject>JUSTICE</subject>
+                     <subject>POLICE MUNICIPALE</subject>
+                     <subject>VACCINATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 47</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Police générale. –Etrangers, enregistrement des dossiers de demande de carte d’identité : registre (1935-1955) ; enregistrement des visas de départ délivrés : registre (1935-1960) ; définition du montant de la taxe afférente à la délivrance et au renouvellement des cartes de séjours : communiqué (1954) ; certificat de coutume (1936) ; avis d’arrivée (1938-1939).</unittitle>
+                     <unitdate normal="1935/1960">1935-1960</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 7 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>AVIS</genreform>
+                     <genreform>CERTIFICAT</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POLICE</subject>
+                     <subject>SURVEILLANCE DU TERRITOIRE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 25</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections : listes des électeurs de Pontcey et tableaux de rectification (1850-1913) ; plébiscites (1851-1870) ; élections de représentants à l’Assemblée nationale (1855-1932).</unittitle>
+                     <unitdate normal="1850/1932">1850-1932</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 146 tableaux et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 26</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections : liste des électeurs et feuille de dépouillement des élections législatives (1906-1914) ; procès-verbaux d’élections du conseil général (1864-1889 ; 1904) ; de membres du conseil d’arrondissement (1864-1901) ; nominations de délégués pour la commune de Pontcey  (1874-1904) ; élections des membres du conseil municipal et des maires à Pontcey : listes de scrutins, procès-verbaux, etc. (1831-1908 ; 1945) ; élections des conseils d’administration des organismes de mutualité agricole (1949).</unittitle>
+                     <unitdate normal="1864/1949">1864-1949</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 143 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 27</unitid>
+                     <unittitle>Comptabilité communale : comptes de gestion présentés par les receveurs municipaux de Pontcey  (1814-1823 ; 1826-1833 ; 1835-1840 ; 1843 ; 1845-1855 ; 1859-1887 ; 1892-1911) ; arrêtés d’apurement du conseil de préfecture 1854-1875 ; 1883-1889 ; 1897).</unittitle>
+                     <unitdate normal="1814/1911">1814-1911</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 120 cahiers et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COMPTABILITE PUBLIQUE</subject>
+                     <subject>FINANCES PUBLIQUES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 28</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptabilité municipale : budgets primitifs et additionnels et comptes administratifs du maire de Pontcey (1813-1846 ; 1852-1891).</unittitle>
+                     <unitdate normal="1813/1891">1813-1891</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 122 tableaux.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COMPTABILITE PUBLIQUE</subject>
+                     <subject>FINANCES PUBLIQUES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 29</unitid>
+                     <unitid>L3</unitid>
+                     <unittitle>Comptabilité municipale : budgets primitifs et additionnels, et comptes administratifs du maire de Pontcey (1898 ; 1900-1937).</unittitle>
+                     <unitdate normal="1898/1937">1898-1937</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 83 pièces papier et tableaux papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COMPTABILITE PUBLIQUE</subject>
+                     <subject>FINANCES PUBLIQUES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 30</unitid>
+                     <unitid>L4</unitid>
+                     <unittitle>Comptabilité municipale : budgets primitifs et additionnels et comptes administratifs du maire de Pontcey, avec quelques pièces à l’appui pour les dernières années (1941-1961) ; rôles de la taxe municipale sur les chiens (1884-1886 ; 1888-1890 ; 1893-1895 ; 1907 ; 1910). </unittitle>
+                     <unitdate normal="1884/1961">1884-1961</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 105 tableaux et pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COMPTABILITE PUBLIQUE</subject>
+                     <subject>FINANCES PUBLIQUES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 49</unitid>
+                     <unitid>L5</unitid>
+                     <unittitle>Revenus et charges de la commune.  –Emprunt : traité, correspondance, note, avis, communiqué (1884-1886). Rente représentative de biens vendus inscrite au nom de la commune, réduction au profit des héritiers de Damedor de [Mollaux] : ordonnance du  roi, communiqué (1832). Vente de rentes sur l’état : arrêtés préfectoraux (1871-1874). </unittitle>
+                     <unitdate normal="1832/1886">1832-1886</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 12 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>AVIS</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DETTE PUBLIQUE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 31</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices communaux : réparations à la maison commune de Pontcey (1871-1873 ; 1893) ; destruction d’une maison menaçant ruine (1901-1902).</unittitle>
+                     <unitdate normal="1871/1902">1871-1902</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 10 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EQUIPEMENT COLLECTIF</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 50</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>Edifices du culte et cimetières. –Presbytère, acquisition : procès-verbal d’enquête commodo et incommodo (1826) ; reconnaissance d’après le décès de M. Ambert curé de la paroisse : état (1841). Réparations à l’église et au presbytère (1838-1904). Fourniture de cloches (1903-1904). Cimetière communal, projet d’établissement d’un portail : plan (1908). Nouveau cimetière, projet d’établissement : acte d’achat de terrains, mémoire explicatif et devis estimatif, plan (1912, s.d.). </unittitle>
+                     <unitdate normal="1826/1912">1826-1912</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 19 pièces papier, 1 croquis et 2 plans en mauvais état. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MEMOIRE </genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 51</unitid>
+                     <unitid>M3</unitid>
+                     <unittitle>Edifice  à usage d’établissements d’enseignement, de sciences et d’art. –Locaux scolaires et salle de mairie, aménagement : communiqué, croquis.</unittitle>
+                     <unitdate normal="1900">1900</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 1 pièce papier et 1 croquis.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECOLE</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 32</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux : baux de biens communaux divers à Pontcey (1828-1904) ; marchés divers (1828-1893) ; procès-verbal d’abornement d’un terrain communal (1891) ; procès-verbal d’aménagement des bois et marchés divers (1827 ; 1832-1852 ; 1935) ; vente d’un pré aux propriétaires de la prairie du Breuil par la veuve Aubriet (1897-1899) ; vente d’une parcelle de près au profit de la commune (1839) ; autorisation de maintien de la vaîne pâture et rétablissement sur les terres labourables et les prairies (1890).</unittitle>
+                     <unitdate normal="1827/1935">1827-1935</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 1 cahier et 94 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>BAIL IMMOBILIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 33</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Pièces de procès soutenus par la communauté de Pontcey  pour la propriété de biens communaux, contre : Jean-Charles François-Clément Damedor, marquis de Mollans, chevalier de Saint-Louis, demeurant à Amblans, Madeleine-Joséphine-Charlotte Millet, son épouse et Marie-François de Muller, colonel du cinquième régiment de Hussards demeurant à Colmar, comme héritiers de Joseph-Laurent Damedor  (1824-1826) et parmi ces pièces l’acte par lequel le «  marquis de Molans » adhère aux décisions des députés du baillage d’Amont à l’assemblée nationale (1789) ; la commune de Chemilly (1823-1838) ; les époux Dumont de Pontcey (1827-1838). </unittitle>
+                     <unitdate normal="1789/1838">1789-1838</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 93 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 34</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Biens communaux : plan, de la traversée du village de Pontcey (1823) ; plan de pâtis communaux susceptibles d’être aliénés (1866) ; plan d’une propriété appelée «  pâtis du Vouchard » à Pontcey (s.d. XIXème siècle).</unittitle>
+                     <unitdate normal="1817/1866">1817-1866</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 5 plans dont 3 en mauvais état.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 52</unitid>
+                     <unitid>N4</unitid>
+                     <unittitle>Biens communaux. –Terrains communaux d’Aroz dont la vente est autorisée : plan (1863). Anticipations faites sur les communaux de la commune d’Aroz : plan (1839). Bois de la commune d’Aroz : plan (1817).</unittitle>
+                     <unitdate normal="1817/1863">1817-1863</unitdate>
+                     <physdesc>
+                        <extent>3 plans roulés.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>AROZ</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 53</unitid>
+                     <unitid>N5</unitid>
+                     <unittitle>Eaux. –Fontaines, amodiation des boues : baux (1864-1894) ; nettoyage : marché (1905).</unittitle>
+                     <unitdate normal="1864/1905">1864-1905</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 7 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FONTAINE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 54</unitid>
+                     <unitid>N6</unitid>
+                     <unittitle>Propriétés et droits divers. –Concessions au cimetière : note.</unittitle>
+                     <unitdate>0</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 1 pièce papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>NOTE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONCESSION FUNERAIRE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIES, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 35</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Travaux publics : construction d’un pont sur le Durgeon à Pontcey,  avec plusieurs plans où figure notamment le moulin du Gué (1831-1840) ; travaux divers (1886) ; voirie : classements des chemins vicinaux de Pontcey (1824-1894) ; ventes de terrains par la commune (1828-1871) ; notamment à Claude-François Guy, propriétaire des forges de Conflandey, pour établir un lavoir à mines (1828) ; acquisitions de terrains par la commune (1851-1874) ; marchés divers (1849-1891) ; rôles de prestations pour l’entretien des chemins de Pontcey (1819 ; 1883-1914) ; pièces diverses concernant les travaux effectués sur les chemins vicinaux de la commune, avec plusieurs plans (1837-1901) ; subventions de la commune pour l’établissement du chemin de fer (1895-1906) ; régime des eaux : pièces diverses concernant le curage des ruisseaux à Pontcey, avec plusieurs plans (1818-1934) ; règlements d’eau pour les moulins du Gué à Pontcey (1814-1835 ; 1893).</unittitle>
+                     <unitdate normal="1814/1934">1814-1934</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 16 plans et 321 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGLEMENT</genreform>
+                     <genreform>ROLE</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                     <subject>ENERGIE HYDRAULIQUE</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 55</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Travaux publics et voirie en général. – Plans d’alignement : tableau indicatif (s.d.). Ruelle traversière, projet d’élargissement : procès-verbaux d’estimation de terrains, actes d’acquisition (1910). Chemin rural nouveau, achat d’un terrain au lieu dit « Au Breuil » : extrait du plan cadastral (1897) ; fauchage : état des sommes à payer pour chacun des propriétaires (s.d.). Chemin vicinal ordinaire n°3 de Pontcey à Aroz, autorisation de construction d’un aqueduc : arrêté municipal (1893). Chemins de Monfaute, du Breuil, du Paigre et de Scey-sur-Saône, travaux à exécuter par les prestataires : état d’indication (1897). Chemin de grande communication de Scey-sur-Saône à Vesoul : plan (1850). </unittitle>
+                     <unitdate normal="1850/1910">1850-1910</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 18 pièces papier et 2 plans.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 56</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Navigation et régime des eaux. –Ruisseau des Fontaines, curage : devis et cahier des charges, arrêté préfectoral, extrait du registre des délibérations du conseil municipal, registre des déclarations, état indicatif, communiqués, procès-verbal de réception définitive, procès-verbal d’adjudication de travaux, plan (1921-1922). Ruisseau de la Grande Fontaine, projet de curage : plan (1909). Ruisseau du Breuil, construction d’un aqueduc : procès-verbal d’adjudication, engagement (1898-1906). Assainissement des prés situés en amont du chemin du Breuil, établissement et entretien d’un fossé : avis, reçu (1900-1901).</unittitle>
+                     <unitdate normal="1900/1922">1900-1922</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 14 pièces papier, 2 plans. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>AVIS</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>CAHIER DES CHARGES</genreform>
+                     <genreform>DEVIS</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT DES EAUX</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 36</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte : demande de subventions pour la fabrique de Pontcey (1868-1870) ; budgets et comptes de la fabrique (1854-1856 ; 1894-1900 ; 1905). </unittitle>
+                     <unitdate normal="1854/1905">1854-1905</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 21 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>FABRIQUE D'EGLISE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 37</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Assistance publique : bureau de bienfaisance, ateliers de charité, à Pontcey, etc. (1854-1914) ; médecine gratuite (1865-1898) ; secours pour pertes (1839-1897) ; retraites paysanne et ouvrières (1911-1924).</unittitle>
+                     <unitdate normal="1839/1924">1839-1924</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 88 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>STRUCTURE COMMUNALE D'AIDE SOCIALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>417 Edepot 38</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique : marché d’instituteur pour Pontcey (1831) ; baux de maisons pour le logement de l’instituteur (1835-1869) ; rôles de la rétribution scolaire pour l’école primaire de Pontcey (1857-1881) ; listes des enfants admis gratuitement à l’école de 6 à 13 ans (1882-1890) ; inventaires du mobilier de l’école (1885-1891).</unittitle>
+                     <unitdate normal="1831/1891">1831-1891</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 152 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>INVENTAIRE</genreform>
+                     <genreform>ROLE</genreform>
+                     <genreform>BAIL IMMOBILIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENSEIGNEMENT</subject>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

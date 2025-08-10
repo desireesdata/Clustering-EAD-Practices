@@ -1,0 +1,1023 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_357Edepot_Archives_communales_déposées_de_Montbozon" url="https://francearchives.fr/findingaid/bf08acfea35736d6fd205f6d92480f892fbeaccb">FRAD70_357Edepot_Archives_communales_déposées_de_Montbozon</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>357Edepot - Archives communales déposées de Montbozon</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>MC.BILLEBAULT</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>357Edepot - Archives communales déposées de Montbozon</unittitle>
+         <unitid>357Edepot1-69</unitid>
+         <unitdate normal="1459/1955">1459-1955</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE MONTBOZON</corpname>
+         </origination>
+         <note label="note">
+            <p>Montbozon dépendait de la paroisse de Thiénans, avant la révolution.
+
+Voir aussi les inventaires des Archives départementales de la Haute-Saône :
+A1. Moulin du roi (1770-1789)
+B 9750 à 9825. Prévôté de Montbozon (1728-1790)
+C 453. Rôles et répartements des impositions dans la communauté de Montbozon (1729-1790)
+H 928 à 932. Dominicains de Montbozon (1498-1791)
+3O 372 et 372. Travaux communaux (XIXe siècle)
+1 Mi 4 R1. Etude sur Montbozon (dr. Metzquer)
+Voir aussi Archives départementales de la Côte d’Or, série B, B1726, 1748, 1788, 10540, 10560
+Archives départementales du Doubs, série D, fonds du collège des Jésuites de Besançon.	
+ </p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             23/07/2013
+         </p>
+         <p>Dernier ajout le             23/07/2013
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION COMMUNALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 1</unitid>
+                     <unitid>BB1</unitid>
+                     <unittitle>Administration communale : nomination de forestiers, messiers, commis et échevins (1784 ; 1789). Jugement entre la communauté et le sieur Martin, concernant son élection à la charge de forestier (1789).</unittitle>
+                     <unitdate normal="1784/1789">1784-1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 2</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Finances : différend concernant les comptes des échevins (1752-1783). Comptes des échevins (1781 ; 1789). Dettes de la communauté de Montbozon envers le sieur Legay de Viliers, commissaire des guerres à Vesoul (1783). Compte du receveur (1787-1790). Quittances et reçus (1789-an II).</unittitle>
+                     <unitdate normal="1752/1794">1752-1794</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 3</unitid>
+                     <unitid>CC2</unitid>
+                     <unittitle>Impôts : procédure concernant la petite taille (1739 ; 1769-1771). Taille, centième denier, capitation, imposition ordinaire, don gratuit, avonnement des 2/20e (1754-1769). Toisé des maisons (1781). Copie d’un terrier « de la franchise, justice et seigneurie » de Montbozon (s.d.).</unittitle>
+                     <unitdate normal="1739/1790">1739-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 4</unitid>
+                     <unitid>CC3</unitid>
+                     <unittitle>Terriers des domaines du collège de Besançon, sis à Montbozon, Cognières et Bouhans.&lt;lb/&gt;1 registre. </unittitle>
+                     <unitdate normal="1779/1780">1779-1780</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORETS, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 5</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Bois communaux : procès des habitants de Monroz, Montbozon et Thiénans, contre le procureur général de la Guerre du comté de Bourgogne (1459 ; 1577, copie de 1718 – actes incomplets -). Réclamation de la veuve de l’arpenteur Lime pour obtenir le paiement de ses levées de plans (1766). Amodiations de communaux (1774-1790).&lt;lb/&gt;Moulin de Montbozon. -Réparations (1755 ; 1767-1789). Acensement (1785-1790).&lt;lb/&gt;Eglise de Thiénans (co-paroissiale avec Montbozon). -Règlement des frais de construction entre les deux communes (1777-1778).</unittitle>
+                     <unitdate normal="1459/1790">1459-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 6</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Justice. Compte de tutelle (1747). Enregistrement de la tutelle (1754-1755). Saisie mobilière (1753-1754). Procédure concernant des dégâts dans les propriétés des sieurs Balland et Bertrand, occasionnés par le maître forges de Montagney (1755).</unittitle>
+                     <unitdate normal="1747/1755">1747-1755</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 7</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Culte. Déclaration d’une erreur de nom sur un registre de baptême de la paroisse de Thiénans (1785).&lt;lb/&gt;Couvent Saint-Sébastien de Montbozon. Mesurage du vin dans les caves du couvent (1790).&lt;lb/&gt;Instruction publique : marché de recteur d’école (1752). Différends entre les recteurs d’école et la communauté de Montbozon (1740-1747 ; 1749-1754 ; 1773-1777).&lt;lb/&gt;Assistance : certificat médical concernant Guillaume Prudhom (1789).</unittitle>
+                     <unitdate normal="1740/1790">1740-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 11</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Thiénans-Montbozon : baptême (actes en désordre 1648, 1649, 1653, 1656, 1658, 1661, 1663, 1665, 1667-1683). &lt;lb/&gt;Lacunes de 1683 à 1716, il n’y a pas de mariages ni de sépultures avant 1715 ; le premier registre paroissial de Thiénans-Montbozon, de la série déposée aux Archives départementales par le greffe du tribunal de Vesoul comporte les baptêmes, mariages et sépultures de 1715 et 1716, puis une lacune de 1717 à 1737.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1648/1683">1648-1683</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 12</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Thiénans-Montbozon. Baptêmes, mariages, sépultures (1716-février 1721).&lt;lb/&gt;Lacunes de 1721 à 1726.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1716/1721">1716-1721</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 13</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Thiénans-Montbozon. Baptêmes, mariages, sépultures (février 1726-mai 1791 ; octobre 1791-janvier 1792).&lt;lb/&gt;Dans ce registre, on remarque une table alphabétique des noms de baptêmes (1762-1791, très mauvais état) ; liste des confrères et sœurs de la confrérie de Saint-Scapulaire du Mont-Carmel (1747) ; un acte indépendant, extrait d’un registre paroissial de Villette, paroisse d’Arbois (Jura : 1760 et 1775).&lt;lb/&gt;Sont enseignés dans ce registre : décès, le 2 avril 1762, de Jean-Pierre Chauvay, curé de Thiénans : au feuillet 179, mention « d’évènements extraordinaires » : orage violent sur la province et les régions voisines, qui tua « beaucoup de monde » (9 août 1781) ; brouillard « sec et bleu » régnant de juin à août 1782 sur la province, ainsi que sur certaines parties de la France, de Suisse et d’Italie, qui cacha le soleil, sans empêcher pourtant les récoltes du mûrir comme à l’ordinaire, et que l’on a considéré comme un signe avant coureur de « l’horrible » tremblement de terre qui « bouleversa » la Calabre de Sicile au mois d’octobre 1782 ; au mois de janvier de la même année il y a eu une épaisseur de neige et de verglas si considérable qu’une quantité d’arbres furent cassés sous leur poids ; missions etc.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1726/1792">1726-1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 14</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Thiénans-Montbozon. Baptêmes, mariages, sépultures (janvier-décembre 1792 ; 4 actes de mars 1794).&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1792/1794">1792-1794</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AGRICULTURE, INDUSTRIE, COMMERCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 8</unitid>
+                     <unitid>HH1</unitid>
+                     <unittitle>Commerce : bail de la boucherie (1774-1778).&lt;lb/&gt;Agriculture. Epizootie (1782).&lt;lb/&gt;Haras : rôles d’annexe (1786-1788). Procédure entre Jean-Baptiste Bertrand, garde étalons, et les sieurs Perrey et Coillot, au sujet des frais d’une jument (1789).</unittitle>
+                     <unitdate normal="1774/1789">1774-1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>LOIS ET ACTES DU POUVOIR CENTRAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 9</unitid>
+                     <unitid>A1</unitid>
+                     <unittitle>Lois et actes du pouvoir central. -Enregistrement des lettres-patentes et proclamation du roi.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1789/1790">1789-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 10</unitid>
+                     <unitid>A2</unitid>
+                     <unittitle>Lois et actes du pouvoir central. -Enregistrement des lettres-patentes et proclamation du roi(mars-août 1790).&lt;lb/&gt;357 E dépôt 11 à 14, GG 1 à 4, registres paroissiaux, voir ci-dessus.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1790">1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 16</unitid>
+                     <unitid>A3</unitid>
+                     <unittitle>Actes imprimés de l’administration centrale.</unittitle>
+                     <unitdate normal="1796/1806">1796-1806</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ACTES DE L'ADMINISTRATION DEPARTEMENTALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 17</unitid>
+                     <unitid>B1</unitid>
+                     <unittitle>Actes imprimés de l’administration départementale.</unittitle>
+                     <unitdate normal="1792/1807">1792-1807</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 18</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Administration générale de la commune : registre des délibérations du conseil municipal.&lt;lb/&gt;A l’envers du registre, délibérations de l’administration municipale du canton de Montbozon (an VI-an VIII).&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1808/1829">1808-1829</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 19</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Administration générale de la commune : registre des délibérations du conseil municipal.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1830/1850">1830-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 20</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Administration générale de la commune : registre des délibérations du conseil municipal.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1851/1869">1851-1869</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 21</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Administration générale de la commune : registre des délibérations du conseil municipal.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1869/1884">1869-1884</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 22</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Administration générale de la commune : registre des délibérations du conseil municipal.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1884/1906">1884-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 23</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Actes municipaux (1822-1842 ; 1853 ; 1 cahier, 1892-1955).&lt;lb/&gt;Assurances des bâtiments communaux (1842-1872).</unittitle>
+                     <unitdate normal="1882/1955">1882-1955</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 24</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Etat-civil : extrait des registres des actes de mariages du canton de Montbozon (2 cahiers).</unittitle>
+                     <unitdate normal="1798/1800">1798-1800</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION,ECONOMIE SOCIALE, STATISTIQUES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 25</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : dénombrement, listes nominatives.</unittitle>
+                     <unitdate normal="1836/1906">1836-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 26</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Mouvement de population : tableaux.</unittitle>
+                     <unitdate normal="1853/1901">1853-1901</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 27</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Agriculture : statistiques annuelles (1865-1923) ; état des récoltes (1834-1875). Culture de betteraves (1811-1813). Culture du tabac (1873). Concours cantonal de taureaux (1823 ; 1825). Animaux nuisibles (1815).</unittitle>
+                     <unitdate normal="1811/1923">1811-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 28</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>Météorologie : observations mensuelles (1880-1884 ; 1896-1899).&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1880/1899">1880-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 29</unitid>
+                     <unitid>F5</unitid>
+                     <unittitle>Commerce : distribution du sel (1791 ; anV) ; mercuriales (1791 ; 1834 ; 1847 ; 1876-1880) ; commerce de blé (an II), de porcs (1842) ; listes électorales et procès verbaux des opérations de la chambre de commerce de Gray (1889-1929).</unittitle>
+                     <unitdate normal="1791/1929">1791-1929</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATION FINANCIERE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 30</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs : livre journalier des mutations (1820-1821) ; 3 plans de nouvelles parcelles devenues imposables (1860 ; 1865 ; 1866) ; évaluations des propriétés non bâties et tableau comparatif des évaluations des maisons et usines du canton (s.d.) ; livre de mutations (1818-1819).</unittitle>
+                     <unitdate normal="1818/1866">1818-1866</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 31</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Matrice des propriétés foncières.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1822/1869">1822-1869</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 32</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Matrices générales (an VIII ; an XIV ; 1807 ; 1818-1821 ; 1826-1835 ; 1839-1844).&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1799/1844">1799-1844</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 33</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Matrices générales.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1854/1873">1854-1873</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 34</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Matrices générales.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1878/1894">1878-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 35</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Matrices générales.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1896/1916">1896-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 36</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Rôles des prestations (1825-1828 ; 1865-1867 ; 1893 ; 1902-1914) ; rôle de la rétribution scolaire (1867).&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1825/1914">1825-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 37</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Registre de perception de la taxe d’entretien des routes.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1799/1800">1799-1800</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 38</unitid>
+                     <unitid>G9</unitid>
+                     <unittitle>Correspondance sur la suppression des octrois (1791). Patentes (an VI-1807). Nomination des répartiteurs (an IX-1870). Contributions foncières (1793-1813). Réclamations (1793-1807). Contributions directes (an IV ; 1808 ; 1814 ; 1860-1886) ; contributions indirectes, état nominatif des débitants de boissons et relevé des droits de détail (1815).</unittitle>
+                     <unitdate normal="1791/1886">1791-1886</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 39</unitid>
+                     <unitid>G10</unitid>
+                     <unittitle>Impôts extraordinaires. -Contribution patriotique (1790), emprunt forcé (1793).</unittitle>
+                     <unitdate normal="1790/1793">1790-1793</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 40</unitid>
+                     <unitid>G11</unitid>
+                     <unittitle>Perception. -Adjudication (an VII-an X). Nomination d’un percepteur (an XI). Etat des pièces étrangères existant dans les bureaux du percepteur et du receveur de l’enregistrement (1810-1814).&lt;lb/&gt;Poids et mesures : arrêtés du préfet (an X-an XI).&lt;lb/&gt;Bureau de postes. -Nomination du receveur (1876).&lt;lb/&gt;Réseau téléphonique. -Etablissement (1899-1900).</unittitle>
+                     <unitdate normal="1798/1900">1798-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 42</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Armée territoriale : formation (an IV ; 1874) ; engagements volontaires (1848-1866) ; tableau de recensement (1855-1865).</unittitle>
+                     <unitdate normal="1797/1874">1797-1874</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 43</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Eloge d’un soldat mort au combat (1790 ; an IX) ; logement et cantonnement des troupes (1791-1848) ; exemptés, remplaçants, volontaires, déserteurs (1792-1870) ; militaires en convalescence (1793-an III) ; secours aux parents de militaire (an II-an III) ; congés de libération (an II ; an X-1814) ; jugements militaires (an X-1831) ; débits de poudres (1807-1812) : certificats de présence sous les drapeaux (an VIII-1811, 1839) ; ordre de route (1840) ; tombes militaires (1873-1877).</unittitle>
+                     <unitdate normal="1790/1877">1790-1877</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 41</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Affaires militaires : tableaux de recensement (an IX, an XII-1814, 1816-1822, 1824, 1826-1845, 1848-1884, 1887-1902).</unittitle>
+                     <unitdate normal="1800/1902">1800-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 44</unitid>
+                     <unitid>H4</unitid>
+                     <unittitle>Garde-nationale : frais des députés (1790) ; élections des officiers et sous-officiers (1792-1848) ; tableau de recensement (1831) ; contrôle matricule (1832-1840) ; exemptés (1864-1866) ; armement (1868-1869) ; liste nominative des mobilisables, de la réserve (1871).</unittitle>
+                     <unitdate normal="1790/1871">1790-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 45</unitid>
+                     <unitid>H5</unitid>
+                     <unittitle>Garde-nationale : relevés nominatifs, bulletins individuels.</unittitle>
+                     <unitdate normal="1832/1850">1832-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 46</unitid>
+                     <unitid>H6</unitid>
+                     <unittitle>Bataillon cantonal : décret et loi relatif à l’engagement des soldats auxiliaires, règlement concernant le service ordinaire (1791-1832), états nominatifs (1792 ; an V-1848). Elections du chef de bataillon et du porte drapeau (1792 ; 1832-1848) ; armement (1830-1851) ; formation des jurys de révision (1831-1835) ; conseil de discipline (1831-1835, 3 cahiers) ; formation du conseil d’administration (1832-1834).</unittitle>
+                     <unitdate normal="1791/1851">1791-1851</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 47</unitid>
+                     <unitid>H7</unitid>
+                     <unittitle>Gendarmerie : transfert de la brigade à Cintrey (1792) ; logement de la brigade (an VI ; 1843-1844) ; état nominatif des sous-officiers et gendarmes (1848-1849).&lt;lb/&gt;Sapeurs-pompiers : pompe à incendie (1845-1880) ; armement (1869) ; élection au conseil supérieur (1907) ; subvention de l’état (1914-1916).</unittitle>
+                     <unitdate normal="1792/1916">1792-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 48</unitid>
+                     <unitid>H8</unitid>
+                     <unittitle>Armée du Danube, armée du Rhin : réquisitions, travaux à faire à l’hospice militaire de Montbozon, fixation du prix des rations de pain aux militaires.</unittitle>
+                     <unitdate normal="1793/1813">1793-1813</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 49</unitid>
+                     <unitid>H9</unitid>
+                     <unittitle>Invasion de 1815 : réquisitions, dette de la commune, indemnisations, répartition de l’impôt de guerre (an XIV-1819).&lt;lb/&gt;Guerre de 187 : réquisitions, subside aux communes, indemnisations (1871-1872).&lt;lb/&gt;Guerre de 1914-1918 : arrêtés du préfet ; ravitaillement civil : réglementation (1914-1918).</unittitle>
+                     <unitdate normal="1805/1918">1805-1918</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 50</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale : rapport de la fête du 14 juillet 1790 ; passage du roi dans le département (1821) ; rapports des gardes champêtres et forestiers (an V-1845) ; demande de fermeture du jeu de quilles (1880, 1 plan) ; foires : fixation des jours (an IX-1861), taxe sur les animaux (1873-1876), surveillance sanitaire (1893-1897) ; transports de corps (1864-1906) ; police de roulage (1828-1844) ; police de la pêche (1808) ; permis de chasse (1857) ; débits de boissons (1860-1861 ; 1912) ; sinistres (1826-1910).</unittitle>
+                     <unitdate normal="1790/1912">1790-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 51</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Police générale : passeports, imprimés et placards adressés par le préfet et le ministre (an VIII-an XIII) ; demandes de renseignements (an IX-1880), condamnés libérés (1807-1864) ; autorisation de détenir des appareils susceptibles d’être utilisés dans la fabrication de la monnaie(1908).</unittitle>
+                     <unitdate normal="1799/1908">1799-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 53</unitid>
+                     <unitid>I4</unitid>
+                     <unittitle>Justice : juges de paix, procès verbal d’installation, nomination, prestation de serment (1790-1811) ; extraits de jugement et exploit d’assignation (1792-1819) ; listes du jury (1791-1792 ; 1850-1853) ; certificats de bonne vie et mœurs (1793 ; an IX ; 1855 ; 1875) ; fiches des individus condamnés par devant le tribunal correctionnel (1853-1856).</unittitle>
+                     <unitdate normal="1790/1875">1790-1875</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 54</unitid>
+                     <unitid>I5</unitid>
+                     <unittitle>Hygiène publique et salubrité : épizooties (an IX-X ; 1835 ; 1871 ; 1892 ; 1916) ; épidémies, choléra (an XIII ; 1832 ; 1853-1854) ; tuilerie (1837) ; huilerie, autorisation d’installer une machines à vapeur (1846-1849) ; atelier d’équarrissage (1861).</unittitle>
+                     <unitdate normal="1800/1916">1800-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 55</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections : listes électorales.</unittitle>
+                     <unitdate normal="1831/1874">1831-1874</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 56</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections : listes électorales.</unittitle>
+                     <unitdate normal="1875/1923">1875-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 57</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Elections municipales (an V-1919) ; élections au conseil général et conseil d’arrondissement (1836-1937) ; élection du président de la République (1851) ; rétablissement de l’Empire (1852) ; plébiscite (1870) ; élections législatives (1852-1919) ; élections sénatoriales (1881-1919).</unittitle>
+                     <unitdate normal="1796/1919">1796-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 58</unitid>
+                     <unitid>K4</unitid>
+                     <unittitle>Personnel communal : garde-champêtre (1790-1809 ; 1837-1854 ; 1916) ; pâtre (1792-1832) ; garde-forestier (1809 ; 1831 ; 1841 -1842 ; 1874-1875 ; 1914-1916).&lt;lb/&gt;Distinction honorifique : légion d’honneur (1849).</unittitle>
+                     <unitdate normal="1790/1919">1790-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 59</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Finances de la communes : comptes de gestion (1790-an XIII ; 1814 ; 1821 ; 1836) ; comptes administratifs (an VIII-1809) ; budgets (an IX ; 1820 ; 1822-1838 ; 1840-1847).</unittitle>
+                     <unitdate normal="1790/1847">1790-1847</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 60</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices communaux .-Cimetière, église, presbytère ; réparations, emplacement et agrandissement du cimetière, clôture du jardin du presbytère, acquisitions d’ornements, fonte des cloches (1791-1895, 1 plan  de la charpente de l’église, 1883 ; 1 plan² de la porte du cimetière, 1839). Maison commune,  école de garçons, salle d’asile, halles aux grains ; travaux, construction de bâtisses, logement des instituteurs, agrandissement des écoles, mur de soutènement et clôture, acquisition de maisons, ameublement de la salle d’asile (1791-1881, 13 plans²). Ecole de filles ; acquisition d’une maison, construction (1840 ; 1845, 1 plan²). Fontaine ; réparations, acquisitions de terrains, dégâts causés par la pose de la conduite d’eau (1827-1876, 1 plan²). Remise des pompes ; aménagement (1834). Horloge ; acquisition (1857-1858). Pont à bascule (1878). Monument aux morts (1919).</unittitle>
+                     <unitdate normal="1791/1919">1791-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS ET EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 61</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux ; partage des communaux (an II) ; vente, échange, état, délimitation (1808-1877, 2 plans) ; anticipations (1829-1846) ; amodiation de la pêche (1841-1868) ; différends avec plusieurs particuliers concernant la propriété de terrains (1812, 1867-1871 ; 1862-1863 (1 plan) ; 1875-1876).</unittitle>
+                     <unitdate normal="1793/1877">1793-1877</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 62</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Bois communaux : délits forestiers (an XIII-1886) ; amodiation de la chasse (1812-1854) ; bois destinés à la marine royale (1817-1832) ; délimitation, procès verbal d’aménagement, élargissement d’une sommière séparative, contestation au sujet de l’aménagement, partage des bois en indivis avec Thiénans (1822-1861).&lt;lb/&gt;Eaux : établissement d’une pompe à l’abreuvoir (1868) ; acquisition de la source dite « fontaine de Rosey » (1875).</unittitle>
+                     <unitdate normal="1804/1886">1804-1886</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIES, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 63</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine : construction d’aqueducs (1827-1852) ; de rigoles pavées (1828 ; 1836 ; 1879, 1 plan) : place publique (1848-1883, 1 plan) ; éclairage des rues (1882-1883) ; devis et marchés d’adduction d’eau potable (1904-1909).</unittitle>
+                     <unitdate normal="1827/1909">1827-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 64</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Petite voirie : chemins vicinaux, réparations (1790-1883) ; tableaux (1865 ; 1893) ; projet de construction d’un pont sur l’Ognon à Bonnal (1837) ; chemin rural n°2 dit de la Galeuse, allant à Thiénans (1840-1863, 1 plan ) ;  chemin vicinal n°1, de Montbozon à Besnans (1861-1893) ; chemin vicinal n°4, de Maussans à Larians (1875-1876) ; chemin rural n°1, dit « Ancien chemin d’Avilley » (1889, 1 plan) ; chemin rural n°2, dit de la « Combe au Chie » (1890, 1 plan) ; chemin rural n°7, dit de « Montussaint » (1902, 1 plan) ; chemin rural n°6, dit « des fourches » (1903, 1 plan) ; chemin de grande communication n°3, allant à Mondon (1808-1877, 2 plans) ; chemin de grande communication n°4, de Montbozon à Oiselay, par Loulans (1819-1873) ; chemin de grande communication n°13 (1884-1888) ; prestations (1807-1903) ; ressources (1848-1914).</unittitle>
+                     <unitdate normal="1790/1914">1790-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 65</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Grande voirie : route départementale n°4, de Besançon aux Vosges (1824-1900, 1 plan).&lt;lb/&gt;Régime des eaux : enquête de commodo et incommodo concernant l’Ognon (1832) ; règlement d’eau, moulin sur l’Ognon, moulin de la Rochotte, papeterie sur l’Ognon (1837-1861) ; curage des ruisseaux (1876).&lt;lb/&gt;Moyens de transport : chemin de fer, ligne de Besançon à Vesoul (1842-1912) ; de Lure à Loulans (1873-1882, 1 plan).&lt;lb/&gt;Travaux divers : S.A. d’éclairage électrique de Montbozon (1898).</unittitle>
+                     <unitdate normal="1824/1912">1824-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 66</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte : pétition pour le transfert de la cure de Thiénans à Montbozon (1791) ; approbation de la requête du curé Rousselot, pour un vicaire (1791) ; marché de clerc (1808-1810) ; casuel (1829) ; projet d’aliénation de l’église de Thiénans (1830) ; séparation des églises et de l’Etat (1906-1916) ; attribution des biens de l’église (1912).&lt;lb/&gt;Fabrique : budget (1812-1885) ; subventions (1873-1879) ; compte (1884) ; renouvellement du conseil (1825) ; legs (1823 ; 1866 ; 1874).&lt;lb/&gt;Période révolutionnaire : inventaires des meubles et effets des Pères profès (1791) ; inventaire des biens du couvent des Dominicains (1790) ; argenterie et ornements provenant de l’église des Dominicains remis au district (an II-an III) ; destruction des croix de la commune, enlèvement des vases sacrés (an II-an III) ; serment civique de Jeanne-Pierette Prosjean, ex-religieuse (an III).</unittitle>
+                     <unitdate normal="1790/1916">1790-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 67</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Assistance et prévoyance : dépôt de mendicité (1811-1814 ; 1866 ; 1873) ; état des indigents des communes du canton (1854) et liste des indigents susceptibles d’être soignés par le médecin cantonal et recevoir les secours (1866) ; liste des indigents de Montbozon (1847-1886) ; placement d’enfants à l’orphelinat (1845-1879) ; asile de Neurey et hôpital de Vesoul : admission, participation aux frais par les familles, transport des indigents et aliénés (1845-1912) ; certificats médicaux (an II-an III) ; sage-femme et médecins diplômés (an X ; 1818 ; 1839) ; vaccinations : liste des enfants vaccinés (1828-1829), nomination d’un vaccinateur (1912 ; 1916) ; pension militaire (an VII-1836) ; déclaration d’accident de travail (1925) ; création d’une caisse d’épargne et de prévoyance (1835) ; retraites ouvrières et paysannes : liste des salariés (1922).</unittitle>
+                     <unitdate normal="1793/1925">1793-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 68</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Bureau de bienfaisance : compte de gestion (1846) ; budget (1880-1915) ; traitement du receveur (1876) ; renouvellement des membres du bureau (1806-1896) ; délibérations de la commission administrative (1821-1831 ; 1843-1856 ; 1875-1898) ; legs (1823-1867) ; souscriptions pour l’extinction de la mendicité (1862-1867).</unittitle>
+                     <unitdate normal="1806/1915">1806-1915</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>357 Edepot 69</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique : comité cantonal de surveillance (1831-1849) ; commission scolaire (1882-1892 ; 1926) ; bibliothèque, ouvrages approuvés (an IX ; 1832 ; 1876-1880 ; 1905) ; musée scolaire (1879) ; instituteurs : note du préfet concernant le salaire et le logement, subvention, nominations (an IV-1867) ; concours pour la place d’instituteurs, épreuves et résultats (1835) ; listes des enfants admis gratuitement (1833-1850 ; 1877-1878) ; listes des enfants fréquentant l’école des sœurs (1848) ; registre matricule (1862) ; listes nominatives des enfants de 6 à 13 ans (1887-1888) ; extraits du registre d’appel (1882-1883) ; école de Châlons-sur-Marne, concours d’admission (1840) ; école normale de Vesoul, enquête avant admission (1879) ; résultats des candidats au certificat d’études primaires (1882) ; pensionnat : ouverture d’une école privée (1842), annexion à l’école primaire (1872) ; laïcisation du poste d’adjointe à l’école des filles (1901).&lt;lb/&gt;Société de tir du 50e régiment territorial d’infanterie : statuts (1879).</unittitle>
+                     <unitdate normal="1795/1926">1795-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

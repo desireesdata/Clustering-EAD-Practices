@@ -1,0 +1,2274 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_447Edepot_Archives_communales_déposées_de_Rioz" url="https://francearchives.fr/findingaid/7e7ade8283a0b9247a953f04ec2c33127d5a116d">FRAD70_447Edepot_Archives_communales_déposées_de_Rioz</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>447Edepot - Archives communales déposées de Rioz</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>C.TROUX</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>447Edepot - Archives communales déposées de Rioz</unittitle>
+         <unitid>447Edepot1-154</unitid>
+         <unitdate normal="1611/1967">1611-1967</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE RIOZ</corpname>
+         </origination>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             25/07/2013
+         </p>
+         <p>Dernier ajout le             26/07/2013
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS, COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Impôts et comptabilité.&lt;lb/&gt;ANTHON : rôles des contribuables (1783 ; 1787) ; répartement de la somme de 15 livres 3 sols 3 deniers fait sur les habitants d’Anthon (1769) ; mémoire sommaire des frais et dépenses de Claude Galland, échevin d’Anthon (1774) ; compte d’Echevin (1781).&lt;lb/&gt;DOURNON : comptes des échevins (1770-1790) ; requête pour dégrèvement d’impôts (s.d.).&lt;lb/&gt;31 pièces papier, 2 cahiers papiers.</unittitle>
+                     <unitdate normal="1769/1790">1769-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORET, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 2</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Biens communaux : trois plans de portions de bois dont la propriété est contestée entre les habitants de Rioz et Adrien Damalix, demeurant à la Grange de la Bourotte. Ces terrains sont situés le long de la forêt Essart Jacquet au long de la Combe au diable. &lt;lb/&gt;3 plans.</unittitle>
+                     <unitdate normal="1775">1775</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 3</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>ANTHON : accensement fait au profit des habitants de la communauté d’Anthon, sur François Lacombe de Chazelot et sa femme résidant audit Anthon (16 décembre 1730) ; paiement de l’arpenteur (1777). &lt;lb/&gt;RIOZ : procédure entre Claude Jeuniot demeurant à Rioz et les habitants de Rioz au sujet de deux places (1711) ; procès entre la commune de Rioz et Antoine-François de Rosière, marquis de Sorans, au sujet de la propriété du bois « Du Main » (1737-an VI) ; procès entre la commune de Rioz et Nicolas Chambelland, entrepreneur de bâtiments (1781) ; mesurage et toisé des maisons de Rioz (1787).  &lt;lb/&gt;17 pièces papier, 2 cahiers papier.</unittitle>
+                     <unitdate normal="1711/1798">1711-1798</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 4</unitid>
+                     <unitid>DD4</unitid>
+                     <unittitle>Procès sur la propriété du chemin du moulin d’Anthon à Bellevaux, avec une copie du bail de la seigneurie de Chambornay-lès-Bellevaux par l’archidiacre de Faverney (1757 ; 1790).&lt;lb/&gt;13 pièces papier.</unittitle>
+                     <unitdate normal="1757/1790">1757-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 5</unitid>
+                     <unitid>EE1</unitid>
+                     <unittitle>Affaires militaires : levée des soldats provinciaux, affiches.&lt;lb/&gt;2 pièces papier.</unittitle>
+                     <unitdate normal="1787/1788">1787-1788</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 6</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Justice, procédure. &lt;lb/&gt;ANTHON : exploits d’huissiers pour saisie (1771) ; frais de voyage (1790).&lt;lb/&gt;DOURNON : exploits d’huissier pour saisies (1770-1790) ; procédure pour le paiement d’une amende et jugement rendu en la maîtrise des eaux et forêts (1770). &lt;lb/&gt;20 pièces papier.</unittitle>
+                     <unitdate normal="1770/1790">1770-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 7</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de « Riolz » (Rioz), de « Hanton » (Anthon), des « Granges » (Les Vieilles Granges), de la Malachère (1614-1616), du « Vergellot » (Le Verjoulat, commune de Neuvelle-lès-Cromary) (1614-1616), de Chambornay, alors uni à Rioz (1653) ; de Sorans (1671-1679), de Trésilley (1680-1683) et parfois de They : baptêmes (1611-1612 ; 1612-octobre 1613 ; mars-décembre 1614 ; 1615-octobre 1616 ; octobre-décembre 1613 ; mars-juillet 1621 ; février 1618- mars 1619 ; baptêmes, le 8 mars 1618 de Claude, fille de Bartholomé Symonin, « faber ferrarius » ; un baptême, février 1619 ; juin-décembre 1619 ; mai 1619-mars 1621 ; août 1621-1634 ; quatre baptêmes de 1649 à 1651 ; baptêmes par le prêtre de Rioz et de Chambornay, 1653 ; 1646 à 1655, en désordre ; 1656-1661 ; deux baptêmes de 1660 ; 1661-1671 ; un baptême de 1671 sur un feuillet rajouté ; 1671-1677 ; novembre 1674-1675 ; 1678-mars 1691) ; mariages (un acte de 1662, un de 1671, un de 1684 ; 1685-1690) ; sépultures (un acte de 1661, un de 1691, un de 1692 ; novembre 1688-1691 ; un acte de 1659, septembre-octobre 1669 ; 1676-1680) ; mariages (1678-1683) ; sépulture (mars-décembre 1687 ; septembre 1680-février 1687)&lt;lb/&gt;Registre relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1611/1692">1611-1692</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 8</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Rioz, Traitiéfontaine, Les Granges, Anthon : mariages (mai 1692-avril 1739) ; feuillet contenant quelques noms des confrères du Rosaire de Montarlot ; confirmations (un acte de 1701) ; confirmations pour Rioz, Anthon, Traitiéfontaine et Les Granges (1702, 1704, 1706, 1707 et 1708, 1719, 1721, 1727, 1708-1715, 1718, 1700-1701).&lt;lb/&gt;Lacune pour les baptêmes et pour les sépultures de 1692 à 1732&lt;lb/&gt;1 cahier relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1692/1739">1692-1739</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 9</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Rioz : une note annonçant l’inventaire des fondations faites en l’église de Rioz, tant anciennes que modernes ; baptêmes (1733-1736) ; baptêmes (février-avril 1738) ; une note du XIX e  siècle relative à la recherche, par la mairie de Chambornay du mariage de Robert Bonnet, qui aurait eu lieu à Rioz entre 1730 et 1740, ainsi qu’à un mariage Bonnet-Tricot, qui aurait eu lieu à Fondremand (il s’agit probablement des héritiers de Claude-François Bonnet, né parait-il au Fontenis, le 28 août 1715, qui, après avoir vécu à Madagascar où il fut roi de deux tribus, mourut à Calcuta en laissant une immense fortune, objet d’un procès jusqu’à la fin du XIXe siècle) ; baptêmes (1738-mars 1739) ; calendriers des messes, processions et autres cérémonies religieuses à observer en raison des fondation ; listes des confrères du Rosaire (1742, 1743, 1746, 1749, 1751, 1753-1765, 1767-1779, 1781-1783) ; deux notes volantes relatives aux messes à célébrer ; une note relative au partage du cimetière entre les communautés de Rioz, Traitiéfontaine, Vieilles-Granges et Anthon.&lt;lb/&gt;1 registre relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1733/1783">1733-1783</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 10</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Rioz, Anthon, Traitiéfontaine, Les Granges : sépultures (1733-1736) ; sépulture le 11 juillet 1736 de Jean-Baptiste Henrion, seigneur de Magnoncourt, âgé de 45 ans « praeter in urbe velsulana » ; sépulture (1736-avril 1738 ; 1734-août 1735, 1738-mars 1739).&lt;lb/&gt;1 cahier relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1733/1739">1733-1739</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 11</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Rioz, Anthon, Traitiéfontaine, Les Vieilles Granges : baptêmes, mariages, sépulture.&lt;lb/&gt;1 registre relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1737">1737</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 12</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Rioz, Anthon, Traitiéfontaine, Les Vieilles Granges et la Bourotte (à partir de 1760 environ) : baptêmes, mariages, sépultures.&lt;lb/&gt;1 registre relié carton, dos cuir.</unittitle>
+                     <unitdate normal="1739/1770">1739-1770</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 13</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial de Rioz, Anthon, Traitiéfontaine, Vieilles Granges, La Bourotte, parfois la Malachère (de 1778 à 1791) : baptêmes, mariages, sépultures (1771-1779) ; le 2 novembre 1779, bénédiction d’une cloche de l’église de Rioz, fondue par Bourguignon, de Besançon, pesant 1 290 livres et dont le parrain est François-Henri de Rosières, marquis de Sorans, brigadier des armées du roi, seigneur de Fondremand, Rosières Provenchères, Cromary er autres lieux, et la marraine Marie-Louise-Elisabeth de Maille-Carman (Kerman), marquise de Sorans, dame de compagnie de Madame Elisabeth de France, sœur de Louis XVI ; baptêmes, mariages, sépultures (1779-1792) ; table alphabétique des actes contenus dans ce registre et dans celui de 1739 à 1770.&lt;lb/&gt;1 registre relié carton, dos cuir (les deux premiers feuillets manquent).</unittitle>
+                     <unitdate normal="1771/1792">1771-1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 14</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial de Rioz, Anthon, Traitiéfontaine, Vieilles Granges, La Malachère : baptêmes, mariages, sépultures (décembre 1792-décembre 1793 ; février-avril 1794 ; décembre 1793-mai 1794) ; de nombreux soldats originaires d’autres provinces décèdent à l’hôpital de Rioz en 1793 et 1794.&lt;lb/&gt;1 cahier relié carton.</unittitle>
+                     <unitdate normal="1792/1794">1792-1794</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 15</unitid>
+                     <unitid>GG9</unitid>
+                     <unittitle>Limitation paroissial de Rioz et Quenoche.&lt;lb/&gt; 1pièce papier.</unittitle>
+                     <unitdate normal="1776">1776</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+            <c>
+               <did>
+                  <unitid>447 Edepot 74</unitid>
+                  <unitid>I3</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 76</unitid>
+                  <unitid>I5</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 77</unitid>
+                  <unitid>I6</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 78</unitid>
+                  <unitid>I7</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 79</unitid>
+                  <unitid>I8</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 80</unitid>
+                  <unitid>I9</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 81</unitid>
+                  <unitid>I10</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 82</unitid>
+                  <unitid>I11</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 83</unitid>
+                  <unitid>I12</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 84</unitid>
+                  <unitid>I13</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 85</unitid>
+                  <unitid>I14</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 86</unitid>
+                  <unitid>I15</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 87</unitid>
+                  <unitid>I16</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 88</unitid>
+                  <unitid>I17</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 89</unitid>
+                  <unitid>I18</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 90</unitid>
+                  <unitid>I19</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 91</unitid>
+                  <unitid>I20</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 92</unitid>
+                  <unitid>I21</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 93</unitid>
+                  <unitid>I22</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 94</unitid>
+                  <unitid>I23</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 95</unitid>
+                  <unitid>I24</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 96</unitid>
+                  <unitid>I25</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+            <c>
+               <did>
+                  <unitid>447 Edepot 97</unitid>
+                  <unitid>I26</unitid>
+                  <unittitle>Cote vacante. </unittitle>
+                  <unitdate>0</unitdate>
+               </did>
+               <accessrestrict>
+                  <p><emph render="bold">Communicabilité</emph></p>
+                     <p>Non communicable</p>
+                  </accessrestrict>
+               <controlaccess>
+                  <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+               </controlaccess>
+            </c>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 16</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1790/1798">1790-1798</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 17</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (an IV-an VIII), de l’administration municipale de canton, registre militaire, bois (1814-1842).&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1796/1842">1796-1842</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 18</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1802/1829">1802-1829</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 19</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1829/1852">1829-1852</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 20</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1852/1866">1852-1866</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 21</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (1866-1877) ; arrêtés du maire (1867-1875).&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1866/1877">1866-1877</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 22</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1877/1884">1877-1884</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 23</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Registre de délibération du conseil municipal de Rioz.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1884/1908">1884-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 24</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Actes de l’administration municipale. Registre des arrêtés du maire.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1886/1929">1886-1929</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 25</unitid>
+                     <unitid>D10</unitid>
+                     <unittitle>Répertoire des actes soumis à l’enregistrement concernant la mairie d’Anthon (1806-1808) ; répertoire des actes soumis à l’enregistrement concernant la mairie de Dournon (1807-1808) ; répertoire des actes soumis à l’enregistrement concernant la mairie de Rioz (1806-1888 ; 1888-1945).&lt;lb/&gt;Administration de la commune. &lt;lb/&gt;Projets de distraction des secteurs d’Anthon et Dournon, de la commune de Rioz (1829-1832 ; 1869 ; 1892) ; remplacement du cachet usagé de la mairie (1845) ; fourniture d’imprimés (1848) ; assurance incendie des bâtiments communaux (1845-1886).&lt;lb/&gt;11 cahiers papier, 25 pièces papier.</unittitle>
+                     <unitdate normal="1806/1945">1806-1945</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 26</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Etat civil. &lt;lb/&gt;Vérification des registres d’état civil (1824-1829) ; extraits d’actes d’état civil envoyés par d’autres communes (an II-1888).&lt;lb/&gt;58 pièces papier.</unittitle>
+                     <unitdate normal="1794/1888">1794-1888</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCILAE, STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 27</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population.&lt;lb/&gt;Mouvement de la population (1822 ; 1826 ; 1853-1865 ; 1867-1869 ; 1871-1875 ; 1877 ; 1880-1885 ; 1887-1906).&lt;lb/&gt;60 cahiers papier, 3 pièces papier.</unittitle>
+                     <unitdate normal="1822/1906">1822-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 28</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Population. &lt;lb/&gt;Dénombrements de la population (1817-1906) ; tableau des individus de la commune de Dournon de l’âge de 12 ans et au-dessus (an IV) ; registre des individus de la commune de Rioz de l’âge de 12 ans et au-dessus (1806).&lt;lb/&gt;16 cahiers papier, 20 pièces papier.</unittitle>
+                     <unitdate normal="1796/1906">1796-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 29</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Population. &lt;lb/&gt;Dénombrement de la population.&lt;lb/&gt;6 cahiers papier.</unittitle>
+                     <unitdate normal="1911/1946">1911-1946</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 30</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>Commerce. &lt;lb/&gt;Election des membres de la chambre du commerce de Gray-Vesoul.&lt;lb/&gt;196 pièces papier.</unittitle>
+                     <unitdate normal="1934/1961">1934-1961</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 31</unitid>
+                     <unitid>F5</unitid>
+                     <unittitle>Agriculture. &lt;lb/&gt;Election des membres de la chambre d’Agriculture de la Haute-Saône (1925-1961) ; élection des délégués communaux des collèges de Mutualité social agricole (1949 ; 1955-1956).&lt;lb/&gt;223 pièces papier</unittitle>
+                     <unitdate normal="1925/1961">1925-1961</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 32</unitid>
+                     <unitid>F6</unitid>
+                     <unittitle>Industrie.&lt;lb/&gt;Situation industrielle de la commune de Rioz (1848 ; 1889 ; 1891).&lt;lb/&gt;Agriculture. &lt;lb/&gt;Récolte des tabacs (1810) ; formation d’une garde rurale chargée de veiller à la conservation des récoltes (1817) ; demande du sieur Billot, de Rioz, l’autorisation de se procurer du blé à Authoison (an III) ; ban de fauchaison (1837) ; renseignements statistiques adressés à la Préfecture concernant des produits agricoles, les foires, les stocks, commerciaux, etc. (1890-1903). Etat des récoltes en grains et autres farineux (1856) ; fourniture et entretient du taureau communal (1806-1896) : P.V. des concours des taureaux (1821-1828) ; destruction d’animaux nuisibles (1871-1894) ; destruction des loups (1907) ; indemnités réclamées par les citoyens d’Anthon et Dournon pour perte de bétail (1792-1816).&lt;lb/&gt;85 pièces papiers, 1 cahier papier.</unittitle>
+                     <unitdate normal="1792/1907">1792-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 33</unitid>
+                     <unitid>F7</unitid>
+                     <unittitle>Agriculture. &lt;lb/&gt;Statistiques agricoles annuelles des communes du canton de Rioz.&lt;lb/&gt;28 pièces papier, 22 cahiers papier.</unittitle>
+                     <unitdate normal="1900/1919">1900-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 34</unitid>
+                     <unitid>F8</unitid>
+                     <unittitle>Agriculture. &lt;lb/&gt;Statistiques agricoles annuelles des communes du canton de Rioz.&lt;lb/&gt;9 pièces papier, 21 cahiers papier.</unittitle>
+                     <unitdate normal="1920/1941">1920-1941</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 35</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs. &lt;lb/&gt;Etat des sections A, B, C, D, E, F, G, de la commune d’Anthon (s.d.) ; état des sections C, D, E, de la commune de Rioz (1791).&lt;lb/&gt;2 cahiers papier.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 36</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Impôts directs. &lt;lb/&gt;Matrices de rôles pour la contribution foncière de Rioz, Anthon, Dournon.&lt;lb/&gt;14 cahiers papier.</unittitle>
+                     <unitdate normal="1791/1799">1791-1799</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 37</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Impôts directs. &lt;lb/&gt;Anthon : livre des mutations.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 38</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Dournon : livre des mutations&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 39</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Impôts directs. &lt;lb/&gt;Rioz : livres de mutations, 1er volume.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 40</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Impôts directs. &lt;lb/&gt;Rioz : livre des mutations, 2e volume.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Non communicable</p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 41</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Impôts directs. &lt;lb/&gt;Registre du métré des bâtiments.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1843">1843</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 42</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Impôts directs. &lt;lb/&gt;Fixation de l’assiette du chemin de défruitement au lieu-dit « champs Joseph » (1911) ; plans des sections ZA, ZB, ZC, ZD, ZE, ZH, ZI, remembrement (s .d.) ; nomination des commissaires-répartiteurs de Rioz, Anthon, Dournon (an V-1898) ; correspondance relative aux droits de patentes pour Anthon (1820-1827), pour Rioz (1813-1827) ; quittances pour droits de patentes de la commune de Rioz (an V-an VIII), d’Anthon (an V-an VI), de Dournon (an V).&lt;lb/&gt;9 plans, 203 pièces papier.</unittitle>
+                     <unitdate normal="1797/1911">1797-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 43</unitid>
+                     <unitid>G9</unitid>
+                     <unittitle>Impôts directs.&lt;lb/&gt;ANTHON : matrice de rôle pour la contribution mobilière (1791), pour la contribution personnelle, mobilière et somptuaire (an V), matrices générales des quatre contributions directes (1818-1835 ; 1842-1844).  &lt;lb/&gt;DOURNON : matrice de rôle pour la contribution mobilière (1791), pour la contribution personnelle, mobilière et somptuaire (an V), matrices générales des quatre contributions directes (1818-1835 ; 1839-1844). &lt;lb/&gt;RIOZ : matrices générales des quatre contributions directes (1818-1835 ; 1839-1845) ; matrices de rôle de la contribution personnelle et somptuaire (an III ; an V).&lt;lb/&gt;RIOZ, ANTHON, DOURNON : recensements des portes et fenêtres (1831) ; extraits de rôles des contributions directes (1881-1897).&lt;lb/&gt;29 cahiers papier, 32 pièces papier.</unittitle>
+                     <unitdate normal="1791/1897">1791-1897</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 44</unitid>
+                     <unitid>G10</unitid>
+                     <unittitle>Impôts directs.&lt;lb/&gt;ANTHON matrices générales des contributions directes.</unittitle>
+                     <unitdate normal="1850/1911">1850-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 45</unitid>
+                     <unitid>G11</unitid>
+                     <unittitle>Impôts directs.&lt;lb/&gt;DOURNON : matrices générales des contributions directes.  </unittitle>
+                     <unitdate normal="1850/1911">1850-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 46</unitid>
+                     <unitid>G12</unitid>
+                     <unittitle>Impôts directs. &lt;lb/&gt;RIOZ : matrices générales des contributions directes.</unittitle>
+                     <unitdate normal="1850/1911">1850-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 47</unitid>
+                     <unitid>G13</unitid>
+                     <unittitle>Impôts directs.&lt;lb/&gt;ANTHON : rôles trimestriels de la rétribution scolaire (1867-1871).&lt;lb/&gt;RIOZ, salle d’asile : rôles trimestriels de la rétribution scolaire (1866-1871),&lt;lb/&gt;RIOZ, école primaire : rôles trimestriels de la rétribution scolaire (1866-1871).&lt;lb/&gt;Déclarations tendant à des dégrèvements d’impôt (1791-1900),&lt;lb/&gt;RIOZ-ANTHON-DOURNON : mandements de répartition des contributions directes (an VIII-1828) ; distribution des télégrammes (1873-1893) ; tournées de facteurs, distribution du courrier (1901-1911) ; boite aux lettres (1905-1911) ; installation du téléphone à Anthon et Dournon (1929-1939).&lt;lb/&gt;191 pièces papier, 1 cahier papier.</unittitle>
+                     <unitdate normal="1791/1939">1791-1939</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 48</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recrutement.&lt;lb/&gt;Tableaux des conscrits (an VII-1814) ; tableaux de recensement des jeunes gens (1816-1842 ; 1844-1850).&lt;lb/&gt;49 pièces papier.</unittitle>
+                     <unitdate normal="1799/1850">1799-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 49</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Recrutement.&lt;lb/&gt;Tableaux de recensement des jeunes gens (1851-1940 ; 1944-1952).&lt;lb/&gt;102 pièces papier.</unittitle>
+                     <unitdate normal="1851/1952">1851-1952</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 50</unitid>
+                     <unittitle>Recrutement.&lt;lb/&gt;Etats de militaires : listes, tableaux (1792-1883) ; correspondance générale relative aux militaires (1792-1839).&lt;lb/&gt;68 pièces papier.&lt;lb/&gt;H3</unittitle>
+                     <unitdate normal="1792/1883">1792-1883</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 51</unitid>
+                     <unitid>H4</unitid>
+                     <unittitle>Armée territoriale.&lt;lb/&gt;Tableau de recensement (1874) ; ordre de route ordonné au sieur Bergeret de l’armée territoriale (1882) ; maintien des hommes dans leur foyer (1896) ; liste des sous-officiers et soldats assujettis au service territorial des vétérans (1825).&lt;lb/&gt;4 pièces papier, 1 cahier papier.</unittitle>
+                     <unitdate normal="1825/1896">1825-1896</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 52</unitid>
+                     <unitid>H5</unitid>
+                     <unittitle>Recrutement.&lt;lb/&gt;Soutiens de familles (1890-1893) ; déserteurs (an IV-1815) ; renvoi d’une recrue (1792) ; état des militaires rentrés dans leur foyer (1815) ; militaires pensionnés (1807-1869) ; militaires retraités (1815) ; engagements volontaires (1816-1891) ; déclarations et listes des jeunes gens ayant contracté l’engagement de remplacement (an IV ; 1859) ; mobilisation (1890 ; 1892) ; militaires jugés nécessaires à l’agriculture (an VI).&lt;lb/&gt;109 pièces papier, 2 cahiers papier.</unittitle>
+                     <unitdate normal="1792/1893">1792-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 53</unitid>
+                     <unitid>H6</unitid>
+                     <unittitle>Administration militaire.&lt;lb/&gt;Poudres et salpêtres : état des terres à salpêtre (1812) ; bail du logement du gendarme Authier (1820) ; mobilier pour les casernes de la gendarmerie (1809) ; logement et cantonnement des troupes : correspondance générale (an II-1905) ; registre des propriétaires pour le logement des militaires (1814) ; avis de passage des troupes (1859 ; 1892-1905) ; arrêté du préfet relatif aux frais de gite et géolage des militaires détenus (1843).</unittitle>
+                     <unitdate normal="1794/1905">1794-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 54</unitid>
+                     <unitid>H7</unitid>
+                     <unittitle>Administration militaire.&lt;lb/&gt;Livre d’étape (1792-germinal an II).&lt;lb/&gt;1 registre couvert en parchemin.</unittitle>
+                     <unitdate normal="1792/1794">1792-1794</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 55</unitid>
+                     <unitid>H8</unitid>
+                     <unittitle>Administration militaire.&lt;lb/&gt;Livre d’étape (floréal an II-messidor an IV).&lt;lb/&gt;1 registre couvert de parchemin.</unittitle>
+                     <unitdate normal="1794/1796">1794-1796</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 56</unitid>
+                     <unitid>H9</unitid>
+                     <unittitle>Administration militaire.&lt;lb/&gt;Livre d’étape (frimaire an IV-frimaire an V).&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1796/1797">1796-1797</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 57</unitid>
+                     <unitid>H10</unitid>
+                     <unittitle>Administration militaire.&lt;lb/&gt;Livre d’étape (nivôse an V-brumaire an VIII).&lt;lb/&gt;1 registre couvert en parchemin.</unittitle>
+                     <unitdate normal="1797/1800">1797-1800</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 58</unitid>
+                     <unitid>H11</unitid>
+                     <unittitle>Administration militaire.&lt;lb/&gt;Livre d’étape (brumaire an VIII- fructidor an XI).&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1800/1803">1800-1803</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 59</unitid>
+                     <unitid>H12</unitid>
+                     <unittitle>Administration militaire.&lt;lb/&gt;Réquisitions : tableaux de recensement des grains (1793) ; tableaux de recensement des fourrages et bestiaux (1793) ; états des voitures, attelages, bestiaux, fourrages, denrées (1792) ; états des voitures et bêtes (1815) ; état des chevaux (1825) ; tableaux des animaux et des bestiaux existants a Rioz, Dournon (an III) ; état de tous les fusils appartenant à la Nation et aux différents particuliers (1792).&lt;lb/&gt;19 pièces papier.</unittitle>
+                     <unitdate normal="1792/1825">1792-1825</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 60</unitid>
+                     <unitid>H13</unitid>
+                     <unittitle>Administration militaire.&lt;lb/&gt;Réquisitions : avis d’envoi de denrées (an II-an III) ; récépissés des livraisons faites de la réquisition de denrées (an II-an III ; 1840). Etat des réquisitions de diverses natures fournies aux troupes des armées alliées (an IV-1817) ; réquisitions de voitures (an II-1839) ; réquisitions de chevaux (1815-1818) ; estimations des fournitures à faire à l’hôpital de Vesoul (1814) ; répartitions des sommes entre les particuliers de Rioz ayant participé aux réquisitions, états des dépenses pour réquisitions (1792-1815) ; état de ce qui est dû par la commune de Rioz pour les fournitures faites pendant le passage des troupes alliées (1834-1841) ; état de ceux qui n’ont pas payé leurs réquisitions (1814) ; réclamations de particuliers tendant à obtenir le paiement de la quote-part que les communes d’Anthon et Dournon leur doivent, pour des fournitures qu’ils ont livrées à la suite d’une réquisition de 1815 (1832-1833) ; réclamation de Claude-François Maillerand, qui n’a pas touché la somme due, pour la fourniture d’un cheval (1820).&lt;lb/&gt;248 pièces papier.</unittitle>
+                     <unitdate normal="1792/1841">1792-1841</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 61</unitid>
+                     <unitid>H14</unitid>
+                     <unittitle>Administration militaire.&lt;lb/&gt;Registres de recensement des chevaux, mulets, voitures attelées. &lt;lb/&gt;72 pièces papier.</unittitle>
+                     <unitdate normal="1874/1889">1874-1889</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 62</unitid>
+                     <unitid>H15</unitid>
+                     <unittitle>Administration militaire.&lt;lb/&gt;Registres de recensement des chevaux, mulets, voitures attelées.&lt;lb/&gt;53 pièces papier.</unittitle>
+                     <unitdate normal="1890/1905">1890-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 63</unitid>
+                     <unitid>H16</unitid>
+                     <unittitle>Administration militaire.&lt;lb/&gt;P.V. de mort d’un cheval (1824) ; société d’habillement des militaires (1830) ; requêtes pour obtenir des secours aux familles des défenseurs de la Patrie (1792-an III) ; acte de décès du militaire Jean-Baptiste Cornu (1808) ; liste des entrées et morts des militaires à l’hôpital de Rioz (an II-an III) ; liste des militaires conduits et couchés à Rioz (an XI) ; attestation certifiant que le défunt gendarme Claude-François Berthiot a rempli son devoir de gendarme avec honneur (1793).&lt;lb/&gt;13 pièces papier.</unittitle>
+                     <unitdate normal="1795/1830">1795-1830</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 64</unitid>
+                     <unitid>H17</unitid>
+                     <unittitle>Garde nationale.&lt;lb/&gt;Etat nominatifs des jeunes gens inscrits sur la liste de la garde nationale mobile et sédentaire (1844-1870) ; engagements volontaires : instructions (1869) ; élections des officiers et sous-officiers (1843-1870) ; nomination des membres du conseil de recensement de la garde-nationale (1870) ; tambour de la garde nationale (1830) ; garde nationale mobilisée : frais d’habillement (1831 ; 1873) , répartitions et réintégrations des armes de la garde nationale, locaux pour le dépôt des armes (1865-1870).&lt;lb/&gt;64 pièces papier.</unittitle>
+                     <unitdate normal="1830/1873">1830-1873</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 65</unitid>
+                     <unitid>H18</unitid>
+                     <unittitle>Garde nationale.&lt;lb/&gt;Bulletins individuels classés par ordre alphabétique.&lt;lb/&gt;418 pièces papier.</unittitle>
+                     <unitdate normal="1831">1831</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 66</unitid>
+                     <unitid>H19</unitid>
+                     <unittitle>Sapeurs pompiers.&lt;lb/&gt;Formation et organisation de la subdivision des sapeurs pompiers (1850-1897) ; règlement de service des sapeurs pompiers de Rioz (1876-1895) ; personnel : engagements (1848-1900), démission (1853), livrets du sapeur pompier Demougeot (1895) ; fournitures d’habillements pour les sapeurs pompiers (1896-1908) ; assurances pour les sapeurs pompiers (1890-1913) ; récompenses honorifiques (1892-1894).&lt;lb/&gt;Acquisitions de pompe à incendie (1827 ; 1858 ; 1899) ; plainte contre M. Richardet pour avoir refusé de donner un attelage destiné à conduire la pompe à incendie (1897) ; acquisitions de matériel à incendie (1827-1899) ; inventaire du matériel d’incendie (1899) ; règlement de la société de secours pour le service et l’entretien des pompes à incendie (1859).&lt;lb/&gt;235 pièces papier, 2 cahiers papier.</unittitle>
+                     <unitdate normal="1827/1899">1827-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 67</unitid>
+                     <unitid>H20</unitid>
+                     <unittitle>Invasion allemande de 1871.&lt;lb/&gt;Etats des réquisitions diverses (1870-1872) ; état nominatif des particuliers qui ont éprouvé des pertes dans la commune par suite de réquisitions, dommages et autre faits de guerre (1872) ; correspondance relatives aux réquisitions allemandes et au paiement de ces réquisitions (1870-1872) ; situation des armes existant dans la commune (1871) ; subsides accordées aux communes, répartitions (1872-1874).&lt;lb/&gt;338 pièces papier, 1 cahier papier.</unittitle>
+                     <unitdate normal="1870/1874">1870-1874</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 68</unitid>
+                     <unitid>H21</unitid>
+                     <unittitle>Guerre 1939-1945.&lt;lb/&gt;Recensement des classes : états des jeunes gens, notices individuelles, avis d’inscriptions, extraits d’actes de naissances, correspondance, instructions, circulaires de la Préfecture ; ordre de mobilisation (1939) ; cantonnement et logement des troupes : états des logements et cantonnement militaires, recensement des cantonnements susceptibles d’être utilisés par des troupes, règlements des indemnités de cantonnement et de logement (1941) ; réquisitions : foin, paille, laine, bovins, chevaux, meubles (1936-1944), paiement des réquisitions militaires (1939) ; ravitaillement des armées et de la population civile : instructions (1939-1940) ; cartes de rationnement : circulaires, instructions (1940) ; approvisionnement en viande, inspection des viandes (1939-1940) ; boulangeries-pâtisseries : réglementation (1938-1940) ; lait condensé (1940) ; circulation en temps de guerre : sauf-conduits (1939-1940) ; états des armes déposées en mairie de Rioz (1840-1859).&lt;lb/&gt;344 pièces papier, 3 cahiers papier.</unittitle>
+                     <unitdate normal="1936/1959">1936-1959</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 69</unitid>
+                     <unitid>H22</unitid>
+                     <unittitle>Guerre 1939-1945.&lt;lb/&gt;Défense passive : instructions et recommandations à la population en cas d’attaques aériennes (1939-1940), masques à gaz (1933), exercices de défense passive, instructions, circulaires de la Préfecture (1934-1940) ; mesures de police : état de siège, représentations cinématographiques, chiens errants, surveillance des démarcheurs (1939) ; organisation des relations postales, télégraphiques, téléphoniques (1939-1944) ; débits de boissons : arrêtés du préfet concernant les heures d’ouverture, l’accès aux cafés (1939-1944) ; vêtements et textiles : bons d’achat, délivrance de vêtements ou textiles (1941) ; automobiles-pneumatiques : recensement des voitures utilitaires et chambres à air (1941) ; réquisitions d’automobiles et vélomoteurs (1939-1946) ; déclarations de propriétés de véhicules automobiles ou remorqués (1945) ; attributions de pneus-vélo et chambre à aire-vélo à la commune de Rioz (1941-1942) ; instructions sur la règlementation de la vente et des déclarations de pneumatiques (1941) ; pneus-vélo : approvisionnement des détaillants (1941) ; demandes pour obtenir des pneus et chambres à air de bicyclette (1941) ; carburants, charbons (1940-1944).&lt;lb/&gt;126 pièces papier, 1 cahier papier.</unittitle>
+                     <unitdate normal="1934/1946">1934-1946</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 70</unitid>
+                     <unitid>H23</unitid>
+                     <unittitle>Guerre 1939-1945.&lt;lb/&gt;Evacués, réfugiés : institutrices, recensement (1939-1945) ; étrangers : recensement, naturalisation, étrangers bénéficiaires du droit d’asile, situation des travailleurs de nationalité étrangère en cas de guerre, enquête sur les ressortissants italiens (1940), recensement des polonais (1939), reconstitution en France de l’armée tchécoslovaque (1939) ; militaires : Keusch Roger, sans nouvelle famille (1939) ; affectation spéciale du réserviste André Monnier, boulanger à Rioz (1940) ; combattants victimes de la guerre (1939) ; organisation de cimetière militaires (1939).&lt;lb/&gt;Renseignements fournis à la Kommandantur à Rioz sur le village de Rioz (1940) ; liste des objets ayant disparu de l’appartement des familles Delfel-Charnaux à Rioz, occupé par les troupes allemandes en juin-juillet 1940 ; représailles du 24 juillet 1944 : listes des objets volés par les troupes allemandes, dommages causés aux habitations, rapport du maire sur les agissements commis dans la commune de Rioz (1944-1945) ; vol commis par les troupes allemandes (septembre 1944).&lt;lb/&gt;Sinistrés de Rioz : dons, réparations urgentes à faire aux immeubles sinistrés (1944) ;  déminage des terrains agricoles (1944) ; récupération des chevaux abandonnés par l’ennemi (1944) ; récupération des objets de toute nature abandonnés par l’armée allemande (1944) ; récupération du matériel de guerre (1944) ; mise en appel différé dans l’agriculture (1945).  &lt;lb/&gt;243 pièces papier.</unittitle>
+                     <unitdate normal="1939/1945">1939-1945</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 71</unitid>
+                     <unitid>H24</unitid>
+                     <unittitle>Affaires militaires diverses.&lt;lb/&gt;Correspondance entre le Préfet de la Haute-Saône et le maire de Rioz relative à des achats de blés, fourrages, chevaux et cuirs, qui avaient été fait pour le compte de l’Allemagne (1905) ; cantonnement de Rioz : zone de repos n° 262 (1918-1919) ; manœuvres de transport par les forces armées américaines et françaises (1954) ; manœuvres nationales de 1963 ; exercice de défense opérationnelle du 16-19 juin 1964 ; comité national du souvenir de Verdun (1964).&lt;lb/&gt;41 pièces papier, 1 plan.</unittitle>
+                     <unitdate normal="1964">1964</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 72</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale.&lt;lb/&gt;Rapports mensuels du garde-champêtre de Rioz et d’Anthon (1862) ; procès-verbaux de la gendarmerie impériale (1856-1864) ; instruction du préfet sur le maintien de l’ordre (1848) ; fête patronale (1889) ; règlements, ouvertures, fermetures des débits de boissons (1815-1900) ; relevé des registres tenus par les aubergistes (1815) ; règlements municipaux concernant la police des boulangeries (1861-1885) ; règlements pour la police des marchés (1830-1861) ; droits de places aux marchés et aux fêtes (1885-1899) ; droits de places aux foires de Rioz (1881-1894) ; affaires de tapage nocturne et d’injures (1821-1844) ; renseignements demandés sur Marguerite Grand, prévenue de vagabondage (1812) ; arrêté municipal sur la mendicité (1847) ; chiens errants ou enragés (1822-1891 ; 1905) ; inhumation (1891) ; autorisation d’exhumation de corps ; transports de corps (1874-1892) ; incendies criminels à Rioz : coupures de presses (1896).&lt;lb/&gt;Police urbaine.&lt;lb/&gt;Arrêté municipaux sur la police des rues (1858-1888) ; pétition contre le sieur Millardet qui rend la rue impraticable (1814).&lt;lb/&gt;Police rurale.&lt;lb/&gt;Délits de chasse dans le bois (1841-1843) ; tenus des chèvres et dommages causés par ces animaux (1807) ; arrêté municipal sur la construction des cheminées (1844-1845) ; ramonages des cheminées (1891).&lt;lb/&gt;151 pièces papier.</unittitle>
+                     <unitdate normal="1807/1905">1807-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 73</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Cote vacante. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Non communicable</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 75</unitid>
+                     <unitid>I4</unitid>
+                     <unittitle>Cote vacante. </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Non communicable</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 98</unitid>
+                     <unitid>I27</unitid>
+                     <unittitle>Police générale.&lt;lb/&gt;Registre des passeports de la commune de Rioz (an X-1806) ; passeports (1811-1887) ; souches de passeports (1814-1885)&lt;lb/&gt;272 pièces papier, 1 cahier papier.</unittitle>
+                     <unitdate normal="1802/1887">1802-1887</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 99</unitid>
+                     <unitid>I28</unitid>
+                     <unittitle>Police générale.&lt;lb/&gt;Correspondance du préfet (1809-1843) ; correspondance du procureur (1815-1828) ; demandes de renseignements sur des personnes domiciliées ou originaires de Rioz (1809-1814) ; feuilles de signalements (1807-1857) ; contraventions aux règlements sur la police du roulage (1842) ; mise en circulation d’une voiture publique (1877) ; assassinat du Duc de Berry (1820) ; répression de la contrebande (1816) ; surveillance des voyageurs et étrangers qui séjournent dans la commune de Rioz (1815) ; mise en surveillance de Madeleine Fusier (1819).&lt;lb/&gt;60 pièces papier.</unittitle>
+                     <unitdate normal="1807/1877">1807-1877</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 100</unitid>
+                     <unitid>I29</unitid>
+                     <unittitle>Justice.&lt;lb/&gt;M. le procureur du roi demande le P.V. de vérification du registre de la justice de paix (1825) ; cahier d’audiences du tribunal de simple police à Rioz (1859-1861) ; pièces de procès concernant les officiers municipaux d’Anthon (1790) ; procédure contre le sieur Quillard pour les indemnisations qu’il doit à la dame Dubourg (1890) ; liste des jurés (1812 ; 1849-1872) ; registre pour servir à enregistrer les P.V. de prestation de serment des notaires (an XIII) ; saisie d’immeubles appartenant à Joseph Charmy (1817) ; exploits d’huissiers délivrés à la mairie (1891).&lt;lb/&gt;Répression.&lt;lb/&gt;Fournitures des vivres à donner aux détenus (1817 ; 1824) ; registre des mandats de fournitures pour le transport des condamnés dans la place de Rioz (1824-1834).&lt;lb/&gt;Hygiène publique et salubrité.&lt;lb/&gt;Nomination des membres de la commission d’hygiène et de salubrité (1864-1874) ; vaccinations (1813 ; 1817 ; 1835) ; rapport sur la situation de la commune au point de vue de la santé publique (s.d.) ; infiltrations provenant d’un dépôt de fumier (1900) ; fièvres aphteuses, typhoïde, épizootie : instructions, levées de déclaration d’infection (1852-1909) ; dénonciation du sieur Tribillon, marchand de bestiaux, qui enfouit les animaux morts dans son jardin (1886) ; surveillance des foires et marchés aux bestiaux (1885).&lt;lb/&gt;Divers.&lt;lb/&gt;Extraits divers de registres de délibérations du conseil municipal de Rioz (1850-1896).&lt;lb/&gt;84 pièces papier, 2 cahiers papier.</unittitle>
+                     <unitdate normal="1790/1909">1790-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 101</unitid>
+                     <unitid>I30</unitid>
+                     <unittitle>Police urbaine.&lt;lb/&gt;Limitation de la vitesse des poids lourds durant la traversée du village de Rioz (1962 ; 1967).&lt;lb/&gt;Justice.&lt;lb/&gt;Prestation de serment de maître André Narçon, notaire à Rioz (1930).&lt;lb/&gt;22 pièces papier.</unittitle>
+                     <unitdate normal="1930/1967">1930-1967</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 102</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections.&lt;lb/&gt;Anthon-Dournon : listes des électeurs (1874-1880).&lt;lb/&gt;Rioz : listes des électeurs (1874-1880).&lt;lb/&gt;Rioz-Anthon-Dournon : listes des électeurs (1855-1870 ; 1872-1880).&lt;lb/&gt;39 cahiers papier, 12 pièces papier.</unittitle>
+                     <unitdate normal="1855/1880">1855-1880</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 103</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections.&lt;lb/&gt;Anthon-Dournon : listes des électeurs (1881-1907).&lt;lb/&gt;Rioz : listes des électeurs (1881-1951).&lt;lb/&gt;Rioz-Anthon-Dournon : listes des électeurs (1881-1907).&lt;lb/&gt;64 cahiers papier, 28 pièces papier.</unittitle>
+                     <unitdate normal="1881/1951">1881-1951</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 104</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Elections.&lt;lb/&gt;Plébiscite (1870) ; vote pour le rétablissement de l’Empire (1852) ; nomination du Président de la République (1848) ; élections législatives (1849-1877) ; élections sénatoriales (1876) ; élection du conseil d’arrondissement (1817-1880) ; élections du conseil général (1833-1880) ; élections des membres du conseil général et du conseil d’arrondissement (1858-1886).&lt;lb/&gt;183 pièces papier.</unittitle>
+                     <unitdate normal="1817/1886">1817-1886</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 105</unitid>
+                     <unitid>K4</unitid>
+                     <unittitle>Elections.&lt;lb/&gt;Elections des membres du conseil municipal (1818-1878) ; nominations et élections des maires et adjoints (1831-1871) ; démission des membres du conseil municipal (1844) ; remplacement du maire malade (1854) ; listes des scrutins (s.d.).&lt;lb/&gt;Personnel municipal.&lt;lb/&gt;Receveur municipal (1813 ; 1876-1901) ; contrôleur des contributions directes (1823) ; gardes-champêtres (1810-1896) ; gardes-forestiers (1818-1891) ; garde-particulier (1896) ; pâtres communaux (1840-1888) ; cantonnier (1853) ; vétérinaires (1899-1900).&lt;lb/&gt;Distinctions honorifiques.&lt;lb/&gt;Légion d’honneur (1816-1832) ; prix de vertu (1828) ; décoration de la fleur de Lys (1814).&lt;lb/&gt;169 pièces papier.</unittitle>
+                     <unitdate normal="1817/1901">1817-1901</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 106</unitid>
+                     <unitid>K5</unitid>
+                     <unittitle>Elections.&lt;lb/&gt;Elections législatives (1881-1951) ; élections sénatoriales (1881-1935) ; élections du conseil général (1886-1924) ; élections de conseil d’arrondissement (1886-1925).&lt;lb/&gt;176 pièces papier.</unittitle>
+                     <unitdate normal="1881/1951">1881-1951</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 107</unitid>
+                     <unitid>K6</unitid>
+                     <unittitle>Elections.&lt;lb/&gt;Elections des membres du conseil municipal (1881-1945) ; élections des maires et adjoints (1882-1925) ; démissions de maire et adjoint (1898 ; 1913).&lt;lb/&gt;Personnel municipal : garde-champêtre (1933) ; registre de nominations de gardes-champêtres (an IV-an VIII)&lt;lb/&gt;94 pièces papier.</unittitle>
+                     <unitdate normal="1881/1945">1881-1945</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 108</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptabilité.&lt;lb/&gt;Budgets de la commune de Rioz-Anthon-Dournon (an IX ; an XII-1870 ; 1872-1880).&lt;lb/&gt;147 pièces papier.</unittitle>
+                     <unitdate normal="1801/1880">1801-1880</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 109</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptabilité.&lt;lb/&gt;Budgets de la commune de Rioz-Anthon-Dournon.&lt;lb/&gt;78 pièces papier.</unittitle>
+                     <unitdate normal="1881/1956">1881-1956</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 110</unitid>
+                     <unitid>L3</unitid>
+                     <unittitle>Comptabilité.&lt;lb/&gt;Budgets additionnels ou supplémentaires de Rioz-Anthon-Dournon (1835 ; 1838-1870 ; 1872-1880).&lt;lb/&gt;58 pièces papier.</unittitle>
+                     <unitdate normal="1835/1880">1835-1880</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 111</unitid>
+                     <unitid>L4</unitid>
+                     <unittitle>Comptabilité.&lt;lb/&gt;Budgets additionnels ou supplémentaires de Rioz-Anthon-Dournon (1881-1919 ; 1921-1947 ; 1949-1956).&lt;lb/&gt;74 pièces papier.</unittitle>
+                     <unitdate normal="1881/1956">1881-1956</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 112</unitid>
+                     <unitid>L5</unitid>
+                     <unittitle>Comptabilité.&lt;lb/&gt;Comptes administratifs de Rioz-Anthon-Dournon (an V ; an VII ; an IX-an XIV ; 1807-1824 ; 1849).&lt;lb/&gt;Comptes de gestion annuelle (1829-1833 ; 1837-1843 ; 1845-1850).&lt;lb/&gt;110 pièces papier.</unittitle>
+                     <unitdate normal="1797/1850">1797-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 113</unitid>
+                     <unitid>L6</unitid>
+                     <unittitle>Comptabilité.&lt;lb/&gt;Comptes administratif (1926-1928 ; 1933-1956).&lt;lb/&gt;27 pièces papier.</unittitle>
+                     <unitdate normal="1926/1956">1926-1956</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 114</unitid>
+                     <unitid>L7</unitid>
+                     <unittitle>Comptabilité.&lt;lb/&gt;Comptes de gestion annuelle (1851-1856 ; 1858-1861 ; 1863 ; 1867 ; 1869-1889 ; 1893-1912).&lt;lb/&gt;55 pièces papier.</unittitle>
+                     <unitdate normal="1851/1912">1851-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 115</unitid>
+                     <unitid>L8</unitid>
+                     <unittitle>Comptabilité.&lt;lb/&gt;Arrêtés du conseil de préfecture relatifs à la comptabilité de Rioz (1883-1898) ; arrêtés d’apurement (1865 ; 1874) ; divers extraits des registres de délibérations du conseil municipal de Rioz (1821-1897).&lt;lb/&gt;&lt;lb/&gt;Revenus et charges de la commune.&lt;lb/&gt;Etats des biens, propriétés foncières, dettes, créances et toutes les ressources et redevances de la municipalité de Rioz (1792) ; registre des mandats délivrés par le maire (1814-1824) ; quittances des sommes payées à plusieurs particuliers pour des travaux effectués pour la commune de Rioz (1810-1825) ; rejet d’une demande de permis de chasse et attribution au trésor des droits (1890) ; aliénation d’un titre de rente sur l’Etat (1887-1888) ; rentes dues par la commune d’Anthon et qui doivent être remises aux hospices de Besançon (1819) ; avis d’un secours accordé aux habitants d’Anthon et Dournon (1828).&lt;lb/&gt;76 pièces papier, 2 cahiers papier.</unittitle>
+                     <unitdate normal="1792/1898">1792-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 116</unitid>
+                     <unitid>L9</unitid>
+                     <unittitle>Revenus de la commune.&lt;lb/&gt;Taxes municipales sur les chiens (1865-1871 ; 1878-1909).&lt;lb/&gt;41 cahiers papier.</unittitle>
+                     <unitdate normal="1865/1909">1865-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 117</unitid>
+                     <unitid>L10</unitid>
+                     <unittitle>Revenus de la commune.&lt;lb/&gt;Concession d’eau (1904 ; 1952).&lt;lb/&gt;4 pièces papier, 1 plan.</unittitle>
+                     <unitdate normal="1907/1952">1907-1952</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 118</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices publics.&lt;lb/&gt;Maison commune : anciens titres de propriétés (an III-an V ; 1828) ; acquisition par la commune de Rioz d’une maison et dépendance pour y établir la mairie, la justice de paix et le logement de l’instituteur (1829-1831) ; travaux de réparations (1838-1909) ; travaux d’aménagements (1833-1856) ; projet de transformation de la maison commune de Rioz (1900) ; échange entre la commune de Rioz et le sieur Vuillaume, notaire, relatif à un droit de passage et une mitoyenneté à la maison commune (1842) ; acquisition par le sieur Vuillaume, de la mitoyenneté du mur de la maison commune (1859) ; traité d’abandon entre madame veuve Fachard et la commune, relatif à un droit de passage entre les bâtiments de la mairie (1842 ; 1899).&lt;lb/&gt;Horloge : acquisition (1831) ; réclamation du sieur Chapuis, sonneur (1833) ; travaux de réparations (1878) ; éclairage du cadran de l’horloge (1909-1910).&lt;lb/&gt;Bureau de police, maison d’arrêt : établissement de maisons de police et restauration des maisons d’arrêt (1811).&lt;lb/&gt;Caserne de gendarmerie : travaux de réparations (an V-1903).&lt;lb/&gt;Bascule publique : acquisition d’un pont a bascule (1899) ; travaux d’installation et de réfection (1899-1924) ; location de la bascule publique (1899-1931).&lt;lb/&gt;Four communal : jugement entre la commune de Rioz et le sieur Vuillaume relatif à la mitoyenneté du four communal (1844).&lt;lb/&gt;178 pièces papier, 3 cahiers papier, 7 plans.</unittitle>
+                     <unitdate normal="1795/1931">1795-1931</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 119</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>Edifices publics.&lt;lb/&gt;Anthon : devis et détail estimatif des travaux de reconstruction des murs de deux auges-abreuvoirs (1912).&lt;lb/&gt;Anthon : construction d’un lavoir couvert (1868-1898).&lt;lb/&gt;Dournon : demande des habitants de Dournon, pour  la construction d’un lavoir (1880).&lt;lb/&gt;Dournon : projet de construction de conduite d’eau et d’une fontaine (1820-1874).&lt;lb/&gt;Rioz : travaux de construction et de réparations aux lavoirs (1836-1907).&lt;lb/&gt;Rioz : fontaine de la mairie : échange de terrain entre la commune et le sieur Vuillaume, pour y construire la fontaine (1839) ; fontaine route de Trésilley : acquisition de terrain pour y construire la fontaine (1840) ; acquisition de deux parcelles de terrain pour l’emplacement des fontaines de la Cornée et de la rue du card (1849).&lt;lb/&gt;Fontaine de la Cornée : établissement, écoulement du trop plein (1849) ; établissement d’un abreuvoir à la fontaine de la Cornée (1891-1892) ; demande des habitants éloignés des fontaines publiques de construire une fontaine dans leur quartier (1849) ; demande d’établissement d’une fontaine aux Millardets (1862).&lt;lb/&gt;136 pièces papiers, 13 plans.</unittitle>
+                     <unitdate normal="1820/1912">1820-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 120</unitid>
+                     <unitid>M3</unitid>
+                     <unittitle>Edifices du culte et cimetière.&lt;lb/&gt;Eglise : travaux à exécuter aux abords de l’église pour dégager l’entrée (1852-1864) ; travaux de réparations à l’église et au presbytère (1791-1898 ; 1927) ; quote part des communes co-paroissiales dans les réparations à l’église (1813-1874) ; demande de reconstruire de nouveaux banc à l’église de Rioz (1868).&lt;lb/&gt;Presbytère : travaux de réparations au presbytère (1836-1910) ; location du presbytère (1906-1908) ; demande de licitation du presbytère (1906-1908).&lt;lb/&gt;Cloche : marché pour l’acquisition d’une cloche (1816-1819 ; 1892).&lt;lb/&gt;&lt;lb/&gt;Cimetière : reconstruction des murs de l’ancien cimetière (1836-1839) ; projet de reconstruction des murs de l’ancien cimetière (1875) ; travaux à exécuter au cimetière (1879) ; règlementation du cimetière (1888) ; instruction relatives à l’entretien des tombes militaires (1890-1900).&lt;lb/&gt;173 pièces papier, 5 plans.</unittitle>
+                     <unitdate normal="1791/1927">1791-1927</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 121</unitid>
+                     <unitid>M4</unitid>
+                     <unittitle>Ecoles.&lt;lb/&gt;Anthon : projet d’acquisition d’une maison sise à Anthon et appartenant au sieur Verbois, pour le transformer en maison d’école (1855) ; projet de construction d’une maison d’école à Anthon (1857-1862).&lt;lb/&gt;Rioz : acquisition d’une maison appartenant au sieur Roussel, pour y établir l’école des filles (1827-1829) ; séparation en deux de la classe des filles (1851) ; entretient des fourneaux des écoles (1887-1890) ; P.V. d’adjudication du lavage des écoles (1885-1891) ; P.V. d’adjudication du façonnage du bois des école (1884-1898) ; travaux à exécuter à l’école des garçons (1885 ; 1926) ; reconstruction du mur de clôture du jardin de l’institutrice (1866-1867) ; acquisition d’une parcelle de jardin des époux Duret, pour servir de jardin à l’institutrice (1886) ; projet de construction d’une salle d’asile (1882-1886) ; délibération du conseil municipal pour l’établissement à Rioz d’une école d’enseignement mutuel (1819).&lt;lb/&gt;Edifices divers.&lt;lb/&gt;P.V. d’adjudication des travaux de nivellement du champ de foire (1889).&lt;lb/&gt;92 pièces papier, 4 cahiers papier, 9 plans.</unittitle>
+                     <unitdate normal="1819/1926">1819-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 122</unitid>
+                     <unitid>M5</unitid>
+                     <unittitle>Divers.&lt;lb/&gt;Locations d’immeubles communaux (1837 ; 1859) ; location par la commune de Rioz, d’un appartement servant à la tenue des assemblées municipales et de la justice de paix (1820-1828) ; acquisition par la commune de Rioz, d’une maison appartenant à Mme Bardey et consorts Picard (1834) ; travaux de réparations à faire à plusieurs bâtiments communaux (1849-1899) ; extraits divers des registres de délibérations du conseil municipal de Rioz (1842-1897).&lt;lb/&gt;64 pièces papier, 1 cahier papier.</unittitle>
+                     <unitdate normal="1820/1899">1820-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 123</unitid>
+                     <unitid>M6</unitid>
+                     <unittitle>Edifices publics.&lt;lb/&gt;Réinstallation du bureau de poste de Rioz (1911-1914) ; érection d’un monument aux morts (1920-1922) ; buste de la République accordé à la commune de Rioz (1914) ; projet d’aménagement de la salle des fêtes (1858) ; aménagement du terrain de sport (1941-1943).&lt;lb/&gt;&lt;lb/&gt;Edifices du culte et cimetière.&lt;lb/&gt;Travaux de réfections à faire à la salle de catéchisme (1929) ; réparations au clocher (1904-1905 ; 1927 ; 1929) ; travaux à effectuer au cimetière (1900-1933).&lt;lb/&gt;Divers.&lt;lb/&gt;Travaux à effectuer aux bâtiments communaux (1900-1961) ; offres et renseignements au sujet de la construction d’H.L.M. (1955) ; relevé des immeubles appartenant à l’Etat ou occupés par lui à un titre quelconque (1963).&lt;lb/&gt;237 pièces papier, 2 plans.</unittitle>
+                     <unitdate normal="1900/1963">1900-1963</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 124</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux.&lt;lb/&gt;Amodiation de l’herbe de l’étang Jean Breson, par les habitants d’Anthon (1790) ; acquisition de terrain par la commune de Rioz sur le sieur Prieur (1865) ; ventes de terrains communaux à des particuliers (1806-1860 ; 1935) ; échanges de terrains entre la commune de Rioz et des particuliers (1822 ; 1838 ; 1912) ; locations de terrains communaux (1836-1897) ; occupation temporaire d’un terrain communal par le sieur Cuchet (1896) ; anticipation sur des terrains communaux (1824-1844) ; anticipation par la commune sur le terrain de sieur Robin (1861) ; procès entre la commune de Rioz et les sieurs Thomassin et Poirier au sujet de passage dans les prés (1812-1820) ; contestation d’un passage appartenant à la commune sur le terrain du sieur Gevroz (1867) ; règlement de la vaine pâture (1862 ; 1890).&lt;lb/&gt;90 pièces papier, 1 cahier, 9 plans.</unittitle>
+                     <unitdate normal="1790/1935">1790-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 125</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Bois communaux.&lt;lb/&gt;Plan géométrique de 2 cantons de bois appartenant à la commune de Rioz (1811) ; partage des bois communaux possédés par indivis entre les communes de Dournon, Cirey, Marloz, et Magny (1828 ; 1864) ; délimitation des bois de la commune de Rioz (1881) ; contenance totale des forêts de Rioz, Anthon et Dournon (s.d.) ; frais d’aménagement des bois communaux (1816-1821) ; soumission de terrain au régime forestier (1867 ; 1879 ; 1910) ; repiquement et repeuplement de plusieurs parties de la forêt (1808-1824) ; copie d’une ordonnance royale autorisant la commune de Rioz à vendre le quart en réserve (1845) ; ventes par anticipation de coupes des bois en raison des dettes de la ville (1814-1897) ; ventes de bois de l’ordinaire (1810-1818) ; ventes des bois de la coupe extraordinaire (1884-1885) ; vente de bois futaie et taillis (1808-1894).&lt;lb/&gt;166 pièces papier, 1 plan (plan classé dans la collection des plans communaux déposées aux Archives départementales de la Haute-Saône.)</unittitle>
+                     <unitdate normal="1808/1910">1808-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 126</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Bois communaux.&lt;lb/&gt;Ventes d’arbres et de bois divers, chablis, produits accidentels (1807-1900) ; ventes d’ételles (1831-1895) ; vente de l’écorce (1872-1897) ; P.V. d’adjudications des menus marchés (1838-1888) ; bois de marine : P.V. de martelage des bois propres à la construction des vaisseaux, frégates et autres bâtiments de guerre de la marine royale (1812-1825).&lt;lb/&gt;182 pièces papier.</unittitle>
+                     <unitdate normal="1807/1900">1807-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 127</unitid>
+                     <unitid>N4</unitid>
+                     <unittitle>Bois communaux.&lt;lb/&gt;Répartition du taillis et de la futaie de la coupe affouagère : sections d’Anthon et Dournon (1824-1898) ; plans des bois sectionnaux d’Anthon et Dournon (1888).&lt;lb/&gt;141 pièces papier, 2 plans. </unittitle>
+                     <unitdate normal="1824/1898">1824-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 128</unitid>
+                     <unitid>N5</unitid>
+                     <unittitle>Bois communaux.&lt;lb/&gt;Répartition du taillis et de la futaie de la coupe affouagère : section de Rioz.&lt;lb/&gt;119 pièces papier.</unittitle>
+                     <unitdate normal="1822/1900">1822-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 129</unitid>
+                     <unitid>N6</unitid>
+                     <unittitle>Bois communaux.&lt;lb/&gt;Distribution de la coupe affouagère, Rioz, Anthon, Dournon : états de la répartition des sommes entre les habitants, états de la distribution, minutes des brigades, états du toisé des bâtiments.&lt;lb/&gt;312 pièces papier.</unittitle>
+                     <unitdate normal="1796/1844">1796-1844</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 130</unitid>
+                     <unitid>N7</unitid>
+                     <unittitle>Bois communaux.&lt;lb/&gt;Exploitation de la coupe affouagère (1830-1896) ; listes provisoires des ayants-droits à l’affouage (1881-1882 ; 1884 ; 1894) ; listes des ayants-droits à l’affouage (1826) ; délibérations du conseil municipal pour régler le mode de jouissance ou de répartition des produits de la futaie affouagère (1869-1898) ; réclamations de particuliers pour l’affouage (1863-1900) ; admission des gendarmes à l’affouage (1843 ; 1860-1861).&lt;lb/&gt;195 pièces papier.</unittitle>
+                     <unitdate normal="1826/1900">1826-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 131</unitid>
+                     <unitid>N8</unitid>
+                     <unittitle>Bois communaux.&lt;lb/&gt;Demandes d’autorisations de couper les futaies (1816 ; 1824) ; 20e forestier (1843-1850) ; réclamations au sujet du paiement du 20e forestier sur les coupes de l’exercice 1870 (1870-1874) ; travaux divers à exécuter dans les bois de Rioz (1811 ; 1820 ; 1857 ; 1887) ; certificats de conformité de travaux effectués dans les bois (1820 ; 1822) ; contestation entre Rioz et Fondremand au sujet du lieu-dit « La Forêt » (an V-an VI) ; procès entre la commune de Rioz et le sieur Sandoz relatif à la propriété d’arbres et de parcelles de terrain le long du bois de la Hye (1842 ; 1877) ; établissement et entretient des chemins de vidanges dans les bois (1859-1896) ; délit commis dans les bois (1845) ; extrait divers des registres de délibérations du conseil municipal de Rioz (1847-1898) ; parcours du bétail dans les bois communaux (1831-1894) ; rôle des porcs pour la glandée (1822) ; location du droit de chasse (1818-1896) ; délits forestiers (1925).&lt;lb/&gt;196 pièces papier, 3 plans.</unittitle>
+                     <unitdate normal="1797/1925">1797-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 132</unitid>
+                     <unitid>N9</unitid>
+                     <unittitle>Eaux.&lt;lb/&gt;Réclamations Demongeot et Planche, relatives à la propriété d’une source à Anthon (1739 ; 1858-1859) ; procès entre la commune de Rioz et celle de Traitiéfontaine, relative à la distribution d’eau de la source d’Anthon (1864-1892) ; amodiations des boues des fontaines (1852-1899).&lt;lb/&gt;Propriétés et droits divers.&lt;lb/&gt;Concession au cimetière de Rioz (1839-1881).&lt;lb/&gt;&lt;lb/&gt;Biens nationaux.&lt;lb/&gt;Acquisition par la commune moyennent 4 600 F, du bien national, bénéficie de la cure de Rioz (1791-1818).&lt;lb/&gt;63 pièces papier, 1 plan.</unittitle>
+                     <unitdate normal="1791/1899">1791-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 133</unitid>
+                     <unitid>N10</unitid>
+                     <unittitle>Biens.&lt;lb/&gt;Jugement entre la commune de Rioz et le sieur Vallery, au sujet de l’abornement du lieu-dit « Pierre Percée », chemin de la forêt communale (1911-1913) ; délimitation des trois communaux « Les Minettes », « La Combe au cheval », « La Planche Nicolle », situées sur les territoires d’Anthon et Dournon (1902-1905) ; plan de délimitation entre Madame Begey et la commune de Rioz (1909) ; P.V. de délimitation et de bornage entre Jules-Alexis Dromard et la commune de Rioz (1912-1913) ; amodiations de terrains communaux (1905-1941).&lt;lb/&gt;Eaux.&lt;lb/&gt;Plan des réseaux projeté et existant de l’alimentation en eaux des porcs (s.d.).&lt;lb/&gt;Propriétés et droits divers.&lt;lb/&gt;Concessions au cimetière de Rioz (1910-1933).&lt;lb/&gt;83 pièces papier, 3 plans.</unittitle>
+                     <unitdate normal="1902/1941">1902-1941</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIES, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 134</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine.&lt;lb/&gt;Alignements des rues (1842 ; 1892-1893 ; 1909) ; numérotage des maisons (1825) ; établissement de trottoirs (1899-1900) ; rigoles pavées (1867) ; ruelle du Chêne Durand : autorisations de travaux (1882 ; 1890) ; rue du grand Lavoir : acquisition de terrain par suite d’alignement (1910) ; rue de l’ancien chemin de Rioz : élargissement (1910) ; rue du Pays-neuf : acquisitions de terrain, élargissement (1873-1905) ; rue de la Creuse : acquisition de terrain, construction de rigoles pavées, élargissement de la rue, classement comme chemin vicinal ordinaire de la « rue de la Creuse » (1870-1905) ; rue du Card : acquisitions de terrain pour élargissement, arrêté prescrivant la démolition partielle d’une maison, travaux divers (1846-1894 ; 1935) ; voirie urbaine : demandes d’autorisations pour faire des ouvertures (1912-1914) ; éclairage des rues (1879) ; P.V. d’adjudications de la fourniture de pétrole nécessaire pour l’éclairage des rues et des écoles (1887-1895) ; P.V. d’adjudication pour l’allumage des réverbères, acquisition de réverbères (1881-1895) ; pont de la Faïencerie : projet de travaux de réparations au pont (1851-1868).&lt;lb/&gt;145 pièces papier, 4 cahiers papier, 4 plans.</unittitle>
+                     <unitdate normal="1825/1935">1825-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 135</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Petite voirie.&lt;lb/&gt;Nomenclature et désignation des chemins de grande communication (1885) ; chemins de grande communication n°1 à 38 : comptes des recettes et dépenses (1851-1869) ; chemin de grande communication n°4 de Montbozon à Oiselay : construction (1835-1863), rectifications (1854-1874) ; chemin de grande communication n°5 de Moncey à Chalindrey : rectifications (1891-1893), abattage et remplacement de plantations (1907 ; 1908 ; 1928) ; chemin de grande communication n°15 de Montbozon à Pesme : prolongement d’Etuz à Rioz, remplacement des plantations, acquisitions de terrains par suite d’alignement (1849-1936) ; chemin de grande communication n°32 de Rioz à Voray : tracé du chemin, arrêté de classement (1874 ; 1876).&lt;lb/&gt;134 pièces papier, 1 cahier papier, 1 plan.</unittitle>
+                     <unitdate normal="1835/1936">1835-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 136</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Petite voirie.&lt;lb/&gt;Tableaux des chemins vicinaux (1865 ; 1892) ; chemin vicinal de La Villedieu à Millaudon : réclamation des habitants d’Anthon et Dournon (1868) ; chemin vicinal d’Anthon à La Malachère : élargissement, travaux de réparations (1848) ; chemin vicinal de Rioz à Traitiéfontaine : travaux de réparations (1836), projet de rectification entre la sortie de Rioz et le territoire de Traitiéfontaine, actes d’acquisitions de terrains à l’amiable (1913-1914) ; chemin vicinal de Rioz à Montarlot : travaux de réparations, acquisitions de terrains pour l’élargissement (1843-1911), rapport pour un dépôt de fumier en bordure de chemin (1928) ; chemin vicinal de Rioz aux Fontenis : aqueduc sur le fossé de la route construit sans autorisation (1847), tableau des parcelles de terrains et bâtiments à acquérir pour l’élargissement du chemin (1855) ; chemin vicinal d’Anthon aux Neuves-Granges : acquisition de terrain pour l’élargissement (1884) ; chemin vicinal de Rioz à Moncey : établissement du chemin, acquisition de terrain pour rectification (1868-1881) ; chemin vicinaux : travaux de réparations, classement des chemins, emprunt pour l’achèvement des chemins vicinaux, états approximatifs des travaux à faire sur les chemins vicinaux (1806-1871) ; certificats de publication des tableaux des chemins à l’état de viabilité (1898-1907) ; chemin de moyenne vicinalité n°4 de Rioz à Soing : comptes des recettes et dépenses (1861-1866) ; chemins ruraux : tableaux généraux des chemins ruraux (1887 ; 1894) ; chemin rural des Fontenis à Rapigney : vente de terrain pour l’élargissement (1847), construction d’un aqueduc sur le chemin (1889) ; chemin rural de Dournon au chemin du bas des Vallées : abandon de terrain par les riverains pour l’élargissement (1892) ; chemin rural de la ligne 15 au Moulin d’Anthon : vente de terrain à l’amiable (1854) ; réparations à faire à un ponceau en bois (1873) ; chemin rural de Rioz au bois de l’Ourdon : acquisitions de terrains pour l’élargissement (1856) ; chemin rural d’Anthon à Quenoche : acquisitions de terrain pour élargissement (1911) ; classement des chemins  ruraux dits de Rapigney et de La Malachère (1887) ; situations des chemins&lt;lb/&gt;ruraux reconnus (1888-1906) ; travaux de réparations diverses et d’entretiens des chemins ruraux de toute nature, enquête sur le projet de reconnaissance et de classement de chemins ruraux (1886-1897 ; 1932) ; contestation entre le sieur Millardet et la commune de Rioz relative à un droit de passage au lieu-dit « aux Grand Prés » (1812-1814) ; échange de terrains entre le sieur Sirot et la commune de Rioz pour l’établissement  du chemin de la fabrique à la route nationale (1825) ; construction d’un chemin de vidange dans la fabrique de la Planche-Nicole (1896) ; construction d’un aqueduc à Anthon (1832).&lt;lb/&gt;Ressources : budgets (1893) ; arrêté de mise en demeure (1879 ; 1885) ; ressources affectées à la construction et à l’entretien des chemins vicinaux (1850-1872) ; états des contingents pour couvrir les dépenses d’entretien des chemins de grandes communication et d’intérêt commun (1867-1876).&lt;lb/&gt;153 pièces papier, 6 cahiers papier, 8 plans.</unittitle>
+                     <unitdate normal="1790/1932">1790-1932</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 137</unitid>
+                     <unitid>O4</unitid>
+                     <unittitle>Petite voirie.&lt;lb/&gt;Chemin vicinal ordinaire n°2 chemin du lavoir : travaux de réparations.&lt;lb/&gt;12 pièces papier.</unittitle>
+                     <unitdate normal="1910/1911">1910-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 138</unitid>
+                     <unitid>O5</unitid>
+                     <unittitle>Petite voirie.&lt;lb/&gt;Rôles de prestations en argents ou en nature (1866-1890) ; prestations, tarifs pour la conversion en tâches des journées de prestations en nature (1816-1899).&lt;lb/&gt;25 cahiers papier, 15 pièces papier.</unittitle>
+                     <unitdate normal="1816/1899">1816-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 139</unitid>
+                     <unitid>O6</unitid>
+                     <unittitle>Petite voirie.&lt;lb/&gt;Rôles de prestations en argent ou en nature (1891-1905) ; prestations, tarifs pour la conversion en tâches des journées de prestations en nature (1900-1927).&lt;lb/&gt;42 cahiers papier, 6 pièces papier.</unittitle>
+                     <unitdate normal="1891/1927">1891-1927</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 140</unitid>
+                     <unitid>O7</unitid>
+                     <unittitle>Grande voirie.&lt;lb/&gt;Route nationale n°57 : rectifications (1884-1905) ; demandes d’autorisations diverses pour des travaux de constructions et réparations à faire sur les côtés de la route nationale (1866-1912) ; occupation temporaire de la route nationale (1889 ; 1910) ; anticipation sur la route nationale pour l’établissement d’un bal (1895) ; écoulement des eaux de la route nationale : pétitions, réclamations, travaux de construction de canal de décharge&lt;lb/&gt;(1844-1903) ; affaire Santonax : anticipation sur la route royale (1822-1824) ; affaire Poulet, relative à une bande de terrain le long de la route nationale (1889-1904) ; accident du sieur Richelandet : demande d’indemnité (1899-1900).&lt;lb/&gt;Moyens de transport.&lt;lb/&gt;Chemin de fer d’intérêt local : ligne vesoul à Besançon, ligne de Bucey-lès-Gy à Loulans-lès-Forges (1883-1912).&lt;lb/&gt;Régime des eaux.&lt;lb/&gt;Redressement du cours d’eau de la Buthiers (1881) ; curage des ruisseaux (1890).&lt;lb/&gt;95 pièces papier, 3 cahiers papier, 13 plans.</unittitle>
+                     <unitdate normal="1822/1912">1822-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 141</unitid>
+                     <unitid>O8</unitid>
+                     <unittitle>Travaux divers.&lt;lb/&gt;Construction de lignes téléphoniques (1901-1911) ; éclairage électrique de la commune de Rioz (1902-1958) ; électrification des écarts (1927-1946) ; travaux de réfection à plusieurs rues de Rioz (1967). &lt;lb/&gt;Autorisation donnée à Maître Narçon, de passer librement sur la place de la fontaine pour accéder à son garage (1931-1932).&lt;lb/&gt;374 pièces papiers, 15 plans.</unittitle>
+                     <unitdate normal="1901/1967">1901-1967</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 142</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte-catholique.&lt;lb/&gt;Clerc-Chantre (1898-1899) ; acquisition et demande d’objets nécessaires à l’exercice du culte (1827-1839) ; remboursements d’avances faites par M. le curé pour le service du culte (1863) ; subventions à la fabrique de Rioz (1854-1857) ; legs de l’abbé Charmy à l’église de Rioz (1862) ; attributions des biens des anciens établissements ecclésiastiques (1906-1912) ; inventaire des meubles et objets d’art contenus dans les édifices religieux (1905).&lt;lb/&gt;34 pièces papier.</unittitle>
+                     <unitdate normal="1827/1912">1827-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 143</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Bureau de bienfaisance.&lt;lb/&gt;Registre de délibérations du bureau de bienfaisance de Rioz.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1854/1917">1854-1917</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 144</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Bureau de bienfaisance.&lt;lb/&gt;Comptes de gestion (1854 ; 1858-1864 ; 1867-1889 ; 1893-1899).&lt;lb/&gt;39 cahiers papier.</unittitle>
+                     <unitdate normal="1854/1899">1854-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 145</unitid>
+                     <unitid>Q3</unitid>
+                     <unittitle>Bureau de bienfaisance.&lt;lb/&gt;Comptes de gestion (1900-1912) ; comptes administratifs (1939 ; 1941-1945 ; 1947-1951 ; 1953-1956).&lt;lb/&gt;15 cahiers papier, 28 pièces papier.</unittitle>
+                     <unitdate normal="1900/1956">1900-1956</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 146</unitid>
+                     <unitid>Q4</unitid>
+                     <unittitle>Bureau de bienfaisance.&lt;lb/&gt;Budgets (1854-1870 ; 1872-1899) ; arrêtés d’apurement (1858-1874) ; arrêtés du conseil de préfecture (1883-1886).&lt;lb/&gt;108 pièces papier.</unittitle>
+                     <unitdate normal="1854/1899">1854-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 147</unitid>
+                     <unitid>Q5</unitid>
+                     <unittitle>Bureau de bienfaisance.&lt;lb/&gt;Budgets (1900-1948) ; décomptes pour servir de base à la fixation du traitement du receveur (1924 ; 1927).&lt;lb/&gt;95 pièces papier.</unittitle>
+                     <unitdate normal="1900/1948">1900-1948</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 148</unitid>
+                     <unitid>Q6</unitid>
+                     <unittitle>Bureau de bienfaisance.&lt;lb/&gt;Renouvellement des membres du bureau de bienfaisance (1810-1913 ; 1945) ; achat de rentes sur l’Etat, par le bureau de bienfaisance (1854-1863) ; legs au bureau de bienfaisance (1846-1867) ; secours aux victimes du froid (1891) ; états des indigents (1816-1903) ; P.V. d’adjudications de la fourniture de pain aux indigents (1881-1895) ; logement des indigents de passage (1888 ; 1890) ; fourniture de cercueils aux indigents (1886 ; 1899) ; liste des habitants charitables de Rioz (1854) ; secours aux établissement charitables (1888-1898).&lt;lb/&gt;140 pièces papier.</unittitle>
+                     <unitdate normal="1810/1945">1810-1945</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 149</unitid>
+                     <unitid>Q7</unitid>
+                     <unittitle>Application des lois d’assistance et de prévoyance.&lt;lb/&gt;Service de la médecine gratuite : listes des indigents qui, en cas de maladie, seront soignés gratuitement (1863-1899) ; service de la médecine gratuite en faveur des pauvres et des indigents (1860-1867) ; fournitures de médicaments (1885-1895) ; refus du pharmacien Gounot de Rioz, de fournir des médicaments aux indigents (1896) ; règlement des frais d’hospitalisation&lt;lb/&gt;de la femme Migneret de Rioz, décédée à l’hôpital de Vesoul (1896) ; prospectus du docteur Le Comte, qui offre gratuitement ses services aux indigents affectés de calculs urinaires (1816) ; personnel médical : révision des listes (1885-1892).&lt;lb/&gt;Divers.&lt;lb/&gt;Extraits divers des registres de délibérations du conseil municipal de Rioz (1874-1797).&lt;lb/&gt;96 pièces papier.</unittitle>
+                     <unitdate normal="1816/1899">1816-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 150</unitid>
+                     <unitid>Q8</unitid>
+                     <unittitle>Dossier individuels d’aliénés (1828-1933) ; admission de Jeanne Masson de Rioz à l’orphelinat Bourdault de Vesoul (1905) ; idem pour Masson Auguste-Léon (1908) ; dossiers familiaux d’aide sociale (1956-1959) ; service de l’aide sociale à l’enfance (1956).&lt;lb/&gt;148 pièces papier.</unittitle>
+                     <unitdate normal="1828/1959">1828-1959</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 151</unitid>
+                     <unitid>Q9</unitid>
+                     <unittitle>Caisse primaire de Sécurité Sociale et Caisse d’Allocations familiales : élections des membres des conseils d’administration : circulaires, affiches, correspondance, P.V. des opérations électorales ; relevés nominatifs des salariés, cartes d’électeurs (1950-1962).&lt;lb/&gt;240 pièces papier, 5 cahiers papier.</unittitle>
+                     <unitdate normal="1950/1962">1950-1962</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS (1817-1912</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 152</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique.&lt;lb/&gt;Anthon : avis de nominations d’instituteurs et d’institutrices (1873-1896) ; proposition de nommer une maîtresse de couture, à titre provisoire (1896) ; traitement de l’instituteur (1867) ; demande d’augmentation de salaire de l’instituteur (1872) ; congé accordé à l’instituteur Pagnier (1874) ; traité passé entre M. Zédet, instituteur-adjoint à Anthon et Dournon, et les habitants desdites sections, relatif à l’instruction à donner aux enfants (1865).&lt;lb/&gt;Rioz : arrêté préfectoral approuvant la gratuité de l’enseignement primaire (1876) ; dépenses scolaires (1870-1890) ; subvention scolaire (1896) ; liste des livres classiques approuvée pour l’usage des écoles primaires (1862-1863) ; instructions relatives à l’organisation de l’enseignement de la gymnastique (1869) ; marché d’institutrice (1824) ; convocation de Mademoiselle Rouge, institutrice, devant le comité supérieur de l’instruction primaire (1842-1843) ; attestation du maire de Rioz, pour M. Morel, instituteur, libre de tout engagement envers la commune de Rioz (1845) ; certificat de bonne conduite à César Blanc, instituteur (1844) ; avis de nominations d’instituteurs et d’institutrices (1872-1899) ; démission de l’instituteur (1849) ; suppression d’emploi d’instituteur (1869) ; congé accordé pour raison de santé (1897) ; indemnité de résidence (1889) ; circulaire du préfet portant création d’un emploi de maîtresse de travaux à&lt;lb/&gt;l’aiguille (1872) ; traitements des instituteurs et institutrices (1852-1890) ; commission municipale : élections de ses délégués (1846-1900) ; rémunération des cours d’adultes (1869-1873) ; bibliothèque scolaire (1881) ; mobiliers scolaires (1873-1901 ; 1912) ; fourniture scolaires (1889-1896) ; concession de fusils accordée à l’école des garçons (1882) ; M. Demolombe, brigadier, est désigné pour enseigner les exercices militaires (1884) ; installation d’une brigade de gendarmerie dans la classe enfantine (1896) ; fermeture des écoles aux enfant non vaccinés (1824) ; suppressions de classes dans les écoles à effectifs réduit (1899) ; bourse d’enseignement primaire supérieur accordé à l’élève Pilon (1894).&lt;lb/&gt;Salle d’asile de Rioz : renseignements sur la salle d’asile (1870) ; entretien (1873-1887) ; traitement de l’instituteur (1855-1856) ; demande pour obtenir la nomination d’une institutrice (1879) ; listes nominatives des enfants de 6 à 13 ans (1885-1887) ; extraits divers des registres de délibérations du conseil municipal de Rioz (1841-1898).&lt;lb/&gt;237 pièces papier.</unittitle>
+                     <unitdate normal="1912">1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 153</unitid>
+                     <unitid>R2</unitid>
+                     <unittitle>Instruction publique.&lt;lb/&gt;Extraits de registres d’appels de l’école publique de Rioz.&lt;lb/&gt;148 pièces papier.</unittitle>
+                     <unitdate normal="1882/1901">1882-1901</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>447 Edepot 154</unitid>
+                     <unitid>R3</unitid>
+                     <unittitle>Instruction publique.&lt;lb/&gt;Ecoles des filles : installation d’une école de filles, tenue par des sœurs institutrices (1817) ; affaires Barbier : défense d’enseigner et renvoi de Melle Antoinette Barbier, dénommée sœur Raphael, accusée de faits graves sur lesquels elle ne peut s’expliquer (1819-1824) ; désignation de sœur Joséphine-Thérèse pour remplir les fonctions d’institutrice publique à Rioz (1844) ; direction de l’école et du pensionnat privés établis à Rioz (1887-1891) ; mandat à payer à sœur Joséphine Lachaux (1824) ; augmentation du traitement des sœurs-institutrices (1853) ; inscription des élèves au registre de l’école des sœurs de Rioz (1882) ; extraits du registre d’appel de l’école privée de filles (1882-1887).&lt;lb/&gt;96 pièces papier.</unittitle>
+                     <unitdate normal="1817/1891">1817-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

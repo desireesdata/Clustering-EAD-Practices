@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_166Edepot_Archives_communales_déposées_de_Comberjon" url="https://francearchives.fr/findingaid/e66e607d495c79625c87b945742f6bb24a0336d0">FRAD70_166Edepot_Archives_communales_déposées_de_Comberjon</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>166Edepot - Archives communales déposées de Comberjon</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>L. GEORGEL</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>166Edepot - Archives communales déposées de Comberjon</unittitle>
+         <unitid>166Edepot1-15</unitid>
+         <unitdate normal="1790/1930">1790-1930</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE COMBERJON</corpname>
+         </origination>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             25/10/2011
+         </p>
+         <p>Dernier ajout le             25/10/2011
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>166 Edepot 1</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>1 Registre. Registre des délibérations du conseil municipal de Comberjon. Non vu en 1978.</unittitle>
+                     <unitdate normal="1790">1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>166 Edepot 2</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>1 registre relié en parchemin. Registre des délibérations du conseil municipal de Comberjon (1842-1864) ; à la fin du registre, inventaire des objets mobiliers de la municipalité de Comberjon ainsi que quelques souches de passeports (1846-1858).</unittitle>
+                     <unitdate normal="1842/1864">1842-1864</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>166 Edepot 3</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>103 pièces papier. Actes de l'administration municipale : correspondance de la commune.</unittitle>
+                     <unitdate normal="1842/1924">1842-1924</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>166 Edepot 4</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>29 pièces papier. Population : mouvements de la population.</unittitle>
+                     <unitdate normal="1853/1879">1853-1879</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>166 Edepot 5</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>23 pièces papier. Population : mouvements de la population.</unittitle>
+                     <unitdate normal="1880/1906">1880-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>166 Edepot 6</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>44 pièces papier. Population : dénombrements de la population.</unittitle>
+                     <unitdate normal="1846/1906">1846-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>166 Edepot 7</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>8 pièces papier. Impôts directs : rôles de la taxe municipale sur les chiens.</unittitle>
+                     <unitdate normal="1911/1919">1911-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>166 Edepot 8</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>54 pièces papier. Recrutement : listes de recensements des jeunes de la commune.</unittitle>
+                     <unitdate normal="1842/1898">1842-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>166 Edepot 9</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>102 pièces papier. Administration militaire : réquisitions des chevaux, juments, mulets, mules, des voitures, remorques, tracteurs (1899-1913). Garde nationale : recensements, contrôles (1848-1850) ; élections d'officiers et sous-officiers (1846-1852).</unittitle>
+                     <unitdate normal="1846/1913">1846-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE-JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>166 Edepot 10</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>10 pièces papier. Police locale : secours pour pertes, grêle, gelées, inondations, etc.</unittitle>
+                     <unitdate normal="1855/1897">1855-1897</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>166 Edepot 11</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>4 pièces papier. Elections : listes des électeurs communaux (1892) ; élections de conseillers municipaux (1870). Personnel communal : nominations (1821-1827).</unittitle>
+                     <unitdate normal="1821/1892">1821-1892</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>166 Edepot 12</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>2 pièces papier. Revenus et charges de la commune : emprunt (1871).</unittitle>
+                     <unitdate normal="1871">1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX-DROITS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>166 Edepot 13</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>48 pièces papier. Biens communaux : amodiations (1819-1836). Bois : exploitation, vente, répartition, etc. (1822-1859) ; location de la chasse (1835).</unittitle>
+                     <unitdate normal="1819/1859">1819-1859</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS-VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>166 Edepot 14</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>120 pièces papier. Voirie urbaine : travaux dans les rues de Comberjon (1861-1883). Petite voirie : établissements, réparations, classements des chemins ruraux et vicinaux (1845-1910) ; prestations, ressources, etc. (1840-1928).</unittitle>
+                     <unitdate normal="1840/1928">1840-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>166 Edepot 15</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>33 pièces papier. Application des lois d'assistance et de prévoyance : protection du premier âge (1878) ; assistance médicale gratuite (1847-1930) ; déclarations d'accidents du travail (1923-1930).</unittitle>
+                     <unitdate normal="1847/1930">1847-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

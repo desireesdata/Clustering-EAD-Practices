@@ -1,0 +1,1492 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_376Edepot_Archives_communales_déposées_de_Nantilly" url="https://francearchives.fr/findingaid/aa0870b998de2eb6f1e779251f895a638a7207e3">FRAD70_376Edepot_Archives_communales_déposées_de_Nantilly</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>376Edepot - Archives communales déposées de Nantilly</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>376Edepot - Archives communales déposées de Nantilly</unittitle>
+         <unitid>376Edepot1-53</unitid>
+         <unitdate normal="1425/1934">1425-1934</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE NANTILLY</corpname>
+         </origination>
+         <note label="note">
+            <p>(1) Voir 376 E dépôt 40/L3, budgets primitifs et additionnels de la commune et du bureau de bienfaisance (1895-1906, 1923).
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 8620 à 8632, justice seigneuriale de Nantilly (1771-1790).
+B 9341, procès-verbaux de visites de bois et coupes, marchés de bûcherons, affaires forestières, devis et plans de travaux concernant la commune (1707-1791).
+C 14, réparations au clocher et au presbytère (1685-1743).
+C 62, ordonnances en matière d'alignement et travaux de voirie (1786-1788).
+C 111, administration communale (1783-1789).
+C 153, comptes, réparations au presbytère (1761-1789).
+E 924, bail des seigneuries de Bouhans, Nantilly et Saint-Vallier (1787).
+G 105, amodiation des dîmes de Nantilly (1271, copie).
+G 148, constitution de rentes (1640).
+G 207, bail de terrain dépendant de la fabrique (1782).
+G 429 à 431, archives de l'abbaye de Bèze concernant Nantilly (1228-1770).
+H 1000, archives des Carmélites de Gray concernant des constitutions de rentes (1626).
+3 O 391, travaux communaux (depuis 1828).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             05/04/2004
+         </p>
+         <p>Dernier ajout le             07/04/2004
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> ACTES CONSTITUTIFS-ADMINISTRATION COMMUNALE (1435-1787)</p>
+         <p>  376 Edepot 53</p>
+         <p> IMPOTS ET COMPTABILITE (1566-1787)</p>
+         <p>  376 Edepot 4</p>
+         <p> BIENS ET BOIS COMMUNAUX-VOIRIE (1425-1790)</p>
+         <p>  376 Edepot 5-11</p>
+         <p> AFFAIRES MILITAIRES-CULTE-AGRICULTURE (1576-1791)</p>
+         <p>  376 Edepot 1-3, 376 Edepot 12</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1791-1934)</p>
+         <p>  376 Edepot 14-21, 376 Edepot 13</p>
+         <p> POPULATION-AGRICULTURE (1793-1901)</p>
+         <p>  376 Edepot 22</p>
+         <p> CONTRIBUTIONS (1791-1824)</p>
+         <p>  376 Edepot 23-30</p>
+         <p> AFFAIRES MILITAIRES (1809-1929)</p>
+         <p>  376 Edepot 31-34</p>
+         <p> POLICE-HYGIENE PUBLIQUE ET SALUBRITE (1807-1871)</p>
+         <p>  376 Edepot 35</p>
+         <p> ELECTIONS-PERSONNEL COMMUNAL (1807-1908)</p>
+         <p>  376 Edepot 36-37</p>
+         <p> FINANCES DE LA COMMUNE (1805-1923)</p>
+         <p>  376 Edepot 38-40</p>
+         <p> EDIFICES PUBLICS (1791-1902)</p>
+         <p>  376 Edepot 41-42</p>
+         <p> BIENS ET BOIS COMMUNAUX-EAUX (1791-1905)</p>
+         <p>  376 Edepot 43-45</p>
+         <p> VOIRIE (1830-1910)</p>
+         <p>  376 Edepot 46-47</p>
+         <p> MOYENS DE TRANSPORT-TRAVAUX DIVERS-REGIME DES EAUX (1811-1900)</p>
+         <p>  376 Edepot 48-49</p>
+         <p> CULTE (1834-1898)</p>
+         <p>  376 Edepot 50</p>
+         <p> ASSISTANCE ET PREVOYANCE (...)</p>
+         <p>  376 Edepot 51</p>
+         <p> INSTRUCTION PUBLIQUE (1834-1894)</p>
+         <p>  376 Edepot 52</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ACTES CONSTITUTIFS-ADMINISTRATION COMMUNALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 53</unitid>
+                     <unitid>AA1-BB1</unitid>
+                     <unittitle>AA1- Affranchissement de la communauté par l'abbé de Bèze, seigneur du lieu (1622). Litige avec l'abbé de Bèze au sujet de cet affranchissement et des droits seigneuriaux (1625-1659). Copie, à cette occasion, d'une enquête faite en 1435-1436 au sujet des droits seigneuriaux.&lt;lb/&gt;AA2- Contrats entre particuliers revêtus de l'acceptation du seigneur (1531-1623, 1787).&lt;lb/&gt;BB1- Nominations des échevins (1584, 1631).</unittitle>
+                     <unitdate normal="1435/1787">1435-1787</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 4</unitid>
+                     <unitid>CC1-7</unitid>
+                     <unittitle>CC1. Sel : prix et distribution (1566-1578) ; marchés pour le transport et l'ordinaire (1599-1623).&lt;lb/&gt;CC2. Impositions seigneuriales : mandements, litiges avec le seigneur  et ses fermiers à  propos des tailles (1578-1655), cens (1660), et dîmes (1592-1600, 1763-1766).&lt;lb/&gt;CC3. Moulin banal : litige avec le propriétaire du moulin de Nantilly revendiquant le droit de banalité vis-à-vis de la communauté (1659).&lt;lb/&gt;CC4. Impositions : demandes de la communauté pour obtenir baisses et moratoires (1645-1646, 1770).&lt;lb/&gt;CC5.Litiges entre la communauté et des détenteurs de fonds contestant le bien-fondé de leur inscription aux rôles de Nantilly, en particulier l'hôpital du Saint-Esprit de Gray (1626-1687, 1766).&lt;lb/&gt;CC6.Dettes de la communauté, mesures pour y remédier : taxations et impositions spéciales (1586,  1655-1686) ; obligations, constitutions de rentes (en particulier pour payer l'affranchissement) et litiges y afférents (1625-1684) ; vente d'une coupe de bois (1666).&lt;lb/&gt;CC7. Comptes des échevins (1609, 1629, 1631, 1682-1683, 1787).</unittitle>
+                     <unitdate normal="1566/1787">1566-1787</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>moulin</subject>
+                     <subject>sel</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 5</unitid>
+                     <unitid>DD1-2</unitid>
+                     <unittitle>DD1. Droit de parcours, litige avec la communauté de Chargey (1425-1583).&lt;lb/&gt;DD2. Idem, avec la communauté de Feurg (1448-1558).</unittitle>
+                     <unitdate normal="1425/1583">1425-1583</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHARGEY-LES-GRAY</geogname>
+                     <geogname>FEURG</geogname>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 6</unitid>
+                     <unitid>DD3</unitid>
+                     <unittitle>Droit de parcours, litige avec la communauté de la Maison-du-Bois.</unittitle>
+                     <unitdate normal="1568/1625">1568-1625</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MAISON-DU-BOIS (LA)</geogname>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 7</unitid>
+                     <unitid>DD4</unitid>
+                     <unittitle>Droit de parcours, litige avec la communauté de la Maison-du-Bois (suite).</unittitle>
+                     <unitdate normal="1626/1635">1626-1635</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MAISON-DU-BOIS (LA)</geogname>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 8</unitid>
+                     <unitid>DD5-10</unitid>
+                     <unittitle>DD5. Droit de parcours, litige avec la communauté de Mantoche (1595, 1664).&lt;lb/&gt;DD6. Idem, avec la communauté de Poyans (1450-1629).&lt;lb/&gt;DD7. Idem, entre Nantilly d'une part et Bouhans, Feurg et la Maison-du-Bois d'autre part (1776-1786).&lt;lb/&gt;DD8. Biens communaux. Ventes (1665, 1754). Hoirie vacante, procès entre la communauté et les prétendants à l'hoirie (1661, 1667).&lt;lb/&gt;DD9. Bois communaux, délimitation, droits d'usage, litige avec les communautés voisines d'Arc et la Maison du-Bois (1490, copie du XVIII° siècle ; 1635).&lt;lb/&gt;DD10. Idem avec Bouhans (1626-1637, 1690).</unittitle>
+                     <unitdate normal="1450/1786">1450-1786</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ARC-LES-GRAY</geogname>
+                     <geogname>BOUHANS-ET-FEURG</geogname>
+                     <geogname>MAISON-DU-BOIS (LA)</geogname>
+                     <geogname>MANTOCHE</geogname>
+                     <geogname>NANTILLY</geogname>
+                     <geogname>POYANS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 9</unitid>
+                     <unitid>DD11</unitid>
+                     <unittitle>Bois du Chanois, litige avec l'abbé de Bèze, seigneur, au sujet de droits d'usage (1628-1677, pièce jointe de 1450, copie du XVII° siècle).</unittitle>
+                     <unitdate normal="1628/1677">1628-1677</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHANOIS (bois)</geogname>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BEZE (abbé de)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 10</unitid>
+                     <unitid>DD12</unitid>
+                     <unittitle>Litige avec l'abbé de Bèze, seigneur, au sujet des droits d'usage et de coupe dans les bois de Nantilly (1682, 1703-1749).</unittitle>
+                     <unitdate normal="1682/1749">1682-1749</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BEZE (abbé de)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 11</unitid>
+                     <unitid>DD13-19</unitid>
+                     <unittitle>DD13. Bois communaux. Délits et anticipations (1635-1787). Procédures non identifiées (1630-1757).&lt;lb/&gt;DD14. Exploitation, quart de réserve notamment (1750-1790).&lt;lb/&gt;DD15. Etang. Acensement, litiges, notamment avec l'abbé de Bèze, seigneur (1616-1661).&lt;lb/&gt;DD16. Bief du moulin. Plaintes de la communauté contre le meunier au sujet du repurgement (1761-1779).&lt;lb/&gt;DD17. Voirie. Reconnaissance, anticipations, dégradations et entretien des chemins (1626-1788).&lt;lb/&gt;DD18. Ponts. Charges supportées pour la construction des ponts d'Apremont (1562) et Gray (1749).&lt;lb/&gt;DD19. Edifices. Maison de la confrérie Sainte-Brigitte appartenant à la communauté (1612). Travaux à la maison curiale (1661) et à plusieurs bâtiments communaux ((église, cure, pont, fontaine (1757-1768)). Reliure des livres liturgiques (1603).</unittitle>
+                     <unitdate normal="1562/1790">1562-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>NAPPE D'EAU</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>APREMONT</geogname>
+                     <geogname>GRAY</geogname>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>Confrérie SAINTE-BRIGITTE</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES-CULTE-AGRICULTURE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 1</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial (Nantilly et Bouhans) : sépultures (1673-1718), baptêmes, mariages et sépultures (1718-1731) ; inventaire des titres et papiers de la fabrique de Bouhans : donations, fondations de messes, comptes des droits ou rémunérations en nature dus au curé (michettes pour Pâques, gerbes ou muids de blé, pains à la Toussaint) ; évaluation des propriétés des paroissiens pour le paiement de la dîme (1634-1742).</unittitle>
+                     <unitdate normal="1634/1742">1634-1742</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R69</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BOUHANS-ET-FEURG</geogname>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 2</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Nantilly, baptêmes, mariages et sépultures.</unittitle>
+                     <unitdate normal="1700/1737">1700-1737</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R69</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 12</unitid>
+                     <unitid>EE1-II1</unitid>
+                     <unittitle>EE1. Guet et garde à Gray requis des ressortissants de Nantilly (1576, 1661-1672). Enrôlement (1582, 1599, 1664). Réquisitions et logement des troupes (1636, 1667-1689).&lt;lb/&gt;GG4. Mesures prises par le roi et le parlement de Dole contre les hérétiques (1584) et les sorciers (1659).&lt;lb/&gt;GG5. Démarches de la communauté pour obtenir un vicaire particulier à Nantilly (1599, 1689-1690).&lt;lb/&gt;GG6. Procès contre le curé de Bouhans-Nantilly au sujet de ses devoirs pastoraux (1621) puis de ses droits et revenus curiaux (1626-1663).&lt;lb/&gt;GG7. Mesures contre l'épidémie (1629).&lt;lb/&gt;HH1. Marché du pâtre (1613). Injonction à nommer des messiers (1615). Nomination de garde-vignes (1620). Lutte contre les parasites des arbres (1625). Fauchaison des prairies des bords de Saône et affluents (1683).&lt;lb/&gt;HH2. Animaux nuisibles. Prime sollicitée par un tueur de louve sur le territoire de Nantilly (1666).&lt;lb/&gt;II1. Inventaire des papiers et titres de la communauté (1768, 1791).</unittitle>
+                     <unitdate normal="1576/1791">1576-1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>INVENTAIRE</genreform>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BOUHANS-ET-FEURG</geogname>
+                     <geogname>GRAY</geogname>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 13</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre de copies de lettres-patentes du Roi, de délibérations du conseil général (1789-an IV) ; à l'envers, réquisitions pour l'armée (an III-an IV).</unittitle>
+                     <unitdate>1789-an IV</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL GENERAL</subject>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 14</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre d'inscriptions des décrets de l'assemblée nationale, copies de lettres-patentes du Roi (1790-an XIII).</unittitle>
+                     <unitdate>1790-an XIII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 15</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations du conseil général de la commune (1791-an III). Registre de délibérations du conseil municipal, arrêtés du maire et correspondance (an IX-1813). Registre de délibérations du conseil municipal (1807-1822, 1817-1821). Registre de délibérations et procès-verbaux du conseil municipal (1822-1837) ; à la fin du registre, listes des affouagistes (1823-1828).</unittitle>
+                     <unitdate normal="1791/1837">1791-1837</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>LISTE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 16</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal, arrêtés du maire et listes d'affouagistes (1837-1848), un acte de 1854.</unittitle>
+                     <unitdate normal="1837/1854">1837-1854</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 17</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1848/1860">1848-1860</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 18</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1860/1871">1860-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 19</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Registre de correspondance.</unittitle>
+                     <unitdate normal="1829/1871">1829-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 20</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Registre de correspondance.</unittitle>
+                     <unitdate normal="1880/1904">1880-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 21</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Registre contenant des comptes de la fromagerie (1861), l'enregistrement de la correspondance (1888-1894), des déclarations diverses (1888-1934), les dates et motifs de dépenses du budget (1892-1894).</unittitle>
+                     <unitdate normal="1861/1934">1861-1934</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>DECLARATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-AGRICULTURE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 22</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Dénombrement de la population : listes et états nominatifs (1841-1901).&lt;lb/&gt;Agriculture. Comice agricole de Gray : concours, subventions (1876-1889). Questionnaire de la statistique quinquennale (1852), annuelle (1853-1873). Renseignements sur les récoltes et animaux de la ferme (1871-1890). Résultats des récoltes (1871-1873). Etats des récoltes en grains et autres farineux (1858-1884). Culture de la vigne (1871-1873). Adjudications et entretien du taureau communal (1793-1884).</unittitle>
+                     <unitdate normal="1793/1901">1793-1901</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi130</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 23</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Etat de section, section A.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 24</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Etat de section, section B.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 25</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Etat de section, section C.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 26</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Etat de section, section D.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 27</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Etat de section, section E.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 28</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Etat de section, sections F, G, H (1791). Matrice cadastrale (s.d.).</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 29</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Livre des mutations, 1er volume.</unittitle>
+                     <unitdate normal="1817">1817</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 30</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Livre des mutations, 2° volume.</unittitle>
+                     <unitdate normal="1817/1824">1817-1824</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 31</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Tableaux de recensement des jeunes gens (1809-1917). Etat des mutations survenues dans le classement des citoyens mobilisables depuis la formation du tableau communal (1834-1850).</unittitle>
+                     <unitdate normal="1809/1917">1809-1917</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 32</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Armée territoriale. Avis d'inscription (1874). Tableau de recensement des classes (1855-1866). Mandat d'amener, ordre de route, engagement volontaire (1905-1915). Exemptés, dispensés (1868-1889). Disparus (1874). Registre à souches des bulletins portant avis de décès (1890-1929), des changements de situation (s.d.).</unittitle>
+                     <unitdate normal="1855/1929">1855-1929</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 33</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Recensement des chevaux, des voitures (1813-1814).&lt;lb/&gt;Garde nationale. Contrôle matricule, contrôle de la réserve (s.d.).</unittitle>
+                     <unitdate normal="1813/1914">1813-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 34</unitid>
+                     <unitid>H4</unitid>
+                     <unittitle>Relevés nominatifs des citoyens inscrits au registre matricule de la garde nationale (1841-1870). Feuille d'appel pour servir aux visites des armes pendant les années 1838, 1844, 1849.&lt;lb/&gt;Sapeurs-pompiers. Election au conseil supérieur, règlement, engagement, révocation (1831-1876). Equipement (1835-1863).&lt;lb/&gt;Guerre de 1870. Souscription patriotique des femmes de France pour concourir à la libération des départements encore occupés (1er mars 1872). Réquisitions (1871-1874).</unittitle>
+                     <unitdate normal="1831/1876">1831-1876</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 35</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police rurale. Demandes d'autorisation de couvertures en chaume (1855).&lt;lb/&gt;Police générale. Passeports pour l'intérieur (1807-1853).&lt;lb/&gt;Hygiène publique et salubrité. Sages-femmes (1837-1839). Surveillance du bétail, épizootie du typhus (1871).</unittitle>
+                     <unitdate normal="1807/1871">1807-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PASSEPORT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POLICE</subject>
+                     <subject>SAGE FEMME</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS-PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 36</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales (1832, 1834, 1838-1839, 1841-1880).</unittitle>
+                     <unitdate normal="1832/1880">1832-1880</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 37</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Procès-verbaux des élections sénatoriales (1876-1908), des élections municipales (1813-1878), des élections au conseil général et d'arrondissement (1852-1855).&lt;lb/&gt;Marchés de pâtres (1807-1893).</unittitle>
+                     <unitdate normal="1807/1908">1807-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 38</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Budgets (an XI, 1807, 1816, 1818, 1821-1825, 1827-1831, 1835-1850).</unittitle>
+                     <unitdate>An XI-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 39</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptes administratifs (1805-1808, 1810-1814, 1817-1821, 1823, 1849). Comptes de gestion (1829-1830, 1833-1836, 1838-1850).</unittitle>
+                     <unitdate normal="1805/1850">1805-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 40</unitid>
+                     <unitid>L3</unitid>
+                     <unittitle>Registre des budgets primitifs et additionnels de la commune et du bureau de bienfaisance (1895-1906, 1923). Emprunts (1899). Situation des comptes des recettes (1842). Taxe sur les chiens (1903-1905, 1907-1910, 1912).</unittitle>
+                     <unitdate normal="1842/1923">1842-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 41</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Devis pour des travaux à plusieurs édifices, église, pont, fontaine, four... (1791). Réparations à l'horloge paroissiale (1829-1857). Reconstruction de la fontaine dite du moulin et réparation de la rue basse (1828, 1841-1842). Réparation de la fontaine de la Charme (1829). Construction de la fontaine "près de la route" (1841). Devis des travaux à faire pour restaurer les 3 fontaines de la commune (1866, 1868). Pompe à incendie, construction d'un remise (plan) et d'un pont en pierre de taille (1830-1838). Location d'un bâtiment pour servir de salle de classe et de logement à l'institutrice (1844-1847).</unittitle>
+                     <unitdate normal="1791/1868">1791-1868</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU POTABLE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHARME (fontaine de )</geogname>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 42</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>Acquisition, reconstruction et réparations au presbytère (1819-1868). Réparations à l'église, reconstruction de la flèche du clocher, acquisition d'une cloche et d'un tabernacle (1793-1902). Construction de 3 croix aux entrées principales du village (1856).</unittitle>
+                     <unitdate normal="1793/1902">1793-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 43</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Partage des communaux (an II). Amodiations de prés communaux (1808-1914). Achat de terrains à des particuliers (1896). Usurpation de biens communaux (an IX). Acquisition de la mitoyenneté d'un mur de la commune par un particulier (1809). Droit de parcours (an XIII-1879).&lt;lb/&gt;Aménagement et procès-verbal de délimitation de la forêt communale (1813-1866). Reboisement et entretien des bois (1843-1906). Bois et terrains soumis au régime forestier (1863-1897).</unittitle>
+                     <unitdate>An II-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>BIEN SPOLIE</subject>
+                     <subject>BOIS</subject>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 44</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Exploitation de la coupe affouagère (1834-1905). Estimation de la coupe, remise de l'affouage (1816-1848). Répartition affouagère (1798-1830). Délits forestiers (1848). Construction d'une maison à distance prohibée de la forêt (1851).</unittitle>
+                     <unitdate normal="1798/1905">1798-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 45</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Marchés de bûcherons (1807-1852). Menus marchés (1806-1897). Adjudication de lots de bois, produits accidentels, produits accessoires (an VI, 1859-1874). Vente de bois appartenant à la caisse d'amortissement (1819). Echange de bois entre la commune et l'archevêque de Besançon (1899). Bois de la marine (1812). Amodiation de la chasse (1830-1872).&lt;lb/&gt;Eaux. Construction d'un puits avec une pompe (1828, plan).&lt;lb/&gt;Biens nationaux. Acquisition de domaines nationaux (vente des propriétés de l'abbaye de Bèze (1791)).</unittitle>
+                     <unitdate normal="1791/1899">1791-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>CHASSE</subject>
+                     <subject>EAU POTABLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 46</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Projet d'ouverture de la rue Millerand (1865-1867). Etablissement de la rue Chavonnet (1881-1883). Construction d'ouvrages d'art dans les rues du pont et de Bouhans (1886). Elargissement de la rue des Maronniers (1874). Réparations à la place du Carcan et à la Grande Rue (1891). Construction de rigoles pavées et de trottoirs (1866, 1906-1907).</unittitle>
+                     <unitdate normal="1865/1907">1865-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CARCAN (place du)</geogname>
+                     <geogname>CHAVONNET (rue)</geogname>
+                     <geogname>MARONNIERS (rue des)</geogname>
+                     <geogname>MILLERAND (rue )</geogname>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 47</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Chemins de grande communication (1875-1876). Délimitation et classement des chemins vicinaux (1830-1877). Réparations et constructions de chemins vicinaux (1842-191). Tableau général des chemins ruraux, état des travaux effectués, état parcellaire, rectification du chemin rural n° 3 (1841, 1893-1895). Anticipation et établissement de chemins de défruitement (1830-1903). Ressources affectées à la construction et à l'entretien des chemins vicinaux, ressources inscrites au budget, budget des ressources (1845-1878). Rôles et taxes des prestations (1855, 1902-1905). Prestations, états et tarifs (1854-1873). Construction de ponts et passerelles (1832-1889).</unittitle>
+                     <unitdate normal="1830/1910">1830-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>ROUTE DEPARTEMENTALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>MOYENS DE TRANSPORT-TRAVAUX DIVERS-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 48</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Moyen de transport. Notifications de jugements d'expropriation pour la ligne de chemin de fer Is-sur-Tille-Gray (1886).&lt;lb/&gt;Travaux divers. Extraction de minerai de fer en forêt (1840-1842).&lt;lb/&gt;Régime des eaux. Construction d'un mur de soutènement au pont de la Sous-Froide et d'un radier dans le lit de la rivière (1858-1865). Construction d'aqueducs (1840-1894). Projets de barrages d'irrigation, d'assainissement et d'irrigation d'un terrain communal (1860-1890). Entretien et curage des ruisseaux (1811-1897). Amodiation des boues provenant du curage des fontaines et des ruisseaux (1833-1896).</unittitle>
+                     <unitdate normal="1811/1897">1811-1897</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                     <subject>MINERAI</subject>
+                     <subject>VOIE FERREE D'INTERET LOCAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                     <geogname>SOUS-FROIDE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 49</unitid>
+                     <unitid>O4</unitid>
+                     <unittitle>Rôles de répartition du curage et arrêtés les rendant exécutoires (1845-1900). Moulin Blanchot (1811-1897). Autorisation d'établissement, réglementation et travaux au moulin de monsieur de Larret (1849-1857). Autorisations d'établir des lavoirs à bras et mise en place de bassins d'épuration (1826-1832).</unittitle>
+                     <unitdate normal="1811/1900">1811-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 50</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Fabrique. Nomination de membres du conseil (1834-1842). Personnel (1840-1880). Budgets et comptes (1860-1898). Subventions (1849-1894).</unittitle>
+                     <unitdate normal="1834/1898">1834-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 51</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Etat des secours dus aux familles des militaires (an II). Bureau de bienfaisance (1), formation d'un bureau et nomination de ses membres (1861), budgets du bureau (1862-1880).</unittitle>
+                     <unitdate>An II-1880</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>376 Edepot 52</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Création de la caisse des écoles, subventions, crédits (1850-1894). Liste nominative des enfants de 6 à 13 ans (1882). Nominations, révocations, remplacement et rénumération des instituteurs et institutrices (1850-1888). Registre des délibérations du comité local (1834-1849). Acquisition d'armoires et de livres pour la bibliothèque scolaire (1863-1873).</unittitle>
+                     <unitdate normal="1834/1894">1834-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NANTILLY</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

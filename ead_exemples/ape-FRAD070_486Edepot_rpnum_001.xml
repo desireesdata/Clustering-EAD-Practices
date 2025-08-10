@@ -1,0 +1,965 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_486Edepot_Archives_communales_déposées_de_Semmadon" url="https://francearchives.fr/findingaid/256d2605dff383a5ddee28faa08400545c63f381">FRAD70_486Edepot_Archives_communales_déposées_de_Semmadon</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>486Edepot - Archives communales déposées de Semmadon</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>486Edepot - Archives communales déposées de Semmadon</unittitle>
+         <unitid>486Edepot1-32</unitid>
+         <unitdate normal="1336/1960">1336-1960</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE SEMMADON</corpname>
+         </origination>
+         <note label="note">
+            <p>Sources complémentaires aux Archives Départementales de la Haute-Saône :
+
+B 4225, états généraux : élections des députés et remontrances, plaintes et doléances des habitants de Semmadon (1789).
+B 7022, déclarations de propriétés dans la communauté en exécution de l'édit de 1749.
+C 17 et 47, administration communale (XVIII° siècle).
+C 201, refonte d'une cloche, fondation d'une bénédiction... (XVIII° siècle).
+C 518, rôles et répartements des impositions (1729).
+H 330, titres de l'abbaye de Cherlieu (1535-1767) concernant Semmadon et le Grange des Charmes (même commune).
+H 741, titres du prieuré de Morey (1592-1761).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             03/11/2005
+         </p>
+         <p>Dernier ajout le             03/11/2005
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> ACTES CONSTITUTIFS ET POLITIQUES DE LA COMMUNE (1336-1614)</p>
+         <p>  486 Edepot 1</p>
+         <p> BIENS COMMUNAUX (1419-1777)</p>
+         <p>  486 Edepot 2-6</p>
+         <p> CULTE (1598-1835)</p>
+         <p>  486 Edepot 7-12</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1790-1955)</p>
+         <p>  486 Edepot 13-18</p>
+         <p> AGRICULTURE (1834-1931)</p>
+         <p>  486 Edepot 19</p>
+         <p> CONTRIBUTIONS (1818-1826)</p>
+         <p>  486 Edepot 20-22</p>
+         <p> AFFAIRES MILITAIRES (1917-1918)</p>
+         <p>  486 Edepot 23</p>
+         <p> POLICE (1887)</p>
+         <p>  486 Edepot 24</p>
+         <p> PERSONNEL COMMUNAL (1832-1960)</p>
+         <p>  486 Edepot 25</p>
+         <p> EDIFICES PUBLICS (1860-1930)</p>
+         <p>  486 Edepot 26</p>
+         <p> BIENS ET BOIS COMMUNAUX (1820-1931)</p>
+         <p>  486 Edepot 27</p>
+         <p> VOIRIE (1826-1932)</p>
+         <p>  486 Edepot 28-29</p>
+         <p> CULTE (1856)</p>
+         <p>  486 Edepot 30</p>
+         <p> SPORTS ET TOURISME (1907-1909)</p>
+         <p>  486 Edepot 31</p>
+         <p> PIECES D'ORIGINE PRIVEE (1849)</p>
+         <p>  486 Edepot 32</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ACTES CONSTITUTIFS ET POLITIQUES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 1</unitid>
+                     <unitid>AA1</unitid>
+                     <unittitle>Affranchissement par Henri de Bourgogne, des habitants de Semmadon "de toutes messageries, de ports de lettres, de faulconniers, de gîtes, de seigneurs et de chiens, de guet, de charrois..." (lundi après les Bordes 1336, v.s. ; 9 mars 1337, n.s.) [cette pièce n'a pas été vue en 1972]. Copies du XVII° siècle des confirmations de cet affranchissement par Jean de Bourgogne (1er octobre 1368) ; Fernand de Neufchatel, chevalier, seigneur dudit lieu, Montaigu, Amance, Villafans... (26 juin 1516) ; Marc de Rye, seigneur d'Amance, Montaigu, Bourguignon... (18 mai 1553) ;  Christophe de Rye de la Palud, chevalier, marquis de Varambon, comte de Varax, de la Roche et de Besançon, baron et seigneur de Neufchatel, Villersexel, Saint-Hippolyte... et Léonore Chabot sa femme (12 juin 1606). Copies modernes de ces titres. Permission par Christophe de Rye, aux habitants du lieu de s'assembler pour traiter des affaires de la communauté (26 juin 1614).</unittitle>
+                     <unitdate normal="1336/1614">1336-1614</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BOURGOGNE (Henri de)</persname>
+                     <persname>BOURGOGNE (Jean de)</persname>
+                     <persname>CHABOT (Léonor)</persname>
+                     <persname>NEUFCHATEL (Fernand de)</persname>
+                     <persname>RYE (Marc de)</persname>
+                     <persname>RYE DE LA PALUD (Christophe de)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 2</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Arpentement général du territoire de Semmadon, dressé par François Durget, arpenteur juré à Conflandey (1759-1761).&lt;lb/&gt;A ce registre était joint un grand plan des chemins communaux sis sur le territoire de Semmadon, ce plan n'a pas été vu en 1972.</unittitle>
+                     <unitdate normal="1759/1761">1759-1761</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>arpentement</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>DURGET (François)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 3</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Pièces d'un procès entre l'abbaye de Cherlieu et les habitants d'Oigney d'une part, et ceux de Semmadon d'autre part, au sujet du droit de parcours (1539, 1542, 1777).</unittitle>
+                     <unitdate normal="1539/1777">1539-1777</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OIGNEY</geogname>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Abbaye de Cherlieu</corpname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 4</unitid>
+                     <unitid>DD3</unitid>
+                     <unittitle>Contestation par devant Simon Renard, docteur es droit, conseiller de Sa Majesté et lieutenant général au bailliage d'Amont, au sujet des droits de vaine et morte pâture entre les habitants de Semmadon et ceux d'Augicourt (17 juillet 1542). Procès-verbal d'enquête par Jacques-Joseph Pernelle, lieutenant général d'Amont, au sujet des droits de parcours réciproques des habitants de "Sainct-Madon" et ceux d'Augicourt (1679).</unittitle>
+                     <unitdate normal="1542/1679">1542-1679</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>AUGICOURT</geogname>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>PERNELLE (Jacques-Joseph)</persname>
+                     <persname>RENARD (Simon)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 5</unitid>
+                     <unitid>DD4</unitid>
+                     <unittitle>Copie de 1755 du plan des bois communaux de Semmadon, dressé par Jean-Claude-François Barbaud, géomètre,juré à la maîtrise de Vesoul (1737).</unittitle>
+                     <unitdate normal="1737/1755">1737-1755</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BARBAUD (Jean-Claude-François)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 6</unitid>
+                     <unitid>DD5</unitid>
+                     <unittitle>Philippe le Hardi, comte de Bourgogne, en raison de l'éloignement et des labours en cours, autorise les habitants de Semmadon à comparaître au parlement de Dole conjointement ou séparément, dans une instance qu'ils ont contre Jean, de Rupt-sur-Saône (3 mai 1419).</unittitle>
+                     <unitdate normal="1419">1419</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>JEAN</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 7</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Semmadon : baptêmes (1598-1603, 1604-janvier 1636, octobre 1646-mars 1678, mars 1678-1685), index des personnes ayant reçu la confirmation (11 décembre 1688).&lt;lb/&gt;Lacune de 1636 à 1646. &lt;lb/&gt;Ce registre était couvert d'un parchemin manuscrit, cette couverture a été enlevée et classée sous la cote 486 E dépôt 12.</unittitle>
+                     <unitdate normal="1598/1688">1598-1688</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi5R50</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 8</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Semmadon : baptêmes (novembre 1648-1685, août 1688-1705) ; à l'envers, en commençant par la fin du registre : mariages (1650-1655, 1661-1685, 1690-janvier 1706), sépultures (1658-1685, 1689-1705).&lt;lb/&gt;Lacunes pour les années 1686, 1687 et 1688. Sur la page de garde de ce registre, listes des curés de la paroisse (1649-1705).</unittitle>
+                     <unitdate normal="1648/1705">1648-1705</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi5R50</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 9</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Semmadon : baptêmes, mariages, sépultures (1706-1729).&lt;lb/&gt;Don de M. le Curé de Semmadon le 22 août 1980.</unittitle>
+                     <unitdate normal="1706/1729">1706-1729</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi5R50</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 10</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Semmadon : baptêmes, mariages, sépultures (mars-mai 1722, août 1700-février 1701, février 1755-janvier 1757, 1737, 1738, 1740, 1757-janvier 1758, 1741-février 1751, mars 1752-janvier 1755, 1758).&lt;lb/&gt;Lacunes pour la période allant de 1706 à février 1722, de juin 1722 à 1736 et pour les années 1739 et 1751. La collection de registres déposés aux Archives Départementales de la Haute-Saône par le greffe du Tribunal commence en 1700, avec une lacune de 1724 à 1737.</unittitle>
+                     <unitdate normal="1700/1758">1700-1758</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi5R50</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 12</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Manuscrit incomplet, provenant de la couverture d'un des registres paroissiaux et portant des indications sur les revenus d'un curé nommé Henry (s.d., XV° siècle).</unittitle>
+                     <unitdate>XV° siècle</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>HENRY (curé)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 13</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre d'inscription des lettres patentes, des lois et décrets, des délibérations du conseil municipal et d'actes divers (1790-an IV, an VIII-mai 1840).</unittitle>
+                     <unitdate normal="1790/1840">1790-1840</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 14</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (mai 1840-août 1869).</unittitle>
+                     <unitdate normal="1840/1869">1840-1869</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 15</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (août 1869-mai 1883).</unittitle>
+                     <unitdate normal="1869/1883">1869-1883</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 16</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1883/1898">1883-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 17</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1898/1915">1898-1915</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 18</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Registre des arrêtés du maire (1790-1955) ; à l'envers, registres de la garde nationale (1830-1831) et du comité local d'instruction (1841).</unittitle>
+                     <unitdate normal="1790/1955">1790-1955</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AGRICULTURE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 19</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Amodiation pour l'entretien des animaux mâles destinés à la reproduction (1834-1931). Registre des cultures (1902).</unittitle>
+                     <unitdate normal="1834/1931">1834-1931</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 20</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Atlas cadastral (1826).&lt;lb/&gt;EN MAUVAIS ETAT.</unittitle>
+                     <unitdate normal="1826">1826</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : en mauvais état</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ATLAS CADASTRAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 21</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Extrait de la matrice cadastrale (s.d., XIX° siècle).</unittitle>
+                     <unitdate>XIX° siècle</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 22</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Livre des mutations.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 23</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Guerre de 1914-1918 : dossier de cantonnement.</unittitle>
+                     <unitdate normal="1917/1918">1917-1918</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 24</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Traité de ramonage de cheminées.</unittitle>
+                     <unitdate normal="1887">1887</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 25</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Installation des conseillers municipaux (1837). Tambours, secrétaire de mairie, gardes (1832-1960).</unittitle>
+                     <unitdate normal="1832/1960">1832-1960</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 26</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Plan de construction d'une maison commune (1860). Marché pour réparations à la maison commune (1930). Erection d'un monument commémoratif (1919). Projet de reconstruction de la fontaine et réparations à l'église, devis d'installation d'une horloge au clocher de l'église (1892). Location du presbytère (1925).</unittitle>
+                     <unitdate normal="1860/1930">1860-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 27</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Vente et acquisition d'immeubles (1892-1903). Amodiation de communaux (1895-1931). Plan des bois communaux (1820). Vente d'ételles (1893). Concessions de produits de la forêt (1897). Amodiation de la chasse (1824-1842).</unittitle>
+                     <unitdate normal="1820/1931">1820-1931</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>BOIS</subject>
+                     <subject>CHASSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 28</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Procès-verbaux de reconnaissance et d'abornement des propriétés communales, des chemins vicinaux et de défruitement.</unittitle>
+                     <unitdate normal="1826/1827">1826-1827</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 29</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Acquisition de terrains pour servir de chemin de défruitement.</unittitle>
+                     <unitdate normal="1932">1932</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 30</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Demande de subvention de la fabrique.</unittitle>
+                     <unitdate normal="1856">1856</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>SPORTS ET TOURISME</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 31</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Registre de la société de tir.</unittitle>
+                     <unitdate normal="1907/1909">1907-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>LOISIR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>PIECES D'ORIGINE PRIVEE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>486 Edepot 32</unitid>
+                     <unitid>S1</unitid>
+                     <unittitle>Partage après décès des biens de Claude-François Menetrey, cultivateur à Semmadon.</unittitle>
+                     <unitdate normal="1849">1849</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SEMMADON</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>MENETREY (Claude-François)</persname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

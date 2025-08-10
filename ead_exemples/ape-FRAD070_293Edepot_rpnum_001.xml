@@ -1,0 +1,763 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_293Edepot_Archives_communales_déposées_de_Lambrey" url="https://francearchives.fr/findingaid/4cc9a79ba767f5581aa4ae9574478b582fad90ed">FRAD70_293Edepot_Archives_communales_déposées_de_Lambrey</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>293Edepot - Archives communales déposées de Lambrey</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>293Edepot - Archives communales déposées de Lambrey</unittitle>
+         <unitid>293Edepot1-21</unitid>
+         <unitdate normal="1615/1953">1615-1953</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE LAMBREY</corpname>
+         </origination>
+         <note label="note">
+            <p>(1) Voir 293 E dépôt 6/D2, déclarations d'incendies (1844-1853).
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 4219, états généraux, élections des députés et remontrances, plaintes et doléances des habitants de Lambrey (1789).
+B 6995, déclarations de propriétés dans la communauté (1750-1753).
+C 11, paiement des droits curiaux, réparations au presbytère (1687-1743).
+C 47, correspondance relative à la délivrance des quarts de réserve (1732-1745).
+C 197, procès avec le curé au sujet de l'affouage, reconstruction d'un puits, d'un abreuvoir et d'un lavoir, marchés divers (1782-1789).
+C 230, ponts, routes et chemins dans la traverse de Lambrey (1784-1786).
+C 419, rôles et répartements des impositions (1729-1790).
+G 157, liquidation des revenus de la cure (1689).
+H 291, 292, titres de l'abbaye de Cherlieu concernant Lambrey (1238-1768).
+H 534, idem de l'abbaye de Faverney (1443-1761).
+34 J 75, registres de catholicité, baptêmes, mariages, sépultures (1790-1856).
+3 O 303, travaux communaux (depuis 1808).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             16/06/2005
+         </p>
+         <p>Dernier ajout le             20/06/2005
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> IMPOTS (1664)</p>
+         <p>  293 Edepot 1</p>
+         <p> CULTE (1615-1791)</p>
+         <p>  293 Edepot 2-4</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1790-1950)</p>
+         <p>  293 Edepot 5-8</p>
+         <p> POPULATION-AGRICULTURE (1852-1936)</p>
+         <p>  293 Edepot 9-10</p>
+         <p> CONTRIBUTIONS (1818)</p>
+         <p>  293 Edepot 11</p>
+         <p> AFFAIRES MILITAIRES (1831-1894)</p>
+         <p>  293 Edepot 12</p>
+         <p> POLICE-HYGIENE PUBLIQUE ET SALUBRITE (1823-1902)</p>
+         <p>  293 Edepot 13</p>
+         <p> PERSONNEL COMMUNAL (1843-1879)</p>
+         <p>  293 Edepot 14</p>
+         <p> EDIFICES PUBLICS (1824-1920)</p>
+         <p>  293 Edepot 15</p>
+         <p> BIENS ET BOIS COMMUNAUX (1825-1907)</p>
+         <p>  293 Edepot 16</p>
+         <p> VOIRIE-MOYEN DE TRANSPORT-REGIME DES EAUX (1821-1953)</p>
+         <p>  293 Edepot 17</p>
+         <p> CULTE (1809-1882)</p>
+         <p>  293 Edepot 18</p>
+         <p> ASSISTANCE ET PREVOYANCE (1863-1923)</p>
+         <p>  293 Edepot 19</p>
+         <p> INSTRUCTION PUBLIQUE (1825-1890)</p>
+         <p>  293 Edepot 20</p>
+         <p> DOCUMENTS D'ORIGINE PRIVEE (...)</p>
+         <p>  293 Edepot 21</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>IMPOTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Arpentement général du territoire de Lambrey, par Edme Guerin, de Raze, notaire et arpenteur.</unittitle>
+                     <unitdate normal="1664">1664</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>arpentement</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>GUERIN (Edme)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 2</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Lambrey : baptêmes (octobre 1615-mars 1636, octobre 1652-novembre 1682), mariages (1675-1682), sépultures (1673-1678), baptêmes (décembre 1682-avril 1683) ; à l'envers, en commençant par la fin du registre : mariages (1616-1635, 1664-1671), sépultures (décembre 1678-1683, janvier-février 1687), baptêmes, mariages, sépultures (avril 1720- 1723, décembre 1728-mai 1729, novembre 1712-1713).&lt;lb/&gt;Sur la page de garde de ce registre, on remarque une liste des curés ayant desservi la paroisse (1615-1791).&lt;lb/&gt;Lacunes en ce qui concerne les baptêmes pour les périodes allant d'avril 1636 à septembre 1652 et de mai 1683 à octobre 1712 ; en ce qui concerne les mariages pour les années 1636 à 1663, 1672 à 1674 et de 1683 à octobre 1712 ; en ce qui concerne les sépultures, de 1714 à mars 1720, de 1724 à 1728 et de juin 1729 à novembre 1732.&lt;lb/&gt;La collection de registres déposés aux Archives Départementales par le Greffe du Tribunal commence en 1700, avec des lacunes de 1701 à 1707 et de 1718 à 1737.</unittitle>
+                     <unitdate normal="1615/1729">1615-1729</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi5R35</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 3</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Lambrey : baptêmes, mariages, sépultures (décembre 1732-mai 1776).&lt;lb/&gt;Sur la page de garde de ce registre, on remarque une déclaration de grossesse illégitime (1754).</unittitle>
+                     <unitdate normal="1732/1776">1732-1776</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi5R35</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 4</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Lambrey : baptêmes, mariages, sépultures (mai 1776-1791).</unittitle>
+                     <unitdate normal="1776/1791">1776-1791</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi5R35</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 5</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1790/1833">1790-1833</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 6</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (1833-1859). Au début du registre : déclarations d'incendies (1844-1853).</unittitle>
+                     <unitdate normal="1833/1859">1833-1859</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 7</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1859/1892">1859-1892</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 8</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Répertoire des actes soumis à l'enregistrement (1904-1950). Polices d'assurances des bâtiments communaux (1841-1875, 1909).</unittitle>
+                     <unitdate normal="1841/1950">1841-1950</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-AGRICULTURE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 9</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Mouvement annuel de la population (1889, 1891-1897). Dénombrement quinquennal : listes nominatives (1896, 1906-1911, 1931-1936). Tableau de dépouillement des professions (1861).</unittitle>
+                     <unitdate normal="1861/1936">1861-1936</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi123</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 10</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Statistiques annuelles agricoles, états des récoltes (1854-1932, incomplet). Statistique quinquennale (1852).</unittitle>
+                     <unitdate normal="1852/1932">1852-1932</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 11</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Livre des mutations (1818). Etat indicatif du centime le franc de la contribution foncière (1826-1838). Recensement des portes et fenêtres (1831). Tableau comparatif des évaluations des maisons et usines dans les communes du canton de Combeaufontaine (s.d.).</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 12</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Armée territoriale : état nominatif des jeunes gens exemptés du service militaire (classes 1864--1866).&lt;lb/&gt;Garde nationale : contrôle général du service ordinaire, contrôle matricule, contrôle de la réserve, listes de recensement, tables alphabétiques du registre-matricule, état des mutations, états nominatifs (1832-1870), instructions (1832-1848, imprimés), brevets d'officiers (1841). Habillement (1831). Armement : feuilles d'appel pour servir aux visites des armes (1840). Bataillon cantonal : tableau des citoyens mobilisables (1848).&lt;lb/&gt;Sapeurs-pompiers, habillement : facture (1894).</unittitle>
+                     <unitdate normal="1831/1894">1831-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 13</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police rurale. Arrêtés sur la fauchaison, sur la réglementation des lieux publics (1823-1858). Déclaration de domicile (1843). Sinistres, incendies (1) : correspondance (1844-1854, 1902) ; grêle (1888) ; effondrement d'une maison (1902).&lt;lb/&gt;Police générale. Option pour la nationalité française (1872).&lt;lb/&gt;Hygiène publique et salubrité. Atelier d'équarrissage : autorisation (1878). Epizooties, dénombrement des animaux (1871).</unittitle>
+                     <unitdate normal="1823/1902">1823-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETRANGER</subject>
+                     <subject>INCENDIE</subject>
+                     <subject>INSTALLATION CLASSEE</subject>
+                     <subject>POLICE MUNICIPALE</subject>
+                     <subject>SINISTRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 14</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Garde-forestier : déclaration de remise d'une carabine, salaire (1843, 1879).</unittitle>
+                     <unitdate normal="1843/1879">1843-1879</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 15</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Réparations aux édifices publics et construction d'un puits : arrêtés préfectoraux, correspondance (1864-1866). Réparations au clocher et à la maison d'école (1920). Maison commune, locations, acquisition, réparations : devis, plans (1829-1837). Four banal, amodiations, démolition, reconstruction (1830-1857). Fontaine, acquisition de terrain, réparations (1835, 1858). Horloge, réparations (1845, 1871). Cloches, refonte : devis, réclamation pour le paiement (1852-1878). Erection d'une statue de la Vierge : devis (1856). Ecole, clôture du jardin, construction d'un plancher dans le grenier, réparations (1879, 1893). Réparations à l'église, au presbytère et au cimetière (1824-1878, 1912).</unittitle>
+                     <unitdate normal="1824/1920">1824-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 16</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Etat des biens ruraux, acquisitions (1851-1907).  Aménagement des bois : procès-verbaux (1825). Réclamation de Jean-Baptiste Etienney, de Gésincourt, relative à une lisière de bois (1825, 1839-1840, 1 croquis).</unittitle>
+                     <unitdate normal="1825/1907">1825-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'AMENAGEMENT FO</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>ETIENNEY (Jean-Baptiste)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-MOYEN DE TRANSPORT-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 17</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine : alignement, démolition d'un four construit sur la voie publique, acquisition de terrain (1821-1849, 1905).&lt;lb/&gt;Petite voirie : chemins vicinaux, redressement (plan), rigoles pavées, reconstruction du tablier du pont, classement (1830-1888). Chemin vicinal ordinaire n° 2, du chemin de grande communication n° 3 à Augicourt, aqueduc, élargissement, réfection du pont (1892-1904, plan). Route départementale n° 3, de Besançon à Neufchâteau, projet de création, redressement entre Arbecey et Mercey, abattage des plantations (1850-1953). Construction d'un pont sur la Saône à Baulay (1896-1897). Prestations (1928-1930).&lt;lb/&gt;Moyens de transport : chemin de fer de Jussey à Gray, pétition pour le tracé (1881).&lt;lb/&gt;Régime des eaux : curage des ruisseaux (1850-1858, 1890, 1932).</unittitle>
+                     <unitdate normal="1821/1953">1821-1953</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>COURS D'EAU</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>ROUTE DEPARTEMENTALE</subject>
+                     <subject>VOIE FERREE D'INTERET LOCAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BAULAY</geogname>
+                     <geogname>LAMBREY</geogname>
+                     <geogname>SAÔNE (LA)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 18</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Décret impérial concernant le mode d'administration des fabriques des églises (1809, 1 cahier imprimé). Conseil de fabrique : extraits de délibérations (1835-1842). Legs à la fabrique (1860-1864, 1882). Budget (1840). Droit de jouissance du pré Saint-Quentin (1869, 1871).</unittitle>
+                     <unitdate normal="1809/1882">1809-1882</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>BUDGET</genreform>
+                     <genreform>CAHIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DONS-ET-LEGS</subject>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                     <geogname>SAINT-QUENTIN (pré)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 19</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Protection des enfants du premier âge, déclaration des nourrices (1878-1887), des parents (1878-1890). Legs de l'abbé Martelot, curé de Quincey, aux pauvres de Lambrey (1863). Mutuelle agricole incendie de l'Est : statuts (1923).</unittitle>
+                     <unitdate normal="1863/1923">1863-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DECLARATION</genreform>
+                     <genreform>STATUT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DONS-ET-LEGS</subject>
+                     <subject>PROTECTION MATERNELLE ET INFANTILE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>MARTELOT (abbé)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 20</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Marché d'institutrice (1825). Comité local d'instruction primaire, renouvellement (1841, 1843, 1849). Registre matricule de tous les enfants reçus à l'école (1860). Admission à l'école normale, demande de renseignement sur un élève (1878-1879). Rétribution scolaire, registre destiné à l'inscription des déclarations entre la rétribution mensuelle ou l'abonnement annuel (1861). Extrait du registre d'appel (octobre 1882-juillet 1883, décembre 1883, octobre 1887-novembre 1888). Listes nominatives des enfants de 6 à 13 ans (1889-1890). Caisse des écoles : statuts sur extrait de délibérations (1882). Bibliothèque scolaire et populaire, concessions de livres (1886).</unittitle>
+                     <unitdate normal="1825/1890">1825-1890</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>STATUT</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>DOCUMENTS D'ORIGINE PRIVEE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>293 Edepot 21</unitid>
+                     <unitid>S1</unitid>
+                     <unittitle>Monographie de la commune de Lambrey (s.d.).</unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MONOGRAPHIE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LAMBREY</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

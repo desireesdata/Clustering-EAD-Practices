@@ -1,0 +1,964 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_195Edepot_Archives_communales_déposées_de_Dambenoît-lès-Colombe" url="https://francearchives.fr/findingaid/454270b17818f84003e87047f22dd76079064f56">FRAD70_195Edepot_Archives_communales_déposées_de_Dambenoît-lès-Colombe</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>195Edepot - Archives communales déposées de Dambenoît-lès-Colombe</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>L. Georgel</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>195Edepot - Archives communales déposées de Dambenoît-lès-Colombe</unittitle>
+         <unitid>195Edepot1-48</unitid>
+         <unitdate normal="1186/1935">1186-1935</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE DAMBENOIT</corpname>
+         </origination>
+         <note label="note">
+            <p>"C.f. inventaires imprimés des Archives départementales de la Haute-Saône : 
+B 300 à 302, procédures civiles et criminelles concernant les habitants de Dambenoît (1681-1789). 
+B 4216, élections des députés et remontrances, plaintes et doléances présentées au baillage de Vesoul par les habitants de Dambenoît (1789). 
+B 6980, déclarations de propriétés faites en exécution de l'édit de 1749, dans la communauté de Dambenoît (1749-1750). 
+B 9387, règlements de bois communaux pour Dambenoît (1710-1790). 
+C 7 et C 40, administration communale pour Dambenoît (1685-1788). 
+C 194, réparations de l'église de Dambenoît (1782-1789).
+C 230, routes et chemins dans la traverse de Dambenoît (1784-1786). 
+C 363, rôles et répartements des impositions dans la communauté de Dambenoît (1729-1790). 
+G 65, titres du chapitre de Calmoutier et Vesoul, à Dambenoît (1271-1702). 
+H 228, titres de l'abbaye de Bithaine concernant la communauté de Dambenoît (1443-1791). 
+Inventaire des Archives communales d'Ailloncourt : 
+7 E dépôt 2, procédure entre les communautés d'Ailloncourt et de Dambenoît au sujet des bois (1779). "</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             09/08/2011
+         </p>
+         <p>Dernier ajout le             09/08/2011
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORETS, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Biens communaux.-Procès-verbal de délimitation des bois communaux d'Ailloncourt, La Chapelle-lès-Luxeuil et Citers (1590). Achat au profit des habitants de Dambenoît, du triage du bois communal par Claude Faivre, amodiateur des revenus de la baronnie de Faucogney (1715). Plan des bois communaux de Dambenoît par Claude Py, notaire arpenteur, demeurant à Creveney (1722) (plan classé dans la collection des plans communaux des Archives départementales de la Haute-Saône). Vente par les habitants de Dambenoît d'un champ à Claude Rouyer, du lieu (1739). Pièces d'un procès pour les habitants de Dambenoît, contre certains habitants d'Adelans, pour anticipations faites par ces derniers sur les fonds de Dambenoît, notamment Claude-Antoine Chappuis, notaire royal et procureur à Faucogney, Pierre-Joseph Lordier, fermier de Grosjean l'ainé, avocat en parlement demeurant à Faucogney, etc. (1760).</unittitle>
+                     <unitdate normal="1590/1760">1590-1760</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 2</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Pièces de procédures au sujet des bois.-Procès entre les abbés de Bithaine et les habitants de Dambenoît, au sujet d'une portion de bois ; la délimitation entre les bois de Colombe-lès-Bithaine et Dambenoît est faite en 1737 en présence de Philippe Brun, procureur de l'archevêque Antoine-Pierre de Grammont, abbé de Bithaine, et des habitants des deux communautés; la procédure reprend de 1737 à 1767 devant la Chambre des Eaux et Forêts de Besançon ; citations ou extrait de titres anciens : donations à l'abbaye de Bithaine par Philippe d'Achey en 1183 (Philippe d'Achey, voir Archives départementales de la Haute-Saône, H 222 à 224 et 228) de tout ce qu'il possède dans la vallée de Bithaine ; donation à la même abbaye, par Guillaume de Colombe, en 1189 de tout ce qu'il possède dans cette vallée et sur le revers de la colline, appelée ""Vacelin"" ; en 1254, les abbés de Bithaine reçoivent par un échange fait avec ceux de Luxeuil tout leur bien dans la même vallée : copie de l'acensement de la vallée de Colombe fait en 1548 par les abbés de Bithaine à divers particuliers ; ceux-ci jouiront de droits d'affouage et pâturage dans les forêts de l'abbaye et pourront construire et défricher dans certaines limites, mais seront amendables, corvéables et mainmortables des abbés de Bithaine.</unittitle>
+                     <unitdate normal="1186/1779">1186-1779</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 3</unitid>
+                     <unitid>DD3</unitid>
+                     <unittitle>Pièces de procédures au sujet des bois.-Attestation donnée en 1737 par les habitants de Genevrey, réunis en assemblée générale, à ceux de Dambenoît, au sujet des limites de leurs bois communaux de Chennet et Molliestaux avec ceux de Dambenoît (la plupart des habitants de Dambenoît sont nommés). Consultation d'avocat dans un procès entre Ailloncourt et Dambenoît au sujet des limites des bois de la Folle (Dambenoît) et de la Charmotte (Ailloncourt), dans laquelle est citée la transaction passée en 1590 entre Ailloncourt, Citers et Chapelle-lès-Luxeuil au sujet de leurs limites (1778-1779).</unittitle>
+                     <unitdate normal="1737/1779">1737-1779</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 4</unitid>
+                     <unitid>GG0</unitid>
+                     <unittitle>Culte : pièce d'un procès entre les communautés de Dambenoît, Colombe-lès-Bithaine et le Val de Bithaine, d'une part, et la communauté d'Adelans, d'autre part, pour l'offrande de pain bénit dans l'église paroissiale de Dambenoît.</unittitle>
+                     <unitdate normal="1778/1781">1778-1781</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 5</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Culte : registre paroissial de Dambenoît, Adelans, Bithaine et Colombe : B. (1593-septembre 1639 ; avril 1642-février 1660), (certains actes intéressent les habitants de Moliney (le Mauliney, commune de Bithaine) et ceux de Citers, Genevrey, Amblans, Bouhans, Rignovelle et Ailloncourt. Lacunes pour les années 1639-1642. On note également des listes des curés de Dambenoît ayant exercé de 1593 à 1766 et le baptême d'une cloche d'Adelans le 6 décembre 1654).</unittitle>
+                     <unitdate normal="1593/1766">1593-1766</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 6</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Culte : registre paroissial de Dambenoît, Adelans, Bithaine et Colombe : S. (juin 1660-1679 ; 1678-1679 en désordre sur un feuillet ; 1687-1717 ; une note relative aux offices à célèbrer sur un petit feuillet encarté ; 1717-1725 ; un acte de 1733 ; 1726 ; deux actes de baptêmes; 1727-1759) ; M. (1712-juin 1721 ; un feuillet coupé ; 1696-1712 ; feuillets manquants 1721-1723 ; un acte de 1729 ; au verso 1660-1680 ; 1682-1683 en désordre sur une page ; 1684-1696).</unittitle>
+                     <unitdate normal="1660/1759">1660-1759</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 7</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Culte : registre paroissial de Dambenoît, Adelans, Bithaine et Colombe : B. (1660-1679 ; un acte sur un fragment de feuillet encarté ; deux actes de 1677 ; 1679-1680 ; 1678-1682 ; 1681-1684 en désordre; 1685-1692 ; trois actes de 1691 ; 1692-1754) M. (1723-septembre 1762), (certains actes intéressent les habitans de Genevrey, Citers, Amblans et Bouhans).</unittitle>
+                     <unitdate normal="1660/1762">1660-1762</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 8</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Culte : registre paroissial de Dambenoît, Adelans, Bithaine et Colombe : B.M.S (1746-mai 1778 ; janvier-avril 1782 ; mai 1778-janvier 1782), (certains actes intéressent Besancenot (commune de Bithaine) ainsi que le Mouliney).</unittitle>
+                     <unitdate normal="1746/1782">1746-1782</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 9</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Culte.-Registre proissial puis d'état civil de Dambenoît, Bithaine et Colombe : B.M.S (1782-novembre 1792); N.M.D (novembre-décembre 1792) ; copie d'un jugement du Tribunal de Lure, qui ordonne en 1818 l'inscription d'une naissance de 1792.</unittitle>
+                     <unitdate normal="1782/1818">1782-1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 10</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (mai 1848-novembre 1882), (les registres de délibérations du conseil municipal de Dambenoît de 1790 à 1848 n'ont pas été vus en 1971 et 1992).</unittitle>
+                     <unitdate normal="1848/1882">1848-1882</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 11</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (novembre 1882-mai 1905).</unittitle>
+                     <unitdate normal="1882/1905">1882-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 12</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (mai 1905-janvier 1934).Actes de l'administration municipale : répertoires des actes soumis à l'enregistrement (1870-1914).</unittitle>
+                     <unitdate normal="1870/1934">1870-1934</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 31</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Registre d'état civil : naissances (20 décembre 1792-16 fructidor an XII). </unittitle>
+                     <unitdate>1792-an XII</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 32</unitid>
+                     <unitid>E2</unitid>
+                     <unittitle>Registre d'état civil : mariages (19 décembre 1792-8 fructidor an XII). </unittitle>
+                     <unitdate>1792-an XII</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 33</unitid>
+                     <unitid>E3</unitid>
+                     <unittitle>Registre d'état civil : décès (20 décembre 1792-[28] thermidor an XII).</unittitle>
+                     <unitdate>1792-an XII</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 34</unitid>
+                     <unitid>E4</unitid>
+                     <unittitle>Registre d'état civil : naissances, mariages, décès (23 vendémiaire an XIII-16 novembre 1819).</unittitle>
+                     <unitdate>an XIII-1819</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 35</unitid>
+                     <unitid>E5</unitid>
+                     <unittitle>Registre d'état civil : naissances, mariages, décès (3 janvier 1820-29 novembre 1821). </unittitle>
+                     <unitdate normal="1820/1821">1820-1821</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE D'OFFICIER MINISTER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 36</unitid>
+                     <unitid>E6</unitid>
+                     <unittitle>Registre d'état civil : naissances, mariages, décès (4 juin 1822-2 décembre 1827).</unittitle>
+                     <unitdate normal="1822/1827">1822-1827</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 37</unitid>
+                     <unitid>E27</unitid>
+                     <unittitle>Registre d'état civil : naissances, mariages, décès (5 janvier 1828-28 décembre 1829). </unittitle>
+                     <unitdate normal="1828/1829">1828-1829</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 38</unitid>
+                     <unitid>E8</unitid>
+                     <unittitle>Registre d'état civil : naissances, mariages, décès (15 janvier 1831-28 décembre 1840). </unittitle>
+                     <unitdate normal="1831/1840">1831-1840</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 39</unitid>
+                     <unitid>E9</unitid>
+                     <unittitle>Registre d'état civil : naissances, mariages, décès (2 janvier 1841-26 juin 1857).</unittitle>
+                     <unitdate normal="1841/1857">1841-1857</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 40</unitid>
+                     <unitid>E10</unitid>
+                     <unittitle>Tables décennales des actes de naissances, mariages et décès (1792-1862) (comporte également : actes de publication de promesses de mariage (10 brumaire an 9-10floréal an 10), actes de naissances, mariages, décès (25 brumaire an 7-7floréal an 7), publications de bans de mariages (17 brumaire-10 fructidor an 8). </unittitle>
+                     <unitdate normal="1792/1862">1792-1862</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 41</unitid>
+                     <unitid>E11</unitid>
+                     <unittitle>Registre d'état civil : naissances (1er février 1858-19 novembre 1872). </unittitle>
+                     <unitdate normal="1858/1872">1858-1872</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 42</unitid>
+                     <unitid>E12</unitid>
+                     <unittitle>Registre d'état civil : mariages (22 février 1858-6 novembre 1872). </unittitle>
+                     <unitdate normal="1858/1872">1858-1872</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 43</unitid>
+                     <unitid>E13</unitid>
+                     <unittitle>Registre d'état civil : décès (13 avril 1858-25 novembre 1872). </unittitle>
+                     <unitdate normal="1858/1872">1858-1872</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 44</unitid>
+                     <unitid>E14</unitid>
+                     <unittitle>Registre d'état civil : naissances (4 janvier 1873-17 novembre 1883). </unittitle>
+                     <unitdate normal="1873/1883">1873-1883</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 45</unitid>
+                     <unitid>E15</unitid>
+                     <unittitle>Registre d'état civil : mariages (6 février 1873-4 août 1883). </unittitle>
+                     <unitdate normal="1873/1883">1873-1883</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 46</unitid>
+                     <unitid>E16</unitid>
+                     <unittitle>Registre d'état civil : décès (13 janvier 1873-17 février 1883). </unittitle>
+                     <unitdate normal="1873/1883">1873-1883</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 47</unitid>
+                     <unitid>E17</unitid>
+                     <unittitle>Registre d'état civil : naissances, mariages, décès (24 janvier 1884-17 décembre 1892). </unittitle>
+                     <unitdate normal="1884/1892">1884-1892</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 48</unitid>
+                     <unitid>E18</unitid>
+                     <unittitle>Registre d'état civil : naissances, mariages, décès (2 avril 1893-24 décembre 1902). </unittitle>
+                     <unitdate normal="1893/1902">1893-1902</unitdate>
+                     <physdesc>
+                        <extent>1 registre. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MINUTE D'OFFICIER PUBLIC</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 13</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population: mouvement annuel de la population (1852-1853 ; 1856 ; 1861-1864 ; 1866-1871 ; 1873-1906)."</unittitle>
+                     <unitdate normal="1852/1906">1852-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 14</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Population.-Dénombrement quinquennal de la population : listes nominatives (1836-1906), état récapitulatif (1911). Agriculture.-Demande de subvention pour l'établissement d'une carte agronomique (1905). Baux d'animaux reproducteurs (1825 ; 1839). Battue de sangliers (1904).</unittitle>
+                     <unitdate normal="1825/1911">1825-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 15</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs: livre des mutations, 1er volume.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 16</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Impôts directs : livre des mutations, 2ème volume.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 17</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Impôts directs : matrices générales des contributions directs (1836-1838 ; 1842-1844 ; 1850-1873).</unittitle>
+                     <unitdate normal="1836/1873">1836-1873</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 18</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Impôts directs : matrices générales des contributions directs (1874-1889 ; 1891-1894 ; 1896-1911 ; 1917-1921).</unittitle>
+                     <unitdate normal="1874/1921">1874-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 19</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recrutement.-Tableaux de recensement des jeunes gens des classes de l'an XI ; 1806 ; 1811-1813  1822 ; 1824-1826 ; 1828-1852 ; 1854 ; 1858 ; 1860-1864 ; 1866 ; 1868-1915. Extrait mortuaire d'un militaire (1860). Administration militaire.-Logement et cantonnement des troupes (1881). Manœuvres (1888-1893).Sapeurs-pompiers : acquisition d'une pompe à incendie (1888-1889). Mesures d'exceptions et faits de guerre : état des habitants qui ont fourni des denrées à l'armée allemande (1871).</unittitle>
+                     <unitdate normal="1803/1915">1803-1915</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 20</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale : ouverture d'un débit de boisson (1884). Police rurale : bans de vendanges (1902). Justice : transmission d'une commission rogatoire (1923).</unittitle>
+                     <unitdate normal="1884/1923">1884-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 21</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections.-Révisions des listes électorales, listes préparatoires (1855-1874). Election du Président de la République (1848 ; 1851). Vote général pour le rétablissement de l'Empire (1852). Elections législatives (1852-1914), sénatoriales (1876-1908), des membres du conseil général et du conseil d'arrondissement (1871), des membres du conseil général (1877-1913), du conseil d'arrondissement (1877-1910), des membres du conseil municipal, nominations des maires et adjoints, procès-verbal d'installation (1831-1904).</unittitle>
+                     <unitdate normal="1831/1914">1831-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 22</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptabilité : procès-verbal de vérification des comptes (an IX). Arrêtés d'apurement des comptes de gestions de 1865 à 1868.</unittitle>
+                     <unitdate normal="1801/1869">1801-1869</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 23</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices publics.-Réparations à la maison d'école (1887-1899). Projet d'érection d'un monument commémoratif (1922-1923). Constructions et réparations des fontaines (1809-1935).Edifices du cultes et cimetières.-Requête des commune de Dambenoît et Colombe-lès-Bithaine pour entreprendre des réparations à l'église et au presbytère co-paroissiaux (1793). Pièces de procédures concernant le règlement des comptes entre Colombe-lès-Bithaine et Dambenoît suite à la reconstruction du presbytère et aux réparations de l'église (1849-1864). Réparations à l'église (1873 ; 1921). Acquisition, réparations du presbytère (1806-1931). Projet de construction des murs d'un nouveau cimetière (1889). Translation et construction d'un nouveau cimetière (1894-1895).</unittitle>
+                     <unitdate normal="1793/1935">1793-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 24</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux.-Pièces d'un procès entre la commune et Françoise Magrey, veuve de François Millot, pour la propriété d'un terrain au lieu-dit ""le haut des vignes"" entre les communaux de Dambenoît et de Colombe-lès-Bithaine (1792-an II). Requête de la commune pour amodier des terrains communaux anticipés (an XI). Procès-verbal de délimitation du territoire de Dambenoît avec Ailloncourt, Colombe-lès-Bithaine, Bithaine, Adelans, Quers et Citers (an XII). Plan géométrique de délimitation des prés de la commune avec divers particuliers aux cantons dits ""en Lepenotte"" et ""en Coilla"" (1828) (plan classé dans la collection des plans communaux des Archives départementales de la Haute-Saône). Soumissions d'acquérir suite à des anticipations de particuliers (1836 ; 1907). Pièces d'un procès entre Dambenoît et Colombe-lès-Bithaine au sujet d'une portion de terrains qui comprend les lieux-dits ""la Planche en Lombard, les Tassonnières et les Madrix"", ansi que les carrières dites ""au dessus des vignes de Montchavret"" ou ""au dessus de Medrid"" (dont le plan de 1840 est classé dans la collection des plans communaux des Archives de la Haute-Saône.) (1839-1845, p.j. depuis 1732) (au cours de la procédure est exhibée une attestation de la délimitation des parcelles contestées, faite par Joseph Millot pour le compte de Henry-François de Tenarre, marquis de Montmain, lieutenant général des armées du roi, gouverneur de ""Seissel"" (Seyssel, ain ?) et d'Anne-Joseph-Ferdinande de Grammont, sa femme, en 1732 ainsi que les attestations de 1821 à 1840 de plusieurs personnes ayant tiré de la pierre de la carrière contestée). Ventes et échanges de terrains communaux (1896-1912). </unittitle>
+                     <unitdate normal="1732/1912">1732-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIES, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 26</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine.-Construction d'une hutte à porcs sur la rue (1829). Arrêté d'alignement des rues (1854). Chemin de Citers, partie de la grande rue : acquisition de terrain du sieur Lassus (1861-1869). Demande de dédommagement au sieur Simonin pour obstruction d'un aqueduc sur la place (1873). Litige de 1873 à 1881 entre la commune et le sieur Lagirarde relatif à la délimitation de la rue, avec titres de 1865 (1865-1881). Construction d'un aqueduc rue de la Goutte (1883-1888).Petite Voirie.-Rectification du chemin allant à Citers : acquisition et expropriation de terrains (1884-1887 ; 1929), occupation temporaire des terrains (1895). Chemin de Quers à Citers, au lieu-dit ""Pré-Richard"": délimitation, procès relatif à un aqueduc (1888-1889 ; 1897). Chemin de Quers à Adelans, sur le territoire de Citers (1848-1919). Chemin de Bithaine passant par le hameau de Mouliney (1877-1898). Chemin de la Chapelle-lès-Luxeuil (1846 ; 1906-1909). Prétentions du sieur Simonin relatives à un chemin de défruitement (1875). Acquisitions de terrains pour établir des chemins de défruitement (1862 ; 1901-1921).</unittitle>
+                     <unitdate normal="1829/1929">1829-1929</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 27</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Chemins vicinaux et ruraux : classement, reconnaissance (1867 ; 1890 ; 1922), procès-verbal et plan géométrique des chemins levé par Denis Caton, arpenteur à Genevreuille (1826) (plan classé dans les plans communaux des Archives départementales de la Haute-Saône.), tableaux des chemins (1836-1893), tarifs, prestations, ressources (1861-1910), rôles de prestations en argents ou en nature (1889-1914).Moyens de transport et travaux divers : marché pour les carrières de Dambenoît (1808), (voir aussi 195 E dépôt 24/N1).Navigation et régime des eaux.-Plan d'un ruisseau dit ""du Meix"" levé pour constaté son encaissement entre les chemins le confinant et le traversant (1820). Curage des fossés et cours d'eau (1838-1934). Rôles de prestations des cours d'eau (1843-1873).</unittitle>
+                     <unitdate normal="1808/1934">1808-1934</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 28</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte.-Procès-verbal de concession de jouissance des édifices et mobilier du culte au curé du lieu (1907). Arrêté d'attribution des biens de la fabrique aux communes de Dampierre et Colombe-lès-Bithaine (1911).</unittitle>
+                     <unitdate normal="1907/1911">1907-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 29</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Application des lois d'assistance et de prévoyance : listes des personnes admises au bénéfice de l'allocation militaire.</unittitle>
+                     <unitdate normal="1927">1927</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>195 Edepot 30</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique.-Taux de la rétribution scolaire, statuts de la caisse des écoles, subventions, dépenses (1876-1890). Transformation de l'école facultative en école obligatoire (1894).</unittitle>
+                     <unitdate normal="1876/1894">1876-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

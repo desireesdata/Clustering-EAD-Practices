@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_215Edepot_Archives_communales_déposées_d'Errevet" url="https://francearchives.fr/findingaid/a886501d96356044b0df09554f7520876f6557a8">FRAD70_215Edepot_Archives_communales_déposées_d'Errevet</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>215Edepot - Archives communales déposées d'Errevet</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>215Edepot - Archives communales déposées d'Errevet</unittitle>
+         <unitid>215Edepot1-8</unitid>
+         <unitdate normal="1752/1919">1752-1919</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE D'ERREVET</corpname>
+         </origination>
+         <note label="note">
+            <p>Avant 1792, Errevet dépendait de la paroisse de Frahier.
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 9388, affaires forestières (1703-1786).
+B 9676, requête du chapitre de Lure pour être maintenu dans le droit de percevoir la dîme de la dixième gerbe sur le territoire d'Errevet (1681-1790).
+C 7, ordonnances rendues en matière d'administration communale (1685-1743).
+C 22, 256, suppression des droits de péage par terre prétendus par l'abbé et le chapitre de l'abbaye de Lure sur Errevet (1715-1783).
+C 195, permission de plaider au conseil souverain de Colmar contre des particuliers d'Evette qui se sont permis de rompre par des fossés un chemin de défruitement (1782-1789).
+C 221, requête de l'abbé et du chapitre de Lure demandant à être maintenus dans un droit de péage (1773-1774).
+C 371, rôles et répartements des impositions dans la communauté d'Errevet (1729-1790).
+3 O 221, travaux communaux (depuis 1865).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             02/08/2004
+         </p>
+         <p>Dernier ajout le             02/08/2004
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> BOIS COMMUNAUX (1752-1752)</p>
+         <p>  215 Edepot 1</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (...-...)</p>
+         <p>  215 Edepot 2</p>
+         <p> POPULATION (1852-1906)</p>
+         <p>  215 Edepot 3</p>
+         <p> CONTRIBUTIONS-AFFAIRES MILITAIRES (1814-1919)</p>
+         <p>  215 Edepot 4</p>
+         <p> ELECTIONS (1816-1896)</p>
+         <p>  215 Edepot 5</p>
+         <p> FINANCES DE LA COMMUNE (1798-1815)</p>
+         <p>  215 Edepot 6</p>
+         <p> EDIFICES PUBLICS-BIENS ET BOIS COMMUNAUX (1808-1892)</p>
+         <p>  215 Edepot 7</p>
+         <p> VOIRIE-TRAVAUX DIVERS-ASSISTANCE ET PREVOYANCE (1836-1900)</p>
+         <p>  215 Edepot 8</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>215 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Plan géométrique des bois communaux d'Errevet.</unittitle>
+                     <unitdate normal="1752">1752</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ERREVET</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>215 Edepot 2</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate>An II-1834</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ERREVET</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>215 Edepot 3</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Dénombrement quinquennal de la population : listes nominatives (1896-1906). Mouvement annuel (1852-1863, 1865-1886, 1889-1906).</unittitle>
+                     <unitdate normal="1852/1906">1852-1906</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi112</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ERREVET</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>215 Edepot 4</unitid>
+                     <unitid>G1-H1</unitid>
+                     <unittitle>Impôts directs. Matrices générales des contributions foncières (1842-1848, 1854-1857, 1886-1890). Rôle de répartition de la contribution foncière (1814).&lt;lb/&gt;H1 - Tableau de recensement des classes 1855 à 1866 appelées à faire partie de l'armée territoriale (1874). Tableaux de classement et réquisitions de chevaux, juments, mules, voitures (1911, 1919). Invasion de 1815 : réquisitions en voitures, alimentation (1814-1816).</unittitle>
+                     <unitdate normal="1814/1919">1814-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ERREVET</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>215 Edepot 5</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Vote pour le rétablissement de l'Empire (1852), plébiscite (1870), élections du président de la République (1848, 1851), élections législatives (1852-1893), sénatoriales (1881-1896), du conseil général et du conseil d'arrondissement (1861-1893), des membres du conseil municipal, nominations des maires et adjoints (1816-1893) : procès-verbaux.</unittitle>
+                     <unitdate normal="1816/1896">1816-1896</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ERREVET</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>215 Edepot 6</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptes de recettes et dépenses.</unittitle>
+                     <unitdate normal="1798/1815">1798-1815</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ERREVET</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES PUBLICS-BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>215 Edepot 7</unitid>
+                     <unitid>M1-N1</unitid>
+                     <unittitle>Edifices publics. Devis de travaux à exécuter à la maison d'école (1841). Projet d'aliénation d'une maison communale (1864). Quote-part due pour l'église, le presbytère et le cimetière co-paroissiaux de Frahier (1819-1854).&lt;lb/&gt;Biens et bois communaux. Amodiations (1844-1892). Procès-verbal d'aménagement des bois communaux (1830-1831). Marchés de bûcherons (1819-1879). Vente du quart de réserve (1808-1809, 1866). Ventes d'écorces (1821-1879).</unittitle>
+                     <unitdate normal="1808/1892">1808-1892</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'AMENAGEMENT FO</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>BOIS</subject>
+                     <subject>ECOLE</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ERREVET</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-TRAVAUX DIVERS-ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>215 Edepot 8</unitid>
+                     <unitid>O1-Q1</unitid>
+                     <unittitle>Voirie. Chemin vicinal de grande communication N° 17, fonds centralisés, comptes des ouvrages exécutés et des dépenses (1840-1869), répartition des frais de construction et d'entretien (1837-1867), travaux de prestations en nature (1838-1868). Rôle de prestations en nature (1890).&lt;lb/&gt;Travaux divers. Amodiation de carrières (1836-1868).&lt;lb/&gt;Q1- Arrêtés de situation des comptes du bureau de bienfaisance (1883-1900). Protection des enfants du premier âge, état statistique des décès (1877).</unittitle>
+                     <unitdate normal="1836/1900">1836-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CARRIERE</subject>
+                     <subject>PROTECTION MATERNELLE ET INFANTILE</subject>
+                     <subject>PROTECTION SOCIALE</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ERREVET</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

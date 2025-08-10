@@ -1,0 +1,438 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_379Edepot_Archives_communales_déposées_de_Nervezain" url="https://francearchives.fr/findingaid/dc44268abc729777d1983024954e6b4bc6832074">FRAD70_379Edepot_Archives_communales_déposées_de_Nervezain</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>379Edepot - Archives communales déposées de Nervezain</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>379Edepot - Archives communales déposées de Nervezain</unittitle>
+         <unitid>379Edepot1-12</unitid>
+         <unitdate normal="1714/1969">1714-1969</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE NERVEZAIN</corpname>
+         </origination>
+         <note label="note">
+            <p>La commune de Nervezain a été rattachée à celle de Vauconcourt en 1970 et prend le nom de Vauconcourt-Nervezain. Avant 1792, Nervezain dépendait de la paroisse de Vauconcourt.
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 4222, élections des députés, plaintes et doléances des habitants de Nervezain (1789).
+B 7007, déclarations de propriétés faites en exécution de l'édit de 1749 dans la communauté de Nervezain.
+C 133, rôles d'imposition à Nervezain (1768).
+C 463, rôles et répartements des impositions dans la communauté de Nervezain (1731-1790).
+525 E dépôt 6 à 11, registres paroissiaux de Vauconcourt (1613-1792).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             01/01/1970
+         </p>
+         <p>Dernier ajout le             11/03/2008
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> IMPOTS-COMPTABILITE (1714)</p>
+         <p>  379 Edepot 1</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1835-1969)</p>
+         <p>  379 Edepot 2-5</p>
+         <p> CONTRIBUTIONS (1908-1909)</p>
+         <p>  379 Edepot 6</p>
+         <p> PERSONNEL COMMUNAL (1883-1963)</p>
+         <p>  379 Edepot 7</p>
+         <p> FINANCES DE LA COMMUNE (1964-1966)</p>
+         <p>  379 Edepot 8</p>
+         <p> BIENS COMMUNAUX (1896-1911)</p>
+         <p>  379 Edepot 9</p>
+         <p> VOIRIE (1879)</p>
+         <p>  379 Edepot 10</p>
+         <p> ASSISTANCE ET PREVOYANCE (1908-1967)</p>
+         <p>  379 Edepot 11</p>
+         <p> INSTRUCTION PUBLIQUE (1908)</p>
+         <p>  379 Edepot 12</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>IMPOTS-COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>379 Edepot 1</unitid>
+                     <unitid>525Edepot5/CC1</unitid>
+                     <unittitle>Arpentement général du territoire de Nervezain.&lt;lb/&gt;1 registre couvert en cuir.</unittitle>
+                     <unitdate normal="1714">1714</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NERVEZAIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>379 Edepot 2</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal (octobre 1835-octobre 1854).</unittitle>
+                     <unitdate normal="1835/1854">1835-1854</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NERVEZAIN</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>379 Edepot 3</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal (1855-février 1886).&lt;lb/&gt;(manque la période de mars 1886 à août 1902).</unittitle>
+                     <unitdate normal="1855/1886">1855-1886</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NERVEZAIN</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>379 Edepot 4</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal (septembre 1902-1922).&lt;lb/&gt;Manquent les années 1923 à 1946).</unittitle>
+                     <unitdate normal="1902/1922">1902-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NERVEZAIN</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>379 Edepot 5</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre des délibérations du conseil municipal (1947-avril 1969). Répertoire des actes soumis à l'enregistrement (1870-1941).</unittitle>
+                     <unitdate normal="1870/1969">1870-1969</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NERVEZAIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>379 Edepot 6</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Commissaires-répartiteurs : listes.</unittitle>
+                     <unitdate normal="1908/1909">1908-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NERVEZAIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>379 Edepot 7</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle> Berger : marché (1883), secrétaire de mairie, situation (1962), régisseur de recettes : arrêté de nomination (1963).</unittitle>
+                     <unitdate normal="1883/1963">1883-1963</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NERVEZAIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>379 Edepot 8</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Budget (1966). Compte administratif (1965). Amortissement de l'emprunt local (1964).</unittitle>
+                     <unitdate normal="1964/1966">1964-1966</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NERVEZAIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>379 Edepot 9</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Amodiations, pâturage, boues des fontaines (1896-1911). Echange de terrains entre la commune et Jules Marchiset (1910).</unittitle>
+                     <unitdate normal="1896/1911">1896-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NERVEZAIN</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>MARCHISET (Jules)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>379 Edepot 10</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Chemin de petite communication n° 2, de Nervezain à Vauconcourt, projet de reconstruction de la passerelle de la Blanchotte : 1 plan.</unittitle>
+                     <unitdate normal="1879">1879</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>OUVRAGE D'ART</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NERVEZAIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>379 Edepot 11</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Vaccination : arrêté de nomination d'un vaccinateur (1909). Bureau d'assistance, élection de délégués (1908-1967) ; règlement départemental (1962).</unittitle>
+                     <unitdate normal="1908/1967">1908-1967</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ACTION SANITAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NERVEZAIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>379 Edepot 12</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Commission municipale scolaire, élection de délégués.</unittitle>
+                     <unitdate normal="1908">1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NERVEZAIN</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

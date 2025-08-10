@@ -1,0 +1,1175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_396Edepot_Archives_communales_déposées_d'Oricourt" url="https://francearchives.fr/findingaid/279aa582bbb8a4efe4721e6a66907369684beb20">FRAD70_396Edepot_Archives_communales_déposées_d'Oricourt</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>396Edepot - Archives communales déposées d'Oricourt</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>396Edepot - Archives communales déposées d'Oricourt</unittitle>
+         <unitid>396Edepot1-50</unitid>
+         <unitdate normal="1760/1960">1760-1960</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE D'ORICOURT</corpname>
+         </origination>
+         <note label="note">
+            <p>Avant 1792, Oricourt dépendait de la paroisse de Montjustin.</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             04/07/2014
+         </p>
+         <p>Dernier ajout le             04/07/2014
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 27</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Compte d’échevin.</unittitle>
+                     <unitdate normal="1781">1781</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECHEVIN</subject>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORETS, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Eaux et forêts : plan des bois communaux d’Oricourt dressé par Valbert Bretet, géomètre-arpenteur royal .</unittitle>
+                     <unitdate normal="1760">1760</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 2</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal : registre des délibérations.</unittitle>
+                     <unitdate normal="1790/1841">1790-1841</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 3</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal : registre des délibérations.</unittitle>
+                     <unitdate normal="1841/1864">1841-1864</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 4</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal : registre des délibérations.</unittitle>
+                     <unitdate normal="1865/1888">1865-1888</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 5</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Conseil municipal : registre des délibérations.</unittitle>
+                     <unitdate normal="1888/1920">1888-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 6</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Actes de l’administration municipale : répertoires des actes soumis à l’enregistrement.</unittitle>
+                     <unitdate normal="1824/1906">1824-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION COMMUNALE</subject>
+                     <subject>ENREGISTREMENT</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 28</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Conseil municipal : registre des délibérations.</unittitle>
+                     <unitdate normal="1920/1960">1920-1960</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 29</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Registre de naissances, mariages et décès (1792-an XI) et table décennale (1792-1813). </unittitle>
+                     <unitdate normal="1792/1813">1792-1813</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TABLE DECENNALE</genreform>
+                     <genreform>REGISTRE D'ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 30</unitid>
+                     <unitid>E2</unitid>
+                     <unittitle>Registre de naissances, mariages et décès. </unittitle>
+                     <unitdate>An XIV-1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE D'ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 31</unitid>
+                     <unitid>E3</unitid>
+                     <unittitle>Registre de naissances, mariages et décès (1819-1830) et table décennale (1823-1832). </unittitle>
+                     <unitdate normal="1819/1832">1819-1832</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TABLE DECENNALE</genreform>
+                     <genreform>REGISTRE D'ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 32</unitid>
+                     <unitid>E4</unitid>
+                     <unittitle>Registre de naissances, mariages et décès (1831-1840) et table décennale (1833-1842). </unittitle>
+                     <unitdate normal="1831/1842">1831-1842</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TABLE DECENNALE</genreform>
+                     <genreform>REGISTRE D'ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 33</unitid>
+                     <unitid>E5</unitid>
+                     <unittitle>Registre de naissances, mariages et décès (1841-1847) et table décennale (1843-1852). </unittitle>
+                     <unitdate normal="1841/1852">1841-1852</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TABLE DECENNALE</genreform>
+                     <genreform>REGISTRE D'ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 34</unitid>
+                     <unitid>E6</unitid>
+                     <unittitle>Registre de naissances, mariages et décès. </unittitle>
+                     <unitdate normal="1848/1857">1848-1857</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE D'ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 35</unitid>
+                     <unitid>E7</unitid>
+                     <unittitle>Registre de naissances, mariages et décès (1858-1867) et table décennale (1863-1872). </unittitle>
+                     <unitdate normal="1858/1872">1858-1872</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TABLE DECENNALE</genreform>
+                     <genreform>REGISTRE D'ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 36</unitid>
+                     <unitid>E8</unitid>
+                     <unittitle>Registre de naissances, mariages et décès (1868-1877) et table décennale (1853-1862). </unittitle>
+                     <unitdate normal="1853/1877">1853-1877</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TABLE DECENNALE</genreform>
+                     <genreform>REGISTRE D'ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 37</unitid>
+                     <unitid>E9</unitid>
+                     <unittitle>Registre de naissances, mariages et décès (1878-1887) et table décennale (1873-1882). </unittitle>
+                     <unitdate normal="1873/1887">1873-1887</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE D'ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 38</unitid>
+                     <unitid>E10</unitid>
+                     <unittitle>Registre de naissances, mariages et décès (1888-1902) et table décennale (1883-1902). </unittitle>
+                     <unitdate normal="1883/1902">1883-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TABLE DECENNALE</genreform>
+                     <genreform>REGISTRE D'ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>ETAT CIVIL</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 7</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : mouvement de la population (1892-1906) ; recensement quinquennal (1851-1936).</unittitle>
+                     <unitdate normal="1851/1936">1851-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 8</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Agriculture : statistique agricole annuelle et plan départemental de ravitaillement, questionnaires.</unittitle>
+                     <unitdate normal="1909/1917">1909-1917</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>QUESTIONNAIRE D'ENQUETE</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATION FINANCIERE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 9</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Impôts directs : extrait du plan cadastral avec plan du village (XIXe siècle) ; état de section, section E du centre du village (1791) ; répartition du produit des rôles, par contribution, entre l’Etat, le département et la commune (1914) ; rôles de la taxe municipale sur les chiens (1880, 1905, 1915) ; liste des contribuables assujettis à la taxe proportionnelle pour l’année 1956 (1957).</unittitle>
+                     <unitdate normal="1791/1957">1791-1957</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>ETAT DE SECTION</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 10</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Impôts directs : matrices générales des contributions foncière, personnelle-mobilière, et des portes et fenêtres.</unittitle>
+                     <unitdate normal="1842/1916">1842-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 11</unitid>
+                     <unitid>G10</unitid>
+                     <unittitle>Impôts directs : rôles de la rétribution scolaire (1864-1881) ; listes des enfants admis gratuitement dans l’école primaire communale (1877-1881).</unittitle>
+                     <unitdate normal="1864/1881">1864-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 39</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs : procès-verbal de délimitation du territoire (1818-1821), matrice des propriétés foncières (1824), états de sections des propriétés non bâties et bâties, sections A et B (1824).</unittitle>
+                     <unitdate normal="1818/1824">1818-1824</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                     <genreform>ETAT DE SECTION</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 40</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Impôts directs : matrice cadastrale des propriétés bâties. </unittitle>
+                     <unitdate normal="1882/1911">1882-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 41</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Impôts directs : matrice cadastrale des propriétés bâties. </unittitle>
+                     <unitdate normal="1910/1932">1910-1932</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 42</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Impôts directs : matrice cadastrale des propriétés non bâties. </unittitle>
+                     <unitdate normal="1913/1932">1913-1932</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 43</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Impôts directs : registre représentant les augmentations et les diminutions survenues dans les contenances et les revenus portés sur les matrices cadastrales. </unittitle>
+                     <unitdate normal="1868/1914">1868-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 44</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Impôts directs. –Construction nouvelle, reconstruction, addition de construction, affectation de terrains à des usages commerciaux ou industriels, déclarations : registre. </unittitle>
+                     <unitdate normal="1891/1954">1891-1954</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 45</unitid>
+                     <unitid>G9</unitid>
+                     <unittitle>Impôts directs. –Contributions foncière, personnelle-mobilière et des portes et fenêtres, anciennes contributions directes et taxes assimilées : matrices générales, copies de matrices générales. </unittitle>
+                     <unitdate normal="1917/1956">1917-1956</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 12</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recrutement : tableaux de recensement militaire (1848-1911, 1925) ; bulletins individuels des citoyens mobilisables (vers 1850) ; liste nominative des hommes appartenant aux classes 1855-1866, inscrits sur la liste des contingent de l’armée territoriale (1875).</unittitle>
+                     <unitdate normal="1848/1925">1848-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 13</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Administration militaire : pièces relatives au logement et au cantonnement des troupes (1881-1918) ; pièces concernant les réquisitions (1875, 1914, 1917, s.d.).</unittitle>
+                     <unitdate normal="1875/1918">1875-1918</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ORGANISATION DE L'ARMEE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 14</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Garde nationale : contrôle général (1840) ; relevés nominatifs, par rang d’âge, des bulletins individuels des citoyens célibataires de 20 à 35 ans inscrits au registre-matricule de la Garde nationale et état des mutations survenues dans le classement des citoyens mobilisables (1848-1850) ; liste de recensement (vers 1850) ; procès-verbaux d’élection des sous-officiers (1870) ; service ordinaire et de réserve (XIXe siècle).</unittitle>
+                     <unitdate normal="1840/1870">1840-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GARDE NATIONALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 15</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale : état des sinistres survenus en 1894 (1895). &lt;lb/&gt;Justice : listes générales des jurés (1851-1852, 1871).&lt;lb/&gt;Hygiène publique et salubrité : épizootie du typhus, dénombrements des animaux des espèces bovine, ovine et caprine (1871).</unittitle>
+                     <unitdate normal="1851/1895">1851-1895</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                     <subject>MALADIE DES ANIMAUX</subject>
+                     <subject>SINISTRE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 16</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections : listes électorales.</unittitle>
+                     <unitdate normal="1851/1928">1851-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 17</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections : procès-verbaux des opérations pour les élections sénatoriales (1876-1919), législatives (1869-1914), au Conseil général (1871-1919), au Conseil d’arrondissement (1864-1925), municipales (1865-1904, 1947).</unittitle>
+                     <unitdate normal="1864/1947">1864-1947</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION AU CONSEIL D'ARRONDISSEMENT</subject>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 18</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Personnel municipal : arrêté préfectoral autorisant la commune à prélever un impôt pour payer le traitement du garde-champêtre.</unittitle>
+                     <unitdate normal="1857">1857</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GARDE PARTICULIER</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 46</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptabilité : budgets et chapitres additionnels (1850-1917), règlement définitif des recettes et des dépenses (1927). </unittitle>
+                     <unitdate normal="1850/1927">1850-1927</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 47</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptabilité : comptes de gestion. </unittitle>
+                     <unitdate normal="1868/1932">1868-1932</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 19</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices publics. -Maison commune : agrandissement et exhaussement (1853) ; demande de secours pour réparations (1868) ; marché pour l’installation d’une cloche et d’un campanile (1902). Fontaines : pièces relatives à la reconstruction de la fontaine du centre du village (1866) et marché pour la réparation d’une fuite d’eau à  cette même fontaine (1927) ; projet pour l’établissement d’une conduite d’eau en grès et d’une fontaine (1880, 1882) ; échanges de terrains entre le vicomte de Grivel et la commune pour l’élargissement de rues et l’établissement d’une fontaine (1882, 1886) ; pièces concernant la réfection d’une conduite d’eau et d’une fontaine (1905-1906).&lt;lb/&gt;Edifices du culte et cimetières. -Eglise et presbytère : lettre adressée au préfet par le maire d’Aillevans et retournée au maire d’Oricourt, enjoignant à celui-ci de respecter l’engagement pris par sa commune de supporter une partie des dépenses occasionnées  par la reconstruction de l’église d’Aillevans (1851) ; bail du presbytère d’Aillevans dont la commune d’Oricourt est copropriétaire en raison de son appartenance à la paroisse d’Aillevans (1908) ; ouverture d’un crédit pour solder les réparations de l’église et du presbytère (1919).&lt;lb/&gt;Edifices à usage d’établissements d’enseignement de sciences et d’art. -Maison d’école : projets de réparations non exécutés (1850, 1854) ; location d’un logement pour l’instituteur (1852) ; aliénation d’un terrain communal pour financer des travaux (1858) ; travaux de réparations (1867-1869) ; ouverture d’un crédit pour réparations au logement de l’institutrice (1920).</unittitle>
+                     <unitdate normal="1850/1927">1850-1927</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>CONSTRUCTION</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>FONTAINE</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                     <subject>LOGEMENT DE FONCTION</subject>
+                     <subject>LOYER IMMOBILIER</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS ET EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 20</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux : amodiations de communaux (1850-1928) ; aliénation de terrains communaux (1856) ; état des biens  ruraux autres que les bois et terrains soumis au régime forestier, appartenant à la commune (vers 1862).</unittitle>
+                     <unitdate normal="1850/1928">1850-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 21</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Bois : deux plans des bois d’Oricourt (1817, 1830)  ; procès-verbaux pour l’aménagement des bois communaux (1830, 1850) ; procès-verbaux de délivrance et permis d’exploiter (1910, 1912).</unittitle>
+                     <unitdate normal="1817/1912">1817-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 48</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Biens communaux. -Transaction passée le 25 avril 1845 entre la commune et Monsieur le marquis Chappuis de Rozières : croquis figuratif d’une partie du territoire d’Oricourt. </unittitle>
+                     <unitdate normal="1845">1845</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIES, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 22</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine : proposition de l’agent voyer pour l’établissement d’un  plan d’alignement des rues du village.</unittitle>
+                     <unitdate normal="1882">1882</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 23</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Petite voirie : états d’indication des travaux de prestation en nature à exécuter en 1864 et 1866 sur le chemin vicinal de grande communication n°23, de Conflans[-sur-Lanterne] à Villersexel (1864-1866) ; tableau général des chemins ruraux (1896) ; situation des chemins ruraux reconnus (1898-1910) ; pièces relatives au chemin rural du Tremblot (1856, 1896-1897) ; tableaux des chemins vicinaux (1865, 1893) ; état de classement des chemins vicinaux ordinaires (1867) ; arrêté préfectoral approuvant le procès-verbal de reconnaissance des chemins vicinaux du 15 décembre 1829 (1830) ; situation des chemins vicinaux ordinaires au 31 décembre 1883 (1884) ; états approximatifs des travaux à exécuter en 1868 et 1869 sur les chemins vicinaux (1867-1868) ; achèvement des chemins vicinaux, désignation du réseau subventionné (1868) ; tarif pour la conversion en tâches des journées de prestation en nature pour les années 1887 à 1899 (1886-1896) ; création des ressources, arrêtés de mise en demeure (1882-1886) et arrêtés préfectoraux (1861-1872) ; rôles de prestation en argent ou en nature pour travaux de réparation et d’entretien des chemins vicinaux (1867-1906) ; état des décisions rendues sur réclamations de prestations (1877).</unittitle>
+                     <unitdate normal="1830/1910">1830-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TARIF</genreform>
+                     <genreform>ROLE</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 24</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Moyens de transport et travaux divers : arrêtés prescrivant l’ouverture d’une enquête d’utilité publique pour l’établissement d’une ligne de chemin de fer (1882) et tracé des lignes à étudier (1900) ; pièces relatives à l’établissement du réseau de distribution d’énergie électrique dans la commune (1924, 1926) ; concession des Mines de fer d’Oricourt à M. de Grammont (1849).</unittitle>
+                     <unitdate normal="1849/1926">1849-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DISTRIBUTION ELECTRIQUE</subject>
+                     <subject>INDUSTRIE EXTRACTIVE</subject>
+                     <subject>LIGNE DE CHEMIN DE FER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 25</unitid>
+                     <unitid>O4</unitid>
+                     <unittitle>Régime des eaux : pièces concernant les travaux de curage du Lauzin (1884, 1890-1891) ; transaction mettant fin amiablement à la contestation afférante à la mare sise au sud-est du château (1845) ; mesure sanitaire relative à cette mare (1880).</unittitle>
+                     <unitdate normal="1845/1891">1845-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT DES EAUX</subject>
+                     <subject>NAPPE D'EAU</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 49</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte catholique. –Fabrique d’Aillevans, Oppenans, d’Oricourt, comptabilité : relevé de compte, budget et état des subventions demandées. </unittitle>
+                     <unitdate normal="1900">1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>FABRIQUE D'EGLISE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>AILLEVANS</geogname>
+                     <geogname>OPPENANS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 26</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Etablissements hospitaliers : pièces concernant les rapports de la commune avec l’hospice Griboulard de Villersexel (1896, 1904).</unittitle>
+                     <unitdate normal="1896/1904">1896-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETABLISSEMENT DE SANTE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Hospice Griboulard</corpname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>396 Edepot 50</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Application des lois d’assistance et de prévoyance. –Assistance médicale gratuite : liste des indigents admis. </unittitle>
+                     <unitdate normal="1903">1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE MEDICALE</subject>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

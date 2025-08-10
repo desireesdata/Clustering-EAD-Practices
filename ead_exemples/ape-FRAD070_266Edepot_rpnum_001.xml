@@ -1,0 +1,764 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_266Edepot_Archives_communales_déposées_de_Gésincourt" url="https://francearchives.fr/findingaid/f7f1fea3a3edd8a47936cb94d88444056bdb02d8">FRAD70_266Edepot_Archives_communales_déposées_de_Gésincourt</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>266Edepot - Archives communales déposées de Gésincourt</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-02-08">Le 08/02/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>266Edepot - Archives communales déposées de Gésincourt</unittitle>
+         <unitid>266Edepot1-23</unitid>
+         <unitdate normal="1738/1976">1738-1976</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE GESINCOURT</corpname>
+         </origination>
+         <note label="note">
+            <p>Fusion en 1964 avec Aboncourt sous le nom d'Aboncourt-Gesincourt.
+(1) voir 2 E dépôt 25/M1, archives communales d'Aboncourt.
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 4218, élections des députés et plaintes et doléances des habitants (1789).
+B 5200, condamnation des habitants de Gésincourt à se représenter sur la place publique pour reconnaître qu'appartiennent aux dames de Gésincourt (les dames Dambly) la justice haute, moyenne et basse sur les hommes, meix et héritages dudit lieu et la mainmorte sur les personnes et sur les terres (1741).
+B 6684, rixe avec la milice de Gésincourt lors de la procession de l'octave de la Fête-Dieu (1790).
+C 8, contestation entre les habitants de Gésincourt et le co-seigneur au sujet de la dîme qui a été relâchée au sieur Joseph Rebillon par le chevalier d'Allaincourt et la dame de Lénoncourt, sa soeur (1687-1743).
+C 46, correspondance relative à la délivrance des quarts en réserve (1723-1783).
+C 196, permission de plaider contre les seigneurs dudit lieu pour les obliger à n'avoir qu'un seul juge, un seul greffier, un seul siège (1782-1789).
+C 230, ponts, routes et chemins dans la traverse de Gésincourt (1784-1786).
+C 398, rôles et répartements des impositions (1729-1790).
+H 254, 281, archives de l'abbaye de Cherlieu concernant Gésincourt (1230-1321).
+H 533, archives de l'abbaye de Faverney concernant Gésincourt (1632).
+3 O 275, travaux communaux (depuis 1809).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             19/10/2004
+         </p>
+         <p>Dernier ajout le             25/10/2004
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> FINANCES-IMPOTS (1738-1738)</p>
+         <p>  266 Edepot 1</p>
+         <p> BIENS COMMUNAUX (1770-1770)</p>
+         <p>  266 Edepot 2</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1761-1934)</p>
+         <p>  266 Edepot 3-6</p>
+         <p> POPULATION-AGRICULTURE (1846-1906)</p>
+         <p>  266 Edepot 7-8</p>
+         <p> CONTRIBUTIONS (1861-1909)</p>
+         <p>  266 Edepot 11, 266 Edepot 10</p>
+         <p> AFFAIRES MILITAIRES (1831-1920)</p>
+         <p>  266 Edepot 12-13</p>
+         <p> POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE (1831-1934)</p>
+         <p>  266 Edepot 14</p>
+         <p> ELECTIONS-PERSONNEL COMMUNAL (1841-1936)</p>
+         <p>  266 Edepot 15-16</p>
+         <p> FINANCES COMMUNALES (1816-1897)</p>
+         <p>  266 Edepot 17</p>
+         <p> EDIFICES PUBLICS (1854-1920)</p>
+         <p>  266 Edepot 18</p>
+         <p> BIENS ET BOIS COMMUNAUX-EAUX-DROITS DIVERS (1825-1976)</p>
+         <p>  266 Edepot 19-20</p>
+         <p> VOIRIE-MOYEN DE TRANSPORT-REGIME DES EAUX (1819-1937)</p>
+         <p>  266 Edepot 21</p>
+         <p> CULTE (1839-1911)</p>
+         <p>  266 Edepot 22</p>
+         <p> INSTRUCTION PUBLIQUE (1868-1870)</p>
+         <p>  266 Edepot 23</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>FINANCES-IMPOTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Arpentement.</unittitle>
+                     <unitdate normal="1738">1738</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>arpentement</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 2</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Plan des chemins et communaux de Gésincourt.</unittitle>
+                     <unitdate normal="1770">1770</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 3</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal et actes divers (1789-1838). A la fin du registre, une délibération de 1761.</unittitle>
+                     <unitdate normal="1761/1838">1761-1838</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 4</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1835/1853">1835-1853</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 5</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1905/1933">1905-1933</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 6</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Extraits des délibérations du conseil municipal (1854-1905). Répertoire des actes soumis à l'enregistrement (1910-1934).</unittitle>
+                     <unitdate normal="1854/1934">1854-1934</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-AGRICULTURE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 7</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Mouvements annuels de la population (1853-1869, 1873-1904).</unittitle>
+                     <unitdate normal="1853/1904">1853-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 8</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Dénombrement quinquennal de la population : listes nominatives.</unittitle>
+                     <unitdate normal="1846/1906">1846-1906</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi118</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 10</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Rôles des prestations sur les chemins vicinaux (1865-1879). Rôles de la taxe sur les chiens (1865-1895).</unittitle>
+                     <unitdate normal="1865/1895">1865-1895</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 11</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Rôles de la rétribution scolaire (1861-1878). Liste des classificateurs (1909).</unittitle>
+                     <unitdate normal="1861/1909">1861-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 12</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Tableaux de recensement des jeunes gens (1834-1850, 1852-1900, 1902-1908, 1910-1911, 1913-1914, 1919).</unittitle>
+                     <unitdate normal="1834/1914">1834-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 13</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Déclarations des voitures automobiles (1910-1913, 1915, 1920). Recensement des voitures susceptibles d'être requises (1910, 1913-1914, 1916). Recensement des chevaux, juments, mules et mulets (1874-1880).&lt;lb/&gt;Garde nationale. Liste de recensement, états nominatifs (1831-1870). Procès-verbaux d'élection des officiers (1870). Instruction sur les élections (1831). Organisation cantonale, extrait de l'ordonnance du 28 décembre 1831.&lt;lb/&gt;Guerre de 1870 : grosses d'obligation souscrites par la commune pour payer les réquisitions prussiennes (1871).&lt;lb/&gt;Sapeurs-pompiers. Renouvellement de la subdivision, règlement (1879-1906). Acquisition d'une pompe à incendie (1874). Elections au conseil supérieur : listes électorales, procès-verbaux (1907, 1912).</unittitle>
+                     <unitdate normal="1831/1920">1831-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>GUERRE</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 14</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Transport de corps (1915). Sinistres (1892-1894, 1897, 1907, 1910).&lt;lb/&gt;Police générale. Souches de passeport (1831-1845). Etrangers, registre d'immatriculation (1911-1925), visas accordés (1923-1934).&lt;lb/&gt;Justice. Listes du jury (1849-1853). &lt;lb/&gt;Hygiène publique et salubrité. Arrêtés municipaux (1854, 1885-1905). Epizooties, typhus, certificats des maires délivrés aux vendeurs de bétail (1871-1872) ; charbon symptomatique, fièvre aphteuse, peste bovine (1871, 1892, 1899).</unittitle>
+                     <unitdate normal="1831/1934">1831-1934</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PASSEPORT</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETRANGER</subject>
+                     <subject>JURY D'ASSISES</subject>
+                     <subject>POLICE</subject>
+                     <subject>PROTECTION SANITAIRE DU CHEPTEL</subject>
+                     <subject>TRANSPORT DE CORPS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS-PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 15</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales, listes de scrutin.</unittitle>
+                     <unitdate normal="1841/1936">1841-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 16</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections municipales (1848-1922), vote pour le président de la République (1851), vote pour le rétablissement de l'Empire (1852), élections au conseil général et d'arrondissement (1852-1914), élections législatives (1857-1936), élections sénatoriales (1876, 1890-1904), élections à la chambre de commerce de Gray (1908-1920) : procès-verbaux.&lt;lb/&gt;Personnel communal : marchés de pâtres (1849, 1888-1894).</unittitle>
+                     <unitdate normal="1848/1936">1848-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES COMMUNALES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 17</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptes de gestion (1846-1848). Budgets (1816-1897).</unittitle>
+                     <unitdate normal="1816/1897">1816-1897</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 18</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Fontaines. Réparations et reconstruction du lavoir : devis, correspondance (1888-1889) ; réclamation de Célestin Grante pour usurpation de terrain par la commune lors de réparations à la fontaine (1890). Acquisition (1) d'une partie de la maison commune d'Aboncourt (1854). Construction d'une école mixte : devis (1879-1888). Erection d'un monument aux Morts (1919-1920, 1 plan).</unittitle>
+                     <unitdate normal="1854/1920">1854-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECOLE</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT</geogname>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>GRANTE (Célestin)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX-DROITS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 19</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Aménagement des bois : procès-verbaux et plan (1825). Exploitation de la coupe affouagère (1833-1860). Vente des produits de la coupe affouagère (1943). Rôles de répartition du taillis (1834-1874). Location de la chasse (1830-1863, 1881-1912).</unittitle>
+                     <unitdate normal="1825/1943">1825-1943</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'AMENAGEMENT FO</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                     <subject>BOIS</subject>
+                     <subject>CHASSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 20</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Ventes et échanges de terrains communaux (1851-1976, plans). Usurpation de terrains par la commune (1898). Amodiations de biens communaux (1837-1879). Amodiation du four communal (1837-1873).&lt;lb/&gt;Puits publics, projets de construction : devis, 2 plans (1907-1910).</unittitle>
+                     <unitdate normal="1837/1976">1837-1976</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>BIEN SPOLIE</subject>
+                     <subject>EAU POTABLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-MOYEN DE TRANSPORT-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 21</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Chemins vicinaux, tableau général, alignement, rectification, répartition des frais de construction et d'entretien (1819-1867, 1874, 1911, plans). Chemin de grande communication n° 25, de Port-sur-Saône à Jussey, ouverture, élargissement, acquisition de terrains, construction d'un aqueduc, de rigoles pavées (1850-1910, plans). Chemin de grande communication n° 3, de Scey-sur-Saône à Gevigney, abattage et remplacement des plantations (1880-1895). Chemin de défruitement, achat de terrains pour élargissement (1937). Ressources (1867-1871). Prestations (1863-1876).&lt;lb/&gt;Tramway, ligne de Jussey à Gray, subventions communales (1895-1898).&lt;lb/&gt;Curage des ruisseaux et fossés (1856-1903, 2 plans).</unittitle>
+                     <unitdate normal="1819/1937">1819-1937</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                     <subject>VOIE FERREE D'INTERET LOCAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 22</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Attribution des biens de l'ancienne fabrique (1909-1911). Amodiations de terres appartenant à la fabrique (1839-1888). Legs à la fabrique d'Aboncourt-Gésincourt (1889-1890).</unittitle>
+                     <unitdate normal="1839/1911">1839-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>266 Edepot 23</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Listes des enfants admis gratuitement à l'école primaire (1868, 1870).</unittitle>
+                     <unitdate normal="1868/1870">1868-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ABONCOURT-GESINCOURT</geogname>
+                     <geogname>GESINCOURT</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,2459 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_485Edepot_Archives_communales_déposées_de_Selles" url="https://francearchives.fr/findingaid/d3d605560797f308513c0710c6ddfea991392ed7">FRAD70_485Edepot_Archives_communales_déposées_de_Selles</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>485Edepot - Archives communales déposées de Selles</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>L. Georgel</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>485Edepot - Archives communales déposées de Selles</unittitle>
+         <unitid>485Edepot1-125</unitid>
+         <unitdate normal="1651/1950">1651-1950</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE SELLES</corpname>
+         </origination>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             17/02/2011
+         </p>
+         <p>Dernier ajout le             18/04/2011
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ACTES CONSTITUTIFS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 1</unitid>
+                     <unitid>AA1</unitid>
+                     <unittitle>Acte constitutif : vente des droits royaux sur les habitants de la communauté de Selles, par les commissaires généraux à Jean-François Quenisset, négociant à Selles. &lt;lb/&gt;	&lt;lb/&gt;1 pièce papier. 	</unittitle>
+                     <unitdate normal="1770">1770</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION COMMUNALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 2</unitid>
+                     <unitid>BB1</unitid>
+                     <unittitle>Administration communale : élections du personnel communal (1748-1760) ; procès-verbaux de prestation de serment des gardes forestiers (1745-1780). 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 59 pièces papier.	</unittitle>
+                     <unitdate normal="1745/1780">1745-1780</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                     <subject>GARDE FORESTIER</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 3</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Impositions : brouillons des impositions ordinaires pour la communauté de Selles. 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 12 cahiers. 	</unittitle>
+                     <unitdate normal="1761/1772">1761-1772</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 4</unitid>
+                     <unitid>CC2</unitid>
+                     <unittitle>Comptabilité municipale : comptes de gestions des échevins de Selles, avec quelques pièces justificatives par les deux derniers. &lt;lb/&gt;	&lt;lb/&gt;1 liasse, 86 pièces papier. 	</unittitle>
+                     <unitdate normal="1742/1790">1742-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECHEVIN</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 5</unitid>
+                     <unitid>CC3</unitid>
+                     <unittitle>Arpentement du territoire de Selles dressé par l’arpenteur Jean-Claude Leblond, d’Amance. &lt;lb/&gt;	&lt;lb/&gt;1 registre couvert de cuir. &lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1776">1776</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORETS, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 6</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Biens communaux : don d’une maison à la communauté de Selles pour l’établissement d’une école de garçons (1756-1774) ; baux de terres labourables et de prés communaux (1788-1919). 		&lt;lb/&gt;1 liasse, 34 pièces. 	</unittitle>
+                     <unitdate normal="1756/1919">1756-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>ECOLE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 7</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Bois communaux : droit de parcours du bétail dans les bois royaux de Selles.  	&lt;lb/&gt;&lt;lb/&gt;Lacune : il ne reste de cette liasse signalée dans les inventaires municipaux que trois pièces papier. 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 10 pièces papier. &lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1726/1744">1726-1744</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 8</unitid>
+                     <unitid>DD3</unitid>
+                     <unittitle>Bois communaux : exploitation de la coupe affouagère depuis 1779, à Selles. 	&lt;lb/&gt;	&lt;lb/&gt;1 liasse, 25 pièces papier. &lt;lb/&gt; 	</unittitle>
+                     <unitdate normal="1779/1849">1779-1849</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 9</unitid>
+                     <unitid>DD4</unitid>
+                     <unittitle>Bois communaux, visite : procès-verbaux (1756-an VIII) ; aménagement : plan (1760) (cette pièce signalée dans les inventaires municipaux n’a pas été vue en 1970) ; partage : procès-verbal de délibération de la communauté d’habitants de Selles (1777) ; récolement des assiettes de 1787 et 1788 : correspondance (1789). &lt;lb/&gt;&lt;lb/&gt;1 liasse, 1 plan collé sur toile (manquant), 22 pièces papier.</unittitle>
+                     <unitdate normal="1756/1800">1756-1800</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 10</unitid>
+                     <unitid>DD5</unitid>
+                     <unittitle>Travaux publics, navigation : procès-verbaux de visite du pont de Selles et du chemin du port (1751-1767) ; compte présenté par le sieur Patzius, syndic du commerce sur les rivières de Coney, Lanterne et Saône (imprimé 1784-1790) ; sentences rendues par la maitrise des eaux et forêts de Vesoul permettant à la communauté de Selles de vendre son quart de réserve pour acquitter les frais de travaux publics (1785). 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 1 cahier parchemin, 6 pièces papier.&lt;lb/&gt; 	</unittitle>
+                     <unitdate normal="1751/1790">1751-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 11</unitid>
+                     <unitid>DD6</unitid>
+                     <unittitle>Navigation sur la Saône, Le Coney et le canal de l’Est, à partir de 1777. 	&lt;lb/&gt;&lt;lb/&gt;Pièce non vue en 1970. &lt;lb/&gt;	&lt;lb/&gt;1 liasse. 	</unittitle>
+                     <unitdate normal="1777">1777</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                     <subject>TRANSPORT FLUVIAL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>JUSTICE, PROCEDURES, POLICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 12</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Justice criminelle de Selles : enquêtes, expertises, assignations, jugements. &lt;lb/&gt;	&lt;lb/&gt;1 liasse, 116 pièces papier. &lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1728/1756">1728-1756</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 13</unitid>
+                     <unitid>FF2</unitid>
+                     <unittitle>Justice criminelle de Selles : enquêtes, expertises, assignations, jugements. &lt;lb/&gt;	&lt;lb/&gt;1 liasse, 124 pièces papier. 	</unittitle>
+                     <unitdate normal="1757/1790">1757-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 14</unitid>
+                     <unitid>FF3</unitid>
+                     <unittitle>Justice civile de Selles : procès-verbaux d’apposition de scellés.&lt;lb/&gt;	&lt;lb/&gt;1 liasse, 25 pièces papier. 	</unittitle>
+                     <unitdate normal="1735/1779">1735-1779</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE CIVILE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 15</unitid>
+                     <unitid>FF4</unitid>
+                     <unittitle>Justice civile de Selles : procès-verbaux de partages et de ventes, et d’amodiations de biens particuliers. 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 42 pièces papier. &lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1752/1798">1752-1798</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE CIVILE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 16</unitid>
+                     <unitid>FF5</unitid>
+                     <unittitle>Justice civile de Selles : comptes de tutelle (1729-1779) ; inventaire des pièces et registres de la justice de Selles (1743). 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 80 pièces papier. 	</unittitle>
+                     <unitdate normal="1729/1779">1729-1779</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE CIVILE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 17</unitid>
+                     <unitid>FF6</unitid>
+                     <unittitle>Police locale : police des regains, délibérations concernant la vaine-pâture (1749-1780) ; procès-verbaux de visite des fours et des cheminées (1751-1769) (trois procès-verbaux de 1769 à 1806, signalés dans les inventaires municipaux, n’ont pas été vus en 1970) ; transactions entre les habitants de Selles et Ch. Mercier, pour frais d’arpentage (1785-1792). &lt;lb/&gt;&lt;lb/&gt;1 liasse, 51 pièces papier. </unittitle>
+                     <unitdate normal="1749/1792">1749-1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 18</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Selles, de La Verrerie (hameau de cette commune) et du « bois de Passavant » : baptêmes, mariages, sépultures (1719-septembre 1733). 	&lt;lb/&gt;&lt;lb/&gt;La collection des registres de Selles déposés par le greffe du tribunal de Lure commence en 1700 et comporte des lacunes. 	&lt;lb/&gt;&lt;lb/&gt;1 registre, couvert d’un parchemin, portant des notations musicales d’époque médiévale. 	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1719/1733">1719-1733</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 19</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Selles et de La Verrerie : baptêmes, mariages, sépultures (septembre 1733-1743 ; 1744, janvier-mai, baptêmes d’une cloche le 19 mai, mai-décembre ; 1745-1746, janvier-juillet, baptême d’une cloche le 12 juillet, juillet-décembre ; 1747-1763 ; 1764, janvier-juin, sur un feuillet indépendant, une note de 1845 indique l’absence d’une page du registre, novembre-décembre ; 1765-mars 1782 ; extrait du registre de « Conflans-en-Bassigny » (Conflans-sur-Lanterne) : mariage de Nicolas Vaulot, avocat, et d’Aimée Prinsae, de Selles, le 6 octobre 1766 ; sur un feuillet indépendant : ordonnance de la justice pour que le cadavre de Dominique Lavie, originaire de Martinvelle dans les Vosges, mort dans la forêt, soit inhumé à Selles le 1er février 1785).  	&lt;lb/&gt;Dans ce registre, on remarque le mariage de Jean-François Jaquinot « gruyer » (officier de justice dont la circonscription est la gruerie) à Passavant, et de Jeanne-Marguerite Massey, fille de Louis-François Massey, écuyer, seigneur de La Rochère (commune de Passavant), le 7 février 1736. 	&lt;lb/&gt;&lt;lb/&gt;Lacune pour les mois de juin à novembre 1764 ; cette lacune est comblée par les registres déposés par le greffe du tribunal de Lure aux archives départementales. &lt;lb/&gt;	&lt;lb/&gt;1 registre couvert de parchemin et deux feuillets indépendants. 	</unittitle>
+                     <unitdate normal="1733/1845">1733-1845</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 20</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial de Selles et de La Verrerie : baptêmes, mariages, sépultures (mars 1782-1792) ; table décennale des actes de naissance, mariages et décès (1786-an X). 	&lt;lb/&gt;&lt;lb/&gt;1 registre couvert de cuir. 	</unittitle>
+                     <unitdate normal="1782/1802">1782-1802</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 21</unitid>
+                     <unitid>GG8</unitid>
+                     <unittitle>Registre paroissial de Selles : baptêmes, mariages, sépultures. 	&lt;lb/&gt;&lt;lb/&gt;1 cahier en mauvais état. 	&lt;lb/&gt;&lt;lb/&gt;Voir cote : 34 J 89</unittitle>
+                     <unitdate normal="1803/1809">1803-1809</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 28</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Selles : baptêmes, mariages, sépultures. &lt;lb/&gt;	&lt;lb/&gt;1 registre.	</unittitle>
+                     <unitdate normal="1651/1689">1651-1689</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 29</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Selles : baptêmes, mariages, sépultures (1669-1674, 1675-1700). 	&lt;lb/&gt;&lt;lb/&gt;1 registre, 1 feuillet.	</unittitle>
+                     <unitdate normal="1669/1700">1669-1700</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 30</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Selles : baptêmes, mariages, sépultures (1700-1707, 1707-1714, 1714-1717, 1717-1718). 	&lt;lb/&gt;&lt;lb/&gt;4 cahiers.	</unittitle>
+                     <unitdate normal="1700/1718">1700-1718</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 31</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Selles : baptêmes, mariages, sépultures de l’année 1761.	&lt;lb/&gt;&lt;lb/&gt;1 cahier (copie). 	</unittitle>
+                     <unitdate normal="1759">1759</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AGRICULTURE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 32</unitid>
+                     <unitid>HH1</unitid>
+                     <unittitle>Agriculture.-Bœuf banal, dangerosité : correspondance.  &lt;lb/&gt;&lt;lb/&gt;1 pièce papier. </unittitle>
+                     <unitdate normal="1789">1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ACTES DE L'ADMINISTRATION DEPARTEMENTALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 33</unitid>
+                     <unitid>B1</unitid>
+                     <unittitle>Actes de l’administration départementale : arrêtés du directoire du district de Luxeuil (an II-an III), arrêtés du directoire et du préfet de la Haute-Saône (1791-an XII).  &lt;lb/&gt;&lt;lb/&gt;70 pièces papier. </unittitle>
+                     <unitdate normal="1791/1804">1791-1804</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION DEPARTEMENTALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 34</unitid>
+                     <unitid>B2</unitid>
+                     <unittitle>Actes de l’administration départementale : extraits des registres du conseil d’administration et du directoire de la Haute-Saône. &lt;lb/&gt;&lt;lb/&gt;55 pièces papier. </unittitle>
+                     <unitdate normal="1790/1798">1790-1798</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION DEPARTEMENTALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 35</unitid>
+                     <unitid>B3</unitid>
+                     <unittitle>Actes de l’administration départementale : extraits des registres du conseil d’administration du directoire et de l’administration centrale du département de la Haute-Saône (1790-an XII), communiqué du préfet (1860), arrêtés du préfet et du sous-préfet (an VI-1829).&lt;lb/&gt;&lt;lb/&gt;97 pièces. </unittitle>
+                     <unitdate normal="1790/1860">1790-1860</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION DEPARTEMENTALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 22</unitid>
+                     <unitid>D14</unitid>
+                     <unittitle>Administration communale : état des marchés passés par la commune de Selles pour des travaux publics, notamment pour l’église (1790) ; requête du procureur de la commune de Selles pour que le garde forestier, Nicolas Didier, soit démis de ses fonctions (1792) ; procès-verbal de reconnaissance d’une anticipation, faite par les héritiers Vaulot sur les biens communaux (an XI) ; exploit d’huissiers pour l’acquittement par la commune d’hypothèques sur une maison située à Selles (1859). 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 5 pièces papier. &lt;lb/&gt;	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1790/1859">1790-1859</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 26</unitid>
+                     <unitid>D15</unitid>
+                     <unittitle>Administration de la commune.-Archives communales de Selles : inventaire (1808-1830). Bibliothèque administrative : inventaire des livres et ouvrages (1859). 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 4 pièces papier. 	</unittitle>
+                     <unitdate normal="1808/1859">1808-1859</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>INVENTAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ARCHIVES</subject>
+                     <subject>BIBLIOTHEQUE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 36</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal, délibérations : registre (25 messidor an VIII-15 juin 1807). &lt;lb/&gt;&lt;lb/&gt;1 registre. </unittitle>
+                     <unitdate normal="1800/1807">1800-1807</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 37</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal, délibérations : registre (2 janvier 1790-30 pluviôse an XII, 27 novembre 1808-9 avril 1809). &lt;lb/&gt;&lt;lb/&gt;Contient également : état des officiers et soldats actuellement dans la commune de Selles à qui le maire a donné des lettres d’appel pour se rendre à Vesoul le 25 avril courant [1815], liste des individus de la commune de Selles de l’âge de 20 à 40 ans portés sur le contrôle de la garde nationale (s.d.), liste nominative des grenadiers et chasseurs de la garde nationale désignés par le comité d’organisation en exécution du décret du 10 avril 1815 [1815], registre des votes des citoyens sur l’acte additionnel aux constitutions de l’Empire du 22 avril 1815 présenté à l’acceptation du peuple français [1815], état des réquisitions (1815), état des militaires rentrés dans la commune depuis l’entrée en France des troupes alliées (1815), état des militaires qui ont des titres de créances sur le gouvernement (1815), récépissés d’approvisionnement (1816-1817).&lt;lb/&gt;  &lt;lb/&gt;1 registre cartonné recouvert de parchemin. </unittitle>
+                     <unitdate normal="1790/1817">1790-1817</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 38</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal, délibérations : registre (25 fructidor an VIII-18 septembre 1810). &lt;lb/&gt;&lt;lb/&gt;Contient également : table des décrets déposés au secrétariat de la municipalité de Selles de 1789 à 1792 (s.d.), enregistrement des bulletins des lois envoyés à cette commune réception d’iceux même publication à commencée au 11 vendémiaire an III (s.d.).  &lt;lb/&gt; &lt;lb/&gt;1 registre cartonné recouvert de parchemin. </unittitle>
+                     <unitdate normal="1790/1810">1790-1810</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 39</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Conseil municipal, délibérations : registre (1er janvier 1808-13 mai 1815). &lt;lb/&gt;&lt;lb/&gt;1 registre. </unittitle>
+                     <unitdate normal="1808/1815">1808-1815</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 40</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Conseil municipal, délibérations : registre (4 février 1816-3 juin 1854). &lt;lb/&gt;&lt;lb/&gt;Contient également : registre de recette et de dépense de la municipalité de Selles (1790-an XII). &lt;lb/&gt;&lt;lb/&gt;1 registre cartonné. </unittitle>
+                     <unitdate normal="1790/1854">1790-1854</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 41</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Conseil municipal, délibérations : registre (6 août 1854-15 septembre 1874). &lt;lb/&gt;&lt;lb/&gt;1 registre cartonné. </unittitle>
+                     <unitdate normal="1854/1874">1854-1874</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 42</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Conseil municipal, délibérations : registre (6 décembre 1874-18 juin 1882). &lt;lb/&gt;&lt;lb/&gt;1 registre cartonné. </unittitle>
+                     <unitdate normal="1874/1882">1874-1882</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 43</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Conseil municipal, délibérations : registre (25 juin 1882-13 mai 1891). &lt;lb/&gt;&lt;lb/&gt;1 registre cartonné. </unittitle>
+                     <unitdate normal="1882/1891">1882-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 44</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Conseil municipal, délibérations : extraits des registres des délibérations.&lt;lb/&gt;&lt;lb/&gt;530 pièces papier.</unittitle>
+                     <unitdate normal="1801/1922">1801-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 45</unitid>
+                     <unitid>D10</unitid>
+                     <unittitle>Actes de l’administration municipale : répertoires des actes soumis à l’enregistrement. &lt;lb/&gt;&lt;lb/&gt;9 pièces papier. </unittitle>
+                     <unitdate normal="1806/1890">1806-1890</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 46</unitid>
+                     <unitid>D11</unitid>
+                     <unittitle>Actes de l’administration municipale : registre de correspondance. &lt;lb/&gt;&lt;lb/&gt;1 registre. </unittitle>
+                     <unitdate normal="1855/1864">1855-1864</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 47</unitid>
+                     <unitid>D12</unitid>
+                     <unittitle>Administration de la commune.-Décrets de l’Assemblée nationale, transcription : registre. &lt;lb/&gt;&lt;lb/&gt;1 registre cartonné recouvert de parchemin. </unittitle>
+                     <unitdate normal="1789/1790">1789-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 48</unitid>
+                     <unitid>D13</unitid>
+                     <unittitle>Administration de la commune : correspondance, communiqués du préfet et du sous-préfet (1848-1903), inventaire des titres et pièces du greffe de la mairie de Selles (1810).  &lt;lb/&gt;&lt;lb/&gt;59 pièces papier. </unittitle>
+                     <unitdate normal="1848/1903">1848-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 25</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Etat civil : registre des publications de mariages à Selles (1793-an XI) ; lettres du procureur de la république concernant la tenue des registres (1819-1922). 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 53 pièces et cahiers papier. 	</unittitle>
+                     <unitdate normal="1793/1922">1793-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 49</unitid>
+                     <unitid>E2</unitid>
+                     <unittitle>Etat civil : extraits d’état civil envoyés par d’autres communes en vue de transcription ou de mention, expéditions de jugement portant rectification d’actes envoyés en vue de transcription ou de mention. &lt;lb/&gt;&lt;lb/&gt;1 liasse, 90 pièces papier.</unittitle>
+                     <unitdate normal="1806/1838">1806-1838</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 27</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : état des contrats pour la fondation en faveur des pauvres de Selles (1810), recensement général (1804, 1806, 1808-1810, 1812, 1831-1833), mouvement de la population (1831-1832, 1853-1882, 1884-1907).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 74 pièces papier. &lt;lb/&gt;&lt;lb/&gt;	&lt;lb/&gt;	</unittitle>
+                     <unitdate normal="1804/1907">1804-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POPULATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 50</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Population.- Recensement quinquennal : tableaux (1836-1896, 1906), instructions (1861, 1866). &lt;lb/&gt; &lt;lb/&gt;1 liasse, 64 pièces papier. </unittitle>
+                     <unitdate normal="1836/1906">1836-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POPULATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 51</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Commerce et industrie.-Chambre de commerce, élections : listes des électeurs (1908-1910, 1912, 1914, 1919-1921). &lt;lb/&gt;&lt;lb/&gt;1 liasse, 20 pièces papier. </unittitle>
+                     <unitdate normal="1908/1921">1908-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHAMBRE CONSULAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 52</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>Agriculture.-Cerisiers, plantation au Rang de la forêt : procès-verbal d’adjudication (1865). Statistique agricole : recensement des animaux de ferme (1801-1903). &lt;lb/&gt;&lt;lb/&gt;1 liasse, 36 pièces papier. </unittitle>
+                     <unitdate normal="1801/1903">1801-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 53</unitid>
+                     <unitid>F5</unitid>
+                     <unittitle>Agriculture.- Statistique agricole : tableau représentant la statistique du territoire de la commune de Selles (an XI-an XII), instructions (1856-1869), statistique agricole décennale (1882, 1892, 1929), questionnaires de recensement de l’agriculture et du bétail (1929-1930), travail préparatoire à l’élaboration de la statistique décennale (s.d.), recensement des animaux de ferme et des arbres fruitiers (s.d.), registre des cultures (s.d.). Garde du bœuf communal : procès-verbaux d’adjudication, baux, correspondance, extrait du registre des délibérations (1789-1902).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 60 pièces papier, 1 registre, 1 carnet.</unittitle>
+                     <unitdate normal="1789/1930">1789-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 54</unitid>
+                     <unitid>F6</unitid>
+                     <unittitle>Subsistances.-Foires, création dans la commune de Selles : arrêté préfectoral. &lt;lb/&gt;&lt;lb/&gt;1 pièce papier. </unittitle>
+                     <unitdate normal="1906">1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>MANIFESTATION COMMERCIALE</subject>
+                     <subject>SUBSISTANCES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 55</unitid>
+                     <unitid>F7</unitid>
+                     <unittitle>Statistiques : état des rivières, ruisseaux, hameaux et de leur population située sur le territoire de Selles (1810), tableau comparatif des évolutions des maisons et usines dans les communes composant le canton de Vauvillers [1831], sinistres survenus dans la commune de Selles : état (1891, 1894, 1907-1910). &lt;lb/&gt;&lt;lb/&gt;8 pièces papier. </unittitle>
+                     <unitdate normal="1810/1910">1810-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 56</unitid>
+                     <unitid>F8</unitid>
+                     <unittitle>Mesures d’exception.-Carte d’alimentation, établissement : fiche de déclaration vierge. &lt;lb/&gt;&lt;lb/&gt;1 pièce papier. </unittitle>
+                     <unitdate normal="1918">1918</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RATIONNEMENT</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 57</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs : livre des mutations (1er volume).&lt;lb/&gt;&lt;lb/&gt;1 registre cartonné. </unittitle>
+                     <unitdate normal="1818/1826">1818-1826</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 58</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Impôts directs : livre des mutations (2ème volume).&lt;lb/&gt;&lt;lb/&gt;1 registre cartonné. </unittitle>
+                     <unitdate normal="1826/1829">1826-1829</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 59</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Impôts directs.- Etat de section : registre (1ère section). &lt;lb/&gt;&lt;lb/&gt;1 registre. </unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 60</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Impôts directs.- Etat de section : registre (2ème section). &lt;lb/&gt;&lt;lb/&gt;1 registre. </unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 61</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Impôts directs.- Etat de section : registre (3ème section). &lt;lb/&gt;&lt;lb/&gt;1 registre. </unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 62</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Impôts directs.- Etat de section : registre (4ème section). &lt;lb/&gt;&lt;lb/&gt;1 registre. </unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 63</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Impôts directs.- Etat de section : registre (5ème section). &lt;lb/&gt;&lt;lb/&gt;1 registre. </unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 64</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Impôts directs.- Etat de section : registre (6ème section). &lt;lb/&gt;&lt;lb/&gt;1 registre. </unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 65</unitid>
+                     <unitid>G9</unitid>
+                     <unittitle>Impôts directs.- Etat de section : registre (7ème section). &lt;lb/&gt;&lt;lb/&gt;1 registre. </unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 66</unitid>
+                     <unitid>G10</unitid>
+                     <unittitle>Impôts directs.- Etat de section : registre (8ème section). &lt;lb/&gt;&lt;lb/&gt;1 registre. </unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 67</unitid>
+                     <unitid>G11</unitid>
+                     <unittitle>Impôts directs.- Répartition des contributions : mandements (an II-1823). Imposition foncière de l’an VIII et de l’an XII : matrices de rôle (an VIII-an XII). Contributions : matrices sommaires (an XIII-1818). Contribuables payant 3 francs et au-dessus d’impôts : état nominatif [1816]. Déclarations tendant à des dégrèvements d’impôts : registre (1902-1921). Recensement des portes et fenêtres : registre (1831). Impôt général sur le revenu : liste des contribuables assujettis et ayant fait leur déclaration (1926-1930). Evaluation des propriétés non bâties : communiqué (1912). Etat de section et plan des parcelles ne portant pas de numéro au plan et devenues imposables : croquis, tableaux indicatifs, plan (1862-1880, s.d.). &lt;lb/&gt;&lt;lb/&gt;1 liasse, 98 pièces papier, 3 registres, 1 plan. </unittitle>
+                     <unitdate normal="1794/1930">1794-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 68</unitid>
+                     <unitid>G12</unitid>
+                     <unittitle>Impôts directs.-Contributions versées par la commune : tableaux (1870-1871, 1881-1882, 1894-1930). Contributions : correspondance, communiqué, arrêté préfectoral (1867-1903, s.d.). Contribution foncière, nouvelle répartition : rapport (1826). Commissaires répartiteurs et classificateurs, nomination : extraits du registre des délibérations du conseil municipal, listes (1807-1929). Contributions sur les voitures, chevaux, mules et mulets et taxes sur les vélocipèdes et sur les billards : rôle primitif (1899). Bœuf banal de la commune de Selles, entretien et logement : rôle de répartition entre les habitants (1808).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 156 pièces papier, 1 livret. </unittitle>
+                     <unitdate normal="1807/1930">1807-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 69</unitid>
+                     <unitid>G13</unitid>
+                     <unittitle>Impôts directs.-Taxes des prestations pour chemins vicinaux : rôles. &lt;lb/&gt;&lt;lb/&gt;1 liasse, 26 pièces papier. </unittitle>
+                     <unitdate normal="1806/1920">1806-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 70</unitid>
+                     <unitid>G14</unitid>
+                     <unittitle>Rapports de la commune avec les diverses administrations au point de vue financier.- Administration de l’enregistrement et des domaines : inventaire des titres, plans, baux, papiers et renseignements concernant les biens de la commune de Selles cédés à la caisse d’amortissement (1813). Postes et télégraphes, organisation et fonctionnement des bureaux : correspondance (1880, 1888-1889, 1898-1909). Bureau téléphonique, gérance : correspondance (1903-1904, 1910). Manœuvres de ballons dirigeables allemands, ordre du sous-préfet de Lure de prévenir les douanes en cas de traversée de la frontière française : communiqué (1910).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 24 pièces papier. </unittitle>
+                     <unitdate normal="1813/1910">1813-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>INVENTAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENREGISTREMENT</subject>
+                     <subject>POSTE</subject>
+                     <subject>TELEGRAPHE</subject>
+                     <subject>TELEPHONE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 23</unitid>
+                     <unitid>H8</unitid>
+                     <unittitle>Affaires militaires : lettres et circulaires imprimées, concernant les militaires de Selles (1790-1818) ; pièce imprimée pour la surveillance du salpêtre à Selles (1806-1815). 	&lt;lb/&gt;&lt;lb/&gt;1 liasse, 36 pièces papier, dont 7 imprimés. 	</unittitle>
+                     <unitdate normal="1790/1818">1790-1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ARMEE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 24</unitid>
+                     <unitid>H9</unitid>
+                     <unittitle>Affaires militaires : registre des actes et des ressources de la milice nationale de Selles (1790-1807) ; à la fin du registre, à l’envers : déclarations des propriétaires d’armes (1792) ; état des réquisitions (1792-an III) ; liste des conscrits de Selles et ressources (an IV-an VIII) ; enregistrement des passeports et des congés absolus militaires (an VIII-1826). &lt;lb/&gt; 	&lt;lb/&gt;1 registre couvert d’un parchemin. 	</unittitle>
+                     <unitdate normal="1790/1836">1790-1836</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ARMEE</subject>
+                     <subject>REQUISITIONS MILITAIRES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 71</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recrutement : tableaux de recensement des conscrits (an IX-an XI, an XIII-an XIV, 1806-1809, 1811-1814, 1816-1824, 1827-1840, 1842-1849). &lt;lb/&gt;&lt;lb/&gt;1 liasse, 60 pièces papier. </unittitle>
+                     <unitdate normal="1801/1849">1801-1849</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 72</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Recrutement : tableau de recensement des conscrits.  &lt;lb/&gt;&lt;lb/&gt;1 liasse, 66 pièces papier. </unittitle>
+                     <unitdate normal="1854/1919">1854-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 73</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Recrutement : correspondance, avis d’inscription sur les tableaux de recensement, récépissés d’avis d’inscription, extrait des registres de l’état civil, notices individuelles, communiqués. &lt;lb/&gt;&lt;lb/&gt;1 liasse, 230 pièces papier. </unittitle>
+                     <unitdate normal="1855/1924">1855-1924</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 74</unitid>
+                     <unitid>H4</unitid>
+                     <unittitle>Recrutement.-Citoyens mobilisables : bulletins individuels. &lt;lb/&gt;&lt;lb/&gt;1 liasse, 113 pièces papier. </unittitle>
+                     <unitdate normal="1840">1840</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 75</unitid>
+                     <unitid>H5</unitid>
+                     <unittitle>Recrutement.-Mutations survenues dans le classement des citoyens mobilisables et rectifications à opérer sur les bulletins transmis à la préfecture : états (1842, 1849-1850). Engagements volontaires : instruction, certificats (1814, 1900). Mise en activité des classes : ordre de route (1899, 1908). Mise en non activité : correspondance (1855). Réserves et armée territoriale, engagements : tableau de recensement, instruction, relevés nominatifs, communiqué, liste nominative, avis d’inscription, attestations, correspondance, bulletins (1832-1876) ; déclarations de non disponibilité : communiqué (1877) ; attribution de secours aux familles nécessiteuses : communiqué (1907). Dispensés et soutien de famille : certificats, extraits du registre des actes de l’état civil, feuille de renseignement, correspondance, état nominatif (1809-1908). Permissions et congés : correspondance, certificat, extrait des registres de l’état civil (1818-1894). Officiers, sous-officiers et soldats de l’armée de terre admis à la retraite, recensement général : communiqué (1866). Marine nationale, engagement volontaire : signalement, extrait de matricule (1923).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 136 pièces papier, 4 livrets. </unittitle>
+                     <unitdate normal="1814/1923">1814-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 76</unitid>
+                     <unitid>H6</unitid>
+                     <unittitle>Administration militaire.-Répartition et remplacement des troupes : répertoires (1897, 1901). Demande tendant à obtenir l’adresse d’un militaire : correspondance (1867). Officier payeur au septième régiment de cuirassiers de l’armée des alpes, demande de transmission d’un extrait d’acte de naissance au maire de Selles : correspondance (1849). Approvisionnement de siège, demande de paiement des sommes dues par la commune de Selles : correspondance (1819). Ravitaillement : correspondance, communiqué (1894-1895). Armes et matériel de guerre, centralisation dans les dépôts des chefs lieux d’arrondissement : communiqué (1871) ; réintégration : communiqué, état (1871-1872).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 12 pièces papier, 2 livrets. </unittitle>
+                     <unitdate normal="1819/1901">1819-1901</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ORGANISATION DE L'ARMEE</subject>
+                     <subject>RAVITAILLEMENT MILITAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 77</unitid>
+                     <unitid>H7</unitid>
+                     <unittitle>Administration militaire.-Réquisitions : rôles de répartition, correspondance, communiqués, états, arrêtés préfectoraux (1814-1815), registres de recensement des voitures attelées susceptibles d’être requises, tableau du classement de la réquisition des voitures attelées (1877, 1880, 1883, 1886-1887, 1889, 1892, 1895-1896, 1901, 1904-1905, 1907-1908).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 135 pièces papier. </unittitle>
+                     <unitdate normal="1814/1908">1814-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ORGANISATION DE L'ARMEE</subject>
+                     <subject>REQUISITIONS MILITAIRES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 78</unitid>
+                     <unitid>H10</unitid>
+                     <unittitle>Garde nationale.- Organisation : affiche, instruction (1832). Recensement : listes, tables alphabétique du registre matricule, tableaux (1817, 1830-1831, 1841-1845, 1848, 1870, s.d.). Contrôle général du service ordinaire : registres, listes (1809, 1832, s.d.). Contrôle général de la réserve : registre (1832). Visite des armes : feuilles d’appel (1846, 1851).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 23 pièces papier. </unittitle>
+                     <unitdate normal="1809/1870">1809-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GARDE NATIONALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 79</unitid>
+                     <unitid>H11</unitid>
+                     <unittitle>Garde nationale, élections : instructions (1831), procès-verbaux (1834, 1840, 1843, 1846, 1848, 1870).  &lt;lb/&gt;&lt;lb/&gt;1 liasse, 48 pièces papier, 1 cahier. </unittitle>
+                     <unitdate normal="1831/1870">1831-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                     <subject>GARDE NATIONALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 80</unitid>
+                     <unitid>H12</unitid>
+                     <unittitle>Sapeur pompiers.-Décès du deuxième classe Breton : correspondance, inventaire des effets personnels (1860). Membre du conseil supérieur, élection : procès-verbal, feuille de dépouillement, liste électorale, liste de scrutin (1912). Pompe à incendie, acquisition : souscription, engagement, devis, extrait du registre des délibérations du conseil municipal, arrêté préfectoral (1863).  &lt;lb/&gt;&lt;lb/&gt;1 liasse, 11 pièces papier. </unittitle>
+                     <unitdate normal="1860">1860</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 81</unitid>
+                     <unitid>H13</unitid>
+                     <unittitle>Faits de guerre.-Conflit de 1870, dommages de guerre en général et indemnités aux victimes civiles de la guerre : bordereaux, rôle de répartition, correspondance, récapitulatif, états, communiqués (1871-1872, 1874-1877) ; réquisitions et contributions : reçus, communiqués, correspondance, ordre de réquisition, avis, arrêtés préfectoraux (1870-1871). Blessés d’Orient, souscription : liste (1877).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 98 pièces papier. </unittitle>
+                     <unitdate normal="1870/1877">1870-1877</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DOMMAGES DE GUERRE</subject>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 82</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale.- Débits de boisson, cabarets et cafés, réglementation : correspondance, règlement de police, arrêtés municipaux, extrait du registre des délibérations du conseil municipal, communiqué (1826-1913) ; déclarations d’ouverture : engagement (1885-1930). Nomades, application de la loi du 16 juillet 1912 : communiqué (1913). Interdiction de la mendicité, rappel des dispositions de l’arrêté préfectoral du 20 février 1861 : communiqué (1861). Chiens errants et police de la rage : extrait du registre des actes de la mairie, arrêté municipal (1894, 1905). Secours pour pertes par sinistres, incendies et inondations : tableaux de renseignements (1902, 1907).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 24 pièces papier. </unittitle>
+                     <unitdate normal="1826/1930">1826-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DEBIT DE BOISSON</subject>
+                     <subject>MENDICITE</subject>
+                     <subject>NOMADE</subject>
+                     <subject>POLICE</subject>
+                     <subject>SINISTRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 83</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Police urbaine.-Déversement du trop plein d’une fontaine abreuvoir sur la voie publique, interdiction : arrêté municipal (1893). Bruits nocturnes et parcours tumultueux des rues communales, interdiction : arrêté municipal (1857). Etablissement de glissoires dans les rues de Selles, interdiction : arrêté municipal (1895).&lt;lb/&gt;&lt;lb/&gt;4 pièces papier. </unittitle>
+                     <unitdate normal="1857/1895">1857-1895</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POLICE URBAINE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 84</unitid>
+                     <unitid>I3</unitid>
+                     <unittitle>Police rurale.-Police de la chasse, destruction des animaux nuisibles : arrêtés préfectoraux, correspondance, état (1862-1916). Visite des fours et des cheminées : procès-verbaux (1809-1810). Ramonage des cheminées : marchés (1870-1889). Rejet d’eau sur un terrain privé, demande d’indemnisation : pétition (1822). Construction et réparation de bâtiments le long des chemins vicinaux, réglementation : arrêté municipal (1838).  &lt;lb/&gt;&lt;lb/&gt;1 liasse, 28 pièces papier. </unittitle>
+                     <unitdate normal="1809/1916">1809-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POLICE DE LA CHASSE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 85</unitid>
+                     <unitid>I4</unitid>
+                     <unittitle>Police générale.-Hôteliers et aubergistes, obligation d’inscription des noms, qualités et domicile des voyageurs : communiqué (1907). Concessions de décorations non autorisées par la grande chancellerie de la légion d’honneur, signalement : communiqué (1910). Demande de renseignements : correspondance (1880). Assassinat de Louis XVI et attentat du 20 mars 1813, ouverture de deux registres de déposition dans la commune de Selles : correspondance (1816).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 4 pièces papier. </unittitle>
+                     <unitdate normal="1907/1910">1907-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 86</unitid>
+                     <unitid>I5</unitid>
+                     <unittitle>Justice.-Instance de la commune contre le sieur Culot : pièces de procès (1817). Ouverture illégale d’une école, plainte de l’institutrice Françoise Fremy contre Thérèse Pidancet : correspondance (1819-1828). Instance de la commune de Selles contre le sieur Blanchard : extrait du registre des arrêtés du conseil de préfecture, correspondance (1863). Affichage des journaux, interdiction : correspondance, communiqué (1875). Lavoir de la grande fontaine, instance de la commune de Selles contre l’Etat : correspondance, rapports de tierce expertise, avis d’un arrêté définitif, notes, procès-verbaux d’expertise, rapports de l’ingénieur ordinaire, plans (1879-1886). Instance de la commune de Selles contre le sieur Estienne Nicolas : pièces de procès (1890-1893). Exercice de la police judicaire par les maires : circulaire, communiqué (1848, 1857). Affaires en cours : correspondance (1873-1906).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 53 pièces papier, 3 plans. </unittitle>
+                     <unitdate normal="1817/1906">1817-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 87</unitid>
+                     <unitid>I6</unitid>
+                     <unittitle>Hygiène publique et salubrité.-Etablissement insalubre Prudhon, demande d’autorisation d’établir un lavoir à Colle : correspondance (1876). Alimentation en eau de la commune de Selles, analyse chimique et bactériologique : correspondance, questionnaire (1896-1897). Individus mordus par des animaux enragés ou suspects, attribution de soin à l’institut Pasteur : statistique générale (1887). Maladies épidémiques, prise de mesures hygiéniques : télégrammes, communiqués, correspondance, instructions, arrêtés préfectoraux (1884-1911). Choléra épidémique : statistiques, état nominatif des victimes (1854). Inspection sanitaire des foires : arrêté municipal (1907). Abatage d’un bovin, examen sanitaire : certificat (1871). Inspection des viandes et surveillance des abattoirs et des tueries : arrêtés municipaux, extrait du registre des délibérations du conseil municipal, arrêtés d’autorisation, plans, communiqués (1883-1928). Etablissement d’un atelier d’équarrissage, demande d’autorisation : correspondance (1882). Peste bovine, établissement d’un cordon de sécurité : consignes, listes des gardes nationaux en faction, correspondance (1870). Epizootie du typhus : dénombrement des animaux des espèces bovines, ovine et caprine (1871).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 60 pièces papier, 1 feuillet, 6 plans.</unittitle>
+                     <unitdate normal="1854/1928">1854-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EPIDEMIE</subject>
+                     <subject>HYGIENE</subject>
+                     <subject>INDUSTRIE DU CUIR</subject>
+                     <subject>MALADIE DES ANIMAUX</subject>
+                     <subject>PROTECTION SANITAIRE DU CHEPTEL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 88</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections.-Listes électorales, inscriptions et révisions : télégrammes, communiqués (1808, 1888, 1818-1819), listes électorales (1810, 1830-1842, 1848-1850).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 56 pièces papier. </unittitle>
+                     <unitdate normal="1808/1919">1808-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 89</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections : listes électorales.&lt;lb/&gt;&lt;lb/&gt;1 liasse, 100 pièces.</unittitle>
+                     <unitdate normal="1851/1889">1851-1889</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 90</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Elections : listes électorales (1890-1914, 1919).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 44 pièces.</unittitle>
+                     <unitdate normal="1890/1919">1890-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 91</unitid>
+                     <unitid>K4</unitid>
+                     <unittitle>Elections.-Vote sur le plébiscite : procès-verbal, feuille de dépouillement, liste de scrutin (1870). Election du Président de la République : procès-verbaux, liste des électeurs, communiqués (1848-1851). Vote général pour le rétablissement de l’Empire : procès-verbal (1852). Elections pour l’Assemblée constituante à Bordeaux : communiqués (1871). Elections législatives : procès-verbaux, feuilles de dépouillement, communiqués (1848-1928).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 99 pièces. </unittitle>
+                     <unitdate normal="1848/1871">1848-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 92</unitid>
+                     <unitid>K5</unitid>
+                     <unittitle>Elections.- Elections sénatoriales : procès-verbaux, affiches (1876, 1881, 1896, 1919). Elections des membres du conseil général et des conseils d’arrondissement : listes générales du jury (1829-1871).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 22 pièces papier, 1 affiche.</unittitle>
+                     <unitdate normal="1876/1919">1876-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                     <subject>ELECTION AU CONSEIL D'ARRONDISSEMENT</subject>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 93</unitid>
+                     <unitid>K6</unitid>
+                     <unittitle>Elections.-Elections des membres du conseil général et des conseils d’arrondissement : procès-verbaux, listes de scrutin, feuilles de dépouillement. &lt;lb/&gt;&lt;lb/&gt;1 liasse, 76 pièces papier.</unittitle>
+                     <unitdate normal="1852/1928">1852-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                     <subject>ELECTION AU CONSEIL D'ARRONDISSEMENT</subject>
+                     <subject>ELECTION CANTONALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 94</unitid>
+                     <unitid>K7</unitid>
+                     <unittitle>Elections.-Elections municipales : communiqués, correspondance (1881-1919), procès-verbaux, feuilles de dépouillement, listes de scrutin (1831-1929). &lt;lb/&gt;&lt;lb/&gt;1 liasse, 105 pièces papier.</unittitle>
+                     <unitdate normal="1831/1929">1831-1929</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 95</unitid>
+                     <unitid>K8</unitid>
+                     <unittitle>Elections.-Conseil municipal, formation et installation : procès-verbaux, arrêtés, communiqués, correspondance (1816-1884). Maire et adjoints, élections et installation : procès-verbaux, arrêtés, correspondance, communiqués (1816-1919) ; délégations temporaires de fonction et démissions : correspondance, communiqué (1854-1900).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 58 pièces papier. </unittitle>
+                     <unitdate normal="1816/1884">1816-1884</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                     <subject>ELECTION</subject>
+                     <subject>MAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 96</unitid>
+                     <unitid>K9</unitid>
+                     <unittitle>Personnel municipal.-Préposés forestiers de l’inspection de Luxeuil, vote d’augmentations de traitement : communiqué (1908). Gardes champêtres, nomination : arrêtés, marchés, correspondance, extrait du registre des délibérations du conseil municipal (1808-1904) ; révocation : arrêtés (1914). Gardes forestiers, nomination : arrêtés (1884, 1886) ; demande de surveillance : correspondance [1791] ; demande d’augmentation de traitement : correspondance (1877). Brigade forestière de Vauvillers, réorganisation : correspondance (1885). Cantonniers, nomination : arrêté, rapport, procès-verbal, engagement (1864-1895). Appariteur, nomination : procès-verbal d’adjudication (1826). Pâtres, nomination : marchés (1793-1897). &lt;lb/&gt;&lt;lb/&gt;1 liasse, 124 pièces papier. </unittitle>
+                     <unitdate normal="1791/1914">1791-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GARDE FORESTIER</subject>
+                     <subject>GARDE PARTICULIER</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 97</unitid>
+                     <unitid>H10</unitid>
+                     <unittitle>Protocole et distinctions honorifiques.- Services rendus par M. Prevost pendant l’épidémie de choléra de 1854, attribution de la médaille d’argent : correspondance (1855). Médailles militaires, attribution : correspondance, communiqué (1856, 1858). Décorés de la légion d’honneur et médaillés militaires, recensement : état (1875).  &lt;lb/&gt;&lt;lb/&gt;6 pièces papier. </unittitle>
+                     <unitdate normal="1855/1875">1855-1875</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DISTINCTION HONORIFIQUE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 98</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptabilité.-Budgets et comptes : comptes de gestion annuelle. &lt;lb/&gt;&lt;lb/&gt;1 liasse, 54 pièces papier. </unittitle>
+                     <unitdate normal="1802/1850">1802-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 99</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptabilité.-Budgets et comptes : compte administratif (1808, 1814, 1835-1841, 1843-1844, 1846-1850), chapitres additionnels (1835-1850), correspondance (1887-1927), situation financière des communes (1883-1884, 1886-1893, 1896-1898), état des dépenses faites à l’occasion du choléra épidémique (1854-1856).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 86 pièces papier. </unittitle>
+                     <unitdate normal="1808/1927">1808-1927</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 100</unitid>
+                     <unitid>L3</unitid>
+                     <unittitle>Comptabilité.-Budgets et comptes : état de situation de caisse présenté par le receveur municipal (1836-1841), budget primitif (an VII-1850), état des restes à payer des exercices 1837 à 1858 (an VII-1850). Emprunts contractés : correspondance, arrêtés préfectoraux, engagements (1857-1909). Concessions d’électricité : correspondance, arrêté préfectoral, traité de gré à gré, notes, extrait du registre des délibérations du conseil municipal, rapport, avenant au traité de gré à gré, cahier des charges (1907-1937).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 104 pièces papier. </unittitle>
+                     <unitdate normal="1799/1937">1799-1937</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DETTE PUBLIQUE</subject>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 101</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices publics.- Remise de pompes à incendie, construction : devis descriptif, correspondance, estimation des frais, extrait du registre des délibérations du conseil municipal, procès-verbaux d’adjudication (1862-1881). Lavoirs, construction et rétablissement : correspondance, arrêté préfectoral, plan, soumission, procès-verbal de récolement, de réception et de remise, devis, détail métrique des travaux (1881-1882, 1887-1891, 1898). Four communal, réparation : détail des fournitures et des journées (1881).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 30 pièces papier, 1 plan. </unittitle>
+                     <unitdate normal="1862/1898">1862-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EQUIPEMENT COLLECTIF</subject>
+                     <subject>ETABLISSEMENT RECEVANT DU PUBLIC</subject>
+                     <subject>LAVOIR</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 102</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>Edifices du culte et cimetières.-Eglise paroissiale, reconstruction : reçus, mémoires, états, marchés, arrêté préfectoral, correspondance, plans, devis, extrait du registre des délibérations du conseil municipal (1812-1831) ;  acquisition et refonte de cloches : extraits du registre des délibérations du conseil municipal, correspondance, marchés, rapport de l’architecte du département, arrêté préfectoral, pétition (1816-1897) ; réparation du clocher : devis, mémoire, détail des ouvrages, état général des travaux exécutés (1895, s.d.) ; acquisition et pose d’une horloge : traité (1913) ; réfection du toit : traité de gré à gré (1922). Presbytère, construction et réparation : extrait du registre des délibérations du conseil municipal, cahier des charges, pétition, procès-verbal, devis, correspondance, détail estimatif des travaux (1808-1950). Cimetière, reconstruction et agrandissement : correspondance, devis, procès-verbal d’adjudication, plans, état de situation des travaux, procès-verbal de description provisoire, arrêté préfectoral, extraits du registre des délibérations du conseil municipal, procès-verbal descriptif et estimatif, procès-verbal de réception définitive (1811-1903) ; érection d’un monument aux morts : marché de gré à gré, correspondance, décret, extrait du registre des délibérations du conseil municipal, notes, mandats de paiement (1920-1921).  &lt;lb/&gt;    &lt;lb/&gt;1 liasse, 148 pièces papier, 7 plans.</unittitle>
+                     <unitdate normal="1808/1950">1808-1950</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>DEVIS</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>COMMEMORATION</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>EQUIPEMENT COLLECTIF</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 103</unitid>
+                     <unitid>M3</unitid>
+                     <unittitle>Edifice à usage de services d’assistance et de prévoyance.-Bureau de bienfaisance, vente d’immeubles : procès-verbal d’estimation de parcelles, extrait du registre des délibérations de la commission administrative du bureau de bienfaisance, arrêté (1861-1863, s.d.). &lt;lb/&gt; &lt;lb/&gt;5 pièces papier. </unittitle>
+                     <unitdate normal="1861/1863">1861-1863</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EQUIPEMENT COLLECTIF</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 104</unitid>
+                     <unitid>M4</unitid>
+                     <unittitle>Edifice à usage d’établissements d’enseignement, de sciences et d’art.-Ecole de garçons, construction : correspondance, extrait du registre des délibérations du conseil municipal, plans, détails des prix, devis, mémoire (1883-1884) ; vente de vieux matériaux : procès-verbal d’adjudication (1886). Ecole de filles, construction : avant projet, devis, arrêté, relevé général des constructions scolaires, extraits du registre des délibérations du conseil municipal, acte de vente, plans, état des travaux, correspondance, détail des ouvrages, reçu, mémoire, compromis, marché (1847-1858, 1888-1889). Ecoles de filles et de garçons, réparations : devis, détail métrique des travaux, correspondance (1863, 1887-1888).   &lt;lb/&gt;&lt;lb/&gt;1 liasse, 57 pièces papier, 7 plans. </unittitle>
+                     <unitdate normal="1847/1889">1847-1889</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DEVIS</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSTRUCTION SCOLAIRE</subject>
+                     <subject>EQUIPEMENT COLLECTIF</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 105</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux.-Terrains communaux, anticipations : extrait des minutes des arrêtés du conseil de préfecture, enquête commodo et incommodo, correspondance, avis préfectoral (1811-1847). Pâturage de mouton sur les terrains communaux : correspondance (1876).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 12 pièces papier. </unittitle>
+                     <unitdate normal="1811/1847">1811-1847</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 106</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Bois.-Bois communaux, aménagement : plan, correspondance, procès-verbaux de délimitation, rapport, réclamations, récapitulatifs, ordonnance, tableau indicatif, mémoire statistique, règlement des coupes (1825-1850, s.d.). Affouage, répartition : rôles, arrêté de l’administration centrale (an V-1865) ; vente de portions : procès-verbaux d’adjudication, correspondance (1815-1879).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 77 pièces papier, 1 registre. </unittitle>
+                     <unitdate normal="1797/1879">1797-1879</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 107</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Bois.- Quart de réserve, vente et exploitation : extrait des minutes de la sous-préfecture, correspondance (1810-1916). Produits forestiers, exploitation : procès-verbaux d’adjudication, communiqués, correspondance (1791-1907). Forêt domaniale de Selles et de Passavant, vente à l’Etat de deux parcelles de terre : correspondance (1865) ; curage d’un fossé de périmètre : correspondance (1883) ; demande d’un droit de passage par la commune de Selles : rapport de l’inspecteur des forêts (1887) ; coupe de bois pour l’entretien du chemin de la Rochère : rapport de l’inspecteur adjoint des forêts (1889). Terrains communaux, boisement : correspondance, décrets, procès-verbaux d’adjudication, communiqué (1860-1919).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 72 pièces papier. </unittitle>
+                     <unitdate normal="1810/1916">1810-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 108</unitid>
+                     <unitid>N4</unitid>
+                     <unittitle>Bois.-Forêts domaniales et communales, parcours du bétail et vaine pâture : correspondance, arrêté préfectoral, communiqué, procès-verbaux de reconnaissance des cantons défensables, procès-verbaux de la marque des bestiaux admis au parcours, procès-verbaux de déclaration des quartiers défensables pour le pâturage, actes de notification des cantons défensables  (1793-1913, s.d.). Location de la pêche et de la chasse : procès-verbaux d’adjudication, correspondance, notes, extrait du registre des délibérations du conseil municipal, soumission, bail, communiqués, cahier des charges (1803-1937).  &lt;lb/&gt;&lt;lb/&gt;1 liasse, 236 pièces papier. </unittitle>
+                     <unitdate normal="1793/1913">1793-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>CHASSE</subject>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                     <subject>FORET COMMUNALE</subject>
+                     <subject>FORET DOMANIALE</subject>
+                     <subject>PATURAGE</subject>
+                     <subject>PECHE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 109</unitid>
+                     <unitid>N5</unitid>
+                     <unittitle>Eaux.-Sources de la forêt domaniale de Selles et du lavoir des carrières, concession : notes, correspondance, arrêtés préfectoraux, soumission, avis, permission de grande voirie, mandat de paiement (1864-1938). Fontaines, construction et réparation : arrêté préfectoral, extrait du registre des délibérations du conseil municipal, devis, détail estimatif, procès-verbal d’adjudication, correspondance, reçu, état, soumission, procès-verbal d’expertise, état des sommes dues et versées, état estimatif, métré, analyse des prix, notes, rapport, factures, mémoire, approbation des plans et devis (1839-1925) ; concession du trop plein : avertissement, correspondance, soumission, procès-verbaux (1886-1906) ; amodiation des boues : cahier des charges, procès-verbaux d’adjudication, baux (1793-1892). Conduite d’eau pour l’écoulement des eaux de la mare Virot, établissement : autorisation (1887). Droit de barrage et prise d’eau dans les bois communaux, concession : correspondance, procès-verbaux de reconnaissance, arrêté préfectoral (1861-1938).&lt;lb/&gt;&lt;lb/&gt;Contient également : Lavoirs, construction (1870-1891). Remise pour la pompe à incendie, construction (1881-1883).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 282 pièces papier. </unittitle>
+                     <unitdate normal="1793/1938">1793-1938</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU</subject>
+                     <subject>FONTAINE</subject>
+                     <subject>LAVOIR</subject>
+                     <subject>PRISE D'EAU</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 110</unitid>
+                     <unitid>N6</unitid>
+                     <unittitle>Propriétés et droits divers.-Concessions au cimetière : correspondance (1850, 1886). Pignon mitoyen situé entre la cure et une habitation privée, demande de redressement : correspondance (1870). Propriété de Monsieur Joly, cessation d’escalier à la commune de Selles : correspondance (1887).&lt;lb/&gt;&lt;lb/&gt;4 pièces papier. </unittitle>
+                     <unitdate normal="1850/1887">1850-1887</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONCESSION FUNERAIRE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIE, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 111</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Travaux publics et voirie en général.-Voirie urbaine, réparation de la rue principale du village : plans, devis, correspondance, extrait du registre des délibérations du conseil municipal, arrêté préfectoral, soumissions, procès-verbal d’adjudication, état des travaux exécutés (1839-1867) ; élargissement de la rue de la Charrière : arrêté préfectoral, plan, demande d’alignement, demande de reconstruction, tableau des parcelles de terrains et bâtiments à acquérir (1855) ; confection d’un plan d’alignement : marché (1878) ; vente et acquisitions de terrains : ordonnance, plans, soumissions, promesse de vente, correspondance, extrait du registre des délibérations du conseil municipal, tableau des parcelles, procès-verbal de délimitation et d’estimation, arrêtés préfectoraux, croquis, procès-verbal de métré, acte d’aliénation de terrain, enquête commodo et incommodo, marché (1837-1926).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 138 pièces papier, 35 plans, 1 croquis. </unittitle>
+                     <unitdate normal="1837/1926">1837-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 112</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Travaux publics et voirie en général.-Voirie urbaine, construction et réparation de ponts : correspondance, plans, devis, journal, état des frais et honoraires, rapport, croquis, procès-verbaux d’adjudication, soumissions (1836-1907) ; demandes d’alignement : correspondance, arrêtés (1852-1880). Petite voirie, ouverture et construction : plans, avis, tableau des parcelles de terrains et de bâtiments à acquérir, acte de vente, état des propriétés à acquérir, procès-verbal d’estimation, soumission, correspondance, procès-verbal d’adjudication, devis, avant-métré, bordereau des prix, état général des travaux exécutés, arrêté préfectoral, procès-verbal de récolement, décision de la commission départementale, extrait du registre des délibérations du conseil municipal, acte d’acquisition amiable (1852-1913).&lt;lb/&gt;&lt;lb/&gt;Contient également : Aqueduc longeant le canal de l’Est, construction : procès-verbal d’adjudication, plan, devis, avant-métré et bordereau des prix, correspondance, soumission, état général des travaux exécutés (1882-1884). &lt;lb/&gt;&lt;lb/&gt;1 liasse, 152 pièces papier, 21 plans, 2 croquis. </unittitle>
+                     <unitdate normal="1836/1913">1836-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 113</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Travaux publics et voirie en général.-Petite voirie, entretien et réparation : correspondance, état approximatif, état des contingents, fonds centralisés, état de travaux, arrêté préfectoral, états d’indication, ordre de service, arrêté préfectoral, soumission, plan, extrait du registre des délibérations du conseil municipal, actes d’acquisition de terrains, tableau des parcelles de terrains et bâtiments à acquérir, acte de vente à l’amiable, acte de vente, décision du conseil général, rapport, arrêté municipal, avis de secours, procès-verbal d’adjudication (1838-1911) ; prestations pour la construction et l’entretien des chemins vicinaux : tarifs de conversion en taches (1859-1866), listes des journées faites et dues par chaque habitant (1818, 1829) ; occupation temporaire du domaine public : arrêtés préfectoraux, correspondance (1884, 1889, 1899) ; exécution d’alignement : procès-verbal de métré et d’estimation (1936) ; anticipation du sieur Edouard Pidancet sur le remblai du chemin vicinal n°15 : correspondance, arrêté (1852, 1887-1890) ; classement et révision de classement des chemins vicinaux ordinaires : arrêté préfectoral, correspondance, état de classement, tableau des chemins vicinaux, tableau général des chemins vicinaux ordinaires, procès-verbal de reconnaissance (1837-1893) ; réunion des chemins de grande communication et d’intérêt commun en une seule catégorie : nomenclature (1885) ; formation d’un nouveau réseau vicinal : instruction (1903). Grande voirie, permissions : règlement général (1858).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 168 pièces papier, 2 livrets, 3 plans. </unittitle>
+                     <unitdate normal="1818/1936">1818-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 114</unitid>
+                     <unitid>O4</unitid>
+                     <unittitle>Moyens de transport et travaux divers.-Chemin de fer d’intérêt local, construction : communiqué, rapport, correspondance (1887, 1902-1903) ; projet d’établissement d’un arrêt de train au passage à niveau de la Basse-Vaivre : correspondance (1905). Télégraphe, construction des lignes : correspondance, arrêté préfectoral (1869, 1876). Téléphone, établissement du réseau départemental : communiqués, extrait du registre des délibérations du conseil municipal, traité (1902-1903). Electrification et distribution d’énergie électrique : note, correspondance, plan, procès-verbal de délibération du conseil municipal, rapports, procès-verbaux d’adjudication, marché, arrêté préfectoral, recueil des textes administratifs et règlementaires. Carrières, amodiation : procès-verbaux d’adjudication, plan, correspondance, avis (1810-1874) ; extraction et fournitures des pierres des prestations : procès-verbaux d’adjudication, soumission (1837-1905) ; ouverture et délimitation de la carrière du bois de la Côte : procès-verbal, correspondance (1840, 1850) ; interdiction de poursuivre l’exploitation d’une carrière à ciel ouvert : correspondance (1866) ; plantation d’une haie : procès-verbal d’adjudication (1886).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 95 pièces papier, 5 plans. </unittitle>
+                     <unitdate normal="1887/1905">1887-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CARRIERE</subject>
+                     <subject>DISTRIBUTION ELECTRIQUE</subject>
+                     <subject>TELEGRAPHE</subject>
+                     <subject>TELEPHONE</subject>
+                     <subject>TRANSPORT FERROVIAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 115</unitid>
+                     <unitid>O5</unitid>
+                     <unittitle>Navigation et régime des eaux.-Lit de la rivière du Côney, redressement : plans, rapport de l’ingénieur en chef, correspondance (1838-1839). Direction de l’hydraulique agricole, enquête : questionnaire (1887). Ruisseaux, curage et faucardement : plan, compromis, rôle de répartition, arrêté municipal, état, extrait du registre des délibérations du conseil municipal, correspondance, procès-verbal d’adjudication, communiqué, marché (1802-1867, s.d.).  Passage de bac au pont de Selles, amodiation : bail (1823). Canal de l’Est, amodiation des produits des francs-bords : cahiers des charges, détail des lots (1885-1900). Aqueducs, construction et réparation : correspondance, arrêtés, devis, état des travaux, cahier des charges, procès-verbaux d’adjudication (1843-1903, s.d.). Bassin de radoub, demande de construction : arrêté préfectoral, arrêté portant règlement d’eau (1885, 1892). Moulin Brulé : bail, rapport, procès-verbal d’estimation, procès-verbal de contre expertise, soumission, procès-verbal de prestation de serment, pétitions, correspondance, extraits des registres de délibération, arrêtés préfectoraux, titre de propriété, procès-verbal d’expertise (1699-1812).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 80 pièces papier, 3 plans. </unittitle>
+                     <unitdate normal="1838/1839">1838-1839</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT DES EAUX</subject>
+                     <subject>COURS D'EAU</subject>
+                     <subject>ENERGIE HYDRAULIQUE</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>VOIE NAVIGABLE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 116</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte catholique.-Loi de séparation des églises et de l’Etat, attribution de la jouissance des édifices affectés à l’exercice du culte : arrêté préfectoral, télégramme, déclaration, circulaires, communiqué (1905-1907) ; répartition des sommes rendues disponibles par la suppression du budget des Cultes : correspondance (1910-1926).  &lt;lb/&gt;&lt;lb/&gt;1 liasse, 24 pièces papier. </unittitle>
+                     <unitdate normal="1905/1926">1905-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 117</unitid>
+                     <unitid>P2</unitid>
+                     <unittitle>Police des cultes.-Rassemblements aux alentours de l’église paroissiale, interdiction : règlement (1861). Sonneries de cloches, réglementation : arrêté municipal, correspondance (1907).&lt;lb/&gt;&lt;lb/&gt;3 pièces papier. </unittitle>
+                     <unitdate normal="1861/1907">1861-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POLICE DES CULTES</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 118</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Bureau de bienfaisance.-Commission administrative, délibérations : registre (1er février 1835-15 mars 1865).  &lt;lb/&gt;&lt;lb/&gt;1 registre. </unittitle>
+                     <unitdate normal="1835/1865">1835-1865</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ACTION SOCIALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 119</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Bureau de bienfaisance.-Commission administrative, délibérations : registre (23 avril 1865-2 juillet 1931).  &lt;lb/&gt;&lt;lb/&gt;1 registre cartonné. </unittitle>
+                     <unitdate normal="1865/1931">1865-1931</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ACTION SOCIALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 120</unitid>
+                     <unitid>Q3</unitid>
+                     <unittitle>Bureau de bienfaisance.-Comptabilité : comptes de gestion annuelle (1841-1846, 1848-1849, 1851-1852), états de situation pour les recettes et dépenses (1838-1840, 1844-1845, 1847-1851, 1853), budgets des recettes et des dépenses (1841-1842, 1845, 1849), compte administratif, délibérations du conseil municipal pour le règlement définitif des recettes et dépenses (1852), comptes administratifs pour les exercices de 1838 à 1840 (s.d.). Fonds appartenant au bureau de bienfaisance de Selles : plan d’abornement (1841). Attribution des biens de l’ancienne fabrique de Selles : notification du décret d’attribution, décret (1909). Legs : arrêté préfectoral, modèle de certificats, correspondance (1856-1873). Statistiques : état des recettes et dépenses de l’année (1853).  &lt;lb/&gt;&lt;lb/&gt;1 liasse, 41 pièces papier. </unittitle>
+                     <unitdate normal="1838/1853">1838-1853</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 121</unitid>
+                     <unitid>Q4</unitid>
+                     <unittitle>Institutions diverses.-Assurance des bâtiments communaux contre l’incendie : polices, extraits du registre des délibérations du conseil municipal, avenants, arrêté, quittances de prime. &lt;lb/&gt; &lt;lb/&gt;1 liasse, 21 pièces papier. </unittitle>
+                     <unitdate normal="1855/1930">1855-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>SINISTRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 122</unitid>
+                     <unitid>Q5</unitid>
+                     <unittitle>Application des lois d’assistance et de prévoyance.-Anciens militaires, demandes de secours : correspondance (1849-1869). Enfants assistés : correspondance, documentation, communiqués, bulletins de renseignements, registre d’inscription (1874-1878, 1884, s.d.).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 16 pièces papier, 1 cahier. </unittitle>
+                     <unitdate normal="1849/1869">1849-1869</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE A L'ENFANCE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ART</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 123</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique.-Instituteurs et institutrices, nomination et rémunération : avis, correspondance, certificat (1818-1923). Ecole primaire, concession de cartes et de tableaux pour l’enseignement de la géographie et du système métrique : avis (1879) ;  réception d’un globe : correspondance (1879). Bourses dans les établissements d’enseignement primaire, secondaire, supérieur et dans les écoles spéciales : correspondance (1855, 1885). Rapports de la municipalité avec le Ministère de l’Instruction publique concernant les lycées, universités et écoles : circulaire (1877). Rédaction d’actes sous seing privé emportant mutation de propriété par des instituteurs, interdiction : circulaire (1856). Elections, rappel des devoirs incombant aux instituteurs : correspondance, communiqué (1857, 1869).  &lt;lb/&gt;&lt;lb/&gt;1 liasse, 73 pièces papier. </unittitle>
+                     <unitdate normal="1818/1923">1818-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOURSE D'ETUDE</subject>
+                     <subject>EDUCATION</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>PIECES NE RENTRANT PAS DANS LES SERIES PRECEDENTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 124</unitid>
+                     <unitid>S1</unitid>
+                     <unittitle>Actes de l’administration supérieure du département : arrêtés, communiqués, instructions (1790-an II).&lt;lb/&gt;&lt;lb/&gt;1 liasse, 63 pièces papier. </unittitle>
+                     <unitdate normal="1790/1794">1790-1794</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>485 Edepot 125</unitid>
+                     <unitid>S2</unitid>
+                     <unittitle>Actes de l’administration supérieure du département : arrêtés, communiqués, instructions (an III-an XI, s.d). Antoine Vollot de Selles, vente d’un terrain en nature de carrière au Ran de la forêt à Jean-Nicolas Demange : déclaration (1845). &lt;lb/&gt;&lt;lb/&gt;1 liasse, 91 pièces papier. </unittitle>
+                     <unitdate normal="1795/1845">1795-1845</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION</subject>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,1363 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:cpf="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9">
+  <eadheader dateencoding="iso8601" langencoding="iso639-2b" scriptencoding="iso15924" countryencoding="iso3166-1" repositoryencoding="iso15511">
+    <eadid identifier="FRAD042_609589" countrycode="FR" mainagencycode="FRAD042" url="https://francearchives.gouv.fr/findingaid/93e558d6d94323192f8b53234c7b5edbeb1eecc7">FRAD042_609589</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>30 FI : Album isolés</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>AD LOIRE/SAINT ETIENNE</publisher>
+        <date>02/09/2022 à 22:02</date>
+      </publicationstmt>
+    </filedesc>
+  </eadheader>
+  <archdesc level="fonds" otherlevel="0">
+    <did>
+      <unittitle type="TITRE PROPRE">30 FI : Album isolés</unittitle>
+    </did>
+    <odd>
+      <p>Série Fi : Documents iconographiques d'origine privée</p>
+    </odd>
+    <scopecontent>
+      <p>Cette sous-série est une collection d'albums isolés.</p>
+    </scopecontent>
+    <dsc type="othertype">
+      <c level="file" otherlevel="0" id="ark--51302-vta61c38ba2c36c9d98">
+        <did>
+          <unitid>30FI1<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta61c38ba2c36c9d98" xlink:type="simple"/></unitid>
+          <unittitle type="TITRE PROPRE">Portraits de Foréziens célèbres</unittitle>
+        </did>
+      </c>
+      <c level="file" otherlevel="0" id="ark--51302-vta3fbf6f9e8045d89c">
+        <did>
+          <unitid>30FI2<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta3fbf6f9e8045d89c" xlink:type="simple"/></unitid>
+          <unittitle>Valette, Claude-Louis (1879-1946)Desvernay, FélixGiranne, GustaveLyon Artistique, Historique, Littéraire, Pittoresque et Monumental. Lyon, le Lyonnais, le Beaujolais. Saint-Etienne, le Forez et le Velay.Valette, Claude-Louis (1879-1946)Desvernay, FélixGiranne, Gustave</unittitle>
+          <physdesc>
+            <physfacet type="support">PAPIER</physfacet>
+            <physfacet>REGISTRE</physfacet>
+            <dimensions>registre : 51 x 33x5 x 8 cm. Page : 49,7 x 31,5</dimensions>
+          </physdesc>
+          <dao xlink:href="https://archives.loire.fr//ark:/51302/vta3fbf6f9e8045d89c/daogrp/0" xlink:type="simple" xlink:title=""/>
+          <dao xlink:href="https://archives.loire.fr//ark:/51302/vta3fbf6f9e8045d89c/daogrp/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+        </did>
+        <scopecontent>
+          <p>Album constitué par C. L. Valette à partir d'articles du supplément du « Progrès de Lyon » de 1890 à 1905, écrits par Félix Desvernay et illustrés par Gustave Girrane ; cartes, plans, gravures et cartes postales.<lb/><lb/>Contient : préface par C.L. Valette, notice sur le département du Rhône, plans de Lyon à diverses époques, histoire de Lyon en image, promenade au Palais des Arts, les rues de Lyon historiques et pittoresques, à travers les jardins et les squares de Lyon, histoire du Carnaval Lyonnais, les Lyonnaises, canuts et soyeux, promenade au Parc de la Tête d'Or, les environs de Lyon, zigzag dans le Lyonnais et le Beaujolais, au pays de Lamartine : Mâcon, visite à Vienne, excursions au Puy-en-Velay, Saint-Etienne ancien et moderne, en Forez.<lb/></p>
+        </scopecontent>
+        <controlaccess>
+          <p>- <emph render="bold">1910</emph> :  Date de contenu </p>
+          <genreform>album</genreform>
+          <genreform>notice iconographie</genreform>
+          <subject>site</subject>
+          <geogname>Lyon (Rhône, France)</geogname>
+          <geogname>Saint-Etienne (Loire, France)</geogname>
+          <geogname>Mâcon (Saône-et-Loire, France)</geogname>
+          <geogname>Vienne (Isère, France)</geogname>
+          <geogname>Le Puy-en-Velay (Haute-Loire, France)</geogname>
+        </controlaccess>
+      </c>
+      <c level="file" otherlevel="0" id="ark--51302-vta49e067335cb9d3eb">
+        <did>
+          <unitid>30FI3<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta49e067335cb9d3eb" xlink:type="simple"/></unitid>
+          <unittitle type="TITRE PROPRE">Le Château de Couzan. L'Ivoire de Noirétable. La Châsse de Montverdun</unittitle>
+        </did>
+        <scopecontent>
+          <p>22 Phototypies publiées par La Diana, Société historique et archéologique du Forez</p>
+        </scopecontent>
+      </c>
+      <c level="file" otherlevel="0" id="ark--51302-vtad3b0953b8d7781ec">
+        <did>
+          <unitid>30FI4<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtad3b0953b8d7781ec" xlink:type="simple"/></unitid>
+          <unittitle type="TITRE PROPRE">Notre Vieux Forez</unittitle>
+        </did>
+      </c>
+      <c level="file" otherlevel="0" id="ark--51302-vtad45839d3efe39c6a">
+        <did>
+          <unitid>30FI5<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtad45839d3efe39c6a" xlink:type="simple"/></unitid>
+          <unittitle>Album photographique de l'entreprise de fabrication de rubans J. Forest et Cie, 14 rue Buisson à Saint-Etienne</unittitle>
+          <physdesc>
+            <dimensions>33 x 44,5 cm</dimensions>
+          </physdesc>
+        </did>
+        <controlaccess>
+          <p>- <emph render="bold">[1892, Après] </emph> :  Date de contenu </p>
+        </controlaccess>
+      </c>
+      <c level="file" otherlevel="0" id="ark--51302-vta9307e6e831e062f2">
+        <did>
+          <unitid>30FI6<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta9307e6e831e062f2" xlink:type="simple"/></unitid>
+          <unittitle type="&amp;lt;TITRE FORGE&amp;gt; $ SANS TITRE PROPRE">Album photographique du Château de la Grye à Ambierle</unittitle>
+          <unitdate>1865, vers </unitdate>
+          <dao xlink:href="https://archives.loire.fr//ark:/51302/vta9307e6e831e062f2/daogrp/0" xlink:type="simple" xlink:title=""/>
+          <dao xlink:href="https://archives.loire.fr//ark:/51302/vta9307e6e831e062f2/daogrp/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+        </did>
+        <controlaccess>
+          <genreform>album</genreform>
+          <genreform>notice iconographie</genreform>
+          <subject>site</subject>
+          <geogname>Ambierle (Loire, France)</geogname>
+        </controlaccess>
+      </c>
+      <c level="recordgrp" otherlevel="0" id="ark--51302-vta56fb3e6d0a8149e6">
+        <did>
+          <unittitle type="TITRE PROPRE">"Châteaux Forez. Châteaux, églises". Regroupement de photographies de Félix Thiollier par un anonyme</unittitle>
+        </did>
+        <controlaccess>
+          <genreform>album</genreform>
+          <subject>site</subject>
+        </controlaccess>
+        <c level="file" otherlevel="1" id="ark--51302-vta80dc333c605e754b">
+          <did>
+            <unitid>30FI7_1<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta80dc333c605e754b" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)RochebaronThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>15,5 x 21,8 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta80dc333c605e754b/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta80dc333c605e754b/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Château de Rochebaron à Bas-en-Basset et vue sur la vallée de la Loire.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Bas-en-Basset (Haute-Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtab3c19d663e17bef9">
+          <did>
+            <unitid>30FI7_2<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtab3c19d663e17bef9" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)[Château de Bouthéon]Thiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>16 x 21,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtab3c19d663e17bef9/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtab3c19d663e17bef9/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Cheminée à l'intérieur du château.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Bouthéon (Loire, France ; ....-1965)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta7b438dcf08579da7">
+          <did>
+            <unitid>30FI7_3<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta7b438dcf08579da7" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)CervièresThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>15 x 21,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta7b438dcf08579da7/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta7b438dcf08579da7/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Chapelle Saint-Roch et vue sur le village de Cervières.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Cervières (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta409f37905b899f64">
+          <did>
+            <unitid>30FI7_4<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta409f37905b899f64" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)ChalenconThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>15 x 21,8 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta409f37905b899f64/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta409f37905b899f64/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Château de Chalencon.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Saint-André-de-Chalencon (Haute-Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta88b22231c2037d1f">
+          <did>
+            <unitid>30FI7_5<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta88b22231c2037d1f" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)ChalenconThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>20,8 x 16,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta88b22231c2037d1f/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta88b22231c2037d1f/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Village de Chalencon.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Saint-André-de-Chalencon (Haute-Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtae26ab139a9a11320">
+          <did>
+            <unitid>30FI7_6<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtae26ab139a9a11320" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)ChalmazelThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>15,5 x 21,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtae26ab139a9a11320/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtae26ab139a9a11320/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Château de Chalmazel. </p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Chalmazel (Loire, France ; ....-2015)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtaa50dfa19d89d6edb">
+          <did>
+            <unitid>30FI7_7<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtaa50dfa19d89d6edb" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)ChandieuThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>20,7 x 16 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtaa50dfa19d89d6edb/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtaa50dfa19d89d6edb/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Fenêtre de la façade du prieuré de Champdieu.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Champdieu (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta29d169b15d3c2ff9">
+          <did>
+            <unitid>30FI7_8<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta29d169b15d3c2ff9" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)CharlieuThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1890</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>22 x 15,7 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta29d169b15d3c2ff9/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta29d169b15d3c2ff9/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Rue de Charlieu, maison romane à façade à colombages et fenêtres trilobées.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1890 - 1891</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Charlieu (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta9eb91cb022a94edd">
+          <did>
+            <unitid>30FI7_9<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta9eb91cb022a94edd" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)CharlieuThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1890</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>22 x 15,3 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta9eb91cb022a94edd/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta9eb91cb022a94edd/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Grand portail nord du narthex de l'église abbatiale.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1890</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Charlieu (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtac58b1e4e0b19aa4b">
+          <did>
+            <unitid>30FI7_10<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtac58b1e4e0b19aa4b" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)CharlieuThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1890</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>21,5 x 15 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtac58b1e4e0b19aa4b/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtac58b1e4e0b19aa4b/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Détail des bases des piedroits du portail nord du narthex de l'église abbatiale.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1890</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Charlieu (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtab541e66371c0bd8d">
+          <did>
+            <unitid>30FI7_11<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtab541e66371c0bd8d" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)CharlieuThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1890</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>21,5 x 14,7 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtab541e66371c0bd8d/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtab541e66371c0bd8d/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Porte sculptée, surmontée des armoiries de la famille Dupont de Dinechin dans leur hôtel particulier.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1890 - 1895</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Charlieu (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtaaae93f136613602a">
+          <did>
+            <unitid>30FI7_12<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtaaae93f136613602a" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)ChenereilleThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>16 x 22 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtaaae93f136613602a/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtaaae93f136613602a/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Ancienne chapelle castrale aujourd'hui détruite.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Chenereilles (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta85cee65eecf9b341">
+          <did>
+            <unitid>30FI7_13<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta85cee65eecf9b341" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)ChevrièresThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>20,7 x 16 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta85cee65eecf9b341/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta85cee65eecf9b341/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Profil d'un jeune homme sculpté dans la pierre en médaillon.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Chevrières (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta627fb49925c23351">
+          <did>
+            <unitid>30FI7_14<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta627fb49925c23351" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)[Crémieu]Thiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1880</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>15 x 21 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta627fb49925c23351/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta627fb49925c23351/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Vue de la cité médiévale et du château delphinal.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1880</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Crémieu (Isère, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta624dc781a8b3ea34">
+          <did>
+            <unitid>30FI7_15<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta624dc781a8b3ea34" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)L'AubépinThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>22 x 16,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta624dc781a8b3ea34/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta624dc781a8b3ea34/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Château de l'Aubépin à Fourneaux. Porte sculptée.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Fourneaux (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtaef5102de9dc0e2a6">
+          <did>
+            <unitid>30FI7_16<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtaef5102de9dc0e2a6" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)L'AubépinThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>22 x 16,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtaef5102de9dc0e2a6/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtaef5102de9dc0e2a6/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Château de l'Aubépin à Fourneaux. Porte d'entrée et échaugettes.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Fourneaux (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta4f5262065511e7c7">
+          <did>
+            <unitid>30FI7_17<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta4f5262065511e7c7" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)La Chaise d'Aix ?Thiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>16 x 21 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta4f5262065511e7c7/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta4f5262065511e7c7/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Rivière de l'Aix et hameau d'Aix à Grézolles.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1890</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Grézolles (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta29c76c2a05d63366">
+          <did>
+            <unitid>30FI7_18<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta29c76c2a05d63366" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)Le MonastierThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1890</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>21,7 x 16,2 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta29c76c2a05d63366/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta29c76c2a05d63366/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Bas-coté de l'église abbatiale du Monsatier-sur Gazeille.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1890 - 1900</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Le Monastier-sur-Gazeille (Haute-Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta352f19421191f8c3">
+          <did>
+            <unitid>30FI7_19<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta352f19421191f8c3" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)MoingtThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>22 x 16,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta352f19421191f8c3/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta352f19421191f8c3/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Rue et tour de Moingt.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Moingt (Loire, France ; ....-1973)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtacccff1db4ce989c1">
+          <did>
+            <unitid>30FI7_20<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtacccff1db4ce989c1" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)Monsitrol-sur-LoireThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>22 x 15,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtacccff1db4ce989c1/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtacccff1db4ce989c1/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Porte ogivale de l'ancienne résidence des évêques du Puy-en-Velay à Monistrol-sur-Loire.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Monistrol-sur-Loire (Haute-Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta2941f869be465130">
+          <did>
+            <unitid>30FI7_21<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta2941f869be465130" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)MontrondThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>14,8 x 22 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta2941f869be465130/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta2941f869be465130/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Château de Montrond.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Montrond-les-Bains (Loire, France ; 1797-)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtab89a8247a5069e04">
+          <did>
+            <unitid>30FI7_22<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtab89a8247a5069e04" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)La RocheThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>17 x 21,4 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtab89a8247a5069e04/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtab89a8247a5069e04/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Digue de Pinay et Emma Thiollier, assise sur un rocher.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Pinay (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta6714e9c45a67e6d7">
+          <did>
+            <unitid>30FI7_23<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta6714e9c45a67e6d7" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)POMMIERSThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>11,4 x 16,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta6714e9c45a67e6d7/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta6714e9c45a67e6d7/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Pont de la Valla sur l'Aix, vue sur le prieuré et le village de Pommiers.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Pommiers-en-Forez (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtaa447a619f21a15aa">
+          <did>
+            <unitid>30FI7_24<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtaa447a619f21a15aa" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)PommiersThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>11,5 x 17 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtaa447a619f21a15aa/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtaa447a619f21a15aa/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Pont de la Valla sur l'Aix à Pommiers.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Pommiers-en-Forez (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtade833bb5633ced96">
+          <did>
+            <unitid>30FI7_25<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtade833bb5633ced96" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)La RoueThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1890</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>22 x 14 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtade833bb5633ced96/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtade833bb5633ced96/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Château de la La Roue à Saint-Anthème.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1890</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Saint-Anthème (Puy-de-Dôme, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta3063c3d82c124fb9">
+          <did>
+            <unitid>30FI7_26<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta3063c3d82c124fb9" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)S. Bonnet-le-ChâteauThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>13,5 x 22 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta3063c3d82c124fb9/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta3063c3d82c124fb9/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Vue génréale de Saint-Bonnet-le-Château.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Saint-Bonnet-le-Château (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtaff4b8f3d4818e35e">
+          <did>
+            <unitid>30FI7_27<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtaff4b8f3d4818e35e" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)La grand'église St Etienne, époque intéressante.Thiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>23 x 14,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtaff4b8f3d4818e35e/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtaff4b8f3d4818e35e/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Façade de la Grand'église à Saint-Etienne, prise de la Maison François 1er.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Saint-Etienne (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtadc8d5ddfe962988e">
+          <did>
+            <unitid>30FI7_28<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtadc8d5ddfe962988e" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)La DianaThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1886</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>22 x 26 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtadc8d5ddfe962988e/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtadc8d5ddfe962988e/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Photomontage reconstitutant l'intérieur de la chapelle du château de la Bâtie d'Urfé à Saint-Etienne-le-Molard, telle qu'elle existait avant le démentèlement de ses éléments.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1886 - 1889</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Saint-Etienne-le-Molard (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta1c7e4648853769af">
+          <did>
+            <unitid>30FI7_29<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta1c7e4648853769af" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)La BastieThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1884</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>16,7 x 21,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta1c7e4648853769af/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta1c7e4648853769af/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Intérieur de la grotte de rocaille du château de La Bâtie d'Urfé à Saint-Etienne-le-Molard.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1884 - 1886</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Saint-Etienne-le-Molard (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta03631baf55135a1f">
+          <did>
+            <unitid>30FI7_30<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta03631baf55135a1f" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)La Bastie. Clôture de la salle en rocaille.Thiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1880</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>21,2 x 16 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta03631baf55135a1f/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta03631baf55135a1f/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Clôture de la grotte de rocaille du château de La Bâtie d'Urfé à Saint-Etienne-le-Molard.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1880 - 1886</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Saint-Etienne-le-Molard (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtaedd1dafec4c80fe5">
+          <did>
+            <unitid>30FI7_31<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtaedd1dafec4c80fe5" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)La Bastie. Sphinx au départ de la montée extérieure.Thiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1858</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>21,4 x 16,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtaedd1dafec4c80fe5/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtaedd1dafec4c80fe5/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <controlaccess>
+            <p>- <emph render="bold">1858</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Saint-Etienne-le-Molard (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta7aa9c283be2ed8a2">
+          <did>
+            <unitid>30FI7_32<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta7aa9c283be2ed8a2" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)La BastieThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1880</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>16,5 x 22 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta7aa9c283be2ed8a2/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta7aa9c283be2ed8a2/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Intérieur de la grotte de rocaille du château de La Bâtie d'Urfé à Saint-Etienne-le-Molard. Représentation de l'été au mur.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1880 - 1886</emph> :  Date de contenu </p>
+            <genreform>Détail d'un album</genreform>
+            <genreform>notice iconographie</genreform>
+            <geogname>Saint-Etienne-le-Molard (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtad868db278c5578cb">
+          <did>
+            <unitid>30FI7_33<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtad868db278c5578cb" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)S. Haon-le-ChâtelThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>15,2 x 20,8 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtad868db278c5578cb/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtad868db278c5578cb/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Vue générale du château et du village de Saint-Haon-le-Châtel</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Saint-Haon-le-Châtel (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtae7687bc561b6ad78">
+          <did>
+            <unitid>30FI7_34<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtae7687bc561b6ad78" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)S. HéandThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1883</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>16 x 21 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtae7687bc561b6ad78/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtae7687bc561b6ad78/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Eglise de La Platière à Saint-Héand, démolie en 1885, croix en fer monumental, deux enfants de Félix Thiollier sur les marches, Lucien Thiollier, maire de Saint-Héand, frère de Félix, adossé à un mur.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1883 - 1885</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Saint-Héand (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta645cf20121ed0c99">
+          <did>
+            <unitid>30FI7_35<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta645cf20121ed0c99" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)S. HéandThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>21 x 15 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta645cf20121ed0c99/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta645cf20121ed0c99/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Niche gothique à Saint-Héand.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Saint-Héand (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtaaa5db816702d8e7d">
+          <did>
+            <unitid>30FI7_36<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtaaa5db816702d8e7d" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)St. HéandThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>21,5 x 13,3 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtaaa5db816702d8e7d/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtaaa5db816702d8e7d/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Façade de l'église de La Platière à Saint-Héand et deux enfants de Félix Thiollier sur les marches. Lucien Thiollier, maire de Saint-Héand, frère de Félix Thiollier, se tient adossé au mur d'une maison.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Saint-Héand, Canton de (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtad16a8868e33842d1">
+          <did>
+            <unitid>30FI7_37<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtad16a8868e33842d1" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)S. Marcel de FélinesThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>17 x 23 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtad16a8868e33842d1/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtad16a8868e33842d1/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Château de Saint-Marcel-de-Félines.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Saint-Marcel-de-Félines (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta537dbb3ee0591140">
+          <did>
+            <unitid>30FI7_38<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta537dbb3ee0591140" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)S. Maurice en RoannaisThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>15 x 22 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta537dbb3ee0591140/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta537dbb3ee0591140/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Gorges de la Loire et pont romain à Saint-Maurice-sur-Loire.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Saint-Maurice-sur-Loire (Loire, France ; ....-1974)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta06c8a57c6f980f71">
+          <did>
+            <unitid>30FI7_39<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta06c8a57c6f980f71" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)St Maurice en RoannaisThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>14 x 22,3 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta06c8a57c6f980f71/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta06c8a57c6f980f71/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Vue générale du village et du donjon de Saint-Maurice-sur-Loire.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Saint-Maurice-sur-Loire (Loire, France ; ....-1974)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta126e1f458630450d">
+          <did>
+            <unitid>30FI7_40<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta126e1f458630450d" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)[Saint Menoux. Eglise Romane]Thiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>16 x 21,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta126e1f458630450d/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta126e1f458630450d/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Chevet.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Saint-Menoux (Allier, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtac015d62f9ae4638a">
+          <did>
+            <unitid>30FI7_41<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtac015d62f9ae4638a" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)CornillonThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>15,2 x 21,7 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtac015d62f9ae4638a/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtac015d62f9ae4638a/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Vue de la Loire, du viaduc et du village.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Saint-Paul-en-Cornillon (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtac93228ee9a803e2f">
+          <did>
+            <unitid>30FI7_42<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtac93228ee9a803e2f" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)CornillonThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>15,8 x 21,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtac93228ee9a803e2f/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtac93228ee9a803e2f/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Vue générale du village et du château.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Saint-Paul-en-Cornillon (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta7b5765784d129b30">
+          <did>
+            <unitid>30FI7_43<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta7b5765784d129b30" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)CornillonThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>16 x 22 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta7b5765784d129b30/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta7b5765784d129b30/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Vue de la Loire, du viaduc et du village.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Saint-Paul-en-Cornillon (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta6547015f0840e87e">
+          <did>
+            <unitid>30FI7_44<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta6547015f0840e87e" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)St Priest la RocheThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>14 x 21,3 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta6547015f0840e87e/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta6547015f0840e87e/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Gorges de la Loire et château de la Roche à Saint-Priest-la-Roche.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Saint-Priest-la-Roche (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta8748d98a17fed622">
+          <did>
+            <unitid>30FI7_45<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta8748d98a17fed622" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)St-RambertThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>22,5 x 16,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta8748d98a17fed622/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta8748d98a17fed622/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Rue de Saint-Rambert et clocher du prieuré.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Saint-Rambert-sur-Loire (Loire, France ; ....-1972)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta919037cc953833bb">
+          <did>
+            <unitid>30FI7_46<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta919037cc953833bb" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)S Romain le PuyThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>21,5 x 16,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta919037cc953833bb/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta919037cc953833bb/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Intérieur de l'église romane du prieuré de Saint-Romain-le-Puy.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Saint-Romain-le-Puy (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta8fd1c5a121dba139">
+          <did>
+            <unitid>30FI7_47<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta8fd1c5a121dba139" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)Saint-VidalThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1895</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>23 x 16,3 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta8fd1c5a121dba139/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta8fd1c5a121dba139/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Intérieur de l'église de Saint-Vidal, prise de la tribune.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1895 - 1896</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Saint-Vidal (Haute-Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta3da7bdbdb1ca9d5f">
+          <did>
+            <unitid>30FI7_48<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta3da7bdbdb1ca9d5f" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)Ste ColombeThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>14,2 x 21,7 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta3da7bdbdb1ca9d5f/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta3da7bdbdb1ca9d5f/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Château de Montcellier à Sainte-Colombe-sur-Gand.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Sainte-Colombe-sur-Gand (Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta7678963a54cc1a29">
+          <did>
+            <unitid>30FI7_49<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta7678963a54cc1a29" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)Ste CroixThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>11,5 x 16 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta7678963a54cc1a29/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta7678963a54cc1a29/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Façade de la chartreuse de Sainte-Croix-en-Jarez.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Sainte-Croix-en-Jarez (Loire, France ; 1888-)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta434a9d94641c6580">
+          <did>
+            <unitid>30FI7_50<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta434a9d94641c6580" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)ValprivasThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>21,7 x 15 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta434a9d94641c6580/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta434a9d94641c6580/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Fenêtre renaissance du château de Valprivas.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Valprivas (Haute-Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtaa73cf3dd0338ee0b">
+          <did>
+            <unitid>30FI7_51<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtaa73cf3dd0338ee0b" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)ValprivasThiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>21 x 15,6 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtaa73cf3dd0338ee0b/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtaa73cf3dd0338ee0b/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Tour et galerie du château de Valprivas.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Valprivas (Haute-Loire, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta7f4d8419f16cc35d">
+          <did>
+            <unitid>30FI7_52<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta7f4d8419f16cc35d" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)S Pierre de Vienne ?Thiollier, Félix (1842-1914)</unittitle>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>21,7 x 16,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta7f4d8419f16cc35d/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta7f4d8419f16cc35d/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Intérieur de l'église de Saint Pierre de Vienne, bas-côté.</p>
+          </scopecontent>
+          <controlaccess>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Vienne (Isère, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtad8f3e0df5efdef36">
+          <did>
+            <unitid>30FI7_53<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtad8f3e0df5efdef36" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)S Pierre de Vienne ?Thiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1880</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>16,5 x 22 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtad8f3e0df5efdef36/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtad8f3e0df5efdef36/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <scopecontent>
+            <p>Intérieur de l'église de Saint Pierre de Vienne et collection du musée lapidaire.</p>
+          </scopecontent>
+          <controlaccess>
+            <p>- <emph render="bold">1880 - 1900</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+            <geogname>Vienne (Isère, France)</geogname>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vtac06b6fe2c4542821">
+          <did>
+            <unitid>30FI7_54<extptr xlink:href="https://archives.loire.fr//ark:/51302/vtac06b6fe2c4542821" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)[Groupe dans un cloître]Thiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1890</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>19,5 x 12,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtac06b6fe2c4542821/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vtac06b6fe2c4542821/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <controlaccess>
+            <p>- <emph render="bold">1890 - 1900</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+          </controlaccess>
+        </c>
+        <c level="file" otherlevel="1" id="ark--51302-vta8c78d8ea02f4ea0b">
+          <did>
+            <unitid>30FI7_55<extptr xlink:href="https://archives.loire.fr//ark:/51302/vta8c78d8ea02f4ea0b" xlink:type="simple"/></unitid>
+            <unittitle>Thiollier, Félix (1842-1914)[Ruine d'un château]Thiollier, Félix (1842-1914)</unittitle>
+            <unitdate>1885</unitdate>
+            <physdesc>
+              <physfacet type="écriture">tirage photographique</physfacet>
+              <dimensions>21 x 15,5 cm</dimensions>
+            </physdesc>
+            <dao xlink:type="simple"/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta8c78d8ea02f4ea0b/dao/0" xlink:type="simple" xlink:title=""/>
+            <dao xlink:href="https://archives.loire.fr//ark:/51302/vta8c78d8ea02f4ea0b/dao/0/vignette" xlink:type="simple" xlink:role="thumbnail"/>
+          </did>
+          <controlaccess>
+            <p>- <emph render="bold">1885 - 1889</emph> :  Date de contenu </p>
+            <genreform>notice iconographie</genreform>
+            <genreform>Détail d'un album</genreform>
+          </controlaccess>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

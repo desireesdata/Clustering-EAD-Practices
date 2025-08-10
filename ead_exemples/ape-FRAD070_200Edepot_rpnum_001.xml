@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_200Edepot_Archives_communales_déposées_de_Dampvalley-Saint-Pancras" url="https://francearchives.fr/findingaid/9a0282a3d1cc17f65ecd33db52356f4f9ec091b7">FRAD70_200Edepot_Archives_communales_déposées_de_Dampvalley-Saint-Pancras</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>200Edepot - Archives communales déposées de Dampvalley-Saint-Pancras</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>L. Georgel </author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>200Edepot - Archives communales déposées de Dampvalley-Saint-Pancras</unittitle>
+         <unitid>200Edepot1-19</unitid>
+         <unitdate normal="1712/1925">1712-1925</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE DAMPVALLEY-SAINT-PANCRAS</corpname>
+         </origination>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             27/01/2011
+         </p>
+         <p>Dernier ajout le             27/01/2011
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>200 Edepot 1</unitid>
+                     <unitid>CC1, DD1, GG4</unitid>
+                     <unittitle>Finances, impôts et compatbilité : reconnaissance générale des droits du seigneur de Dampvalley par les habitants (1751).&lt;lb/&gt;A.C. : CC1&lt;lb/&gt;&lt;lb/&gt;Biens communaux : vente d’immeuble avec accord des Courtaillon, seigneur de Dampvalley (1784). &lt;lb/&gt;A.C. : DD1&lt;lb/&gt;&lt;lb/&gt;Culte : extrait du pouillé des Carmes de Besançon, de 1617 à 1636 (1751). &lt;lb/&gt;A.C. : GG4                                                                                       </unittitle>
+                     <unitdate normal="1751/1784">1751-1784</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BESANCON</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>200 Edepot 5</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial et d’état civil, baptêmes, mariages, sépultures. &lt;lb/&gt;                                                                                               </unittitle>
+                     <unitdate normal="1712/1792">1712-1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>200 Edepot 6</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial et d’état civil, baptême, mariages, sépultures (1737-1748 ; 1791-1792), naissances (an II-an X) ; imprimés concernant la tenue des registres d’état civil (1792-an VIII), table décennale des naissances (an II-an X). &lt;lb/&gt;                                                                                     </unittitle>
+                     <unitdate normal="1737/1802">1737-1802</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>200 Edepot 7</unitid>
+                     <unittitle>Cote vacante</unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>CONSEIL MUNICIPAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>200 Edepot 8</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal. &lt;lb/&gt;                                                                                    </unittitle>
+                     <unitdate normal="1795/1810">1795-1810</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>200 Edepot 9</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal. &lt;lb/&gt;                                                                                      </unittitle>
+                     <unitdate normal="1808/1844">1808-1844</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>200 Edepot 10</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.  &lt;lb/&gt;&lt;lb/&gt;Non vu en 1962 ni en 1989. &lt;lb/&gt;                                                                                          </unittitle>
+                     <unitdate normal="1844/1879">1844-1879</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>200 Edepot 11</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.  &lt;lb/&gt;                                                                                          </unittitle>
+                     <unitdate normal="1879/1900">1879-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>200 Edepot 12</unitid>
+                     <unitid>E1, F1</unitid>
+                     <unittitle>Etat civil : extraits d’actes d’état civil envoyés par d’autres communes pour mention (1828-1844). &lt;lb/&gt;A.C. : E1                                                                                             &lt;lb/&gt;&lt;lb/&gt;Population : dénombrement de la population, états statistiques (an VIII ; an X ; s.d.) ; listes nominatives (1876 ; 1886 ; 1901 ; 1906) ; mouvement de la population (1895 ; 1902-1906). &lt;lb/&gt;&lt;lb/&gt;Agriculture : tableaux statistiques du territoire, des récoltes, des bestiaux (an IX-an XI), des usines et manufactures (an X) ; statistique quinquennale : questionnaire (1852) ; extrait d’une délibération relative à la garde du taureau communal (1808) ; destruction d’insectes (1808). &lt;lb/&gt;Subsistances : avis de projet de création de trois nouvelles foires à Luxeuil, pour accord (1899). &lt;lb/&gt;&lt;lb/&gt;A.C. : F1                                                                                        </unittitle>
+                     <unitdate normal="1800/1906">1800-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>POPULATION</subject>
+                     <subject>SUBSISTANCES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LUXEUIL-LES-BAINS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>IMPOTS DIRECTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>200 Edepot 13</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Matrices de rôles pour la contribution foncière (1791 ; an VII) ; états de sections, section A (1791). &lt;lb/&gt;                                                                               </unittitle>
+                     <unitdate normal="1791/1799">1791-1799</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>200 Edepot 14</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Etats de sections, section B (1791) ; section A et B (s.d.). &lt;lb/&gt;                                                                               </unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>200 Edepot 15</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Matrices générales des contributions foncières, personnelle, mobilière et des portes et fenêtres. &lt;lb/&gt;                                                                               </unittitle>
+                     <unitdate normal="1822/1916">1822-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>200 Edepot 16</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Livre des mutations (1815) ; clauses de l’adjudication de la perception des contributions directes (an X-an XI) ; mandements de répartitions des quatre contributions directes (1810) ; arrêté de la sous-préfecture de Lure relatif au règlement du traitement du secrétaire en chef de l’administration municipale du canton de Saint-Loup : répartition des contributions par commues (1808) ; listes des répartiteurs (an XIII-1808). &lt;lb/&gt;                                                                                          </unittitle>
+                     <unitdate normal="1802/1815">1802-1815</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAINT-LOUP-SUR-SEMOUSE (canton)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>MESURES D'EXCEPTION ET FAITS DE GUERRE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>200 Edepot 17</unitid>
+                     <unittitle>Mesures d'exception et faits de guerre : correspondance concernant les réquisitions des armées alliées (1815-1817). &lt;lb/&gt;A.C. : H1                                                                                            &lt;lb/&gt;&lt;lb/&gt;Police et hygiène publique.-Police générale : passeport pour l’intérieur (1807). Hygiène publique et salubrité : extrait d’une délibération sur la vaccination ; correspondance préfectorale sur la salubrité publique (1808 ; 1879-1884).&lt;lb/&gt;A.C. : I1                                                           &lt;lb/&gt;&lt;lb/&gt;Elections et personnel.-Elections : arrêté de radiation de la liste électorale (1900) ; copie d’un jugement relatif à une radiation de la liste électorale (1900) ; arrêté d’installation du conseil municipal (1843) ; correspondance concernant l’élection d’un nouveau maire suite au décès de M. Boileau (1887). Personnel municipal : élections, marchés de gardes-champêtres (an XIII-1831). &lt;lb/&gt;A.C. : K1                                                                                                &lt;lb/&gt;&lt;lb/&gt;Finances de la commune.-Comptabilité : comptes du maire et du percepteur (an V-1831 ; 1842) ; délibération municipale pour le règlement définitif des recettes et dépenses (1870). Revenus et charges de la commune : pétition relative à un prêt non remboursé par la commune (1817) ; emprunt à un particulier (1880) ; demande d’augmentation en faveur du receveur (1889). &lt;lb/&gt;A.C. : L1                                                                                                                                                                                                       </unittitle>
+                     <unitdate normal="1797/1900">1797-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>FINANCES COMMUNALES</subject>
+                     <subject>HYGIENE</subject>
+                     <subject>PERSONNEL</subject>
+                     <subject>POLICE</subject>
+                     <subject>REQUISITIONS MILITAIRES</subject>
+                     <subject>VACCINATION</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>200 Edepot 18</unitid>
+                     <unitid>M1, N1</unitid>
+                     <unittitle>Edifices communaux, monument et établissements publics.- Bâtiments communaux : correspondance, extraits de délibérations municipales relatifs aux réparations à divers bâtiments communaux (an XIII-1871) ; plan, élévation et coupe d’une maison à construire pour loger le succursaliste et l’instituteur (1809)  ; plan et élévation des maisons à construire pour l’instituteur et le pâtre (s.d.) . Edifices du culte et cimetières : construction d’un nouveau cimetière avec plan (1883-1884). 	&lt;lb/&gt;A.C. : M1          	&lt;lb/&gt;		&lt;lb/&gt;Biens communaux, terres, bois et eaux.-Biens communaux : amodiations de fonds communaux (1808-1877) ; droit de parcours (1808) ; procès relatif à un communal (1834-1842) ; état du rapport de mesurage des héritages des habitants de Cuve de la ferme des Courtaillon sur le territoire de Dampvalley (s.d.). Bois : partie d’un plan des bois de la commune (1891)  : exploitation de la coupe affouagère (an XIII-1852) ; métrage des maisons de la commune (1841) ; marché de bûcherons (an XIII-1810) ; délivrance de bois pour la garde-forestier (1871) ; vente de bois divers (1807-1881) ; reçus concernant le bois de la marine (1810) ; amodiation du droit de chasse (an XIV). Eaux : amodiation des boues des fontaines (1880). &lt;lb/&gt;A.C. : N1                                                                                        </unittitle>
+                     <unitdate normal="1805/1891">1805-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                     <subject>BOIS</subject>
+                     <subject>CIMETIERE</subject>
+                     <subject>EAU</subject>
+                     <subject>FONTAINE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIE, MOYENS DE TRANSPORT ET REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>200 Edepot 19</unitid>
+                     <unittitle>Travaux publics, voirie, moyens de transport, régime des eaux.- Voirie urbaine : projet de construction de deux ponts en pierre (1842), répartitions aux ponts (1881) ; droit de servitude d’une conduite d’eau pour alimenter les fontaines (1866-1881). Petite voirie.- Chemins vicinaux : classement (1865), élargissement (1833-1851). Moyens de transport et travaux divers : installation d’un réseau télégraphique (1872) ; exploitation de carrières (an XIII-1842). Navigation et régime des eaux : curage des rivières et des fossés avec plans (1841 ; 1825). 	&lt;lb/&gt;A.C. : O1	&lt;lb/&gt;		&lt;lb/&gt;Culte : ampliation d’une délibération municipale relative à l’entretien et fournitures pour le service divin (1808). 	&lt;lb/&gt;A.C. : P1	&lt;lb/&gt;		&lt;lb/&gt;Asistance et prévoyance.- Etat des indigents, secours (1880-1888) ; demande de secours en faveur du garde-champêtre (1888). 	&lt;lb/&gt;A.C. : Q1	&lt;lb/&gt;		&lt;lb/&gt;Instruction primaire : lettre de la préfecture concernant l’enseignement dans les écoles mixtes (1887). 	&lt;lb/&gt;A.C. : R1                                                                                    	</unittitle>
+                     <unitdate normal="1805/1925">1805-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT DES EAUX</subject>
+                     <subject>CARRIERE</subject>
+                     <subject>CULTE</subject>
+                     <subject>ENSEIGNEMENT</subject>
+                     <subject>INDIGENT</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                     <subject>TELEGRAPHE</subject>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

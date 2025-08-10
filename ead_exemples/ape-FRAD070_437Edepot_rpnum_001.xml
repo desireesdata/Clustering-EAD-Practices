@@ -1,0 +1,680 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_437Edepot_Archives_communales_déposées_de_Ranzevelle" url="https://francearchives.fr/findingaid/0ee249f9aacc636667373be73b229c677f850965">FRAD70_437Edepot_Archives_communales_déposées_de_Ranzevelle</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>437Edepot - Archives communales déposées de Ranzevelle</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>437Edepot - Archives communales déposées de Ranzevelle</unittitle>
+         <unitid>437Edepot1-21</unitid>
+         <unitdate normal="1810/1946">1810-1946</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE RANZEVELLE</corpname>
+         </origination>
+         <note label="note">
+            <p>Avant la Révolution, Ranzevelle dépendait de la paroisse de Corre.
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+177 E dépôt 2/GG1  à 7/GG6, registres paroissiaux de Corre (1700-1792).
+B 7016, déclarations de propriétés faites en exécution de l'édit de 1749, dans la communauté de Ranzevelle (1749-1753).
+B 8761, justice seigneuriale de Ranzevelle (1697-1703).
+C 200, marché pour l'arpentement du territoire de Ranzevelle (XVIII° siècle).
+C 491, rôles et répartements des impositions dans la communauté de Ranzevelle (1729-1790).
+H 385, titres de l'abbaye de Clairefontaine à Ranzevelle (1257-1650).
+1 J 68/1, notes tirées des archives du Doubs, de la Côte-d'Or et de la Meuse (s. d.).
+3 O 451, travaux communaux, depuis 1874.</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             12/11/2008
+         </p>
+         <p>Dernier ajout le             17/11/2008
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1810-1907)</p>
+         <p>  437 Edepot  1 - 437 Edepot  2 - 437 Edepot  3 - 437 Edepot  21</p>
+         <p> POPULATION-ECONOMIE SOCIALE-STATISTIQUE (1865-1910)</p>
+         <p>  437 Edepot  4</p>
+         <p> CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES (1818-1916)</p>
+         <p>  437 Edepot  5 - 437 Edepot  6 - 437 Edepot  7 - 437 Edepot  8 - 437 Edepot  9</p>
+         <p> AFFAIRES MILITAIRES (1870-1946)</p>
+         <p>  437 Edepot  10</p>
+         <p> POLICE-HYGIENE PUBLIQUE-JUSTICE (1871-1872)</p>
+         <p>  437 Edepot  11</p>
+         <p> ELECTIONS ET PERSONNEL (1838-1928)</p>
+         <p>  437 Edepot  12 - 437 Edepot  13 - 437 Edepot  14</p>
+         <p> FINANCES DE LA COMMUNE (1826-1886)</p>
+         <p>  437 Edepot  15 - 437 Edepot  16</p>
+         <p> EDIFICES COMMUNAUX (1838-1881)</p>
+         <p>  437 Edepot  17</p>
+         <p> BIENS ET BOIS COMMUNAUX-EAUX-DROITS DIVERS (1828-1896)</p>
+         <p>  437 Edepot  18</p>
+         <p> TRAVAUX PUBLICS-VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX (1825-1913)</p>
+         <p>  437 Edepot  19</p>
+         <p> ASSISTANCE ET PREVOYANCE (1861-1925)</p>
+         <p>  437 Edepot  20</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 1</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal : délibérations (1 cahier, brumaire an IX-1833).</unittitle>
+                     <unitdate>An IX-1833</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CAHIER</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 2</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (1834-mai 1859). A la fin du registre et à l'envers, actes divers (1836-1846).</unittitle>
+                     <unitdate normal="1834/1859">1834-1859</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 3</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Répertoires des actes soumis à l'enregistrement (1810-1811, 1821-1825, 1833-1872). Correspondance diverse (1816-1874).</unittitle>
+                     <unitdate normal="1810/1874">1810-1874</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 21</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (mai 1859-mars 1907). </unittitle>
+                     <unitdate normal="1859/1907">1859-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 4</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : mouvement annuel (1895). Dénombrement quinquennal : listes nominatives (1872-1891, 1906).&lt;lb/&gt;Agriculture :  état des récoltes (1865-1866, 1869, 1871, 1873, 1875), statistiques annuelles (1865-1873, 1902, 1906-1907, 1909-1910).</unittitle>
+                     <unitdate normal="1865/1910">1865-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 5</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Cadastre :  atlas de la commune.</unittitle>
+                     <unitdate normal="1820">1820</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ATLAS CADASTRAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CADASTRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 6</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Contributions foncières : livre des mutations.</unittitle>
+                     <unitdate normal="1818/1824">1818-1824</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 7</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Contributions foncières : matrices (1818-1852),  avec table alphabétique et tableau indicatif des propriétaires et des propriétés. Au début du registre, procès-verbal de délimitation du territoire de Ranzevelle (1818-1820).</unittitle>
+                     <unitdate normal="1818/1852">1818-1852</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 8</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Commissaires répartiteurs : listes nominatives (1848-1892). Taxes municipales sur les chiens (1866, 1900, 1905), prestations sur les chemins vicinaux (1866, 1905) : rôles. Contributions directes : matrices générales (1826-1848).</unittitle>
+                     <unitdate normal="1826/1905">1826-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 9</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Contributions directes : matrices générales (1850-1894, 1908-1916).</unittitle>
+                     <unitdate normal="1850/1916">1850-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 10</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recensement des jeunes gens : tableaux (1875, 1892, 1897-1898, 1901-1902, 1907, 1925, 1927, 1946).&lt;lb/&gt;Garde nationale.- Election des sous-officiers : procès-verbal (1870).</unittitle>
+                     <unitdate normal="1870/1946">1870-1946</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE-JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 11</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Epizootie du typhus, dénombrement des animaux (1871).&lt;lb/&gt;Jury d'assises : listes des jurés (1871-1872).</unittitle>
+                     <unitdate normal="1871/1872">1871-1872</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JURY D'ASSISES</subject>
+                     <subject>MALADIE DES ANIMAUX</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 12</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections politiques (1869-1913), élections à la chambre d'agriculture (1928) : listes électorales.</unittitle>
+                     <unitdate normal="1869/1928">1869-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                     <subject>ELECTION POLITIQUE</subject>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 13</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections législatives (1863-1910), élections municipales (an XII, 1865-1913), élections au conseil d'arrondissement (1867-1910), au conseil général (1870-1913), élections sénatoriales (1876-1907) : procès-verbaux.</unittitle>
+                     <unitdate>An XII-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 14</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Pâtres : marchés (1838, 1852, 1854). Garde-champêtre, démission (1862, 1871).</unittitle>
+                     <unitdate normal="1838/1871">1838-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 15</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Budgets (1837-1871), compte administratif (1866).</unittitle>
+                     <unitdate normal="1837/1871">1837-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 16</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptes de gestion (1826-1872, incomplet). Emprunt de la commune (1874, 1886).</unittitle>
+                     <unitdate normal="1826/1886">1826-1886</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 17</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Réparations à l'église, au presbytère et au cimetière (1838). Eglise co-paroissiale de Corre, projet d'agrandissement : demande de secours (1839). Presbytère, réparations : devis (1881). Maison commune, construction : devis (1874).</unittitle>
+                     <unitdate normal="1838/1881">1838-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX-DROITS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 18</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Etat des biens ruraux (s. d.). Plan du communal la Vaivre (s. d.). Plan d'un pré communal contenant 216 a 60 (15 mars 1851). Plan du communal dit le Paquis (25 septembre 1877). Amodiations (1828-1896). Vente et échange (1847-1857). Amodiations des boues des fontaines (1837-1868). Droit de pâture, pétition (1846). Cimetière co-paroissial de Corre et Ranzevelle : concession (1883).</unittitle>
+                     <unitdate normal="1828/1896">1828-1896</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>CONCESSION FUNERAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS-VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 19</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Petite voirie.- Chemins ruraux, réparations, entretien, tableaux généraux, prestations (1825-1890, plan).&lt;lb/&gt;Carrière.- Etablissement d'une carrière (1854). Extraction de pierres (1881-1882).&lt;lb/&gt;Chemin de fer.- Ligne de Jussey à Epinal, récolement, réception et remise des ouvrages aux services intéressés : arrêté, procès-verbal, plan parcellaire (1879-1887).&lt;lb/&gt;Canal de l'Est.- Canalisation entre Corre et Ormoy : rapport de l'ingénieur, notification du jugement d'expropriation (1880-1882). Curage des ruisseaux et fossés (1889-1913, plan).</unittitle>
+                     <unitdate normal="1825/1913">1825-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CARRIERE</subject>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>COURS D'EAU</subject>
+                     <subject>VOIE FERREE D'INTERET NATIONAL</subject>
+                     <subject>VOIE NAVIGABLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>437 Edepot 20</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Bureau de bienfaisance.- Commission administrative, élection de délégués (1861, 1925).&lt;lb/&gt;Admission à l'asile de Neurey, frais de pension (1883).</unittitle>
+                     <unitdate normal="1861/1925">1861-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Hospice de Neurey</corpname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

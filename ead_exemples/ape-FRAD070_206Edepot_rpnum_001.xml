@@ -1,0 +1,1322 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_206Edepot_Archives_communales_déposées_d'Echenans-sous-Mont-Vaudois" url="https://francearchives.fr/findingaid/1c8d5a3bc6ac099854592012b5b82cc4ecc5dcda">FRAD70_206Edepot_Archives_communales_déposées_d'Echenans-sous-Mont-Vaudois</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>206Edepot - Archives communales déposées d'Echenans-sous-Mont-Vaudois</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>206Edepot - Archives communales déposées d'Echenans-sous-Mont-Vaudois</unittitle>
+         <unitid>206Edepot1-47</unitid>
+         <unitdate normal="1663/1952">1663-1952</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE D'ECHENANS-SOUS-MONT-VAUDOIS</corpname>
+         </origination>
+         <note label="note">
+            <p>Avant la Révolution, les habitants protestants d'Echenans dépendaient de la paroisse de Brevillers et les catholiques de celle d'Héricourt.
+Les registres des paroisses protestantes de l'ancien comté de Montbéliard ont été déposés aux Archives Municipales de Montbéliard.
+Voir l'inventaire des archives protestantes du pays de Montbéliard dressé par MM. Lerch et Wolf, P 211 et P 212, registres des actes pastoraux de Brevillers, Echenans et Mandrevillars (1565-1760).
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 4215, plaintes et doléances des habitants (1789).
+B 5602, procès au sujet de la possession du finage et banlieue de Genechier (1780).
+B 8146, justice de la mairie d'Héricourt concernant Echenans (1589-1596).
+C 7, administration communale (1685-1743).
+C 367, rôles et répartements des impositions dans la communauté d'Echenans (1729-1790).
+E 32, comptes du receveur d'Héricourt concernant Echenans (1603-1604).
+E 43, comptes du receveur de la seigneurie d'Héricourt et du Châtelot (1634-1641).
+E 59, 63, carnets des revenus de la seigneurie d'Héricourt (1684-1687, 1717-1719).
+E 117, titres féodaux (1360-1792).
+E 127, droits d'usage forestiers (1617).
+E 129, corvées à la charge des communes banales au moulin de Luze, dont Echenans (1576-1788).
+E 373, seigneurie de Genechier concernant Echenans (1509-1791).
+E 435-443, 446, seigneurie d'Héricourt concernant Echenans (1507-1788).
+3 O 212, travaux communaux (depuis 1809).
+285 E dépôt GG 5 à GG 8, registres paroissiaux (1718-1791), archives municipales d'Héricourt.</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             26/04/2005
+         </p>
+         <p>Dernier ajout le             26/04/2005
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> FINANCES-IMPOTS (1663-1788)</p>
+         <p>  206 Edepot 1-2</p>
+         <p> EAUX ET FORETS-VOIRIE (1663-1747)</p>
+         <p>  206 Edepot 3</p>
+         <p> PROCEDURES (1776-1780)</p>
+         <p>  206 Edepot 4</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1790-1904)</p>
+         <p>  206 Edepot 5-9</p>
+         <p> ETAT-CIVIL (1784-1930)</p>
+         <p>  206 Edepot 10-21</p>
+         <p> POPULATION-AGRICULTURE-INDUSTRIE</p>
+         <p> CONTRIBUTIONS (1791-1932)</p>
+         <p>  206 Edepot 23-30</p>
+         <p> AFFAIRES MILITAIRES (1816-1938)</p>
+         <p>  206 Edepot 31-33</p>
+         <p> POLICE LOCALE (1847-1933)</p>
+         <p>  206 Edepot 34</p>
+         <p> ELECTIONS ET PERSONNEL (1822-1932)</p>
+         <p>  206 Edepot 35-36</p>
+         <p> FINANCES DE LA COMMUNE (1814-1952)</p>
+         <p>  206 Edepot 37-39</p>
+         <p> EDIFICES COMMUNAUX (1820-1928)</p>
+         <p>  206 Edepot 40</p>
+         <p> BIENS ET BOIS COMMUNAUX-EAUX (1816-1931)</p>
+         <p>  206 Edepot 41</p>
+         <p> VOIRIE-TRAVAUX DIVERS-REGIME DES EAUX (1822-1926)</p>
+         <p>  206 Edepot 42</p>
+         <p> CULTE (1826)</p>
+         <p>  206 Edepot 43</p>
+         <p> ASSISTANCE ET PREVOYANCE (1852-1927)</p>
+         <p>  206 Edepot 44</p>
+         <p> INSTRUCTION PUBLIQUE (1869-1913)</p>
+         <p>  206 Edepot 45-47</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>FINANCES-IMPOTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Arpentement des territoires d'Echenans-sous-Mont-Vaudois et Mandrevillars (1747), avec table alphabétique datée de 1788 (sans couverture).</unittitle>
+                     <unitdate normal="1747/1788">1747-1788</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>arpentement</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                     <geogname>MANDREVILLARS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 2</unitid>
+                     <unitid>CC2</unitid>
+                     <unittitle>Déclaration de fonds faites par divers particuliers (s. d., XVIII° siècle). Copie de la rubrique de 1663 mise sur le cahier du dénombrement et déclaration particulière des bois et forêts des seigneuries de Blamont, Clémont, Héricourt et Châtelot (1740).</unittitle>
+                     <unitdate normal="1663/1740">1663-1740</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BLAMONT (seigneurie)</geogname>
+                     <geogname>CHATELOT (seigneurie)</geogname>
+                     <geogname>CLEMONT (seigneurie)</geogname>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                     <geogname>HERICOURT (seigneurie)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EAUX ET FORETS-VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 3</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Copie de plans de 1663, au recto : bois de la Coste de Genechie ; au verso, bois dit Mont d'Userey et le Prairey, bois dit es Travers, bois de Montvaudois (1723). Copie dressée par Jean-Georges Hittel, arpenteur juré à Montbéliard (1723), d'après Nicolas Cuvie, greffier à Blamont (1663). Plan et procès-verbal d'abornement entre les territoires d'Echenans et Mandrevillars (1747), dressé par Hugues-Joseph Girardin, géomètre et notaire royal au bailliage de Beaume. Plan des bois communaux (s. d., XVIII° siècle).</unittitle>
+                     <unitdate normal="1663/1747">1663-1747</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BOIS DE LA COSTE DE GENECHIE</geogname>
+                     <geogname>BOIS DE MONTVAUDOIS</geogname>
+                     <geogname>BOIS DIT ES TRAVERS</geogname>
+                     <geogname>BOIS DIT MONT D'USEREY</geogname>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                     <geogname>MANDREVILLARS</geogname>
+                     <geogname>PRAIREY (LE)</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CUVIE (Nicolas)</persname>
+                     <persname>GIRARDIN (Hugues-Joseph)</persname>
+                     <persname>HITTEL (Jean-Georges)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>PROCEDURES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 4</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Correspondance et inventaire de production dans un procès entre la communauté d'Echenans d'une part, celle de Genechier, le duc de Wurtemberg, prince de Montbéliard et le seigneur de Genechier d'autre part.</unittitle>
+                     <unitdate normal="1776/1780">1776-1780</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>INVENTAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAGEY</geogname>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>WURTEMBERG (duc de)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 5</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal et actes divers.</unittitle>
+                     <unitdate normal="1790/1826">1790-1826</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 6</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1827/1851">1827-1851</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 7</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1851/1879">1851-1879</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 8</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1879/1904">1879-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 9</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Répertoires des actes soumis à l'enregistrement (an XI-1824, 1829-1930). Correspondance (1818-1900).</unittitle>
+                     <unitdate>An XI-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT-CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 10</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Extraits d'actes d'état-civil envoyés par d'autres communes en vue de transcription ou de mention, naissances (1784-1929), mariages et publications, promesses (an VII-1930), décès (1818-1928).</unittitle>
+                     <unitdate normal="1784/1930">1784-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 11</unitid>
+                     <unitid>E2</unitid>
+                     <unittitle>Registre d'état-civil, naissances, mariages, décès.</unittitle>
+                     <unitdate>1793-an XI</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 12</unitid>
+                     <unitid>E3</unitid>
+                     <unittitle>Registre d'état-civil, naissances, mariages, décès.</unittitle>
+                     <unitdate>An XII-1812</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 13</unitid>
+                     <unitid>E4</unitid>
+                     <unittitle>Registre d'état-civil, naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1813/1822">1813-1822</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 14</unitid>
+                     <unitid>E5</unitid>
+                     <unittitle>Registre d'état-civil, naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1823/1832">1823-1832</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 15</unitid>
+                     <unitid>E6</unitid>
+                     <unittitle>Registre d'état-civil, naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1833/1842">1833-1842</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 16</unitid>
+                     <unitid>E7</unitid>
+                     <unittitle>Registre d'état-civil, naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1843/1852">1843-1852</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 17</unitid>
+                     <unitid>E8</unitid>
+                     <unittitle>Registre d'état-civil, naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1853/1862">1853-1862</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 18</unitid>
+                     <unitid>E9</unitid>
+                     <unittitle>Registre d'état-civil, naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1863/1872">1863-1872</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 19</unitid>
+                     <unitid>E10</unitid>
+                     <unittitle>Registre d'état-civil, naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1873/1882">1873-1882</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 20</unitid>
+                     <unitid>E11</unitid>
+                     <unittitle>Registre d'état-civil, naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1883/1892">1883-1892</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 21</unitid>
+                     <unitid>E12</unitid>
+                     <unittitle>Registre d'état-civil : naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1893/1902">1893-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 23</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Etat de section (A-E).</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 24</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Etat de section (A-B).</unittitle>
+                     <unitdate>Début XIX° siècle</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 25</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Livre des mutations (1er volume).</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 26</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Livre des mutations (2° volume).</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 27</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Matrices générales des quatre contributions directes (1818-1824, 1829-1848).</unittitle>
+                     <unitdate normal="1818/1848">1818-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 28</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1850/1877">1850-1877</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 29</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1878/1912">1878-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 30</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Contributions foncières des propriétés bâties et non bâties (1928-1929, 1931-1932). Matrices de rôles pour la contribution foncière (1816). Recensement des portes et fenêtres (1831). Rôles d'impositions (1817,1833-1834). Extrait du rôle des contributions directes (1885-1899). Toisé des maisons (1813). Tableau comparatif des évaluations des maisons et usines du canton d'Héricourt (s.d.). Rôles des prestations (1837, 1846, 1848,1890-1900).</unittitle>
+                     <unitdate normal="1813/1932">1813-1932</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                     <geogname>HERICOURT-EST (canton)</geogname>
+                     <geogname>HERICOURT-OUEST (canton)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 31</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Tableaux de recensement des jeunes gens (1816-1818, 1820-1856, 1858, 1864-1902, 1926-1938).</unittitle>
+                     <unitdate normal="1816/1938">1816-1938</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 32</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Armée territoriale : tableau de recensement et liste nominative des hommes appartenant aux classes de 1855 à 1866. Ordre de route (1876). Logement et cantonnement des troupes (1879-1880). Décès de militaire (1847). Extrait d'un jugement de militaire "Mort pour la France" (1922). Champ de tir : établissement, ventes de terrain, projet de régime, statuts de la société de tir du 50° R.T.I. (1876-1912). Fort du Mont-Vaudois : vente de terrain pour construction (1874-1914, plan), journal de ravitaillement du maire : instructions (1898, 1900, 1914).&lt;lb/&gt;Guerre de 1870. Emprunt pour solder les dépenses des réquisitions allemandes (1871).</unittitle>
+                     <unitdate normal="1847">1847</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                     <geogname>MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 33</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Garde nationale. Relevés nominatifs (1832-1848). Tableau de recensement (1840). Contrôle général du service ordinaire, de la réserve (1840-1847). Registre matricule (1847-1848). Bulletins individuels (1832-1848). Elections des caporaux et sous-officiers : procès-verbaux (1840, 1843). l  Visites des armes : feuilles d'appe(1842).</unittitle>
+                     <unitdate normal="1832/1848">1832-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE LOCALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 34</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Règlement de police (1847). Débit de boissons, fermeture : arrêté préfectoral (1873). Transport de corps, mise en bière (1928, 1933).</unittitle>
+                     <unitdate normal="1847/1933">1847-1933</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGLEMENT</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 35</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales et de scrutin (1840, 1843-1852, 1855-1863, 1865-1869, 1871, 1873-1886, 1888-1906, 1909-1911, 1913, 1919, 1932).</unittitle>
+                     <unitdate normal="1840/1932">1840-1932</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 36</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections municipales (1834-1912), élection du président de la République (1851), rétablissement de l'Empire (1852), plébiscite (1870), élections législatives (1852-1928), élections au conseil d'arrondissement (1861-1928), au conseil général (1864-1901), élections sénatoriales (1890-1926) : procès-verbaux.&lt;lb/&gt;Marché de garde (1822).</unittitle>
+                     <unitdate normal="1822/1928">1822-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 37</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Budgets (1814-1906, 1909-1923, 1943, 1952).</unittitle>
+                     <unitdate normal="1814/1952">1814-1952</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 38</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptes de gestion (1827-1839, 1841-1854, 1857-1874, 1882-1931).</unittitle>
+                     <unitdate normal="1827/1931">1827-1931</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 39</unitid>
+                     <unitid>L3</unitid>
+                     <unittitle>Comptes administratifs (1835-1836, 1838-1839, 1842, 1850, 1882). Livre de détail des recettes et des dépenses (1927-1950).</unittitle>
+                     <unitdate normal="1835/1950">1835-1950</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 40</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Fontaine, construction, vente de terrain, anticipation (1848-1849). Ecole, réfection des murs de clôture (1928). Réparations à l'église et à l'école (1820-1822). Monument aux Morts, érection : correspondance, marché de gré à gré (1921).</unittitle>
+                     <unitdate normal="1820/1928">1820-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 41</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Mise en valeur des biens communaux : projet de nivellement (1 plan), estimation d'un terrain (1848-1870, plan). Anticipation (1898). Amodiations (1816-1931). Acquisitions, ventes (1816-1926). Délimitation des bois, conversion en bois de terrains en pâturage (1843-1872). Ventes de bois, procès-verbaux de balivage et martelage, menus marchés (1816-1875). Rôles de répartition du taillis et de l'affouage (1821, 1921-1927). Exploitation de la coupe affouagère (1824-1948). Aménagement des bois : procès-verbaux, plan (1822-1826). Construction à distance prohibée des bois (1884). Location de la chasse (1854-1925).&lt;lb/&gt;Eaux. Source, travaux de terrassement : devis (1846-1847). Droit de servitude d'aqueduc sur les propriétés traversées par la conduite d'eau (1885). Captage (1911). Concession d'eau (1846-1909).</unittitle>
+                     <unitdate normal="1816/1931">1816-1931</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL D'AMENAGEMENT FO</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>BOIS</subject>
+                     <subject>EAU SOUTERRAINE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-TRAVAUX DIVERS-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 42</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine. Alignement des rues (1875). Construction de 3 aqueducs : devis (1870). Distribution d'énergie électrique (1926).&lt;lb/&gt;Petite voirie. Chemins vicinaux, anticipation, travaux, classement, vente de terrains (1822-1922). Chemin de grande communication n° 17, d'Héricourt à Frahier (1840-1850). Ressources, création, budget (1849-1891).&lt;lb/&gt;Travaux divers : carrières (1860-1895).&lt;lb/&gt;Régime des eaux : curage des ruisseaux (1839-1926, plans).</unittitle>
+                     <unitdate normal="1822/1926">1822-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>COURS D'EAU</subject>
+                     <subject>DISTRIBUTION ELECTRIQUE</subject>
+                     <subject>ROUTE DEPARTEMENTALE</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 44</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Asile de Maréville : placement d'office (1852). Asile de Neurey : admission (1906). Vaccinations (1 cahier, 1899-1920). Demande de secours (1927).</unittitle>
+                     <unitdate normal="1852/1927">1852-1927</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Hospice de Neurey</corpname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 45</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Liste annuelle d'inscription des élèves (1908-1913). Registre matricule de tous les enfants reçus à l'école (1869-1872, 1874-1890).</unittitle>
+                     <unitdate normal="1869/1913">1869-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 46</unitid>
+                     <unitid>R2</unitid>
+                     <unittitle>Registre d'appel journalier et de compositions et notes mensuelles.</unittitle>
+                     <unitdate normal="1872/1892">1872-1892</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>206 Edepot 47</unitid>
+                     <unitid>R3</unitid>
+                     <unittitle>Registre d'appel journalier.</unittitle>
+                     <unitdate normal="1892/1913">1892-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHENANS-SOUS-MONT-VAUDOIS</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

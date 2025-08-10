@@ -1,0 +1,513 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_205Edepot_Archives_communales_déposées_d'Echavanne" url="https://francearchives.fr/findingaid/f7f53fbeb3b936413efc87628d753e12ad21a830">FRAD70_205Edepot_Archives_communales_déposées_d'Echavanne</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>205Edepot - Archives communales déposées d'Echavanne</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>205Edepot - Archives communales déposées d'Echavanne</unittitle>
+         <unitid>205Edepot1-14</unitid>
+         <unitdate normal="1779/1938">1779-1938</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE D'ECHEVANNE</corpname>
+         </origination>
+         <note label="note">
+            <p>Avant 1792, la population luthérienne dépendait de la paroisse d'Etobon et la population catholique de la paroisse de Frahier.
+ Les registres de délibérations du conseil municipal d'Echavanne ont été laissés en mairie de 1919 à nos jours ; les registres couvrant les périodes 1825 à 1919 semblent avoir disparu.
+
+Sources complémmentaires aux Archives Départementales de la Haute-Saône :
+B 4216, élections des députés, plaintes et doléances des habitants (1789).
+B 9387, affaires foerstières (1710-1790).
+B 9486, pièces diverses et plans provenant de maîtrises particulières diverses (1609-1779).
+E 111, extrait de la reconnaissance générale en ce qui concerne la banalité du moulin de Chenebier de la part des habitants d'Echavanne (1755), procès à ce sujet (1718-1775).
+E 116, archives de la seigneurie d'Héricourt et du Chatelot concernant Echavanne (1531-1774).
+E 271, titres féodaux concernant la paroisse de Chenebier et d'Echavanne (1542-1779).
+3 O 211, travaux communaux (depuis 1828).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             30/06/2004
+         </p>
+         <p>Dernier ajout le             02/08/2004
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> IMPOTS (1779-1779)</p>
+         <p>  205 Edepot 1</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> POPULATION-AGRICULTURE (1849-1938)</p>
+         <p>  205 Edepot 2-3</p>
+         <p> CONTRIBUTIONS (1841-1911)</p>
+         <p>  205 Edepot 4</p>
+         <p> AFFAIRES MILITAIRES (1913-1914)</p>
+         <p>  205 Edepot 5</p>
+         <p> POLICE (1840-1880)</p>
+         <p>  205 Edepot 6</p>
+         <p> ELECTIONS (1869-1935)</p>
+         <p>  205 Edepot 8</p>
+         <p> EDIFICES COMMUNAUX (1841-1907)</p>
+         <p>  205 Edepot 9</p>
+         <p> BIENS ET BOIS COMMUNAUX (1824-1922)</p>
+         <p>  205 Edepot 10</p>
+         <p> VOIRIE-REGIME DES EAUX (1839-1925)</p>
+         <p>  205 Edepot 11</p>
+         <p> CULTE (1838-1838)</p>
+         <p>  205 Edepot 12</p>
+         <p> ASSISTANCE ET PREVOYANCE (1893-1912)</p>
+         <p>  205 Edepot 13</p>
+         <p> INSTRUCTION PUBLIQUE (1882-1925)</p>
+         <p>  205 Edepot 14</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>IMPOTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>205 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Rôle d'impositions.</unittitle>
+                     <unitdate normal="1779">1779</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHAVANNE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>POPULATION-AGRICULTURE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>205 Edepot 2</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Mouvement annuel de la population (1853-1855, 1857-1861, 1867-1871, 1873-1905).</unittitle>
+                     <unitdate normal="1853/1905">1853-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHAVANNE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>205 Edepot 3</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Dénombrement : listes nominatives (1851-1861, 1872-1891, 1901-1906).&lt;lb/&gt;Agriculture. Liste électorale de la chambre d'agriculture (1938). Gardiennage du bureau communal (1849-1850).</unittitle>
+                     <unitdate normal="1849/1938">1849-1938</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi111</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHAVANNE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>205 Edepot 4</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Matrice générale de la contribution foncière (1854-1890, 1896-1911). 2 plans de parcelles qui ne figurent pas sur le plan cadastral (1865, 1869). Rétribution scolaire (1841, 1845).</unittitle>
+                     <unitdate normal="1841/1911">1841-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHAVANNE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>205 Edepot 5</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Tableaux de recensement des jeunes gens.</unittitle>
+                     <unitdate normal="1913/1914">1913-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHAVANNE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>205 Edepot 6</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Réglementation des débits de boissons (1840, 1879). Etablissement d'un jeu de quilles (1880).</unittitle>
+                     <unitdate normal="1840/1880">1840-1880</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DEBIT DE BOISSON</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHAVANNE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>205 Edepot 7</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales (1871-1909). Nomination d'une commission pour contrôler les listes électorales (1842, 1847).</unittitle>
+                     <unitdate normal="1842/1909">1842-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHAVANNE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>205 Edepot 8</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections sénatoriales (1890, 1893, 1899, 1904, 1908, 1935), élections législatives (1869, 1874, 1876-1877, 1881, 1885, 1888-1889, 1893, 1898,1902, 1906, 1910, 1914, 1919) : procès-verbaux.</unittitle>
+                     <unitdate normal="1869/1935">1869-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHAVANNE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>205 Edepot 9</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Travaux à la mairie (1842, 1855, 1886, 1901-1902), au logement de l'instituteur (1903, 1906), à l'école (1851, 1884, 1890, 1904, 1906), au presbytère protestant de Chenebier (1841, 1864), à la fontaine (1847, 1861). Sonneries de la cloche communale (1852, 1907).</unittitle>
+                     <unitdate normal="1841/1907">1841-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECOLE</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHAVANNE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>205 Edepot 10</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Amodiations de terrains communaux (1848-1913). Aliénations (1862-1922). Plan des communaux (1866). Procès-verbal de délimitation des terrains communaux (1837, 2 plans). Droits de parcours (1843-1858). Exploitation de la coupe affouagère (1843-1844, 1849, 1855). Plan des bois communaux (1824).&lt;lb/&gt; </unittitle>
+                     <unitdate normal="1824/1922">1824-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>BOIS</subject>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHAVANNE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>205 Edepot 11</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Construction d'un chemin vicinal reliant Echavanne à Frahier (1899-1900, 1903, 1909, 1912-1913). Alignement et élargissement du chemin n° 17, allant de Frahier à Héricourt (1840-1843). Travaux divers aux chemins (1843, 1846, 1849, 1854, 1882, 1884, 1901, 1925). Alignement du chemin de grande communication n° 16 (1889). Plan parcellaire pour classement du chemin dit "Descreuses" (1892). Tableaux généraux des chemins (1892, 1897, 1906). Prestations (1890-1892, 1897-1904). &lt;lb/&gt;Régime des eaux. Curage des ruisseaux (1839-1856). Construction d'une passerelle sur la Luzine (1892).</unittitle>
+                     <unitdate normal="1839/1925">1839-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>COURS D'EAU</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>ROUTE DEPARTEMENTALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>DESCREUSES</geogname>
+                     <geogname>ECHAVANNE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>205 Edepot 12</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte protestant. Traitement du pasteur.</unittitle>
+                     <unitdate normal="1838">1838</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHAVANNE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>205 Edepot 13</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Protection des enfants du premier âge, déclaration de placement des enfants en nourrice (1901-1912). Notice sur les déclarations de décès (1893).</unittitle>
+                     <unitdate normal="1893/1912">1893-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION MATERNELLE ET INFANTILE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHAVANNE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>205 Edepot 14</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Subventions pour la caisse des écoles (1882, 1889-1890). Elections des délégués de la commission scolaire (1920, 1925). Liste des enfants de 6 à 13 ans (1894). Absences des enfants (1920-1922). Inspection médicale des élèves (1921).</unittitle>
+                     <unitdate normal="1882/1925">1882-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHAVANNE</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

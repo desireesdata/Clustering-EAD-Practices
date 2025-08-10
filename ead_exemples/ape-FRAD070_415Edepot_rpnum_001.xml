@@ -1,0 +1,1564 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_415Edepot_Archives_communales_déposées_de_Polaincourt-et-Clairefontaine" url="https://francearchives.fr/findingaid/ccd21d5a930a837f4370b8469b8e7284345bb6a0">FRAD70_415Edepot_Archives_communales_déposées_de_Polaincourt-et-Clairefontaine</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>415Edepot - Archives communales déposées de Polaincourt-et-Clairefontaine</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>415Edepot - Archives communales déposées de Polaincourt-et-Clairefontaine</unittitle>
+         <unitid>415Edepot1-53</unitid>
+         <unitdate normal="1356/1941">1356-1941</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE POLAINCOURT-ET-CLAIREFONTAINE</corpname>
+         </origination>
+         <note label="note">
+            <p>Tous les registres de délibérations du conseil municipal sont conservés en mairie.
+(1) Voir 415 E dépôt 24/D1, délibération du comité local d'instruction primaire (1834-1849), nominations d'instituteurs (1855-1871).
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône : 
+Sur Polaincourt :
+C 199, procès avec la commune d'Hurecourt au sujet d'un droit de pâture (1782-1789).
+C 480, impositions (1729-1790).
+E 660, fragment du livre de justice de Polaincourt (1612-1613).
+34 J 79, registre de catholicité des actes de baptêmes des paroisses de Montdoré, Vauvillers, Polaincourt, Mailleroncourt et Saponcourt (1795-1797).
+291 L1, 368 L 351, 445, époque révolutionnaire.
+3 O 429, travaux communaux (depuis 1823).
+
+Sur Clairefontaine :
+C 230, ponts, routes à Clairefontaine (1784-1786).
+H 342 à 393, titires concernant l'abbaye de Clairefontaine (1150-1785).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             02/02/2005
+         </p>
+         <p>Dernier ajout le             07/02/2005
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> ADMINISTRATION COMMUNALE (1729-1792)</p>
+         <p>  415 Edepot 1</p>
+         <p> IMPOTS ET COMPTABILITE (1356-1788)</p>
+         <p>  415 Edepot 2-6</p>
+         <p> BIENS ET BOIS COMMUNAUX (1603-1789)</p>
+         <p>  415 Edepot 7-11</p>
+         <p> AFFAIRES MILITAIRES (1704-1719)</p>
+         <p>  415 Edepot 12</p>
+         <p> JUSTICE (1689-1791)</p>
+         <p>  415 Edepot 13-14</p>
+         <p> CULTE-ASSISTANCE ET INSTRUCTION PUBLIQUE (1652-1792)</p>
+         <p>  415 Edepot 15-23</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1807-1897)</p>
+         <p>  415 Edepot 25, 415 Edepot 24</p>
+         <p> POPULATION-ECONOMIE SOCIALE-STATISTIQUES (1790-1941)</p>
+         <p>  415 Edepot 26-28</p>
+         <p> CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES (1791-1916)</p>
+         <p>  415 Edepot 29-35</p>
+         <p> AFFAIRES MILITAIRES (...-...)</p>
+         <p>  415 Edepot 36</p>
+         <p> POLICE-HYGIENE PUBLIQUE ET SALUBRITE (1854-1938)</p>
+         <p>  415 Edepot 37</p>
+         <p> ELECTIONS-PERSONNEL COMMUNAL (1792-1924)</p>
+         <p>  415 Edepot 38-39</p>
+         <p> FINANCES COMMUNALES (1790-1910)</p>
+         <p>  415 Edepot 40-43</p>
+         <p> EDIFICES PUBLICS (1791-1923)</p>
+         <p>  415 Edepot 44</p>
+         <p> BIENS ET BOIS COMMUNAUX-DROITS DIVERS (1791-1922)</p>
+         <p>  415 Edepot 45</p>
+         <p> VOIRIE-TRAVAUX DIVERS-REGIME DES EAUX (1831-1921)</p>
+         <p>  415 Edepot 46-47</p>
+         <p> CULTE (1790-1791)</p>
+         <p>  415 Edepot 48</p>
+         <p> ASSISTANCE ET PREVOYANCE (1812-1937)</p>
+         <p>  415 Edepot 49-52</p>
+         <p> INSTRUCTION PUBLIQUE (1862-1934)</p>
+         <p>  415 Edepot 53</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION COMMUNALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 1</unitid>
+                     <unitid>BB1</unitid>
+                     <unittitle>Nominations et prestations de serment des échevins, messiers et forestiers (1763-1792). Procédure contre les messiers pour négligence dans leur travail (1729).</unittitle>
+                     <unitdate normal="1729/1792">1729-1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 2</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Arpentement du territoire.</unittitle>
+                     <unitdate normal="1760">1760</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>arpentement</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 3</unitid>
+                     <unitid>CC2</unitid>
+                     <unittitle>Affranchissement de la mainmorte (1356, 1 parchemin, 1730). Extrait de reconnaissance des droits de la communauté de Polaincourt, dépendant de Jonvelle (1666, copie de 1732). Constitution de rente (1746, 1 parchemin). Plan de toutes les maisons composant le village (1769).</unittitle>
+                     <unitdate normal="1356/1769">1356-1769</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>mainmorte</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>JONVELLE</geogname>
+                     <geogname>POLAINCOURT</geogname>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 4</unitid>
+                     <unitid>CC3</unitid>
+                     <unittitle>Rôles et répartements des impositions (1698-1714, 1750, 1759).</unittitle>
+                     <unitdate normal="1698/1759">1698-1759</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 5</unitid>
+                     <unitid>CC4</unitid>
+                     <unittitle>Portion congrue : marché avec le curé (1661), déclaration royale (1686). Droits curiaux : état et tarif (1692). Plainte des curés à l'archevêque de Besançon sur la répartition des impositions (1736). Dette de particuliers envers le curé de Polaincourt (1768).</unittitle>
+                     <unitdate normal="1661/1768">1661-1768</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>TARIF</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT</geogname>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 6</unitid>
+                     <unitid>CC5</unitid>
+                     <unittitle>Comptes d'échevins (1700, 1781-1788).</unittitle>
+                     <unitdate normal="1700/1788">1700-1788</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COMPTABILITE PUBLIQUE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 7</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Amodiations de terres (1651, 1759). Vente d'un communal (1724). Plan géométrique des communaux (1760).&lt;lb/&gt;Sinistres. Sécheresse (1723, 1731).</unittitle>
+                     <unitdate normal="1651/1760">1651-1760</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>SINISTRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 8</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Procès avec le sieur Magnien, concernant la propriété d'un terrain à Polomont.</unittitle>
+                     <unitdate normal="1726/1739">1726-1739</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                     <geogname>POLOMONT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>MAGNIEN</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 9</unitid>
+                     <unitid>DD3</unitid>
+                     <unittitle>Procès-verbaux de visite des bois (1742-1785). Procès-verbaux d'appositions et de récolements d'assiettes (1745-1789). Procès-verbaux de balivage et martelage (1750-1766).</unittitle>
+                     <unitdate normal="1742/1789">1742-1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'AMENAGEMENT FO</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 10</unitid>
+                     <unitid>DD4</unitid>
+                     <unittitle>Autorisation de prendre ou couper du bois (1603, 1711-1723). Copie de l'abornement de 1699. Délits forestiers (1703). Arrêt du conseil d'état sur les bois (1731). Procès concernant la construction de baraques (1702-1703, les droits d'usage (1728-1747, 2 parchemins). Procès avec les habitants d'Hurecourt (1788-1789).</unittitle>
+                     <unitdate normal="1603/1789">1603-1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>HURECOURT</geogname>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 11</unitid>
+                     <unitid>DD5</unitid>
+                     <unittitle>Presbytère : visite des réparations à faire (1700). Eglise : procès-verbaux d'adjudication des travaux (1711-1722, 1772, 1782). Four banal : amodiation (1733). Fontaine : devis et plan pour la reconstruction (1768-1769).</unittitle>
+                     <unitdate normal="1700/1782">1700-1782</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 12</unitid>
+                     <unitid>EE1</unitid>
+                     <unittitle>Réquisitions (1704, 1719). Tirage au sort d'un soldat (1719).</unittitle>
+                     <unitdate normal="1704/1719">1704-1719</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 13</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Tutelles, curatelles, émancipations.</unittitle>
+                     <unitdate normal="1734/1790">1734-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 14</unitid>
+                     <unitid>FF2</unitid>
+                     <unittitle>Procès avec l'abbaye de Clairefontaine, au sujet de la Grange-Rouge (1689, 1781-1784). Procès avec le salpêtrier (1782-1791). Procès-verbaux de levée de cadavre (1784, 1786).</unittitle>
+                     <unitdate normal="1689/1791">1689-1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>salpétrier</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>GRANGE-ROUGE (LA)</geogname>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Abbaye de Clairefontaine</corpname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE-ASSISTANCE ET INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 15</unitid>
+                     <unitid>GG8</unitid>
+                     <unittitle>Abbaye de Clairefontaine. Etat descriptif de l'abbaye et de ses dépendances par l'abbé Brun (s.d.). Amodiations des biens (1654-1792). Exploitation des bois (1743-1781). Procès entre le curé et les abbés au sujet des fonds dotaux de la cure (1688).</unittitle>
+                     <unitdate normal="1654/1792">1654-1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BRUN (abbé)</persname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Abbaye de Clairefontaine</corpname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 16</unitid>
+                     <unitid>GG9</unitid>
+                     <unittitle>Fabrique. Amodiations de terres (1703-1788).&lt;lb/&gt;Assistance publique. Donation au profit des pauvres par le curé de Polaincourt (1752-1784).&lt;lb/&gt;Instruction publique. Marchés de recteur d'école (1692, 1762, 1788).</unittitle>
+                     <unitdate normal="1692/1788">1692-1788</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE</subject>
+                     <subject>VIE RELIGIEUSE</subject>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 17</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Polaincourt : baptêmes (1652-1665, 1669-1681, 1673-1675), baptêmes, mariages, sépultures (1683-1688).</unittitle>
+                     <unitdate normal="1652/1688">1652-1688</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R44</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT</geogname>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 18</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Polaincourt : baptêmes, mariages, sépultures (1704, 1756, 1705-1709, 1714-1721, 1724-1725, 1731-1737).</unittitle>
+                     <unitdate normal="1704/1756">1704-1756</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R44</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT</geogname>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 19</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Polaincourt : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1684/1720">1684-1720</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R44</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT</geogname>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 20</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Polaincourt : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1720/1749">1720-1749</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R44</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT</geogname>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 22</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Polaincourt : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1749/1777">1749-1777</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R44</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT</geogname>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 23</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial de Polaincourt : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1777/1792">1777-1792</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R44-R45</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT</geogname>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 24</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre de correspondance (1861-1897). A l'envers, délibérations du comité local d'instruction primaire (1834-1849) et nomination d'instituteurs et institutrices (1855-1871).</unittitle>
+                     <unitdate normal="1834/1897">1834-1897</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 25</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Répertoires des actes soumis à l'enregistrement.</unittitle>
+                     <unitdate normal="1807/1894">1807-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-STATISTIQUES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 26</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Dénombrement quinquennal de la population : listes nominatives.</unittitle>
+                     <unitdate normal="1836/1906">1836-1906</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi133</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 27</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Mouvement annuel de la population (1837, 1853-1904).</unittitle>
+                     <unitdate normal="1837/1904">1837-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POPULATION RURALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 28</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Dîme des grains, différend avec le curé Cordier (1790, an XIII). Entretien du taureau communal (1820-1917). Statistiques agricoles annuelles (1841-1941), déclarations de récoltes de vigne (1919). Destruction d'animaux nuisibles (1872-1921).&lt;lb/&gt;Industrie. Travail des enfants, registre servant à l'inscription des livrets (1843), questionnaire (1867, 1881).</unittitle>
+                     <unitdate normal="1790/1941">1790-1941</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>DECLARATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>INDUSTRIE</subject>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CORDIER (curé)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 29</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Etat de sections.</unittitle>
+                     <unitdate>s.d.</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 30</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Livre des mutations (1er volume).</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 31</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Livre de mutations (2° volume).</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 32</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Livre de mutations (3° volume).</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 33</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Livre de mutations (4° volume, 1 cahier).</unittitle>
+                     <unitdate normal="1831">1831</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CAHIER</genreform>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 34</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Matrices générales des contributions.</unittitle>
+                     <unitdate normal="1896/1916">1896-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 35</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Abolition de la dîme et de la corvée (1791). Nomination des commissaires-répartiteurs (an X-1883).&lt;lb/&gt;Postes set télégraphes. Transport des dépêches, distribution des télégrammes (1903-1904), location du bureau de poste (1904).</unittitle>
+                     <unitdate normal="1791/1904">1791-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                     <subject>POSTE</subject>
+                     <subject>TELEGRAPHE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 36</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Réquisitions (an II). Notifications des ordres de route (1832-1867). Tombes militaires, transfert des restes mortuaires (1921).&lt;lb/&gt;Sapeurs-pompiers. Engagement (1887-1923). Contrôles nominatifs (1914-1926). Acquisition d'une pompe à incendie (1906).&lt;lb/&gt;Garde-nationale. Election des officiers et sous-officiers (1837-1870). Listes nominatives et contrôle d'armement (1835, 1870). Bataillon cantonal, démission, formation du conseil de discipline (1831-1832).&lt;lb/&gt;Guerre de 1914-1918. Cantonnement, dégâts occasionnés, indemnisation (1918-1920).</unittitle>
+                     <unitdate>An II-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>GUERRE</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 37</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Règlement (1854). Débits de boissons, autorisation et refus (1872-1873). Sinistres, secours accordés (1893-1904).&lt;lb/&gt;Police générale. Condamnés libérés (1858-1866). Etrangers en résidence à Polaincourt (1924-1938).&lt;lb/&gt;Hygiène publique et salubrité. Epizooties, suppression des foires, surveillance des animaux (1928-1935).</unittitle>
+                     <unitdate normal="1854/1938">1854-1938</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGLEMENT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DEBIT DE BOISSON</subject>
+                     <subject>ETRANGER</subject>
+                     <subject>MANIFESTATION COMMERCIALE</subject>
+                     <subject>PROTECTION SANITAIRE DU CHEPTEL</subject>
+                     <subject>SINISTRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT</geogname>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS-PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 38</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes de scrutin (1863-1889). Elections municipales et installation du conseil (1810-1884), démission du maire et son conseil (1887-1891) ; élections législatives (1852-1889), élections au conseil général (1853-1889), élections au conseil d'arrondissement (1861-1883) : procès-verbaux.</unittitle>
+                     <unitdate normal="1810/1891">1810-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE D'EMARGEMENT</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 39</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Nominations des gardes-forestier (1792), gardes-champêtre (an VI, 1815), gardes-vigne (1829-1859), cantonniers (1924).</unittitle>
+                     <unitdate normal="1792/1924">1792-1924</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES COMMUNALES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 40</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptes de gestion (incomplet).</unittitle>
+                     <unitdate normal="1793/1835">1793-1835</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 41</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptes de gestion (1847-1863, 1875-1910).</unittitle>
+                     <unitdate normal="1847/1910">1847-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 42</unitid>
+                     <unitid>L3</unitid>
+                     <unittitle>Comptes administratifs (1790-1806, 1848-1886, incomplet).</unittitle>
+                     <unitdate normal="1790/1886">1790-1886</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 43</unitid>
+                     <unitid>L4</unitid>
+                     <unittitle>Budgets.</unittitle>
+                     <unitdate>An VII-1888</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 44</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Presbytère, état des réparations à faire (1792), location (1913, 1923). Cimetière : plan des parcelles à échanger pour la construction d'un nouveau cimetière (1840). Eglise : devis des réparations (1885). Pont à bascule, acquisition (1899). Horloge, acquisition (1901), réparations (1916). Ecole, pose de parquets (1907).&lt;lb/&gt;Abbaye de Clairefontaine. Transport des cloches à Jussey (1791). Transport à l'église de Polaincourt des autels de l'abbaye (1792). Prestation de serment des architectes pour la visite des bâtiments dépendant de l'abbaye (1792).</unittitle>
+                     <unitdate normal="1791/1923">1791-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>JUSSEY</geogname>
+                     <geogname>POLAINCOURT</geogname>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Abbaye de Clairefontaine</corpname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-DROITS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 45</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Amodiations de biens ruraux (1791-1793). Partage des communaux : décret impérial (an II-1809, 1 plan). Délimitation, état, vente, achat (1839-1910, 1 plan). Litige avec la commune de Saponcourt, à propos du droit de pâture (1867-1868). Pièces de procédure concernant la propriété d'un terrain (1894).&lt;lb/&gt;Rôles de distribution d'affouage (1791, 1808-1822). Acquisition de passage dans le bois du Chenimont (1861, 1 plan).&lt;lb/&gt;Droits divers. Concessions d'eau (1868-1885). Concession au cimetière (1901).</unittitle>
+                     <unitdate normal="1791/1922">1791-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>BIEN SPOLIE</subject>
+                     <subject>BOIS</subject>
+                     <subject>CONCESSION FUNERAIRE</subject>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHENIMONT (LE)</geogname>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                     <geogname>SAPONCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-TRAVAUX DIVERS-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 46</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Petite voirie. Travaux sur le chemin vicinal de Polaincourt à Senoncourt (1848). Redressement du chemin de la ferme Genevois (1849-185, 2 plans). Travaux sur le chemin de moyenne vicinalité n° 11, de Port-d'Atelier à Polaincourt (1853-1895). Chemin de grande communication n° 7, de Breurey à la Haute-Marne (1875-1917). Ouverture d'un chemin de défruitement (1873, 1 croquis). Chemins vicinaux, déclassement, réparations : tableaux généraux (1878-1907). Créations de ressources (1845-1899). Conversion en tâches des prestations (1860-1899).&lt;lb/&gt;Grande voirie. Route départementale n° 5, élargissement et alignement (1 plan, 1863, 1874).&lt;lb/&gt;Travaux divers. Carrières, extractions de pierres (1887-1908).</unittitle>
+                     <unitdate normal="1845/1917">1845-1917</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CARRIERE</subject>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>ROUTE DEPARTEMENTALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>GENEVOIS (Ferme)</geogname>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 47</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Curage des fossés et ruisseaux.</unittitle>
+                     <unitdate normal="1831/1921">1831-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 48</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Abbaye de Clairefontaine. Liste nominative des religieux avec indication de leur âge (1790). Inventaire du mobilier et du linge d'un religieux qui quitte l'abbaye (1791).</unittitle>
+                     <unitdate normal="1790/1791">1790-1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>INVENTAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Abbaye de Clairefontaine</corpname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 49</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Nomination d'un médecin (1862-1884). Listes des indigents (1868-1882). Protection des enfants du premier âge (1877, 1883, 1894, 1920). Placement à l'hospice (1901). Assistance aux vieillards (1907). Litige concernant les frais d'hospitalisation dans un sanatorium de Berck-Plage (1919-1921). Nomination de vaccinateurs (1921-1936). Encouragement national aux familles nombreuses (1927-1934).</unittitle>
+                     <unitdate normal="1862/1936">1862-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION MATERNELLE ET INFANTILE</subject>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BERCK-PLAGE</geogname>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 50</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Bureau de bienfaisance. Rentes (1824-1862). Nomination des membres de la commission (1837-1937). Extraits de délibérations (1862, 1888-1936). Comptes administratifs (1864-1879).</unittitle>
+                     <unitdate normal="1824/1937">1824-1937</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 51</unitid>
+                     <unitid>Q3</unitid>
+                     <unittitle>Comptes de gestion (1812, 1837, 1847-1910).</unittitle>
+                     <unitdate normal="1812/1910">1812-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 52</unitid>
+                     <unitid>Q4</unitid>
+                     <unittitle>Budgets.</unittitle>
+                     <unitdate normal="1844/1916">1844-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>415 Edepot 53</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>(1) Bibliothèque scolaire, inventaire (1862-1866). Cours d'adulte (1871, 1878). Nomination d'instituteur (1902). Transformation en école mixte de 2 classes (1934).</unittitle>
+                     <unitdate normal="1862/1934">1862-1934</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>INVENTAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT-ET-CLAIREFONTAINE</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

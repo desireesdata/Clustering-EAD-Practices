@@ -1,0 +1,1253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_333Edepot_Archives_communales_déposées_de_Margilley" url="https://francearchives.fr/findingaid/b96031eaa99eb8f79ff066ffd27555eb65027f41">FRAD70_333Edepot_Archives_communales_déposées_de_Margilley</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>333Edepot - Archives communales déposées de Margilley</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>333Edepot - Archives communales déposées de Margilley</unittitle>
+         <unitid>333Edepot1-43</unitid>
+         <unitdate normal="1768/1956">1768-1956</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE MARGILLEY</corpname>
+         </origination>
+         <note label="note">
+            <p>Commune associée avec Champlitte-et-le Prélot, Champlitte-la-Ville, Leffond, Montarlot-lès-Champlitte, Neuvelle-lès-Champlitte en 1972 et prend le nom de Champlitte.
+Avant 1792, Margilley dépendait de la paroisse de Champlitte-la-Ville.
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 85 à 91, archives du bailliage de Champlitte concernant Margilley (1698-1790).
+B 1426, restitution de terrains (1776).
+B 1435, sentence concernant la perception de la dîme générale du vin (1779).
+B 1647, jugement concernant les gages du recteur d'école (1763).
+B 1917, rapports concernant les habitants de Margilley et les officiers municipaux de Champlitte (1745-1789).
+B 9335, affaires forestières (1690-1791).
+B 9557, affaires diverses concernant la communauté (1751-1787).
+B 9700, répartition des assiettes et toisé des bâtiments (1785-1788).
+C 12, intendance de Franche-Comté concernant Margilley (1687-1743).
+C 61, alignement (1784-1790).
+C 151, procès-verbal d'arpentage, réparations des fontaines, comptes (1761-1789).
+E 710, 729, 747, 820, 943, titres de famille (1539-1775).
+G 1, 2, 4 à 6, 8, 11, 18 à 20, chapître de Champlitte (1402-1744).
+H 11, condamnation du fermier de Rougemont à contribuer aux charges de la communauté (1692).
+H 1027, déclaration des biens possédés par les Ursulines de Gray sur le territoire de Margilley (XVII° siècle).
+H 1052, constitutions de rentes au profit des Visitandines de Gray (1670).
+1 j 151, procès au sujet d'une ferme (1812-1817).
+368 L 66, 372 L 3, époque révolutionnaire.
+3 O 346, travaux communaux (depuis 1823).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             26/08/2003
+         </p>
+         <p>Dernier ajout le             26/08/2003
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> BOIS ET BIENS COMMUNAUX (1783-1784)</p>
+         <p>  333 Edepot 1</p>
+         <p> JUSTICE (1768-1768)</p>
+         <p>  333 Edepot 2</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1808-1928)</p>
+         <p>  333 Edepot 3-16</p>
+         <p> ETAT-CIVIL (1809-1861)</p>
+         <p>  333 Edepot 17</p>
+         <p> POPULATION-ECONOMIE SOCIALE-STATISTIQUE (1822-1935)</p>
+         <p>  333 Edepot 18-20</p>
+         <p> CONTRIBUTIONS (1818-1956)</p>
+         <p>  333 Edepot 21-23, 333 Edepot 43</p>
+         <p> AFFAIRES MILITAIRES (1812-1879)</p>
+         <p>  333 Edepot 24-26</p>
+         <p> POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE (1816-1941)</p>
+         <p>  333 Edepot 27-28</p>
+         <p> ELECTIONS ET PERSONNEL COMMUNAL (1831-1949)</p>
+         <p>  333 Edepot 29-31</p>
+         <p> FINANCES DE LA COMMUNE (1810-1860)</p>
+         <p>  333 Edepot 32-33</p>
+         <p> EDIFICES COMMUNAUX (1817-1922)</p>
+         <p>  333 Edepot 34</p>
+         <p> BIENS ET BOIS COMMUNAUX-EAUX (1811-1930)</p>
+         <p>  333 Edepot 35-38</p>
+         <p> VOIRIE-MOYENS DE TRANSPORT (1807-1897)</p>
+         <p>  333 Edepot 39</p>
+         <p> CULTE (1824-1900)</p>
+         <p>  333 Edepot 40</p>
+         <p> ASSISTANCE ET PREVOYANCE (1810-1891)</p>
+         <p>  333 Edepot 41</p>
+         <p> INSTRUCTION PUBLIQUE (1836-1930)</p>
+         <p>  333 Edepot 42</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BOIS ET BIENS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Requête adressée au Grand Maître des Eaux et Forêts pour obtenir le reste de la somme provenant de la vente du quart de réserve de Margilley (1783). Plan de communaux (1784).</unittitle>
+                     <unitdate normal="1783/1784">1783-1784</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 2</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Pièce de procédure relative au paiement d'une dîme.</unittitle>
+                     <unitdate normal="1768">1768</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>IMPOTS LOCAUX</subject>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 3</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Délibérations de la commune de Margilley.</unittitle>
+                     <unitdate>1790-an IV</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CAHIER</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 4</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Délibérations de la commune de Margilley.</unittitle>
+                     <unitdate>An VIII-anXI</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CAHIER</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 5</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Délibérations de la commune de Margilley.</unittitle>
+                     <unitdate>An VIII-1807</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CAHIER</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 6</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Délibérations de la commune de Margilley.</unittitle>
+                     <unitdate normal="1808/1814">1808-1814</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CAHIER</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 7</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Délibérations de la commune de Margilley.</unittitle>
+                     <unitdate normal="1814/1827">1814-1827</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CAHIER</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 8</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Délibérations de la commune de Margilley.&lt;lb/&gt;Conservé en mairie.</unittitle>
+                     <unitdate normal="1827/1838">1827-1838</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 9</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Délibérations du conseil municipal de Margilley.&lt;lb/&gt;Conservé en mairie.</unittitle>
+                     <unitdate normal="1838/1844">1838-1844</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 10</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Délibérations du conseil municipal.&lt;lb/&gt;Conservé en mairie.</unittitle>
+                     <unitdate normal="1844/1856">1844-1856</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 11</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Délibérations du conseil municipal.&lt;lb/&gt;Conservé en mairie.</unittitle>
+                     <unitdate normal="1856/1872">1856-1872</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 12</unitid>
+                     <unitid>D1O</unitid>
+                     <unittitle>Délibérations du conseil municipal.&lt;lb/&gt;Conservé en mairie.</unittitle>
+                     <unitdate normal="1872/1894">1872-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 13</unitid>
+                     <unitid>D11</unitid>
+                     <unittitle>Extraits des registres des délibérations.</unittitle>
+                     <unitdate normal="1823/1928">1823-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 14</unitid>
+                     <unitid>D12</unitid>
+                     <unittitle>Arrêtés du maire.</unittitle>
+                     <unitdate normal="1838/1875">1838-1875</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 15</unitid>
+                     <unitid>D13</unitid>
+                     <unittitle>Arrêtés du maire.</unittitle>
+                     <unitdate normal="1875/1919">1875-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 16</unitid>
+                     <unitid>D14</unitid>
+                     <unittitle>Répertoires des actes soumis à l'enregistrement (1806-1881). Petite correspondance (1821-1881). Délimitation de territoire entre les communes de Margilley et Neuvelle-lès-Champlitte (an XII). Plan de la commune (an XII). Inventaire des archives et objets mobiliers (1922).</unittitle>
+                     <unitdate>An XII-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>INVENTAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT-CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 17</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Extraits d'actes d'état-civil.</unittitle>
+                     <unitdate normal="1809/1861">1809-1861</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 18</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Mouvement annuel.</unittitle>
+                     <unitdate normal="1853/1906">1853-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 19</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Dénombrement : listes nominatives.</unittitle>
+                     <unitdate normal="1836/1911">1836-1911</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi127</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 20</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Commerce et industrie. Listes des électeurs appelés à élire les membres du tribunal de commerce (1884-1931).&lt;lb/&gt;Agriculture.Statistiques annuelles (1853-1935). Etats des récoltes (1855-1881). Marchés de  fourniture du taureau (1822-1889).&lt;lb/&gt;Travail. Registre de délivrance ou visa de livrets d'ouvriers (1856-1864).</unittitle>
+                     <unitdate normal="1822/1935">1822-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>ELECTEUR</subject>
+                     <subject>TRAVAIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 21</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1829/1853">1829-1853</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 22</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Matrices générales (1854-1889, 1952-1956).</unittitle>
+                     <unitdate normal="1854/1956">1854-1956</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 23</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Etat de sections (A à S). Contributions directes (1864-1872). Extrait du rôle général des contributions foncières des propriétaires non résidant dans la commune (1824). Patentes (1818-1845).&lt;lb/&gt;Bureau des domaines. Cahier des charges pour la vente des biens de l'état (1924).&lt;lb/&gt;Téléphone. Inventaire des objets et matériels du bureau. Rétribution du gérant (1923-1924).&lt;lb/&gt;Poids et mesures (1840).</unittitle>
+                     <unitdate normal="1818/1924">1818-1924</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                     <genreform>CAHIER DES CHARGES</genreform>
+                     <genreform>INVENTAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DOMAINE IMMOBILIER</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>TELEPHONE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 43</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Rôles de la contribution foncière (1791, an III, an V, an VII), de la contribution personnelle (an IV, an V, an VII), contribution mobiliaire (1791, an V). Imposition principale (1790). Droits de patentes (an VII).</unittitle>
+                     <unitdate>1790-an VII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 24</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Ordres de route, avis d'inscription (1868-1879). Tableaux de recensement des jeunes gens (1812-1870). Décès de militaires (1864-1871). Autorisation de mariage (1868).</unittitle>
+                     <unitdate normal="1812/1879">1812-1879</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 25</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Garde nationale. Listes de recensement, électeurs pour les conseils de révision et de discipline, armement (1831-1848). Bulletins individuels, relevés nominatifs (1833-1850).</unittitle>
+                     <unitdate normal="1831/1850">1831-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 26</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Contrôles matricules, contrôles généraux (s.d.). Elections d'officiers : procès-verbaux (1831-1848).</unittitle>
+                     <unitdate normal="1831/1848">1831-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 27</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Arrêtés concernant la sûreté et la tranquillité publique (1844-1865). Pertes occasionnées par le gel, l'orage, les inondations... (1816-1897).&lt;lb/&gt;Police urbaine. Demande de permis de chasse (1899).&lt;lb/&gt;Police générale. Demandes de passeports, délivrances et souches (1811-1857). Etrangers, registre d'immatriculation (1893-1927). Registre de déclarations de résidence (1891-1941).</unittitle>
+                     <unitdate normal="1816/1941">1816-1941</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>DECLARATION</genreform>
+                     <genreform>PASSEPORT</genreform>
+                     <genreform>PERMIS DE CHASSE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETRANGER</subject>
+                     <subject>POLICE</subject>
+                     <subject>SINISTRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 28</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Justice. Extraits de jugements et condamnations (1828-1866). Enquête (1855). Listes du jury (1827-1872).&lt;lb/&gt;Hygiène publique et salubrité. Cahier de vaccinations (1851-1876). Epizootie du typhus (1871).</unittitle>
+                     <unitdate normal="1827/1876">1827-1876</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE</genreform>
+                     <genreform>CAHIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JURY D'ASSISES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 29</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes des électeurs (1832-1911). Avis de radiations des listes électorales (1852-1894).</unittitle>
+                     <unitdate normal="1832/1911">1832-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 30</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Election du Président de la République (1851), plébiscite (1870), élections législatives (1852-1946), sénatoriales (1881-1945), élections des membres du conseil général (1860-1949) : procès-verbaux.</unittitle>
+                     <unitdate normal="1851/1949">1851-1949</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 31</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Elections des conseillers municipaux, des maires et adjoints (1831-1947) : procès-verbaux.&lt;lb/&gt;Personnel, nominations, révocations, salaires, habillement (1833-1895).</unittitle>
+                     <unitdate normal="1831/1947">1831-1947</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 32</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Budgets.</unittitle>
+                     <unitdate normal="1810/1860">1810-1860</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 33</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptes de gestion (an IX-1872). Cotes irrécouvrables (1848-1856). Pièces diverses (1816-1902). Emprunt (1864-1867). Rôle de la taxe de prestations (1895), de la taxe vicinale (1900-1904).</unittitle>
+                     <unitdate>An IX-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 34</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Maison commune, acquisition, construction, réparations, entretien (1826-1895), plan de construction du beffroi (1846). Reconstruction, réparations et entretien de l'église (1817-1908, plan), du presbytère (1824-1902, plan). Réparations et acquisition de terrains pour l'agrandissement du cimetière (1811-1874, plan). Construction et réparations de l'école et du logement de l'institutrice (1832-1855). Erection d'un monument aux Morts (1920-1922).</unittitle>
+                     <unitdate normal="1817/1922">1817-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 35</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Tableau des évaluations des maisons et usines, état des biens ruraux, inventaire des titres, baux et rentes de la  commune, échanges d'immeubles (an XII-1911). Amodiations de communaux (1824-1842). Bornage de communaux (1825). Vaine-pâture (1826-1890). Procès entre la commune et un particulier relatif à la propriété d'un passage (1828-1830).</unittitle>
+                     <unitdate>An XII-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>INVENTAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 36</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Bois : délimitation, aménagement, quart en réserve (1822-1872), exploitation, répartition (1811-1850).</unittitle>
+                     <unitdate normal="1811/1872">1811-1872</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                     <subject>BOIS</subject>
+                     <subject>COUPE DE BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 37</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Bois : exploitation, répartition.</unittitle>
+                     <unitdate normal="1851/1902">1851-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>COUPE DE BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 38</unitid>
+                     <unitid>N4</unitid>
+                     <unittitle>Construction, réparations, entretien des fontaines, lavoirs et abreuvoirs (1821-1910).&lt;lb/&gt;Concessions au cimetière (1867-1930).</unittitle>
+                     <unitdate normal="1821/1930">1821-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONCESSION FUNERAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-MOYENS DE TRANSPORT</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 39</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine. Alignements (1824-1864).&lt;lb/&gt;Petite voirie. Construction, réparations, entretien des chemins ruraux (1816-1897). Prestations, subventions, ressources (1825-1900). Classement des chemins ruraux avec plans (1891).&lt;lb/&gt;Moyens de transport. Réparations à l'écluse et au pont du moulin de la Barbe (1807-1849). Réglement d'eau (1863-1867).</unittitle>
+                     <unitdate normal="1807/1897">1807-1897</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BARBE (LA)</geogname>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 40</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Budgets et comptes de gestion de la fabrique (1894-1900). Erection en succursale de l'église de Margilley (1824-1847). Difficulté entre les communes de Margilley et Champlitte-la-Ville au sujet de quote-part co-paroissiales (1829-1867).</unittitle>
+                     <unitdate normal="1824/1900">1824-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 41</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Don à l'hospice de Champlitte (1891).&lt;lb/&gt;Bureau de bienfaisance. Registre destiné à l'inscription des actes du bureau (1810).</unittitle>
+                     <unitdate normal="1810/1891">1810-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>333 Edepot 42</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Caisse des écoles (1882-1896). Commission municipale scolaire (1882-1925). Personnel de l'instruction primaire (1843-1881). Dépenses scolaires, traitement de l'instituteur, rétributions dues par les parents d'élèves (1836-1890). Récolement de la bibliothèque (1842-1930). Listes des enfants admis gratuitement à l'école primaire (1851-1881). Extraits du registre d'appel (1884-1895).</unittitle>
+                     <unitdate normal="1836/1930">1836-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

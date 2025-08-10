@@ -1,0 +1,741 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_458Edepot_Archives_communales_déposées_de_Saint_Andoche" url="https://francearchives.fr/findingaid/fe04b1eab1409e960eedbe2b76b7838d3c06f52b">FRAD70_458Edepot_Archives_communales_déposées_de_Saint_Andoche</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>458Edepot - Archives communales déposées de Saint Andoche</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>458Edepot - Archives communales déposées de Saint Andoche</unittitle>
+         <unitid>458Edepot1-23</unitid>
+         <unitdate normal="1693/1969">1693-1969</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE SAINT-ANDOCHE</corpname>
+         </origination>
+         <note label="note">
+            <p>Commune fusionnnée en 1973 avec Fouvent-le-Bas et Fouvent-le-Haut, prend le nom de Fouvent-Saint-Andoche.
+
+(1) Lacunes pour les années 1694, 1698 et 1705. Ces lacunes sont comblées par la collection déposée aux Archives Départementales par le Greffe du Tribunal de Vesoul, qui commence en 1669.
+(2) Parmi ces actes, il faut signaler notamment le mariage d'Armand-Jean-Baptiste d'Arnoult, seigneur de Fontenay et de la baronnie de Fouvent avec Jeanne-Françoise Poncelin, fille du seigneur de Raucourt, paroisse de Roche (21 décembre 1750).
+(3) Lacune d'octobre 1765 à avril 1766. Cette lacune existe également dans la collection déposée aux Archives Départementales de la Haute-Saône par le Greffe du tribunal de Vesoul.
+(4) Manque le début du registre.
+(5) Table décennale de 1792 à l'an XI et tables annuelles.
+(6)  Atlas classé dans la collection des atlas cadastraux déposés aux Archives Départementales de la Haute-Saône.
+(7)  Plan classé dans la collection des plans communaux déposés aux Archives Départementales de la Haute-Saône.
+(8)  Plans classés dans la collection des plans communaux déposés aux Archives Départementales de la Haute-Saône.
+               
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 7585, justice seingeuriale de Saint-Andoche (1789).
+B 9298, affaires forestières (1707-1791).
+C561, rôles des vingtièmes de Saint-Andoche et Trécourt, anciennement communautés de l'élection de Langres (1767-1788).
+E 836, contestation entre les habitants de Raucourt d'une part, et ceux de Saint-Andoche et Jean de Vergy d'autre part, pour un droit de vaine-patûre (1428).
+H 8, revenus de la commanderie d'Aumonières à Saint-Andoche (1304-1616).
+3 O 473bis, travaux communaux, depuis 1835.</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             08/01/2002
+         </p>
+         <p>Dernier ajout le             16/01/2002
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> Cultes</p>
+         <p>  458 Edepot 1-4</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> Administration générale</p>
+         <p>  458 Edepot 5-12</p>
+         <p> Etat-civil</p>
+         <p>  458 Edepot 13-15</p>
+         <p> Contributions</p>
+         <p>  458 Edepot 16-19</p>
+         <p> Bâtiments communaux</p>
+         <p>  458 Edepot 20</p>
+         <p> Biens communaux non bâtis</p>
+         <p>  458 Edepot 21</p>
+         <p> Cultes</p>
+         <p>  458 Edepot 22</p>
+         <p> Assistance et prévoyance</p>
+         <p>  458 Edepot 23</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>Cultes</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 1</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial* (1) de Saint-Andoche-et-Trécourt et de la ferme de Brevotey, baptêmes, mariages et sépultures (janvier-décembre 1693, janvier 1695-décembre 1697, janvier-février, octobre-décembre, février-juillet 1698, janvier1699-avril 1705, février 1706-décembre 1730). &lt;lb/&gt;&lt;lb/&gt;(1) Lacunes pour les années 1694, 1698 et 1705. Ces lacunes sont comblées par la collection déposée aux Archives Départementales par le Greffe du Tribunal de Vesoul, qui commence en 1669.</unittitle>
+                     <unitdate normal="1693/1730">1693-1730</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 1MiEC8</p>
+                  </altformavail>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BREVOTEY</geogname>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 2</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial* (2) de Saint-Andoche-et-Trécourt, baptêmes, mariages et sépultures (janvier 1731-novembre 1743, novembre-décembre, janvier-novembre 1744, janvier 1745-septembre 1765).&lt;lb/&gt;(2) Parmi ces actes, il faut signaler notamment le mariage d'Armand-Jean-Baptiste d'Arnoult, seigneur de Fontenay et de la baronnie de Fouvent avec Jeanne-Françoise Poncelin, fille du seigneur de Raucourt, paroisse de Roche (21 décembre 1750).</unittitle>
+                     <unitdate normal="1731/1765">1731-1765</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 1MiEC8</p>
+                  </altformavail>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 3</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial*(3)  de Saint-Andoche-et-Trécourt, baptêmes, mariages et sépultures (mai 1766-décembre 1790).&lt;lb/&gt;(3) Lacune d'octobre 1765 à avril 1766. Cette lacune existe également dans la collection déposée aux Archives Départementales de la Haute-Saône par le Greffe du tribunal de Vesoul.</unittitle>
+                     <unitdate normal="1766/1790">1766-1790</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 1MiEC8</p>
+                  </altformavail>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 4</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial* de Saint-Andoche-et-Trécourt, baptêmes, mariages et sépultures (janvier 1791-décembre 1792, actes d'état-civil de janvier 1793-fructidor an IX).</unittitle>
+                     <unitdate>1791-an XI</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 1MiEC8</p>
+                  </altformavail>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>Administration générale</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 5</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Délibérations* du conseil municipal.</unittitle>
+                     <unitdate normal="1818/1842">1818-1842</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 6</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Déllibérations* du conseil municipal.</unittitle>
+                     <unitdate normal="1842/1859">1842-1859</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 7</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Délibérations*du conseil municipal.</unittitle>
+                     <unitdate normal="1859/1870">1859-1870</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 8</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Délibérations* du conseil municipal.</unittitle>
+                     <unitdate normal="1870/1880">1870-1880</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 9</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Déllibérations*du conseil municipal.</unittitle>
+                     <unitdate normal="1880/1898">1880-1898</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 10</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Délibérations* du conseil municipal.</unittitle>
+                     <unitdate normal="1898/1921">1898-1921</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 11</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Déclarations* de soumissions des habitants pour préjudices involontaires causés à autrui.</unittitle>
+                     <unitdate normal="1891/1941">1891-1941</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION GENERALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 12</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Arrêtés municipaux*(4).</unittitle>
+                     <unitdate normal="1870/1969">1870-1969</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Détérioré, sans reliure.</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>Etat-civil</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 13</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Etat-civil*(5), naissances, mariages et décès (an X-1812) avec tables.</unittitle>
+                     <unitdate>an X-1812</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 14</unitid>
+                     <unitid>E2</unitid>
+                     <unittitle>Etat-civil*, naissances, mariages et décès avec tables.</unittitle>
+                     <unitdate normal="1813/1822">1813-1822</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 15</unitid>
+                     <unitid>E3</unitid>
+                     <unittitle>Certificat de vie délivré par le maire.</unittitle>
+                     <unitdate normal="1892">1892</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>Contributions</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 16</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Atlas cadastral (6).</unittitle>
+                     <unitdate normal="1824">1824</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 17</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Copie (7) de 2 planches de l'atlas cadastral (sections A et B, s.d.). Liste des commissaires-répartiteurs (1920-1922). Matrice* des propriétés bâties avec mutations (1910-1933). </unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COMMISSAIRE AUX COMPTES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 18</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Matrice cadastrale* des contributions foncières (1826) et mutations (1835-1914), procès-verbal de délimitation du territoire (1823, avec plans).</unittitle>
+                     <unitdate normal="1823/1914">1823-1914</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 19</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Matrice* des propriétés non bâties avec mutations.</unittitle>
+                     <unitdate normal="1914/1933">1914-1933</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>Bâtiments communaux</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 20</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Mémoire des travaux communaux (1921). Détail des travaux exécutés au Monument aux Morts (1922).</unittitle>
+                     <unitdate normal="1921/1922">1921-1922</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BATIMENT ADMINISTRATIF</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>Biens communaux non bâtis</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 21</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Plan (8) des bois communaux de Trécourt (1834). Plan d'aménagement des bois communaux de Saint-Andoche (1867). Concessions de cimetière (1959, 1968).</unittitle>
+                     <unitdate normal="1834/1968">1834-1968</unitdate>
+                  </did>
+                  <arrangement>
+                     <p>Classement Alphabétique</p>
+                  </arrangement>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>CONCESSION FUNERAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                     <geogname>SAINT-ANDOCHE</geogname>
+                     <geogname>TRECOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>Cultes</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 22</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Séparation  des églises et de l'état, répartition entre les communes des sommes rendues disponibles.</unittitle>
+                     <unitdate normal="1921/1922">1921-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>Assistance et prévoyance</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>458 Edepot 23</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Retraites ouvrières et paysannes, liste générale.</unittitle>
+                     <unitdate normal="1922">1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FOUVENT-SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

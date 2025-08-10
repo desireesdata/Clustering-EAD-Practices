@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_306Edepot_Archives_communales_déposées_de_Lomont" url="https://francearchives.fr/findingaid/d5d92c2c89a7ad2f81d8d2359d51834636e48fa2">FRAD70_306Edepot_Archives_communales_déposées_de_Lomont</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>306Edepot - Archives communales déposées de Lomont</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>306Edepot - Archives communales déposées de Lomont</unittitle>
+         <unitid>306Edepot1-14</unitid>
+         <unitdate normal="1588/1899">1588-1899</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE LOMONT</corpname>
+         </origination>
+         <note label="note">
+            <p>Les archives de Lomont antérieures à 1945 ont en grande partie disparu. Ne subsistent, outre les archives inventoriées ci-dessus, que l'atlas cadastral de 1828 et l'état civil depuis 1793, conservés en mairie. </p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             03/07/2014
+         </p>
+         <p>Dernier ajout le             03/07/2014
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>306 Edepot 1</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Lomont et dépendances : mariages (1588-1614 ; le feuillet de l'année 1615 manque ; 1616 ; 2 feuillets pour les années 1616-1618 manquent ; 1618-1619) ; baptêmes (le début du cahier manque ; octobre 1600-1603 ; 1 feuillet mal placé avec un acte de 1610 ; 1603-1636 ; 1638-1639 ; 1641-octobre 1670) ; décès (1651-1671). </unittitle>
+                     <unitdate normal="1588/1671">1588-1671</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>306 Edepot 2</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Lomont et dépendances : naissances. </unittitle>
+                     <unitdate normal="1627/1721">1627-1721</unitdate>
+                     <physdesc>
+                        <extent>1 registre recouvert en parchemin.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>306 Edepot 3</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Lomont et dépendances : baptêmes (août 1670-1690) ; liste des confirmations (1715) ; baptêmes (1721-septembre 1727). </unittitle>
+                     <unitdate normal="1670/1727">1670-1727</unitdate>
+                     <physdesc>
+                        <extent>1 registre recouvert en parchemin.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>306 Edepot 4</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Lomont et dépendances : décès (1679-février 1724) ; mariages (novembre 1691-juin 1726). </unittitle>
+                     <unitdate normal="1679/1728">1679-1728</unitdate>
+                     <physdesc>
+                        <extent>1 registre recouvert en parchemin.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>306 Edepot 5</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Lomont et dépendances : baptêmes (juin 1697-février 1721 ; ce registre est lacunaire du début et de la fin). </unittitle>
+                     <unitdate normal="1697/1721">1697-1721</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>306 Edepot 6</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Lomont et dépendances : baptêmes (1726-novembre 1733) ; mariages (1731-1733 ; deux actes de baptêmes en 1732) ; mariages et décès (1726-1733). </unittitle>
+                     <unitdate normal="1726/1733">1726-1733</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>306 Edepot 7</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial de Lomont et dépendances : baptêmes (décembre 1733-juillet 1744). </unittitle>
+                     <unitdate normal="1733/1744">1733-1744</unitdate>
+                     <physdesc>
+                        <extent>1 registre recouvert en parchemin.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>306 Edepot 8</unitid>
+                     <unitid>GG8</unitid>
+                     <unittitle>Registre paroissial de Lomont et dépendances : baptêmes (juin 1744-1748 ; 2 actes de mariages en 1748 ; 1 acte d'abjuration de la religion luthérienne en 1750 ; 1748-février 1763 ; contient 1 actes de décès en 1759, 1 autre en 1761,1 autre en 1762). </unittitle>
+                     <unitdate normal="1744/1763">1744-1763</unitdate>
+                     <physdesc>
+                        <extent>1 registre recouvert en parchemin.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>306 Edepot 9</unitid>
+                     <unitid>GG9</unitid>
+                     <unittitle>Registre paroissial de Lomont et dépendances : mariages. </unittitle>
+                     <unitdate normal="1733/1761">1733-1761</unitdate>
+                     <physdesc>
+                        <extent>1 registre recouvert en parchemin.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>MARIAGE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>306 Edepot 10</unitid>
+                     <unitid>GG10</unitid>
+                     <unittitle>Registre paroissial de Lomont et dépendances : décès (août 1733-février 1752). </unittitle>
+                     <unitdate normal="1733/1752">1733-1752</unitdate>
+                     <physdesc>
+                        <extent>1 registre recouvert en parchemin.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>306 Edepot 11</unitid>
+                     <unitid>GG11</unitid>
+                     <unittitle>Registre paroissial de Lomont et dépendances : baptêmes, décès (février 1752-1760) ; baptêmes, mariages, décès (1761-octobre 1771). </unittitle>
+                     <unitdate normal="1752/1771">1752-1771</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>306 Edepot 12</unitid>
+                     <unitid>GG12</unitid>
+                     <unittitle>Registre paroissial de Lomont et dépendances : baptêmes, mariages, décès (octobre 1771-1791) ; prise de possession du bénéfice ecclésiastique de Lomont, par Jean-François Jeudy, prêtre et vicaire (1776). </unittitle>
+                     <unitdate normal="1771/1791">1771-1791</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>306 Edepot 13</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (10 mai 1857-3 octobre 1880). </unittitle>
+                     <unitdate normal="1857/1880">1857-1880</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>306 Edepot 14</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (3 octobre 1880-15 février 1899). </unittitle>
+                     <unitdate normal="1880/1899">1880-1899</unitdate>
+                     <physdesc>
+                        <extent>1 registre cartonné. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

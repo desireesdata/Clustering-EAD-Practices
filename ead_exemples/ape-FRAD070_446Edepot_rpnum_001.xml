@@ -1,0 +1,1203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_446Edepot_Archives_communales_déposées_de_Rigny" url="https://francearchives.fr/findingaid/cf84abb05801fc2f4769133c4656fc2fa000c0a0">FRAD70_446Edepot_Archives_communales_déposées_de_Rigny</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>446Edepot - Archives communales déposées de Rigny</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>446Edepot - Archives communales déposées de Rigny</unittitle>
+         <unitid>446Edepot1-41</unitid>
+         <unitdate normal="1447/1909">1447-1909</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE RIGNY</corpname>
+         </origination>
+         <note label="note">
+            <p>Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 8847 à 8855, justice seigneuriale de Rigny (1751-1792).
+E 873, Lettres-patentes du roi, titres de la commune (1450-1699).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             24/05/2004
+         </p>
+         <p>Dernier ajout le             24/05/2004
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> BIENS ET BOIS COMMMUNAUX-TRAVAUX PUBLICS (1447-1785)</p>
+         <p>  446 Edepot 3, 446 Edepot 2, 446 Edepot 1, 446 Edepot 4-5</p>
+         <p> CULTE (1613-1792)</p>
+         <p>  446 Edepot 6-14</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1792-1896)</p>
+         <p>  446 Edepot 15-23</p>
+         <p> CONTRIBUTIONS (1825-1882)</p>
+         <p>  446 Edepot 24-25</p>
+         <p> POLICE (1828-1858)</p>
+         <p>  446 Edepot 26</p>
+         <p> ELECTIONS (1852-1855)</p>
+         <p>  446 Edepot 41</p>
+         <p> EDIFICES PUBLICS (1816-1822)</p>
+         <p>  446 Edepot 27</p>
+         <p> BIENS ET BOIS COMMUNAUX (1793-1909)</p>
+         <p>  446 Edepot 28-35</p>
+         <p> TRAVAUX DIVERS (1825-1877)</p>
+         <p>  446 Edepot 36-37</p>
+         <p> CULTE (1820-1828)</p>
+         <p>  446 Edepot 38</p>
+         <p> INSTRUCTION PUBLIQUE (1839-1839)</p>
+         <p>  446 Edepot 39</p>
+         <p> DOCUMENTS D'ORIGINE PRIVEE (1813-1818)</p>
+         <p>  446 Edepot 40</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMMUNAUX-TRAVAUX PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 1</unitid>
+                     <unittitle>Situation historique, administrative et ecclésiastique de Rigny (s.d., XVIII° siècle).</unittitle>
+                     <unitdate>XVIII° siècle</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 2</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Pièce d'une procédure entre les habitants de Prantigny et le procureur fiscal de la justice de Rigny, portant copie du traité du 7 novembre 1447, au sujet des droits de vaine pâture accordés sur le territoire de Rigny (1774). Arrêt de la cour du parlement relatif à la pâture des animaux (1785).</unittitle>
+                     <unitdate normal="1447/1785">1447-1785</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PRANTIGNY</geogname>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 3</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Notes concernant l'arpentage des bois (s.d., XVIII° siècle). Procès entre Jean-Baptiste Baulard, seigneur de Rigny et les habitants du lieu, au sujet du partage des bois et de divers droits dans ceux-ci (1728).</unittitle>
+                     <unitdate normal="1728">1728</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BAULARD (Jean-Baptiste)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 4</unitid>
+                     <unitid>DD3</unitid>
+                     <unittitle>Plan des bois communaux de Rigny.</unittitle>
+                     <unitdate normal="1753">1753</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 5</unitid>
+                     <unitid>DD4</unitid>
+                     <unittitle>Reconstruction du choeur de l'église (1716-1730). Mémoire des dépenses faites pour la décoration de la chapelle de la confrérie de Notre-Dame (1729-1730).</unittitle>
+                     <unitdate normal="1716/1730">1716-1730</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MEMOIRE </genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EDIFICE CULTUEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>CONFRERIE DE NOTRE-DAME</corpname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 6</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial : baptêmes (juin 1613-juin 1636 ; 1643, un acte ; octobre 1647-décembre 1669) ; au verso, mariages (janvier 1614-mai 1636).</unittitle>
+                     <unitdate normal="1613/1669">1613-1669</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R86</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 7</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial : baptêmes, mariages, sépultures (janvier 1670-février 1671 ; février 1673-septembre 1675 ; janvier 1674-septembre 1675, double ; janvier 1676-mars 1678 ; janvier 1678-décembre 1691).</unittitle>
+                     <unitdate normal="1670/1691">1670-1691</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R86</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 8</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial : baptêmes, mariages et sépultures.</unittitle>
+                     <unitdate normal="1692/1713">1692-1713</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R86</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 9</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial : baptêmes, mariages et sépultures.</unittitle>
+                     <unitdate normal="1714/1733">1714-1733</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R86</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 10</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial : baptêmes, mariages et sépultures.</unittitle>
+                     <unitdate normal="1734/1753">1734-1753</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R86</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 11</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial : baptêmes, mariages et sépultures.</unittitle>
+                     <unitdate normal="1754/1773">1754-1773</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R86</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 12</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial : baptêmes, mariages et sépultures (1774-1792). Listes des communiants (1779, 1784, 1787).</unittitle>
+                     <unitdate normal="1774/1792">1774-1792</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R86</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                     <genreform>LISTE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 13</unitid>
+                     <unitid>GG8</unitid>
+                     <unittitle>Mariages : promesses, dispenses de bans, consentements.</unittitle>
+                     <unitdate normal="1752/1774">1752-1774</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 14</unitid>
+                     <unitid>GG9</unitid>
+                     <unittitle>Biens et revenus de la cure (1662-1786). Droits honorifiques à rendre au seigneur de l'église (1732). Procession (1737). Nomination et prise de possession de la cure par Marie-Nicolas Chapuis, prêtre (1753). Fondation de messes par les frères et soeurs Giboulet (1757). Correspondance relative aux fêtes chômées de la paroisse (1778-1779).</unittitle>
+                     <unitdate normal="1662/1779">1662-1779</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CHAPUIS (Marie-Nicolas)</persname>
+                     <persname>GIBOULET</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 15</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Délibérations du conseil municipal (18 mai 1792-an VI). Inscriptions des marchés, baux et amodiations (1811-1815). Délibérations du conseil général (1793-an III). Déclarations et actes divers (1792-1822).</unittitle>
+                     <unitdate normal="1792/1822">1792-1822</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>DECLARATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>CONSEIL GENERAL</subject>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 16</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Délibérations du conseil municipal (27 thermidor An VIII-1er jour complémentaire an XI).</unittitle>
+                     <unitdate>An VIII-an XI</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 17</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Délibérations du conseil municipal (1er janvier 1808-24 avril 1831).</unittitle>
+                     <unitdate normal="1808/1831">1808-1831</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 18</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Délibérations du conseil municipal (1er mai 1831-13 mai 1838).</unittitle>
+                     <unitdate normal="1831/1838">1831-1838</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 19</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Délibérations du conseil municipal (10 juin 1838-10 mai 1841).</unittitle>
+                     <unitdate normal="1838/1841">1838-1841</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 20</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Délibérations du conseil municipal (20 juin 1841-1er décembre 1855).</unittitle>
+                     <unitdate normal="1841/1855">1841-1855</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 21</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Délibérations du conseil municipal (8 décembre 1855-21 janvier 1878).</unittitle>
+                     <unitdate normal="1855/1878">1855-1878</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 22</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Délibérations du conseil municipal (9 février 1878-24 octobre 1896).</unittitle>
+                     <unitdate normal="1878/1896">1878-1896</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 23</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Arrêtés du maire (11 juin 1838-15 août 1888).</unittitle>
+                     <unitdate normal="1838/1888">1838-1888</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 24</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Cadastre : états de section des propriétés bâties et non bâties.</unittitle>
+                     <unitdate normal="1825">1825</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 25</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Matrice cadastrale des propriétés bâties.</unittitle>
+                     <unitdate normal="1882">1882</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 26</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Règlements de police (1828, 1838). Arrêtés du maire concernant les lieux publics (1848, 1858), les chiens errants (1851), les oies (1855) et les canards (1858).</unittitle>
+                     <unitdate normal="1828/1858">1828-1858</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>REGLEMENT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 41</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Procès-verbaux des élections cantonales.</unittitle>
+                     <unitdate normal="1852/1855">1852-1855</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 27</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Location de l'ancienne cure (1816, 1822). Reçu pour des travaux faits aux bâtiments communaux (1819).</unittitle>
+                     <unitdate normal="1816/1822">1816-1822</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 28</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Vente de communaux et tentative de la commune pour être réintégrée dans leur jouissance.</unittitle>
+                     <unitdate normal="1793/1812">1793-1812</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 29</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Vente de communaux : contentieux entre les familles Jacquard, Carrière, Pécauld et la commune (an II-1806) ; contentieux entre Jean-Baptiste Musard, la demoiselle Pécauld et la commune (an II-1808).</unittitle>
+                     <unitdate>An II-1808</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CARRIERE (famille)</persname>
+                     <persname>JACQUARD (famille)</persname>
+                     <persname>MUSARD (Jean-Baptiste)</persname>
+                     <persname>PECAULD (famille)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 30</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Amodiations des regains (1817-1819). Vaine pâture, droit de parcours (1817-1898).</unittitle>
+                     <unitdate normal="1817/1898">1817-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 31</unitid>
+                     <unitid>N4</unitid>
+                     <unittitle>Procès relatif au droit de parcours entre la commune et les familles Pécauld, Baulard, Montrichard (an XII-1842). Procès entre Jean-Baptiste Dourlot et la commune, pour des dégâts occasionnés suite à la vaine pâture (1884-1885). Procès entre la commune et Jean-Baptiste Raclot relatif à la vaine pâture (1894-1897).</unittitle>
+                     <unitdate>An XII-1897</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BAULARD (famille)</persname>
+                     <persname>DOURLOT (Jean-Baptiste)</persname>
+                     <persname>MONTRICHARD (famille)</persname>
+                     <persname>PECAULD (famille)</persname>
+                     <persname>RACLOT (Jean-Baptiste)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 32</unitid>
+                     <unitid>N5</unitid>
+                     <unittitle>Plan géométrique de cantons de bois appartenant à la commune, levé pour un procès avec madame Pécauld.</unittitle>
+                     <unitdate>An XI</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>PECAULD (famille)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 33</unitid>
+                     <unitid>N6</unitid>
+                     <unittitle>Plan géométrique de la portion du quart en réserve au canton dit "l'homme mort".</unittitle>
+                     <unitdate normal="1816">1816</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>HOMME MORT (L')</geogname>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 34</unitid>
+                     <unitid>N7</unitid>
+                     <unittitle>Procès-verbal et plan de réarpentage d'une partie de la réserve dite "l'homme mort".</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>HOMME MORT (L')</geogname>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 35</unitid>
+                     <unitid>N8</unitid>
+                     <unittitle>Plan du terrain "Buisson des Amblins", dont la soumission au régime forestier est demandée.</unittitle>
+                     <unitdate normal="1909">1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BUISSON DES AMBLINS (LES)</geogname>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 36</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Etablissements de lavoirs à bras et à cheval (1826-1861). Location du terrain dit "les Emblins" à messieurs Lépine et Falatieu pour y déposer des minerais, puis différend entre la commune et monsieur Falatieu, maître de forges (1825-1840).</unittitle>
+                     <unitdate normal="1825/1861">1825-1861</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>MINERAI</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>EMBLINS (LES)</geogname>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>FALATIEU</persname>
+                     <persname>LEPINE</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 37</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Forges de Montureux : autorisations accordées pour extraire du minerai de fer dans les bois de Rigny (1825-1844) ; procès-verbaux de cubage du minerai extrait (1826-1841). Hauts-fourneaux de Beaujeu, Renaucourt, Montureux, Vauconcourt, Le Crochot (commune de Mont-le-Franois), Farincourt (Haute-Marne) : autorisations accordées pour extraire du minerai de fer dans les bois de Rigny (1853-1872). Haut-fourneau de Battrans : autorisations accordées pour extraire du minerai de fer dans les bois de Rigny (1856-1860). Haut-fourneau d'Estravaux (commune de Greucourt) : autorisations accordées pour extraire du minerai de fer dans les bois de Rigny (1860-1863) ; procès-verbal de cubage du minerai extrait (1860-1863). Hauts-fourneaux du Crochot et Beaujeu : autorisations accordées pour extraire du minerai de fer dans les bois de Rigny (1849-1876) ; procès-verbaux de cubage du minerai extrait (1876-1877).</unittitle>
+                     <unitdate normal="1825/1877">1825-1877</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>MINERAI</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BEAUJEU (LIEU-DIT)</geogname>
+                     <geogname>CROCHOT (LE)</geogname>
+                     <geogname>ESTRAVAUX</geogname>
+                     <geogname>FARINCOURT</geogname>
+                     <geogname>MONTUREUX-ET-PRANTIGNY</geogname>
+                     <geogname>RENAUCOURT</geogname>
+                     <geogname>RIGNY</geogname>
+                     <geogname>VAUCONCOURT-NERVEZAIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 38</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Demande d'un succursaliste (1820). Correspondance relative à la participation de Montureux et Prantigny aux frais de culte et aux réparations de l'église et du presbytère de Rigny (1827-1828).</unittitle>
+                     <unitdate normal="1820/1828">1820-1828</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MONTUREUX-ET-PRANTIGNY</geogname>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 39</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Différend avec l'institutrice au sujet de son traitement.</unittitle>
+                     <unitdate normal="1839">1839</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>DOCUMENTS D'ORIGINE PRIVEE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>446 Edepot 40</unitid>
+                     <unitid>S1</unitid>
+                     <unittitle>Atlas du domaine de dame Muguet sur Rigny, fait par le géomètre Mourelet en 1813-1814. Copies de pièces de procès entre particuliers concernant des biens situés à Rigny, adressées au maire (1816-1818).</unittitle>
+                     <unitdate normal="1813/1818">1813-1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RIGNY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>MOURELET</persname>
+                     <persname>MUGUET (famille)</persname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,3302 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_228Edepot_Archives_communales_déposées_de_Faverney" url="https://francearchives.fr/findingaid/282c02f8381c5fb96153c0692f48b11ef981c226">FRAD70_228Edepot_Archives_communales_déposées_de_Faverney</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>228Edepot - Archives communales déposées de Faverney</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>228Edepot - Archives communales déposées de Faverney</unittitle>
+         <unitid>228Edepot1-118</unitid>
+         <unitdate normal="1260/1947">1260-1947</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE FAVERNEY</corpname>
+         </origination>
+         <note label="note">
+            <p>(1) Folio 5, déclarations des biens et droits possédés par les Bénédictins à Faverney et autres communes (1790).
+(2) Pour les années 1790-an XIII, voir 228 E dépôt 88/H 8.
+(3) Voir 228 E dépôt 82/H 2, répartition de l'assiette (1806-1807), rôles de prestation pour les chemins (1807-1808).
+(4) Voir 228 E dépôt 34/D 3, garde-nationale (1830-1834).
+(5) Voir 228 E dépôt 82/H 2, réquisitions (1791-1793).
+(6) Voir 228 E dépôt 34/D 3 et 228 E dépôt 39/D 8, réquisitions (1814).
+(7) Voir 228 E dépôt 36/D 5 et 228 E dépôt 41/D 10, réquisitions (1870).
+(8) Voir 228 E dépôt 34/ D 3, rapports du garde de police et du comité de surveillance (1790-an II).
+(9) Voir 228 E dépôt 82/H 2, comptabilité (1790-an III) et 228 E dépôt 41/D 10, comptabilité (1865-1879).
+(10) Voir 228 E dépôt 39/D 8, pour an VIII-1864 et 228 E dépôt 36/D 5, pour 1865-1880.
+(11) Idem, voir 228 E dépôt 32/D 1.
+(12) Voir 228 E dépôt 41/D 10 pour 1865-1879.
+(13) Voir 228 E dépôt 49/E 6, déclarations de grossesses (an XII-1824).
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 6983, déclarations de propriétés dans la communauté de Faverney (1750-1753).
+C 24, 34, affaires municipales de Faverney (1742-1788).
+C 50, requête du curé de Faverney pour fonder un établissement de charité (1735-1789).
+C 52, construction des casernes de Faverney (1751-1790).
+C 195, règlement de droits curiaux pour la communauté (1782-1789).
+C 207, incendie à Faverney (1753).
+C 208, 214, 217, 219, 227, correspondance de l'Intendant avec les subdélégués de Vesoul, relative à l'administration publique de Faverney (1754-1785).
+C 243, 247, règlements de l'administration municipale de Faverney (1752-1766).
+C 378, rôles et répartements des impositions dans la communauté de Faverney (1729-1790).
+C 578, 579, plans de la vallée et du pont de Faverney (1772-1793).
+E 851, comptes d'échevins de Faverney (1765).
+G 117, église paroissiale de Faverney (1622-1738).
+H 361, traité entre les abbayes de Faverney et de Clairefontaine, au sujet de la possession des pâturages de Faverney (1212).
+H 433 à 470, archives de l'abbaye de Faverney, notamment le cartulaire général (767-1786).
+H 504 à 527, pièces provenant de l'abbaye de Faverney relatives à la communauté et aux particuliers du lieu (1244-1790).
+H 1090, histoire manuscrite de l'abbaye de Faverney par dom Odilon Bebin (1670, copie de 1886).
+1 J 51, 1 J 69/1, 1 j 690, documents sur Faverney (1211-1792).
+20 L 52, 26 L 9, 42 L 9, 45 L 25, 368 L 3 à 210, 440 à 480, époque révolutionnaire.
+3 O 234, travaux communaux (depuis l'an IX).
+95 E dépôt 4, plan du ruisseau qui alimente le canal "du moulin des Bénédictins" de Faverney (archives municipales de Breurey-lès-Faverney, 1774).
+167 E dépôt 4, pièces d'un procès entre les habitants de Faverney et ceux de Conflandey, au sujet du droit de parcours dans la prairie de Faverney (1446, 1626, 1784) ; extraits du registre des délibérations du conseil municipal de Faverney, relative au droit de parcours réclamé par la commune de Conflandey (1890, archives municipales de Conflandey).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             27/12/2004
+         </p>
+         <p>Dernier ajout le             05/01/2005
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ACTES CONSTITUTIFS DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 1</unitid>
+                     <unitid>AA1</unitid>
+                     <unittitle>Extrait du cartulaire de l'abbaye de Faverney, traduction moderne de la donation faite par Louis IV à Adalard et Adilla (copie sans date de l'original datant de 940).</unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Abbaye de Faverney</corpname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION COMMUNALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 2</unitid>
+                     <unitid>BB1</unitid>
+                     <unittitle>Délibération des officiers municipaux (1752-1789). Copies des lettres-patentes du Roi (1789-1790).</unittitle>
+                     <unitdate normal="1752/1790">1752-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 3</unitid>
+                     <unitid>BB2-CC1</unitid>
+                     <unittitle>Admission des étrangers : délibération.&lt;lb/&gt;CC 1 - Arpentement du territoire, convention avec l'arpenteur Renard et lettre de l'arpenteur Leblond (1746, 1790)</unittitle>
+                     <unitdate normal="1666/1790">1666-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETRANGER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>arpentement</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>LEBLOND</persname>
+                     <persname>RENARD</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 4</unitid>
+                     <unitid>CC2</unitid>
+                     <unittitle>Terrier du territoire de Faverney.</unittitle>
+                     <unitdate normal="1746">1746</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>arpentement</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 5</unitid>
+                     <unitid>CC3</unitid>
+                     <unittitle>Pétition des habitants pour être déchargés des droits seigneuriaux en raison de la grande misère (1560). Procédures avec l'abbaye de Faverney, au sujet des droits de garde (1504-1727), au sujet des dîmes et des corvées (1621-1786, avec copie d'un titre de 1260, au sujet des droits curiaux (1672-1786). Réclamation des habitants contre l'abbaye pour l'exercice de divers droits (1705, 1753). Traité entre la ville et l'abbaye concernant des droits forestiers (1773, 1833).</unittitle>
+                     <unitdate normal="1260/1833">1260-1833</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Abbaye de Faverney</corpname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 6</unitid>
+                     <unitid>CC4</unitid>
+                     <unittitle>Rentes dues par la ville (1561, 1702, 1720). Procès avec les Annonciades de Vesoul concernant le paiement d'une rente (1695). Idem avec le sieur Rochet, maître de forges à Conflandey (1760-1761). Amendes (1659, 1678). Requête des receveurs municipaux (1687, 1747). Amodiation du droit de péage du pont (1789-1790). Comptes d'échevins (1636-1724, 1787). Traité avec les échevins pour le règlement de la comptabilité (1688). Mémoire des dépenses militaires (1787).</unittitle>
+                     <unitdate normal="1561/1791">1561-1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>ANNONCIADES (les religieuses des)</persname>
+                     <persname>ROCHET</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS-BOIS COMMUNAUX-EDIFICES COMMUNAUX-VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 7</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Procès-verbaux de délimitation des territoires de Faverney et d'Amance (1696). Mise en ban des prés : décrets royaux (1586, 1630). Mise en ban des vignes (1597, parchemin), des regains (1623). Vaine-pâture, procédure et convention (1610-1702). Acensements (1566-1581, 4 parchemins, 1778-1790). Amodiations de terrains et de la grange de Baslière (1569, 1631-1788, 1 plan). Vente de terrains, échange (1750-1787). Pré du Breuille, procédure avec le seigneur-abbé, convention, clôture du pré (1 plan), plainte des habitants (1526 copie, 1705, 1782, 1786). Plan du pâquis entre Faverney, Breurey et Mersuay (1722). Droit de parcours sur les terres de Baslière, procédure avec les habitants de Conflandey (1783, copie). Plan de la ferme de la Goulle (1748).</unittitle>
+                     <unitdate normal="1526/1790">1526-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BASLIERE</geogname>
+                     <geogname>BREUILLE (LE)</geogname>
+                     <geogname>BREUREY-LES-FAVERNEY</geogname>
+                     <geogname>CONFLANDEY</geogname>
+                     <geogname>FAVERNEY</geogname>
+                     <geogname>GOULLE (LA)</geogname>
+                     <geogname>MERSUAY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 8</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Procès-verbaux de ventes de bois (1688, 1705-1706, 1775, 1782). Procès-verbaux de reconnaissance des bois (1703, 1725, plan de 1781). Droit de parcours, procès avec les habitants de Port-d'Atelier (1527-1719, 1 parchemin), avec les Bénédictins (1636-1790, 1 plan), avec les habitants de Breurey (1701-1702), avec les habitants de Conflandey (1782-1784, 1 plan).</unittitle>
+                     <unitdate normal="1527/1790">1527-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BREUREY-LES-FAVERNEY</geogname>
+                     <geogname>CONFLANDEY</geogname>
+                     <geogname>FAVERNEY</geogname>
+                     <geogname>PORT-D'ATELIER GARE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BENEDICTINS (les religieux)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 9</unitid>
+                     <unitid>DD3</unitid>
+                     <unittitle>Etat de quittance pour divers travaux aux bâtiments communaux (1755, 1762). Portes et murs, répartement d'une somme destinée aux fortifications de Gray (1552). Echange de terrain en prévision de la démolition des murailles (1704). Marché pour le pavage de la porte de "Cubry" (1712). Vente d'un pilier de la porte basse (1787). Eglise, marchés de réfection du clocher (1698), de pavage (1708). Vente de terrain pour payer la réparation du clocher (1716). Fonte d'une cloche (1776). Marché pour la sonnerie (1775, 1788). Four banal, procès entre les habitants de Faverney et les abbés de l'abbaye au sujet du four de Bauley (1730). Cimetière, échange de terrain pour l'établissement d'un nouveau cimetière (1787). Fontaines, marché d'entretien (1791).</unittitle>
+                     <unitdate normal="1552/1791">1552-1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>FORTIFICATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BAULEY</geogname>
+                     <geogname>FAVERNEY</geogname>
+                     <geogname>GRAY</geogname>
+                     <geogname>PORTE BASSE (LA)</geogname>
+                     <geogname>PORTE DE CUBRY (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 10</unitid>
+                     <unitid>DD4</unitid>
+                     <unittitle>Transaction avec le maire de Conflandey au sujet du pont (1705). Marché de réfection (1722), état des ponts détruits par les inondations (1734). Construction de canaux voûtés (1764, 1790). Ouverture d'une maison sur la ruelle du Fourg (1771). Plan de la rue de l'Official (1773). Mémoire sur l'état des chemins (1780). Ruisseau de la Marcelle, marché de curage (1702, 1721), procédure pour le curage (1743).</unittitle>
+                     <unitdate normal="1702/1790">1702-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CONFLANDEY</geogname>
+                     <geogname>FAVERNEY</geogname>
+                     <geogname>FOURG (ruelle du)</geogname>
+                     <geogname>MARCELLE (LA)</geogname>
+                     <geogname>OFFICIAL (rue de l')</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 11</unitid>
+                     <unitid>EE1</unitid>
+                     <unittitle>Casernes : devis de construction d'écuries et de casernes, acquisition de terrains et d'une maison (2 plans). Devis de réparations, construction d'un récipient à la fontaine des casernes.</unittitle>
+                     <unitdate normal="1753/1787">1753-1787</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CASERNE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE ET JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 12</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Usances et coutumes locales : règlements municipaux (1560-1692, 8 cahiers). Règlement de police de la ville (1770).</unittitle>
+                     <unitdate normal="1560/1770">1560-1770</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGLEMENT</genreform>
+                     <genreform>CAHIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POLICE MUNICIPALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 13</unitid>
+                     <unitid>FF2</unitid>
+                     <unittitle>Procédures diverses concernant les intérêts de la ville et les particuliers du lieu, et les droits de la communauté religieuse.</unittitle>
+                     <unitdate normal="1543/1632">1543-1632</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE-ASSISTANCE PUBLIQUE-INSTRUCTION PUBLIQUE-COMMERCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 14</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Faverney : baptêmes (mai 1601-février 1611), baptêmes, mariages, sépultures (avril 1607-avril 1608, octobre 1611-octobre 1619, février 1621-janvier 1631), mariages (1598-1625), baptêmes (juillet 1631-avril 1672); confirmations (1647, 1649-1651, 1658), mariages (août 1631-mai 1672), sépultures (1631-novembre 1671).&lt;lb/&gt;INCOMPET ET EN TRES MAUVAIS ETAT.</unittitle>
+                     <unitdate normal="1598/1672">1598-1672</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi222</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 15</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Faverney, baptêmes (mai 1672-mars 1729).</unittitle>
+                     <unitdate normal="1672/1729">1672-1729</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R26</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 16</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Faverney, baptêmes (mars 1729-décembre 1736).</unittitle>
+                     <unitdate normal="1729/1736">1729-1736</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R24</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 17</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial, mariages (août 1672-novembre 1736) ; à la fin et à l'envers, confirmations (1678, 1682, 1703, 1711, 1715).</unittitle>
+                     <unitdate normal="1672/1736">1672-1736</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R24</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 18</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Faverney, sépultures (un acte de mai 1672, 1673-1736).&lt;lb/&gt;Note pour la tenue du registre de sépultures de 1658. Abjuration de Jean Lacour, calviniste, dragon dans le régiment du second Languedoc (1698).</unittitle>
+                     <unitdate normal="1658/1736">1658-1736</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R24</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>LACOUR (Jean)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 19</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Faverney : baptêmes, mariages, sépultures (janvier 1686-juillet 1693).&lt;lb/&gt;Le feuillet 29 a été arraché.</unittitle>
+                     <unitdate normal="1686/1693">1686-1693</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R24</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 20</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial de Faverney : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1737/1748">1737-1748</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R24-R25</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 21</unitid>
+                     <unitid>GG8</unitid>
+                     <unittitle>Registre paroissial de Faverney : baptêmes, mariages, sépultures (1749-mai 1759).</unittitle>
+                     <unitdate normal="1749/1759">1749-1759</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R25</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 22</unitid>
+                     <unitid>GG9</unitid>
+                     <unittitle>Registre paroissial de Faverney : baptêmes, mariages, sépultures (1759-avril 1769).</unittitle>
+                     <unitdate normal="1759/1769">1759-1769</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R25-R26</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 23</unitid>
+                     <unitid>GG10</unitid>
+                     <unittitle>Registre paroissial de Faverney : baptêmes, mariages, sépultures (1763-1765). Tables des baptêmes, mariages, sépultures de 2 registres paroissiaux (1759-1769 et 1769-1780).</unittitle>
+                     <unitdate normal="1759/1780">1759-1780</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R25-R26</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 24</unitid>
+                     <unitid>GG11</unitid>
+                     <unittitle>Registre paroissial de Faverney : baptêmes, mariages, sépultures (avril 1769-janvier 1780).</unittitle>
+                     <unitdate normal="1769/1780">1769-1780</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R26</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 25</unitid>
+                     <unitid>GG12</unitid>
+                     <unittitle>Registre paroissial de Faverney : baptêmes, mariages, sépultures (1780-1793). Table alphabétique (1780-1792). Mentions de baptêmes, mariages, sépultures (novembre 1796-avril 1799).</unittitle>
+                     <unitdate normal="1780/1799">1780-1799</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R26-R27</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 26</unitid>
+                     <unitid>GG13</unitid>
+                     <unittitle>Copie de registres paroissiaux : baptêmes, mariages, sépultures (janvier 1712-janvier 1718, janvier 1723-février 1725, janvier 1766-décembre 1779).</unittitle>
+                     <unitdate normal="1712/1779">1712-1779</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 27</unitid>
+                     <unitid>GG14</unitid>
+                     <unittitle>Registre paroissial de Faverney : baptêmes, mariages, sépultures (1780-janvier 1793).</unittitle>
+                     <unitdate normal="1780/1793">1780-1793</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R26-R27</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 28</unitid>
+                     <unitid>GG15</unitid>
+                     <unittitle>Fondation de messe par Jean de Neufchatel (1479, copie). Prise de possession de l'abbaye par dom Alphonse Doresmieux (1608). Inventaire des meubles et ornements de l'église (1631). Contestation sur la vente et la possession de places et de bancs à l'église (1755-1758).</unittitle>
+                     <unitdate normal="1479/1758">1479-1758</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>INVENTAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>DORESMIEUX (dom Alphonse)</persname>
+                     <persname>NEUFCHATEL (Jean de)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 29</unitid>
+                     <unitid>GG16</unitid>
+                     <unittitle>Donation au profit des pauvres (1618-1766). Copie de lettres-patentes autorisant l'ouverture du bureau de bienfaisance (1783-1784). Délibérations du bureau (1783-1944).</unittitle>
+                     <unitdate normal="1618/1944">1618-1944</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 30</unitid>
+                     <unitid>GG17</unitid>
+                     <unittitle>Donation faite à la maladrerie (1495). Donation en faveur des pauvres (1622, 1 parchemin). Création d'un établissement de charité (1745, 1783-1786, 2 parchemins).&lt;lb/&gt;Règlement concernant la peste (1631).&lt;lb/&gt;Marchés d'instituteurs (1779, 1790).&lt;lb/&gt;HH1 - Règlements des débits de boissons (1701), du droit de hallage ou étalage (1702), de l'octroi (1727).</unittitle>
+                     <unitdate normal="1495/1790">1495-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGLEMENT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DEBIT DE BOISSON</subject>
+                     <subject>EPIDEMIE</subject>
+                     <subject>PROTECTION SOCIALE</subject>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>LOIS ET ACTES DU POUVOIR CENTRAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 31</unitid>
+                     <unitid>A1</unitid>
+                     <unittitle>Lois et décrets promulgués par l'Assemblée Nationale.</unittitle>
+                     <unitdate>1790-an III</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 32</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>(1) Délibérations du conseil municipal.</unittitle>
+                     <unitdate>1790-an III</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 33</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate>An III-an IV</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 34</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Rapports du garde de police et du comité de surveillance (1790-an II). Délibérations du conseil municipal (an VIII-1833). Garde-nationale (1830-1834). A l'envers du registre, réquisitions (1814).</unittitle>
+                     <unitdate normal="1790/1834">1790-1834</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                     <subject>GUERRE</subject>
+                     <subject>POLICE MUNICIPALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 35</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Délibérations du conseil municipal avec table des matières.</unittitle>
+                     <unitdate normal="1833/1867">1833-1867</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 36</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Délibérations du conseil municipal (1867-1881). Concessions au cimetière (1865-1880). Guerre de 1870, réquisitions avec table des matières. </unittitle>
+                     <unitdate normal="1865/1881">1865-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONCESSION FUNERAIRE</subject>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 37</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1881/1904">1881-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 38</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1904/1934">1904-1934</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 39</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Arrêtés du maire, publications et concessions au cimetière (an VIII-1864). A la fin du registre, réquisitions de 1814.</unittitle>
+                     <unitdate>An VIII-1864</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONCESSION FUNERAIRE</subject>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 40</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Répertoire des actes administratifs (an IX-1942). Fixation du chef-lieu de canton, pétition des habitants de Breurey et de Faverney (an IX).</unittitle>
+                     <unitdate>An IX-1942</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BREUREY-LES-FAVERNEY</geogname>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 41</unitid>
+                     <unitid>D10</unitid>
+                     <unittitle>Registre composite de correspondance, comptabilité, réquisitions et listes des indigents.</unittitle>
+                     <unitdate normal="1865/1879">1865-1879</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 42</unitid>
+                     <unitid>D11</unitid>
+                     <unittitle>Registre de correspondance et avis (1880-1892, 1924-1925).</unittitle>
+                     <unitdate normal="1880/1925">1880-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 43</unitid>
+                     <unitid>D12</unitid>
+                     <unittitle>Arrêtés municipaux sur la voirie urbaine.</unittitle>
+                     <unitdate normal="1907/1926">1907-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT-CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 44</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Registre des naissances.</unittitle>
+                     <unitdate>1793-an XI</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 45</unitid>
+                     <unitid>E2</unitid>
+                     <unittitle>Registre des mariages.</unittitle>
+                     <unitdate>1793-an XI</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 46</unitid>
+                     <unitid>E3</unitid>
+                     <unittitle>Registre des décès.</unittitle>
+                     <unitdate>1793-an XI</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 47</unitid>
+                     <unitid>E4</unitid>
+                     <unittitle>Registre des naissances, mariages, décès.</unittitle>
+                     <unitdate>An XII-1808</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 48</unitid>
+                     <unitid>E5</unitid>
+                     <unittitle>Registre des naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1809/1813">1809-1813</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 49</unitid>
+                     <unitid>E6</unitid>
+                     <unittitle>Table décennale (1792-an X). Extrait de mariage (an XI). Publications de mariages (1813). Déclarations de grossesses (an XII-1824).</unittitle>
+                     <unitdate normal="1792/1824">1792-1824</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 50</unitid>
+                     <unitid>E7</unitid>
+                     <unittitle>Tables décennales.</unittitle>
+                     <unitdate normal="1793/1852">1793-1852</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 51</unitid>
+                     <unitid>E8</unitid>
+                     <unittitle>Registre des naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1814/1818">1814-1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 52</unitid>
+                     <unitid>E9</unitid>
+                     <unittitle>Registre des naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1819/1820">1819-1820</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 53</unitid>
+                     <unitid>E10</unitid>
+                     <unittitle>Registre des naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1821/1822">1821-1822</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 54</unitid>
+                     <unitid>E11</unitid>
+                     <unittitle>Registre de naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1823/1824">1823-1824</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 55</unitid>
+                     <unitid>E12</unitid>
+                     <unittitle>Registre des naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1825/1826">1825-1826</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 56</unitid>
+                     <unitid>E13</unitid>
+                     <unittitle>Registre des naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1827/1828">1827-1828</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 57</unitid>
+                     <unitid>E14</unitid>
+                     <unittitle>Registre des naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1829/1830">1829-1830</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 58</unitid>
+                     <unitid>E15</unitid>
+                     <unittitle>Registre des naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1831/1832">1831-1832</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 59</unitid>
+                     <unitid>E16</unitid>
+                     <unittitle>Registre des naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1833/1836">1833-1836</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 60</unitid>
+                     <unitid>E17</unitid>
+                     <unittitle>Registre des naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1837/1840">1837-1840</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 61</unitid>
+                     <unitid>E18</unitid>
+                     <unittitle>Registre des naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1841/1844">1841-1844</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 62</unitid>
+                     <unitid>E19</unitid>
+                     <unittitle>Registre des naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1845/1849">1845-1849</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 63</unitid>
+                     <unitid>E20</unitid>
+                     <unittitle>Registre des naissances, mariages, décès.</unittitle>
+                     <unitdate normal="1850/1854">1850-1854</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-COMMERCE ET INDUSTRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 64</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Dénombrement quinquennal de la population : listes nominatives.</unittitle>
+                     <unitdate normal="1824/1872">1824-1872</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi114</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 65</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Mouvement annuel de la population.</unittitle>
+                     <unitdate normal="1857/1871">1857-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POPULATION RURALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 66</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Création d'établissements commerciaux, industriels ou artisanaux : arrêtés d'autorisation (1886-1942, 1 plan). Chantier de créosotage de Port-d'Atelier : procès-verbal de l'établissement du dépôt (1918). Chambre de commerce : listes des électeurs (1908-1921).</unittitle>
+                     <unitdate normal="1886/1942">1886-1942</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CREATION D'ENTREPRISE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                     <geogname>PORT-D'ATELIER GARE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 67</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>Statistiques agricoles annuelles (1841-1940), quinquennale (1852), décennales (1882-1892). Questionnaire sur l'état des vignes (1829, 1896-1912). Contrôle des stocks de céréales et de pommes de terre (1918-1919, 1921). Registre des cultures (1903-1915).</unittitle>
+                     <unitdate normal="1841/1940">1841-1940</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 68</unitid>
+                     <unitid>F5</unitid>
+                     <unittitle>Elevage. Taureau communal, porc et bélier : marchés pour la fourniture d'animaux (an XI-1866). Station d'étalons, création, subvention, bail (1854-1855, 1922-1940). Concours hippique, remboursement de prime (1890). Destruction d'animaux nuisibles (1867-1868, 1912-1939).&lt;lb/&gt;Chambre d'agriculture : liste des électeurs, procès-verbaux des élections (1919, 1933).&lt;lb/&gt;Syndicats. Statuts du syndicat agricole et communal de Faverney (1919-1920, 1942), du syndicat d'élevage (1921-1931, 1933)., du syndicat agricole corporatif (1942), de la caisse d'assurances agricoles mutuelles contre l'incendie (1920-1934). Création d'un comité communal de production agricole en temps de guerre (1939). Société d'assurances mutuelles contre la mortalité du bétail : statuts, registre des adhérents, procès-verbaux des réunions (1899-1927). Bouilleurs de cru : listes nominatives, régime du forfait départemental (1936-1939).</unittitle>
+                     <unitdate>An XI-1942</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>STATUT</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>BOISSON ALCOOLISEE</subject>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                     <subject>ELEVAGE</subject>
+                     <subject>ETABLISSEMENT PUBLIC DE COOPERATION INTERCOMMUNALE</subject>
+                     <subject>REPRODUCTION ANIMALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 69</unitid>
+                     <unitid>F6</unitid>
+                     <unittitle>Foires. Tableau général dans le département (an IV, an VI). Création et changement de dates (1860-1939). Mercuriales des denrées vendues sur le marché ((2), 1807-1835). Boulangerie, prix de la farine et du pain, repos hebdomadaire (1937, 1939). Boucherie, infraction à la réglementation (1942), prix de la viande, correspondance préfectorale (1931-1939). Syndicat de consommation : statuts (1921).</unittitle>
+                     <unitdate>An IV-1942</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>STATUT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOUCHERIE</subject>
+                     <subject>BOULANGERIE</subject>
+                     <subject>MARCHE AGRICOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 70</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Arpentement de la partie inférieure de la prairie (an XI). Marché avec l'arpenteur pour faire le toisé et l'arpentement des prés (an X-an XI). Estimation des prés composant la section E2 (1815). Plans de parcelles nouvelles devenues imposables (1867, 1869). Toisé des bâtiments de la commune (1874).</unittitle>
+                     <unitdate>An X-1874</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>arpentement</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 71</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Matrice de rôle pour la contribution foncière.</unittitle>
+                     <unitdate normal="1814">1814</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 72</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Livre des mutations (1er volume).</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 73</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Livre des mutations avec table alphabétique (4è volume).</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 74</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1850/1861">1850-1861</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 75</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1862/1873">1862-1873</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 76</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1874/1885">1874-1885</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 77</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1886/1899">1886-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 78</unitid>
+                     <unitid>G9</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1900/1907">1900-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 79</unitid>
+                     <unitid>G10</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1908/1911">1908-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 80</unitid>
+                     <unitid>G11</unitid>
+                     <unittitle>Impôts directs (3). Décharge de la contribution de la patente (1901). Liste des 30 plus imposés (1871). Décomptes de la rétribution scolaire (1859, 1878-1881). Réclamations pour réduction de la contribution foncière et évaluation des propriétés non bâties (1793, 1893, 1902, 1912).&lt;lb/&gt;Perception. Révocation du percepteur : arrêté préfectoral (1817).&lt;lb/&gt;Télégraphie. Création de ligne, établissement puis transfert du bureau (1868-1884).&lt;lb/&gt;Postes. Etablissement d'un courrier-piéton (an X). Rétablissement du bureau de distribution (1828-1829, 1839). Suppression du relais (1872). Création, fermeture, réouverture de l'agence de Port-d'Atelier (1936-1940).&lt;lb/&gt;Douanes. Droits et taxe à l'importation : arrêté préfectoral (1927).</unittitle>
+                     <unitdate normal="1793/1940">1793-1940</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DROITS DE DOUANE</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                     <subject>POSTE</subject>
+                     <subject>TELEGRAPHE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                     <geogname>PORT D'ATELIER</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 81</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Tableaux de recensement des jeunes gens.</unittitle>
+                     <unitdate normal="1821/1878">1821-1878</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 82</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Registre composite : inventaire du mobilier de la caserne (1790), répartition de l'assiette (1806-1807), comptabilité (1790-an III) ; à l'envers, réquisitions (1791-1793), congés de militaires (an VII-an X), rôles de prestations pour les chemins (1807-1808).</unittitle>
+                     <unitdate normal="1790/1808">1790-1808</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>INVENTAIRE</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CASERNE</subject>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>FINANCES COMMUNALES</subject>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 83</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Armée territoriale. Tableau de recensement (1855-1866). Ordre de convocation et avis d'inscription (1874). Livret de François Champion (1866).&lt;lb/&gt;Marine. Etat nominatif de dispensé (1860).&lt;lb/&gt;Administration militaire. Jugement concernant le logement du salpêtrier (an XI). Jugements militaires (1844-1897). Décès de militaires (1864-1914). Soutien de famille (1874-1923). Ordres de route (1890-1922). Subsistances militaires, fourniture du pain et du bois (an II-1922). Logement et casernement, correspondance avec l'armée et la préfecture (1830-1879, 1935). Pigeons voyageurs, autorisation, recensement (1899-1902). Registres de déclarations des voitures automobiles (1911-1922).</unittitle>
+                     <unitdate>An II-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CHAMPION (François)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 84</unitid>
+                     <unitid>H4</unitid>
+                     <unittitle>Bâtiments militaires. Procès-verbaux de reconnaissance des dégradations (an IX). Devis général des travaux à exécuter sur les places de Vesoul et de Faverney (1850). Travaux d'entretien (1876-1903). Dépôt de remontes, signalement des chevaux des propriétaires de Faverney, établissement du dépôt (1 plan). Correspondance avec l'intendance militaire, inspection des armes, construction d'une écurie (1811-1813, 1842-1887, 1922). Procès-verbaux d'affermage (1845-1934). Concession d'eau, captage d'une source (1856-1857, 1894, 1933).</unittitle>
+                     <unitdate>An IX-1934</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU SOUTERRAINE</subject>
+                     <subject>INFRASTRUCTURE MILITAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                     <geogname>VESOUL</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 85</unitid>
+                     <unitid>H5</unitid>
+                     <unittitle>Garde nationale (4). Listes nominatives (an II, 1834-1871). Etat des réquisitionnaires (an II-1814). Exemptés, congés de libération, remplaçants, francs-tireurs (1870). Elections des officiers et sous-officiers : procès-verbaux (an II, 1834-1848, 1870). Conseil de discipline, règlement du service ordinaire (1831). Visite des armes (1838-1874).</unittitle>
+                     <unitdate>An II-1874</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 86</unitid>
+                     <unitid>H6</unitid>
+                     <unittitle>Sapeurs-pompiers. Création d'un corps de sapeurs (1852). Listes nominatives, contrats d'engagement (1852-1913, 1887-1937). Règlement de service (1880-1912). Subvention (1904). Acquisition de pompes à incendie (1833). Entretien du matériel (1943). Election des officiers et sous-officiers (1848-1937). Conseil supérieur : procès-verbaux des opérations électorales et listes électorales (1907-1938). Société de secours mutuels des sapeurs-pompiers, statuts, subventions, récompenses honorifiques, statistiques (1888-1929).</unittitle>
+                     <unitdate normal="1833/1943">1833-1943</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>LISTE ELECTORALE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                     <genreform>STATUT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 87</unitid>
+                     <unitid>H7</unitid>
+                     <unittitle>Armée du Rhin. Etablissement d'un cimetière militaire et d'un hôpital (an II), réquisitions ((5), an III, 1806). Ordres de réquisitions (1793-an IV).</unittitle>
+                     <unitdate normal="1793/1806">1793-1806</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>ETABLISSEMENT PUBLIC D'HOSPITALISATION</subject>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 88</unitid>
+                     <unitid>H8</unitid>
+                     <unittitle>Réquisitions (an II-an III) ; à l'envers du registre, état des prix des denrées du marché de Faverney (1790-an XIII).</unittitle>
+                     <unitdate>1790-an XIII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                     <subject>MARCHE DE DETAIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 89</unitid>
+                     <unitid>H9</unitid>
+                     <unittitle>Etat des réquisitions.</unittitle>
+                     <unitdate>An II-an VIII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 90</unitid>
+                     <unitid>H10</unitid>
+                     <unittitle>Invasion de 1815 (6). Réquisitions, indemnisations, désarmement, établissement d'un hôpital militaire.</unittitle>
+                     <unitdate normal="1814/1819">1814-1819</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETABLISSEMENT PUBLIC D'HOSPITALISATION</subject>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 91</unitid>
+                     <unitid>H11</unitid>
+                     <unittitle>Guerre de 1870 (7). Réquisitions, reçus, quittances et états. Installation d'hôpitaux provisoires, ambulances (1870). Affaire de Saint-Rémy, rencontre de mobiles avec une escorte prussienne (1871). Dépêches télégraphiques et circulaires préfectorales (1870-1871). Arrêtés et circulaires des autorités allemandes (1870-1871). Répartition du subside (1871-1874). Souscription patriotique pour la libération du territoire (1872).</unittitle>
+                     <unitdate normal="1870/1874">1870-1874</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CIRCULAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETABLISSEMENT PUBLIC D'HOSPITALISATION</subject>
+                     <subject>GUERRE</subject>
+                     <subject>TRANSPORT SANITAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                     <geogname>SAINT-REMY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 92</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale (8). Fêtes publiques, correspondance du préfet (an VII-1923). Immeubles menaçant ruines, correspondance et enquête (an X-an XI, 1879, 1936). Ramonage des cheminées, marchés (1809-1896). Transports de corps, inhumations et exhumations : procès-verbaux et autorisations (1849-1951). Police des chemins, mesure de salubrité (1850, 1854), plainte des habitants (1850). Sinistres, gel, inondations, incendies (an VIII-1846, 1881-1910, 1936-1938).</unittitle>
+                     <unitdate>An VII-1951</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONCESSION FUNERAIRE</subject>
+                     <subject>INCENDIE</subject>
+                     <subject>INONDATION</subject>
+                     <subject>POLICE</subject>
+                     <subject>SINISTRE</subject>
+                     <subject>TRANSPORT DE CORPS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 93</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Police générale. Registre de permission de port d'armes (an XI-1811). Registre des passeports (an VI-1847). Naturalisation, décrets de réintégration, correspondance avec la préfecture (1864-1941). Etrangers, option pour la nationalité française (1872), états nominatifs et déclarations de résidence (1888-1893), registre d'immatriculation (1893-1921). Condamnés libérés, surveillance (1863-1883), demande de réhabilitation (1870). Mandats d'arrêt (1871, 1912). Recherche dans l'intérêt des familles (1889-1934).&lt;lb/&gt;Police des chemins de fer. Procès-verbaux de contravention concernant l'élagage des bois le long des voies (1865).</unittitle>
+                     <unitdate>An VI-1941</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETRANGER</subject>
+                     <subject>NATURALISATION</subject>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 94</unitid>
+                     <unitid>I3</unitid>
+                     <unittitle>Extraits de jugement, tribunal criminel et civil (an VIII-an X). Séparations de biens, de corps et de biens, divorce (an XI, 1850-1931). Listes du jury (1850-1851, 1871-1872, 1939-1940).</unittitle>
+                     <unitdate>An VII-1940</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JURY D'ASSISES</subject>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 95</unitid>
+                     <unitid>I4</unitid>
+                     <unittitle>Epizooties, déclarations et arrêtés municipaux et préfectoraux (an VIII-1943). Epidémies, déclaration, fermeture d'école, statistique du choléra (1862-1937). Commission cantonale d'hygiène, révocation pour refus de serment (1852). Etablissements dangereux et incommodes, arrêtés d'autorisation, de suppression pour les séchoirs de cuirs verts (1826-1853, les appareils producteurs de gaz acétylène (1902-1905), les ateliers d'équarrissage (1902-1907, 2 plans). Abattoirs, plainte de particuliers (1879-1881), surveillance et règlement (1894-1907).</unittitle>
+                     <unitdate>An VIII-1943</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EPIDEMIE</subject>
+                     <subject>HYGIENE</subject>
+                     <subject>INSTALLATION CLASSEE</subject>
+                     <subject>PROTECTION SANITAIRE DU CHEPTEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS-PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 96</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales (1848-1852, 1855-1895).</unittitle>
+                     <unitdate normal="1848/1895">1848-1895</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 97</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections municipales (1815-1939), élection du Président de la République (1851, rétablissement de l'Empire (1852), plébiscite (1871), élections cantonales (1853, 1855, 1864), élections au conseil d'arrondissement (1864, 1938) : procès-verbaux.</unittitle>
+                     <unitdate normal="1815/1939">1815-1939</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 98</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Personnel communal. Gardiens de la maison et de la bibliothèque des Bénédictins, requêtes pour toucher leurs gages (1791-an II). Gardes des vignes, nominations (an IX-1828). Pâtres (an X-1902). Gardes-champêtre (an XI-1816, 1850-1942). Marché de l'horloge (an XI-anXII). Traitement de l'organiste (1807). Marché du sonneur (1811). Cantonniers (1858-1938). Gardes-forestier (1866-1923). Fossoyeurs (1867, 1883, 1941). Maires, adjoints et conseillers, décès, démissions, protestation (1879-1929). Listes des maires, gouverneurs, échevins, lieutenants de mairie, adjoints, greffiers et secrétaires de mairie (1752-1946). &lt;lb/&gt;Médailles et récompenses, attributions (1855-1924). </unittitle>
+                     <unitdate normal="1752/1946">1752-1946</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 99</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>(9) Vente de produits divers (1810-1867). Droits de place des marchands forains (1879-1906). Legs Gremion pour la fondation d'un don à la jeune fille la plus méritante (1901). Legs Droumot, à charge d'entretenir ses tombes (1905-1947).</unittitle>
+                     <unitdate normal="1810/1947">1810-1947</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DONS-ET-LEGS</subject>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>DROUMOT</persname>
+                     <persname>GREMION</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 100</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Maisons louées à des particuliers, baux, réparations, aliénation de la ferme de Baslière (2 plans, an III-1933). Construction d'une maison pour le gardien du taureau (1867). Four banal. Règlement de cuisson (1790), projet d'achat du four des Bénédictins (1810). Maison commune. Réparations au logement de l'instituteur, aménagement d'une salle de justice de paix, réparations, pose d'un plancher (1810-1855, 1 plan). Halle. Construction, adjudication des travaux, acquisition de terrains (1813, 1836-1837), reconstruction des murs de soutènement : devis (1840). Caserne de gendarmerie. Réparations : devis, acquisitions de terrains (1837-1919, 1 plan). Baux de bâtiments (1839-1923).</unittitle>
+                     <unitdate normal="1790/1933">1790-1933</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CASERNE</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BASLIERE</geogname>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 101</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>Ecoles. Salle d'asile. Construction : devis, acquisition de terrains, surélévation du mur de clôture, ameublement, projet d'agrandissement : devis (1829-1883, 2 plans). Ecole des filles. Location d'une maison, réparations, acquisition d'une maison (1 plan), vente de l'ancienne école, projet de salle d'école, établissement d'une grille (1807-1894, 1 plan). Ecole des garçons. Reconstruction d'un mur de soutènement, lieux d'aisances, réparations (1840-1904). Ecole de Port-d'Atelier gare. Demande de création, construction, agrandissement (1863, 1908-1911, 1935).</unittitle>
+                     <unitdate normal="1807/1935">1807-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 102</unitid>
+                     <unitid>M3</unitid>
+                     <unittitle>Fontaine de la place de la République. Pétition relative à une infiltration de purin (s.d.). Fontaine de la place Dauphine. Réparations, reconstruction : marché, devis, établissement d'une pompe, pose de statue (photo, an IX-1878). Fontaine de la place des Casernes. Construction, acquisition d'une source, établissement d'une conduite d'eau (2 plans), transfert (1827, 1852-1899). Fontaine de la Grande Rue Haute. Rapport sur les prises d'eau, devis des réparations, déplacement, acquisition d'immeubles, reconstruction (1828-1889, 2 plans). Fontaine Tardy. Construction (1 plan), établissement d'une conduite d'eau (1857-1860). Fontaine du Champ de Foire (plan) et de la rue Thielère. Projets d'établissement (1886). Fontaine de Port-d'Atelier-Gare. Projet de construction : devis et correspondance (1879, 1 plan, 1887-1907). Lavoir de la rue du Breuil, projet de construction (1 plan), acquisition de terrain (1855-1864). Lavoir des Côtes, construction d'un escalier d'accès : devis, adjudication des travaux (1936, 1 plan).</unittitle>
+                     <unitdate>An IX-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PHOTOGRAPHIE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU POTABLE</subject>
+                     <subject>EAU SOUTERRAINE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BREUIL (rue du)</geogname>
+                     <geogname>CASERNES (place des)</geogname>
+                     <geogname>COTES (LES)</geogname>
+                     <geogname>DAUPHINE (place)</geogname>
+                     <geogname>FAVERNEY</geogname>
+                     <geogname>GRANDE RUE HAUTE</geogname>
+                     <geogname>PORT-D'ATELIER GARE</geogname>
+                     <geogname>REPUBLIQUE (place de la)</geogname>
+                     <geogname>TARDY (fontaine)</geogname>
+                     <geogname>THIELERE (rue)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 103</unitid>
+                     <unitid>M4</unitid>
+                     <unittitle>Réparations à l'église et à la maison d'école : devis (1822). Réclamation du curé pour les réparations à la basilique et au presbytère (1931). Eglise. Acquisition de l'église abbatiale (1791), construction d'une sacristie (1810, 1824), pose d'une croix sur le clocher (1824, plan), réparations (an IX-1925, 1 plan), électrification de la sonnerie des cloches (1936, 2 plans), restauration du clocher (1944). Presbytère. Réparations : marché, devis, délibérations (an XII-1811, 1857-1859, 1884), construction d'un bûcher : devis (1838), location, différend avec le curé (1907-1908). Cimetière. Rétablissement de l'ancien, réparations aux murs : devis, agrandissement, acquisition de terrain, devis (1 plan), placement d'une croix au milieu du cimetière : devis (an II-1911). Croix. Réédification d'une croix sur la place publique (1810), érection de la croix dite du Jubilé (1827), construction d'une croix sur le pont (1857).</unittitle>
+                     <unitdate normal="1791/1944">1791-1944</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX-DROITS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 104</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Aliénations de biens (an X, 1813, 1826-1937, plans). Echanges, état, acquisitions (an XIV, 1828-1901, 2 plans). Amodiations (an XIV-1824). Partage des communaux, procès-verbaux et rôles (1793-1806). Droit de parcours, amodiations, arrêtés préfectoraux, extrait de jugement, suppression de vaine-pâture (an VIII-1830, plans). Anticipations, jugement, correspondance avec la préfecture (an X-1830, plans). Litiges concernant la propriété et l'abornement de terrains (1835, 1910). Procès concernant la propriété du pré dit le Breuille (1835, 1 plan).</unittitle>
+                     <unitdate normal="1793/1938">1793-1938</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>BIEN SPOLIE</subject>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BREUILLE (LE)</geogname>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 105</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Aménagement des bois, entretien, chemin de vidange, fossés d'assainissement, abornement du quart en réserve, repeuplement (1793-1892, 1934, 2 plans). Vente de menus produits forestiers (an X-1830). Rôle de répartition du taillis et de la coupe affouagère (1814-1830). Délits forestiers (1791, 1855, 1871, 1930). Location de la chasse (1809-1928). Incendies causés par les trains (1865-1938). Adhésion à l'association des communes forestières (1932-1938).</unittitle>
+                     <unitdate normal="1791/1938">1791-1938</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                     <subject>BOIS</subject>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 106</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Puits. Construction : devis (1829), suppression , pétition des habitants (1844). Construction de 2 réservoirs d'eau : mémoire et devis (1859-1868, 1879, 2 plans). Source du clos Fleurot, réparations au bassin, servitude au sieur Maillard, captage (1811-1836, 1881-1894). Source des Carlotte, analyse de l'eau, captage, établissement d'une conduite (1898-1900, 1933, 1 plan publicitaire de bornes-fontaines, robinets et vannes (s.d.)). Location de la pêche (1791, 1806-1819).&lt;lb/&gt;Droits divers. Amodiations des boues (an X-1828), des places à fumier (1813-1863, 1 plan). Adjudication du service du corbillard (1913-1939). Concession au cimetière (10), gratuites pour les victimes civiles (1933).&lt;lb/&gt;Biens nationaux. Expertise d'un pré, adjudication (1791), acquisition de biens (an VIII). Biens en déshérence (1829, 1938). Reconnaissance et estimations (1790).</unittitle>
+                     <unitdate normal="1790/1939">1790-1939</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU POTABLE</subject>
+                     <subject>EAU SOUTERRAINE</subject>
+                     <subject>PECHE EN EAU DOUCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CARLOTTES (LES)</geogname>
+                     <geogname>CLOS FLEUROT</geogname>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>MAILLARD</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 107</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine. Construction d'aqueducs : marché (1808, 1856-1859, plans). Pavage dans les rues, réparations (1824-1881). Rigoles pavées, construction (1832-1920, 1 plan) Trottoirs, construction : devis (1888-1889, 1902-1911, plans). Projets de construction d'un égout, d'ouverture d'une rue sur la place du Champ de Foire et de dallage en ciment sur trottoir rue des Glacis (1912-1914). Dénomination des rues (1894-1936). Champ de foire. Etablissement, acquisitions de terrains (1858-1859, 1878). Rapport de l'agent-voyer sur un dépôt de graviers au champ de foire (1910). Rue des Ruaux. Ouverture, pétition des riverains pour des réparations, élargissement (1849-1872, plans). Rue ou quai du Moulin. Rétablissement de l'ancien chemin (1868-1882, 2 plans). Ouverture d'une nouvelle rue (1909-1911, 1 plan). Place Vauban. Réfection du mur de soutènement (1934, 2 plans). Un plan de la rue de l'Official (1811).</unittitle>
+                     <unitdate normal="1808/1936">1808-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                     <geogname>GLACIS (rue des)</geogname>
+                     <geogname>MOULIN (rue ou quai du)</geogname>
+                     <geogname>OFFICIAL (rue de l')</geogname>
+                     <geogname>RUAUX (rue des)</geogname>
+                     <geogname>VAUBAN (place)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 108</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Egouts. Plaintes des habitants (1861, 1890, 1912-1919, 1 plan). Distribution d'eau avec bornes-fontaines. Pose de bornes-fontaines à la gendarmerie, achat de terrain, construction d'un réservoir et de canal-égout, réparations à la conduite, projet d'amélioration du service des eaux, analyse bactériologique de l'eau (1846, 1852, 1889-1918, plans). Eclairage public. Pose de réverbères (1856-1857), litige pour non paiement de fournitures d'éclairage (1931). Alignement. Acquisition de terrains, autorisation de voirie, élargissement de rues, arrêtés préfectoraux (an XIII-1912, plans).</unittitle>
+                     <unitdate>An XIII-1931</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DISTRIBUTION ELECTRIQUE</subject>
+                     <subject>EAU POTABLE</subject>
+                     <subject>RESEAU DE DISTRIBUTION</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 109</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Petite voirie. Chemin vicinal de Faverney à Fleurey, réparations, litige sur la propriété d'une partie du chemin, rectification, formation d'un nouveau réseau (1814, 1826-1827, 1884, 1903). Chemin rural des Vignes, travaux de terrassement (2 plans), réparations (1851-1889). Chemin de la Maze, délimitation (1881, 1886, 1 plan). Chemin rural n° 2, dit de la Cornée, projet d'élargissement et redressement, acquisition de terrain (1888, 1 plan). Chemin rural n° 7, de Pré à Pré, rectification de la côte de la Corvée (1889-1892, plans). Ouvertures et reconnaissances du chemin rural n° 6, des Lièges (1886-1887, 1 plan), du chemin rural n° 10, la Marcelle (1889, 1 plan), du chemin rural n° 11, du Retombeau (1892, 1 plan), du chemin rural n° 12, du Milieu de Maze (1892, 1 plan), du chemin rural n° 13, des Champs Perreux (1893, 1 plan), du chemin rural n° 15, de Lambessaucy (1898-1899, 1 plan), du chemin rural n° 18, de l'Etang du Haut (1903, 1 plan), du chemin rural n° 19, des Grandes Bouteilles (1904-1905, 1 plan), du chemin rural n° 20, de la Raye (1908, 2 plans), du chemin rural n° 21, au Cabinet (1912).</unittitle>
+                     <unitdate normal="1814/1912">1814-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CABINET (LE)</geogname>
+                     <geogname>CHAMPS PERREUX (LES)</geogname>
+                     <geogname>CORNEE (LA)</geogname>
+                     <geogname>CORVEE (LA)</geogname>
+                     <geogname>ETANG DU HAUT (L')</geogname>
+                     <geogname>FAVERNEY</geogname>
+                     <geogname>GRANDES BOUTEILLES (LES)</geogname>
+                     <geogname>LAMBESSAUCY</geogname>
+                     <geogname>LIEGES (LES)</geogname>
+                     <geogname>MARCELLE (LA)</geogname>
+                     <geogname>MAZE (LA)</geogname>
+                     <geogname>MILIEU DE MAZE (LE)</geogname>
+                     <geogname>PRE A PRE</geogname>
+                     <geogname>RAYE (LA)</geogname>
+                     <geogname>RETOMBEAU (LE)</geogname>
+                     <geogname>VIGNES (LES)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 110</unitid>
+                     <unitid>O4</unitid>
+                     <unittitle>Chemin de moyenne communication n° 9, de Faverney à Conflans, réparations, construction, acquisition de terrain (1808-1884, 3 plans). Chemin de grande communication n° 7, de Breurey à la Haute-Marne, réparations, répartitions des frais de construction et d'entretien, comptes des recettes et des dépenses, alignement dans le village (2 plans), état des contingents, curage des fossés, pose de panneaux de signalisation, construction d'aqueducs et d'une rampe d'accès (1808-1942). Chemin de grande communication n° 14, de Combeaufontaine à Faverney, construction, alignement dans le village, embranchement (1822-1877, 1 plan). Chemin de grande communication, contingent annuel, révision du syndicat des chemins (1828-1883). Chemin de grande communication n° 28, de Luxeuil à Faverney, alignement (1878-1931).</unittitle>
+                     <unitdate normal="1808/1942">1808-1942</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>ROUTE DEPARTEMENTALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 111</unitid>
+                     <unitid>O5</unitid>
+                     <unittitle>Ponts. Péage (1791). Dégradations occasionnées par le meunier (1806). Adjudications des réparations (1809). Constructions sur le canal du moulin (1848), sur la Saône à Baulay (1893-1896). Chemins vicinaux. Etat, tableaux généraux, classement, anticipations, ouverture (an IX-1902, plans). Chemins de défruitement. Ouverture, anticipations, prolongement, délimitation (1816-1927, plans). Prestations, tarifs de conversion en tâches (1810-1942). Ressources, créations (1851-1906).&lt;lb/&gt;Grande voirie. Route départementale n° 5, de Vesoul à Mirecourt, réparations, élargissement, aqueduc, alignement dans le village (an XII-1890).</unittitle>
+                     <unitdate normal="1791/1942">1791-1942</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>ROUTE DEPARTEMENTALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BAULAY</geogname>
+                     <geogname>FAVERNEY</geogname>
+                     <geogname>SAÔNE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 112</unitid>
+                     <unitid>O6</unitid>
+                     <unittitle>Chemin de fer de l'Est. Etablissement, déplacement de la voie aux abords de la gare de Port-d'Atelier et projet de construction d'un quai (1 plan), allongement de la voie XIV (plans), ouverture des barrières (1851-1915). Chemin de fer de Nancy à Gray, Etablissement, allongement du raccord direct de Port-d'Atelier (1854-1930, 1 plan). Chemins de fer vicinaux. Etablissement de la ligne Vesoul-Luxeuil, création d'une gare à Faverney (1907-1938).</unittitle>
+                     <unitdate normal="1851/1938">1851-1938</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VOIE FERREE D'INTERET LOCAL</subject>
+                     <subject>VOIE FERREE D'INTERET NATIONAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 113</unitid>
+                     <unitid>O7</unitid>
+                     <unittitle>Régime des eaux. Curage des fossés et ruisseaux, du canal du moulin, de la rivière la Superbe, la noue rouge : rôles de répartition, arrêtés préfectoraux, plaintes des habitants (plans).</unittitle>
+                     <unitdate>An VIII-1937</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                     <geogname>SUPERBE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 114</unitid>
+                     <unitid>O8</unitid>
+                     <unittitle>Irrigation, arrêté d'interdiction (an VIII). Moulin du Pont, projet de construction, marché de réparations (an IV-1896, 1 plan). Moulin du Haut, arrêté municipal réglementant les moulins, règlements d'eau (1812-1901). Rivière la Lanterne, inondations, entretien des rives, accident, ouverture d'un passage à batelets (1855-1914). Rivière la Saône, canalisation, établissement d'un quai en bois à Port-d'Atelier (1880-1940). Batelets particuliers, arrêtés d'autorisation (1919-1925). Canal de la Moselle à la Saône, enquête d'utilité publique pour son établissement (1872). Associations syndicales pour l'assainissement de la prairie et des ruisseaux du Frionnet et des Prés (1899), pour l'irrigation de la prairie de la Lanterne et du ruisseau de Menoux (1907).</unittitle>
+                     <unitdate>An IV-1940</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                     <geogname>FRIONNET (LE)</geogname>
+                     <geogname>LANTERNE (LA)</geogname>
+                     <geogname>MENOUX (LE)</geogname>
+                     <geogname>PORT D'ATELIER</geogname>
+                     <geogname>PRES (LES)</geogname>
+                     <geogname>SAÔNE (LA)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 115</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Dépôt de 2 candélabres à l'église (1908). Fabrique. Installation du marguillier (1809). Don d'une grande pièce en nature de chapelle contigüe à la sacristie (1892). Compte administratif (1899). Comptes de gestion (1899-1900). Budgets (1894-1901). Attribution des biens (1907-1910). Période révolutionnaire. Déclarations de résidence des religieux (1790-1791). Proclamation ministérielle concernant la promesse de fidélité à la Constitution pour les prêtres (an VIII). Déclaration des biens de l'abbaye ((11), 1790). Pétition des officiers municipaux à l'Assemblée Nationale contre le transfert à Vesoul de la Sainte Hostie (1790). Installation du curé Bideaux (an XII).</unittitle>
+                     <unitdate normal="1790/1908">1790-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BIDEAUX</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 116</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Secours aux indigents, arrêtés préfectoraux, liste des indigents (12), aliénés et condamnés, marché (1861-1864). Marché pour la fourniture du pain, viande et cercueils pour les indigents (1861-1935). Aliénés, placement (1853-1941). Atelier de charité (1855-1888). Assistance aux vieillards, infirmes et incurables (1877-1942), aux femmes en couches ((13), 1807, 1916-1917). Nomination d'un vaccinateur (1807, 1930-1936). Accidents du travail (1911-1933).&lt;lb/&gt;Bureau de bienfaisance. Extraits de délibérations (1829-1918). Amodiations (1793-1850). Aliénations d'immeubles (1852-1859). Legs et dons (1813, 1868-1905). Rentes, achat (1887); conversion (1917), don d'une rente à l'association diocésaine de Besançon (1909-1929).&lt;lb/&gt;Hospice de la Charité. Etat des biens et titres (1805-1830). Installation des soeurs dominicaines (1886). Statistique (1892-1894). Hospice national des Quinze-Vingts, accord d'une pension viagère (1903).</unittitle>
+                     <unitdate normal="1793/1942">1793-1942</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE</subject>
+                     <subject>DONS-ET-LEGS</subject>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>SOEURS DOMINICAINES (LES)</persname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Hospice de la Charité</corpname>
+                     <corpname>Hospice national des Quinze-Vingts</corpname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE-SPORTS-TOURISME ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 117</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Commission scolaire, élection de délégués (1882-1935). Bibliothèque scolaire, catalogue des livres (1861-1900). Inventaire du mobilier (1885-1904). Transformation de la classe maternelle en classe enfantine (1887). Règlement pour l'école de garçons (1858). Cours d'adulte (1865, 1869-1870). Attribution de bourses (1875-1879, 1894, 1908). Institutrices, nomination, démission, traitement (1792-1941). Indemnités de résidence (1889-1891). Listes des enfants admis gratuitement (1851-1877). Listes nominatives des enfants de 6 à 13 ans (1867-1889). Extraits du registre d'appel (1885-1906).</unittitle>
+                     <unitdate normal="1792/1941">1792-1941</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>INVENTAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>228 Edepot 118</unitid>
+                     <unitid>R2</unitid>
+                     <unittitle>Aviation. Journées "baptêmes de l'air" (1936). Cinéma. Arrêté municipal de réglementation (1938). Tourisme. Hôtels refusés à l'homologation (1939).&lt;lb/&gt;Documents divers. Adjudications d'immeubles entre particuliers, actes notariés (1827-1835, 1911).</unittitle>
+                     <unitdate normal="1827/1939">1827-1939</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CINEMA</subject>
+                     <subject>HOTEL DE TOURISME</subject>
+                     <subject>TRANSPORT AERIEN</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FAVERNEY</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

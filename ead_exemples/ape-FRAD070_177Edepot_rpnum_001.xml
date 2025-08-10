@@ -1,0 +1,1180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_177Edepot_Archives_communales_déposées_de_Corre" url="https://francearchives.fr/findingaid/8507d2c8445ef5f77ea5753cc3c6aea94e6eaa24">FRAD70_177Edepot_Archives_communales_déposées_de_Corre</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>177Edepot - Archives communales déposées de Corre</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>177Edepot - Archives communales déposées de Corre</unittitle>
+         <unitid>177Edepot1-36</unitid>
+         <unitdate normal="1687/1946">1687-1946</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE CORRE</corpname>
+         </origination>
+         <note label="note">
+            <p>Archives communales de Corre déposées aux A. D. H. S. en 1971 et 1993;
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 6977, déclarations de propriétés faites en exécution de l'édit de 1749, dans la communauté de Corre (1749-1751).
+B 7914, justice seigneuriale de Corre (1772).
+B 9517, "Manuel de déclaration entière des cens et redevances dehus aux R. P. de la compagnie de Jésus du collège fondé à Dole... par les habitants de Corre..." (1634).
+B 9706, information concernant Corre (XV° siècle).
+B 9707, aveux et dénombrements des fiefs sis à Corre, comptes du prévôt de Châtillon-sur-Saône (Vosges) concernant Corre (copies, 1333-1564).
+C 6, saisie de marchandises à Corre provenant de Lorraine, déchargées sans qu'aient été payés les droits (XVIII° siècle).
+C 194, contestation contre Antoine Vieilley, au sujet de l'offrande du pain bénit à Corre (XVIII° siècle).
+C 353, rôles et répartements des impositions dans la communauté de Corre (1727-1790).
+D 50, vente de la moitié de la seigneurie de Corre (1606-1714).
+H 360, titres et biens de l'abbaye de Clairefontaine à Corre (1152-1769).
+3 O 183, travaux communaux, depuis 1856.</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             24/03/2009
+         </p>
+         <p>Dernier ajout le             24/03/2009
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> BIENS COMMUNAUX-VOIRIE (1692-1785)</p>
+         <p>  177 Edepot  1</p>
+         <p> CULTE (1687-1792)</p>
+         <p>  177 Edepot  2 à 8 - 177 Edepot  28</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1818-1924)</p>
+         <p>  177 Edepot  9 à 15 - 177 Edepot  29 à 30</p>
+         <p> ECONOMIE SOCIALE-STATISTIQUE (1860-1903)</p>
+         <p>  177 Edepot  21</p>
+         <p> CONTRIBUTIONS (1818-1911)</p>
+         <p>  177 Edepot  16 à 18 - 177 Edepot  31</p>
+         <p> AFFAIRES MILITAIRES (1874-1921)</p>
+         <p>  177 Edepot  32</p>
+         <p> POLICE-HYGIENE PUBLIQUE (1833-1909)</p>
+         <p>  177 Edepot  19</p>
+         <p> ELECTIONS ET PERSONNEL (1846-1936)</p>
+         <p>  177 Edepot  33</p>
+         <p> FINANCE DE LA COMMUNE (1839-1840)</p>
+         <p>  177 Edepot  20</p>
+         <p> EDIFICES COMMUNAUX (1807-1921)</p>
+         <p>  177 Edepot  22</p>
+         <p> BIENS ET BOIS COMMUNAUX (...)</p>
+         <p>  177 Edepot  23</p>
+         <p> VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX (1820-1930)</p>
+         <p>  177 Edepot  24 - 177 Edepot  34 à 35</p>
+         <p> CULTE (...)</p>
+         <p>  177 Edepot  36</p>
+         <p> ASSISTANCE ET PREVOYANCE (1838-1921)</p>
+         <p>  177 Edepot  25 à 26</p>
+         <p> INSTRUCTION PUBLIQUE-SCIENCES, LETTRES ET ARTS (1839-1946)</p>
+         <p>  177 Edepot  27</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX-VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Reconnaissances des habitants de Corre au roi de France pour les terres dépendant du domaine royal et détenues par eux (1665, copie de 1692). Transaction entre la communauté de Corre et divers particuliers du lieu, pour délimiter un chemin qui traverse leurs propriétés (1779). Délibération des habitants de Corre, au sujet des anticipations commises par Antoine Vieilley, leur seigneur, sur les communaux dudit lieu, et sa prétention de recevoir le premier le pain bénit (1785).</unittitle>
+                     <unitdate normal="1692/1785">1692-1785</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>VIEILLEY (Antoine)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 2</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Corre, Montcourt et Ranzevelle : baptêmes, mariages, sépultures (1704, juin-novembre 1704, 1705, une pièce de procédure concernant les dîmes est incluse dans la reliure (XVIII° siècle), 1706-1710, extrait imprimé de l'ordonnance royale relative à la tenue des registre (1), 1711-1713).&lt;lb/&gt;Parmi ces actes, il faut remarquer le baptême de Jeanne-Claude, fille de Laurent Vernerey, seigneur de Montcourt, et de Jeanne Vautherin (15 avril 1704) ; le mariage de Jean-Pierre d'Hyarce d' "Arnaud", capitaine et maréchal des logis des chevaux légers du Dauphin, et d'Elisabeth, fille de Jean Larroux, maire et juge pour le roi à Corre (13 janvier 1706) : le mariage de Noël Thomassin, seigneur de Montdoré, et d'Hélène de Vernerey (28 novembre 1708).&lt;lb/&gt;1 registre factice relié.</unittitle>
+                     <unitdate normal="1700/1713">1700-1713</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi12R44</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                     <geogname>MONTCOURT</geogname>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>HYARCE D' "ARNAUD" (Jean-Pierre)</persname>
+                     <persname>LARROUX (Elisabeth)</persname>
+                     <persname>THOMASSIN (Noël)</persname>
+                     <persname>VAUTHERIN (Jeanne)</persname>
+                     <persname>VERNEREY (Hélène de)</persname>
+                     <persname>VERNEREY (Jeanne-Claude)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 3</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Corre, Montcourt et Ranzevelle : baptêmes, mariages, sépultures (1714-janvier 1724).&lt;lb/&gt;Parmi ces actes, il faut remarquer le mariage d'Antoine Faucheron, de Belle-Isle, maréchal des logis des gens d'armes de Bretagne, de la paroisse de Conflans (peut-être Conflans-Saint-Honorine, département des Yvelines), diocèse de Paris, et d'Elisabeth Larroux (28 août 1715) ; le baptême de Jacques-Charles de Vernerey, fils de Laurent de Vernerey, seigneur de Montcourt, et d'Anne-Rose de Campredon, et dont le parrain fut Jacques deCampredon, ministre plénipotentiaire à la cour de Suède (10 octobre 1722).&lt;lb/&gt;1 registre factice relié, dans lequel sont insérées des pages imprimées en latin.</unittitle>
+                     <unitdate normal="1714/1724">1714-1724</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi12R44</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                     <geogname>MONTCOURT</geogname>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>FAUCHERON (Antoine)</persname>
+                     <persname>LARROUX (Elisabeth)</persname>
+                     <persname>VERNEREY (Jacques-Charles de)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 4</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Corre, Montcourt et Ranzevelle : baptêmes, mariages, sépultures (1724-1725, extrait imprimé de l'ordonnance royale relative à la tenue des registres (1), 1726-1729, 1730-1732 en double, 1733-1736, 1733-septembre 1734).&lt;lb/&gt;1 registre factice relié, dans lequel sont insérées des pages imprimées en latin.</unittitle>
+                     <unitdate normal="1724/1736">1724-1736</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi12R44</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                     <geogname>MONTCOURT</geogname>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 5</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Corre, Montcourt et Ranzevelle : baptêmes, mariages et sépultures.&lt;lb/&gt;1 registre factice relié.</unittitle>
+                     <unitdate normal="1737/1743">1737-1743</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi12R44</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                     <geogname>MONTCOURT</geogname>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 6</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Corre, Montcourt et Ranzevelle : baptêmes, mariages, sépultures (1744-février 1781).&lt;lb/&gt;Parmi ces actes, il faut remarquer le baptême de Françoise-Gasparine-Hélène, fille de Jean-Baptiste Terrier et de Jeanne-Baptiste Parisey (31 octobre 1747) ; le décès de Jean-Charles Mathelat, seigneur de Bourbévelle et Montcourt (3 mai 1756) ; le mariage de Pierre-Gaspard Folley, seigneur à Corre et d'Elisabeth de Bourbonne (26 mars 1763) ; le mariage de Charles-Joseph-Xavier Maire, fils de Jean-François-Baptiste Maire, seigneur de Bouligney, conseiller au parlement de Besançon, et de Marie Terrier, fille de Jean-Baptiste Terrier, seigneur de Ranzevelle (14 mai 1771).&lt;lb/&gt;1 registre relié.</unittitle>
+                     <unitdate normal="1744/1781">1744-1781</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi12R44</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                     <geogname>MONTCOURT</geogname>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BOURBONNE (Elisabeth de)</persname>
+                     <persname>FOLLEY (Pierre-Gaspard)</persname>
+                     <persname>MAIRE (Charles Joseph Xavier)</persname>
+                     <persname>MATHELAT (Jean-Charles)</persname>
+                     <persname>TERRIER (Françoise Gasparine Hélène)</persname>
+                     <persname>TERRIER (Marie)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 7</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Corre, Montcourt et Ranzevelle : baptêmes, mariages et sépultures (février 1781-1792).&lt;lb/&gt;1 registre factice relié.</unittitle>
+                     <unitdate normal="1781/1792">1781-1792</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi12R44</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                     <geogname>MONTCOURT</geogname>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 8</unitid>
+                     <unitid>GG8</unitid>
+                     <unittitle>Partie d'un acte notarié, récupéré dans une reliure, faisant état d'un titre de 1040 (parchemin, XV° siècle). Dîmes : bénéfice d'inventaire de Pierre Houguelin et pièce d'un procès entre les habitants de Corre et les héritiers de Pierre Houguelin, marchand apothicaire (1640). Reconnaissance des dépendances de la cure de Corre (1661). Mémoires des terres labourables de la cure de Corre (1671).</unittitle>
+                     <unitdate>XV° siècle-1671</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>HOUGUELIN (Pierre)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 28</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial de Corre, Montcourt et Ranzevelle : baptêmes (1687), bénédiction d'une cloche le 7 avril 1723 ; baptêmes, mariages (1688-1743), une sépulture en janvier 1715, deux en novembre 1732 et une le 27 février 1733 ; sépultures (1687-1743, un baptême le 23 décembre 1742.</unittitle>
+                     <unitdate normal="1687/1743">1687-1743</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                     <geogname>MONTCOURT</geogname>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 9</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (germinal an VIII-juin 1817)&lt;lb/&gt;Lacunes en ce qui concerne les délibérations municipales de Corre pour les années 1817 à 1831.&lt;lb/&gt;1 registre en mauvais état.</unittitle>
+                     <unitdate>an VIII-1817</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 10</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal : délibérations (novembre 1831-mai 1841). A l'envers et à la fin du registre, actes administratifs de la municipalité (1830-1837).&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1830/1841">1830-1841</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 11</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal : délibérations (juillet 1841-octobre 1856).&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1841/1856">1841-1856</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 12</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Conseil municipal :délibérations (novembre 1856- octobre 1879).&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1856/1879">1856-1879</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 13</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Correspondance et actes divers, déclarations de changement de domicile, ordres de route. &lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1837/1851">1837-1851</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 14</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Correspondance du maire.&lt;lb/&gt;1  registre.</unittitle>
+                     <unitdate normal="1855/1883">1855-1883</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 15</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Répertoires des actes soumis à l'enregistrement (1833-1881). Correspondance et circulaires adressées au maire (1818-1851). Assurance des bâtiments communaux, difficulté de paiement (1850-1854).</unittitle>
+                     <unitdate normal="1818/1881">1818-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>CIRCULAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 29</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Conseil municipal : délibérations (octobre 1879-mai 1898).&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1879/1898">1879-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 30</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Conseil municipal : délibérations (juin 1898-octobre 1924).&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1898/1924">1898-1924</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ECONOMIE SOCIALE-STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 21</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Agriculture.- Statistique annuelle (1860-1906), décennale (1882-1892), états des récoltes (1865-1884), registre des cultures (1903).&lt;lb/&gt;Commerce et industrie.- Viande de boucherie : état statistique (1876). Situation industrielle (1892).</unittitle>
+                     <unitdate normal="1860/1903">1860-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>INDUSTRIE</subject>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                     <subject>VIANDE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 16</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Contributions foncières : livre des mutations (2è volume).</unittitle>
+                     <unitdate normal="1818/1824">1818-1824</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 17</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Délimitation du territoire de Corre : procès-verbal ( 1818-1823) et matrices des propriétés foncières (1824-1854), avec table alphabétique et tableau indicatif des propriétaires et propriétés.</unittitle>
+                     <unitdate normal="1818/1854">1818-1854</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 18</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Contributions foncières : registre des augmentations et diminutions survenues dans les contenances et revenus portés sur les matrices cadastrales de Corre.</unittitle>
+                     <unitdate normal="1856/1911">1856-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 31</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Contributions directes : liste des 30 plus forts contribuables de la commune (1878), listes des commissaires répartiteurs (1856, 1860, 1876). Contributions foncières, réclamation, frais d'expertise (1875).&lt;lb/&gt;Postes.- Distribution du courrier, installation d'une boîte aux lettes à la gare (1886).&lt;lb/&gt;Télégraphe.- Etablissement d'un bureau : correspondance (1874-1876).</unittitle>
+                     <unitdate normal="1856/1886">1856-1886</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                     <subject>POSTE</subject>
+                     <subject>TELEGRAPHE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 32</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recensement des jeunes gens : tableaux (1877-1884, 1886, 1888-1905, 1907-1918, 1928). Armée territoriale, avis d'inscription, ordre de convocation, tableau de recensement des classes 1855 à 1866 (1874). Déclaration de domicile (1876-1878).Déclarations de décès de militaires, avec mention "Mort pour la France" (1915-1921).&lt;lb/&gt;Sapeurs-pompiers.- Pompe à incendie, réparations, acquisition : correspondance, factures (1884, 1892). Subvention de l'état (1907).</unittitle>
+                     <unitdate normal="1874/1921">1874-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 19</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale.- Sinistres (1909). Police de la pêche : correspondance du préfet (1869).&lt;lb/&gt;Police générale.- Passeports et souches de passeports déposés à la mairie (1833-1869) ; en particulier ceux d'Alexis Blot, marchand de verre, demeurant à Passavant (1836-1837) ; de Charles Cunny (1844-1849) et Joseph Monney (1838-1843), de Corre, marchands ambulants de faïence ; de Pierre-Alexandre Mathelat, étudiant en droit, puis président du tribunal de première instance de Mostaganem (Algérie,1835-1860) ; de Jean-Baptiste Vautherin, de Corre, directeur de la banque paternelle (1839).&lt;lb/&gt;Hygiène publique.- Abattoirs, établissement du sieur Lampérière, boucher à Corre, et état général des propriétés et maisons voisines de l'abattoir (2 plans, 1908) ; établissement du sieur Didieux, boucher, et état général des propriétés et maisons voisines de l'abattoir (2 plans, 1908).</unittitle>
+                     <unitdate normal="1833/1909">1833-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>PASSEPORT</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>INSTALLATION CLASSEE</subject>
+                     <subject>SINISTRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BLOT (Alexis)</persname>
+                     <persname>CUNNY (Charles)</persname>
+                     <persname>DIDIEUX (Charles)</persname>
+                     <persname>LAMPERIERE</persname>
+                     <persname>MATHELAT (Pierre-Alexandre)</persname>
+                     <persname>MONNEY (Joseph)</persname>
+                     <persname>VAUTHERIN (Jean-Baptiste)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 33</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Election politique : liste électorale (1921), démission d'un conseiller municipal (1846). Chambre de commerce : listes électorales (1912-1936).</unittitle>
+                     <unitdate normal="1846/1936">1846-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 20</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptes du maire.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate normal="1839/1840">1839-1840</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 22</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Bâtiments communaux, réparations, emprunt : devis, correspondance (1895-1897). Ecole, construction, emprunt :correspondance, aliénation d'un droit de mitoyenneté, installation d'une pompe dans la cour, réparations : correspondance, plans (1838-1858, 1879-1884). Bélier hydraulique, pose et fourniture : devis (1910). Monument commémoratif à la "mémoire des Morts pour la France", érection : correspondance (1919-1921). Maison destinée à un établissement de soeurs : 1 plan esquissé (1847). Réparations à l'église, au presbytère et au cimetière : correspondance, devis (1807-1838). Eglise, réparations, réclamations d'honoraires ;  exhaussement du clocher : devis, plan ; agrandissement par la construction d'une chapelle : plan, devis (1822-1900) ; horloge, acquisition et réparations : correspondance, marché (1876-1879, 1888-1889). Cimetière, construction : devis (1838), agrandissement (1908-1909). Presbytère, réparations : devis supplémentaire (1871, 1881).</unittitle>
+                     <unitdate normal="1807/1921">1807-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 24</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine.- Alignement : plans (1840-1906). Rigoles pavées et trottoirs, construction : correspondance, devis (1848-1900). Adduction d'eau, projet : devis, plans, rapports (1910). Pont sur le Côney, construction, péage, vente de la maison du péage : correspondance (1820-1862, 1880). Chemins vicinaux, tableaux généraux, classement, ouverture, chemin de défruitement (1 plan, 1848), abattage d'arbres, réparations (1818-1924, plans).</unittitle>
+                     <unitdate normal="1820/1910">1820-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CONEY</geogname>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 34</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Chemin vicinal de grande communication n° 7, de Breurey-lès-Faverney à la Haute-Marne, fonds centralisés (1837-1867), reconstruction de l'arche de décharge de Ranzevelle (1864, plans), réparations (1838-1876). Chemin vicinal de grande communication n° 19, de Jussey à Passavant, fonds centralisés, réparations (1838-1876). Chemin vicinal de grande communication n° 20, de Corre à Vauvillers, fonds centralisés (1838-1862), réparations (1838-1850). Prestations (1837-1891). Ressources (1840-1881). </unittitle>
+                     <unitdate normal="1837/1891">1837-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 35</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Chemin de fer.- Ligne de Jussey à Epinal, construction : correspondance, rapports, plan (1874-1887).&lt;lb/&gt;Régime des eaux.- Bateau particulier (1820-1823, 1869). Règlement d'eau : procès-verbal de récolement, affiches (1843-1864). Moulin du Haut d'Ormoy, réparations (1877). Assainissement de terrains : correspondance, plan (1857, 1891). La Saône, police des rivières : correspondance (1863) ; réparation au pertuis de navigation de Charentenay (1859) ; ponceau de halage : arrêté autorisant sa construction (1866). Le Côney, service des inondations, renseignements statistiques (1857) ; extraction de gravier : rapports de l'ingénieur (1856-1867). Curage des ruisseaux et fossés : plans, arrêtés préfectoraux (1871-1930). Canal de l'Est, construction, expropriation : correspondance, rapport (1872-1886).</unittitle>
+                     <unitdate normal="1820/1930">1820-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>AFFICHE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                     <subject>VOIE FERREE D'INTERET NATIONAL</subject>
+                     <subject>VOIE NAVIGABLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CONEY</geogname>
+                     <geogname>CORRE</geogname>
+                     <geogname>SAÔNE (LA)</geogname>
+                     <geogname>SOING-CUBRY-CHARENTENAY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 23</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Etat des biens ruraux (1864-1879). Amodiations de biens (an III-1907). Ventes acquisitions, échanges : plans (an VI-1945). Anticipations (an II, 1810, 1822, 1872, 1876). Marchés divers avec la commune (1820-1892).</unittitle>
+                     <unitdate>An II-1945</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 36</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Jouissance de l'église : procès-verbal de concession.</unittitle>
+                     <unitdate>Sans date</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 25</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Bureau de bienfaisance, délibérations.&lt;lb/&gt;1 registre</unittitle>
+                     <unitdate normal="1838/1908">1838-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 26</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Bureau de bienfaisance.- Etat des débiteurs de rentes perpétuelles (1859). Subvention du conseil général (1881). Compte de gestion (1895-1896). Règlement définitif des recettes et dépenses : délibérations (1894-1895, 1906).&lt;lb/&gt;Aliénés, frais de pension, imposition d'office, placement à l'asile (1846-1881). Médecine gratuite : listes des indigents ; nomination du médecin ; demande de secours ; carnet d'assisté ; assistance obligatoire : correspondance (1863-1921). Enfants assistés : correspondance (1883). Service de la vaccine : correspondance (1884). Placement à l'asile de Neurey (1895), à l'hôpital de Vesoul (1886, 1921).</unittitle>
+                     <unitdate normal="1846/1921">1846-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE MEDICALE</subject>
+                     <subject>INDIGENT</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE-SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>177 Edepot 27</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instituteurs, nomination, démission, traitement (1842-1881). Listes des enfants admis gratuitement (1852-1881). Extraits du registre d'appel (octobre 1882). Création d'une école enfantine : correspondance (1882-1886). Règlement pour les écoles primaires (1 cahier imprimé, 1835). Cours du soir : circulaire (1865). Mobilier scolaire, subvention, acquisition, inventaire : correspondance, factures (1839, 1845, 1881-1889). Comité local d'instruction primaire, nomination des membres (1841-1845). Commission municipale scolaire, élection des membres : extrait de délibération du conseil municipal (1882). Rétribution scolaire : résumé des rôles (1841-1881).&lt;lb/&gt;Partition du "chant du départ" (incomplet, s. d.).&lt;lb/&gt;Société de pêche à la ligne de Corre (1924), société des "Trompettes Corréennes" (s. d.), S. A. R. L. Jean Detroye et Cie (1934) : statuts. Syndicat d'élevage de Corre et Ranzevelle (1935), Union nationale des vieux travailleurs de France, fédération de Haute-Saône (1946) : états indicatifs des membres composant le conseil d'administration. </unittitle>
+                     <unitdate normal="1839/1946">1839-1946</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>LOISIR</subject>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORRE</geogname>
+                     <geogname>RANZEVELLE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>DETROYE (Jean)</persname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

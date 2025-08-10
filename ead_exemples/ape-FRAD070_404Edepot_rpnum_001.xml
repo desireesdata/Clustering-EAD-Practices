@@ -1,0 +1,1284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_404Edepot_Archives_communales_déposées_de_Passavant-la-Rochère" url="https://francearchives.fr/findingaid/2baabab4698e6c5da6ab1b3835d72409af7be6ba">FRAD70_404Edepot_Archives_communales_déposées_de_Passavant-la-Rochère</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>404Edepot - Archives communales déposées de Passavant-la-Rochère</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>404Edepot - Archives communales déposées de Passavant-la-Rochère</unittitle>
+         <unitid>404Edepot1-53</unitid>
+         <unitdate normal="1496/1952">1496-1952</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE PASSAVANT-LA-ROCHERE</corpname>
+         </origination>
+         <note label="note">
+            <p>Cf. inventaires imprimés des Archives départementales de la Haute-Saône : 
+-B 9486, pièces diverses provenant de la maîtrise particulière de Chaumont, concernant les communautés de Passavant-la-Rochère (1609-1779).
+-C 185, rôles des vingtièmes à Passavant (1758-1789).
+-C 269, correspondance des subdélégués de Langres et Bourbonne, relative à la levée des soldats provinciaux à Passavant et à la Rochère (1729-1788).
+-Archives communales de Selles : 485 E dépôt 18, registre paroissial de Selles et du «bois de Passavant » (1719-1733). </p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             04/07/2014
+         </p>
+         <p>Dernier ajout le             04/07/2014
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ACTES CONSTITUTIFS ET POLITIQUES DE LA COMMUNE, CORRESPONDANCE GENERALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 1</unitid>
+                     <unitid>AA1</unitid>
+                     <unittitle>Actes constitutifs et politiques de la commune : registre de lettres-patentes du roi, suivant le décret de l’Assemblée nationale, sur les réformes administratives et judiciaires. </unittitle>
+                     <unitdate normal="1789">1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION CENTRALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION COMMUNALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 53</unitid>
+                     <unitid>BB1</unitid>
+                     <unittitle>Administration communale : registre de délibérations communales, surtout au sujet des droits des habitants dans la forêt domaniale. </unittitle>
+                     <unitdate normal="1671/1714">1671-1714</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 2</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Finances, impôts et comptabilité : registre de l’arpentement général du finage de Passavant, avec croquis, précédé des procès-verbaux nécessaires à son exécution (1686-1687), arpentement du territoire de la Côte « en Champagne » (1694). </unittitle>
+                     <unitdate normal="1686/1694">1686-1694</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 3</unitid>
+                     <unitid>CC2</unitid>
+                     <unittitle>Procès relatifs aux exemptions de franchise de toute contribution des habitants de Passavant et aux droits d’usage des habitants de Passavant, la Côte-Saint-Antoine, Vougécourt, Martinvelle, Regnevelle (Vosges) dans la forêt de Passavant, avec pièces justificatives, copies de titres, requêtes, arrêts, inventaires, mémoires pour les habitants (en particulier : transaction entre Charles de Beauvau, seigneur de Passavant, et Bonne, sa femme, d’une part, et Simon de Tissac, écuyer-verrier, d’autre part (1496) ; transaction entre les habitants de Passavant, Martinvelle et Regnevelle d’une part, et Barbe de Tallonge, veuve de Charles Thigny, seigneur de Passavant, d’autre part, pour les droits sur la forêt de Passavant (1508) ; sentences du baillage de la maitrise des Eaux et Forêts de Chaumont maintenant les habitants de Passavant dans leurs droits (1547-1670) ; lettres patentes de Charles IX confirmant les privilèges des habitants de Passavant pour les impositions et autres charges diverses (1562) ; transaction entre Henri III, roi de France, et Charles II, duc de Lorraine, pour le partage de la forêt de Passavant (1581) ; lettres patentes d’Henri IV confirmant les droits et privilèges des habitants de Passavant (1600-1609) ; lettres patentes de Louis XIII confirmant les droits et privilèges des habitants de Passavant (1618)).  </unittitle>
+                     <unitdate normal="1496/1626">1496-1626</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MARTINVELLE</geogname>
+                     <geogname>REGNEVELLE</geogname>
+                     <geogname>VOUGECOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 4</unitid>
+                     <unitid>CC3</unitid>
+                     <unittitle>Procès relatifs aux exemptions de franchise de toute contribution des habitants de Passavant et aux droits d’usage des habitants de Passavant, la Côte-Saint-Antoine, Vougécourt, Martinvelle, Regnevelle (Vosges) dans la forêt de Passavant (suite) (en particulier : confirmation par Louis XIV (1660-1661), confirmation par Louis XV (1718) ; copie du traité entre le roi de France et le duc de Lorraine, en exécution des traités de paix de Bade et de Ryswick, concernant les droits d’usage des communautés limitrophes, notamment ceux de Passavant dans les bois du lieu (1718) ; requête des habitants de Passavant, la Côte-Saint-Antoine et Vougécourt à Jacques de Campredon, seigneur du lieu et ministre plénipotentiaire de France à la cour de Russie, concernant l’adjudication des fermes royales (1726-1728, 1757-1779) ; arrêts du conseil d’Etat maintenant les droits et privilèges de la communauté de Passavant, en matière d’impôts (1733) ; mémoire d’Etienne Nicolas de Villapré, prévôt royal du lieu et receveur de la marque des fers, concernant la fraude sur l’exportation des produits fabriqués à Passavant, M. de Villapré recommande le rétablissement du bureau des traites foraines supprimé en 1733 (1750) ; restriction des droits et privilèges des habitants de Passavant par un arrêt du conseil d’Etat (1758)).   </unittitle>
+                     <unitdate normal="1631/1784">1631-1784</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 5</unitid>
+                     <unitid>CC4</unitid>
+                     <unittitle>Dénombrement des familles de la communauté de Passavant pour la distribution du sel (1741) ; rôle de l’imposition du vingtième (1772) ; rôle du vingtième de l’industrie (1774) ; avis de paiement à faire par le clergé (1789) ; traité au sujet de l’acensement du moulin de la Nava entre les seigneurs et dames de Vougécourt et le sieur Jean Vialat, meunier (1777).  </unittitle>
+                     <unitdate normal="1741/1789">1741-1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORETS, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 6</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Biens communaux : anticipations de terrains. &lt;lb/&gt;Bois : visite et partage des bois de Passavant (1598, 1604, 1620) ; affouage : P.V. de martelage (1776, 1778). </unittitle>
+                     <unitdate normal="1598/1783">1598-1783</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>JUSTICE, PROCEDURE, POLICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 7</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Gruerie royale de Passavant : pièces de procédures, comptes du syndic (1695, 1733-1765). </unittitle>
+                     <unitdate normal="1695/1765">1695-1765</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 8</unitid>
+                     <unitid>FF2</unitid>
+                     <unittitle>Gruerie royale de Passavant : pièces de procèdures, comptes du syndic (1769-1790) ; compte de gestion du syndic (1783).</unittitle>
+                     <unitdate normal="1769/1790">1769-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 9</unitid>
+                     <unitid>FF3</unitid>
+                     <unittitle>Gruerie royale de Passavant : registres servant à l’enregistrement des procès-verbaux et rapports.</unittitle>
+                     <unitdate normal="1740/1790">1740-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 10</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Cultes : registre paroissial de Passavant, de la Côte-Saint-Antoine, hameau du lieu et des « bois de Passavant »  : B.M.S. (septembre 1690-septembre 1691 ; 1693-1694, janvier-juillet, octobre-décembre ; deux actes de 1695 et un acte d’août 1694 ; 1696-mars 1698 ; 1700, janvier-juillet, octobre et décembre ; 1701 ; 1703-janvier 1706 ; 1704-1705 ; 1706, janvier-octobre ; 1707-1708 ; 1709, avril-décembre, avril-septembre ; décembre 1708-mars 1709 ; 1711, octobre-décembre, février-mars, août-octobre, mars-juillet ; novembre 1712-janvier 1713 ; 1712, août-octobre ; 1713, novembre-décembre ; 1712, février-septembre ; 1713, février-octobre, avril-juillet, janvier-février ; 1714, janvier ; février 1712-avril 1715 ; 1714, mars-septembre ; mars 1715-septembre 1716 ; avril 1716-février 1718 ; 1719, février-octobre ; 1720 ; 1721, janvier-mars, un acte de juillet, octobre-décembre ; 1722-1723 ; 1724, janvier-septembre, août-octobre, septembre-décembre ; 1725).</unittitle>
+                     <unitdate normal="1690/1725">1690-1725</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 11</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Passavant, de la Côte, de la Rochère et des « bois de Passavant »  : B.M.S. (novembre 1725-janvier 1732, avec tables alphabétiques des naissances, mariages et décès ; décembre 1730-janvier 1733, avec tables ; 1732-juin 1733, avec tables ; juillet 1733-octobre 1735 ; février 1733-août 1735, avec tables ; juin 1735-février 1738, avec tables ; 1738, avec tables ; un acte de novembre 1735 ; août 1735-février 1738). </unittitle>
+                     <unitdate normal="1725/1738">1725-1738</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 12</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Passavant et dépendances  B.M.S. (1739-1741 ; 1743-1749 ; dans ce registre chaque cahier est accompagné de tables alphabétiques des actes qui y sont inscrits). </unittitle>
+                     <unitdate normal="1739/1749">1739-1749</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 13</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Passavant et dépendances : B.M.S. avec tables par années. </unittitle>
+                     <unitdate normal="1750/1759">1750-1759</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 14</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Passavant et dépendances  : B.M.S. avec tables par années. </unittitle>
+                     <unitdate normal="1760/1769">1760-1769</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 15</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Passavant et de ses précédentes dépendances, de la tuilerie de la Nava, du moulin de la tuilerie et de la forge de la Morteau : B.M.S., avec tables. </unittitle>
+                     <unitdate normal="1770/1779">1770-1779</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 16</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial de Passavant et dépendances  : B.M.S. (1780-février 1791, avec tables) ; sur un feuillet indépendant : acte de naissance le 16 février 1791, de François Joseph Bichet, extrait des registres de la commune de Grand-Combe-des-Bois (Doubs). </unittitle>
+                     <unitdate normal="1780/1791">1780-1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 17</unitid>
+                     <unitid>GG8</unitid>
+                     <unittitle>Registre paroissial et d’état civil de Passavant et dépendances : N.M.D. (1791-1792) ; N. (1793-septembre 1794) ; M. (1793-mars 1794) ; D. (1793-septembre 1794) ; N.M.D. avec tables (an III-an VI) ; sur un feuillet indépendant, acte de naissance de Claude-François Guillié, du 9 vendémiaire an IV, extrait des registres du 9e arrondissement de Paris.  </unittitle>
+                     <unitdate normal="1791/1798">1791-1798</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                     <genreform>REGISTRE D'ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DECES</subject>
+                     <subject>MARIAGE</subject>
+                     <subject>NAISSANCE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>DOCUMENTS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 18</unitid>
+                     <unitid>II1</unitid>
+                     <unittitle>Documents privés : nomination d’un tuteur pour Françoise Thevenin, fille mineure de feu Joseph Thevenin, forgeron aux forges de Passavant (1783) ; vente par dame Nicole Françoise de Secrétain d’une partie de ses biens avec pièces justificatives de 1726 à 1776 à Antoine Secrétain, garde du corps du roi, demeurant à Hennezel et Isidore de Bonnay, écuyer, demeurant à la verrerie de la Rochère (1788). </unittitle>
+                     <unitdate normal="1783/1788">1783-1788</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 19</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (an VIII-an XI ; an X-an XII ; an XII-an XIII ; 1806-1807). </unittitle>
+                     <unitdate>An VIII-1807</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 37</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations. </unittitle>
+                     <unitdate normal="1808">1808</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 38</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations. </unittitle>
+                     <unitdate>An II-1813</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 39</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations. </unittitle>
+                     <unitdate normal="1814/1836">1814-1836</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 40</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (1817-1838). &lt;lb/&gt;Registre composite, à l’envers : registre des passeports (1812-1833), état nominatif des individus de la commune « auxquels le maire à cru pouvoir donner des certificats qu’ils étoit sur le role des patentes pour 1818 » (s.d.).</unittitle>
+                     <unitdate normal="1812/1838">1812-1838</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>PASSEPORT</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 41</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations. </unittitle>
+                     <unitdate normal="1838/1860">1838-1860</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 42</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations. </unittitle>
+                     <unitdate normal="1860/1891">1860-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 43</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations. </unittitle>
+                     <unitdate normal="1891/1899">1891-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 44</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations. </unittitle>
+                     <unitdate normal="1899/1908">1899-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 45</unitid>
+                     <unitid>D10</unitid>
+                     <unittitle>Actes de l’administration municipale : registre des arrêtés du maire (1849-1952). &lt;lb/&gt;Registre composite, comporte également : liste des tombes à entretenir par la commune (s.d.), registre des notifications des ordres de route (1844-1850), liste des volontaires partis pour Paris (1848), état des réclamations contre la liste du jury pour 1849 (1848), déclaration de vol et procès-verbal de constatation (1848), certificat de l’annonce du partage des futaies des affouages (1849).  </unittitle>
+                     <unitdate normal="1844/1952">1844-1952</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 46</unitid>
+                     <unitid>D11</unitid>
+                     <unittitle>Administration de la commune. -Division du territoire : difficultés entre le département des Vosges et celui de la Haute-Saône quand à la distraction de la commune de Passavant  (voir 61 L 3) (1790-1791) ; réunion de la Rochère à Passavant (1790) ; délimitation du territoire entre Passavant et Martinvelle (1791) ; délibérations du conseil municipal de Passavant et du directoire de la Haute-Saône pour le rattachement de Passavant au district de Jussey (1790-1791) ; extraits du greffe de la municipalité de Passavant, procès-verbaux d’élections et d’actes divers, correspondance du maire (1790-1900).   </unittitle>
+                     <unitdate normal="1790/1900">1790-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ADMINISTRATION COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 20</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Etat civil : extraits d’actes d’état civil envoyés par d’autres communes (1811-1818) ; extraits d’actes de mariages célébré dans le canton de Corre (an VII-an VIII) ; extrait d’un procès-verbal d’acte de notoriété et jugement pour rectification d’acte d’état civil (1823) ; vérification des registres d’état civil (1879-1903). </unittitle>
+                     <unitdate>An VII-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 47</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Agriculture. –Création de foires agricoles annuelles dans la commune de Martinvelle (Vosges), avis du conseil municipal de Passavant-la-Rochère : extrait du registre de délibérations du conseil municipal de la commune de Martinvelle (1902). Comice agricole des quatre cantons d’Amance, Combeaufontaine, Jussey et Vitrey, demande d’aide financière : communiqué (1902). Mulots et campagnols, opérations de destruction : communiqué (1949).   </unittitle>
+                     <unitdate normal="1902/1949">1902-1949</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>ANIMAL NUISIBLE</subject>
+                     <subject>MANIFESTATION COMMERCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>AMANCE (canton)</geogname>
+                     <geogname>COMBEAUFONTAINE (canton)</geogname>
+                     <geogname>JUSSEY (canton)</geogname>
+                     <geogname>MARTINVELLE</geogname>
+                     <geogname>VITREY-SUR-MANCE (canton)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 21</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs : matrices et rôles des contributions directes (1790-1792, an VII, an XIV, 1807, 1813) ; tarifs proportionnels pour les contribuions directes de 1814 (1814). </unittitle>
+                     <unitdate normal="1790/1814">1790-1814</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 22</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Matrices générales des contributions directes (1842-1844, 1850-1853, 1858-1861, 1862-1865, 1866-1869, 1870-1873, 1874-1877). </unittitle>
+                     <unitdate normal="1842/1877">1842-1877</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 23</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Matrices générales des contributions directes (1878-1881, 1882-1885, 1886-1889, 1891-1894, 1896-1899, 1900-1903, 1904-1907). </unittitle>
+                     <unitdate normal="1878/1907">1878-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 24</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Etats de sections, sections D, E, F, G, H, I, M, N, O, P, Q, R. </unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 25</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Livre des mutations, 1er volume. </unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 26</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Livre des mutations, 2er volume. </unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 27</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Tarifs proportionnels pour les contributions directes de 1814 ; rôles des patentes (1816) ; recensement des portes et fenêtres (1831) ; mandements des contributions directes (1792, an VII-1820, 1871-1872) ; remplacement de l’impôt de la prestation par une taxe vicinale (1903). &lt;lb/&gt;Impôts extraordinaires : contributions patriotiques (1789). &lt;lb/&gt;Rapports de la commune avec les diverses administrations au point de vue financier : états de répartition des contributions indirectes ; états dus au receveur des domaines (1814-1817). </unittitle>
+                     <unitdate normal="1789/1903">1789-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 28</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recrutement : tableau d’après lequel doit se calculer la taille des citoyens à classer dans la conscription militaire (s.d.) ; état nominatif des habitants désignés pour faire partie de la garde nationale mobile (1870) ; dispensés et soutiens de famille (1890-1904) ; certificats de congés de libération (1852, 1860), extraits mortuaires de soldats (1806, 1871) ; correspondance relative au recrutement (1845-1890). &lt;lb/&gt;Garde nationale et sapeurs-pompiers. –Garde nationale : instructions, correspondance, états des dépenses (1813, 1830-1835, 1870-1871) ; feuille d’appel pour servir aux visites des armes (1846, 1851) ; contrôle de la garde nationale (1870) ; élection des officiers et sous-officiers (1831-1870). Sapeurs-pompiers : équipement en armes (1906). &lt;lb/&gt;Mesures d’exception et faits de guerre : certificats délivrés pour contribution militaire (an II-an III) ; registre des réquisitions (an II-an III), puis visites de police, délits forestiers, nominations de gardes, marchés de bûcherons (1831-1837) ; invasion de 1815 : réquisitions (1813-1816) ; secours pour pertes dues aux réquisitions (1819) ; notes et circulaires relatives à l’augmentation des forces militaires (1870-1872). </unittitle>
+                     <unitdate>An II-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>GARDE NATIONALE</subject>
+                     <subject>GUERRE</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 29</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. –Fête patronale : décision du Conseil d’Etat, arrêtés municipaux (1929, 1932). Salles de spectacle « Verlaine » et « L’Echo du Viaduc », mise aux normes de sécurité incendie : communiqués, rapports, extrait du registre des arrêtés du maire (1951-1952). Utilisation de l’alarme municipale et attroupements illicites, règlementation : extrait du registre du greffe de la municipalité (1791). Nomades, réglementation du stationnement : extrait du registre des arrêtés du maire (1932). Animaux errant, interdiction : extrait du registre des arrêtés du maire (1847). Transport de corps et inhumation : certificat d’inhumation, communiqué, télégramme, extrait des registres de l’état civil, arrêté municipal (1884-1921). &lt;lb/&gt;Police urbaine. –Dépôts de fumier, bois et autres objets sur les places publiques, interdiction : arrêté municipal (1873). Vitesse des véhicules dans la traversée de Passavant, réglementation : arrêtés municipaux (1909, 1924). Passage d’animaux sur le chemin de l’église, interdiction : extrait du registre des arrêtés du maire (1950).  &lt;lb/&gt;Police générale : extrait du registre des passeports (an XI). &lt;lb/&gt;Justice : copie d’exploit d’huissier signifié au maire (1844) ; listes générales des jurés et du jury (1844-1874). </unittitle>
+                     <unitdate normal="1791/1952">1791-1952</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>CERTIFICAT</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>TELEGRAMME</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIRCULATION URBAINE</subject>
+                     <subject>CONCESSION FUNERAIRE</subject>
+                     <subject>FETE</subject>
+                     <subject>JUSTICE</subject>
+                     <subject>NOMADE</subject>
+                     <subject>POLICE</subject>
+                     <subject>SALLE DE SPECTACLES</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 30</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections. –Elections municipales : tableau des conseillers municipaux (1884). &lt;lb/&gt;Personnel municipal. –Cantonnier communal, nomination : rapports, arrêtés, communiqué, extrait de casier judicaire (1873-1945) ; démission : note (s.d.). Gardes forestiers et gardes champêtres, nomination : arrêté, communiqués, marchés (an VIII-1900, s.d.) ; suppression de la nomination provisoire des sieurs Jean-Claude Perrou et Antoine Roupey : extrait des registres du greffe de la municipalité (1871) ; plaintes : communiqué (1916). Pâtres : marchés (1806-1850). Préposé aux services des pesées publiques à la bascule municipale, retrait de M. Cothenet Jean de ses fonctions et remplacement par M. Roussey Gilbert : arrêté (brouillon) (1936).    &lt;lb/&gt;Protocole et distinctions honorifiques : diplôme de la médaille de Sainte-Hélène attribuée à Charles Tanneur (1821). </unittitle>
+                     <unitdate>An VIII-1945</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DIPLOME</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DISTINCTION HONORIFIQUE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 31</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptabilité : comptes et quittance de Passavant à la Cote-Lorraine (1791-an XIV) ; registre de correspondance (1840-1860) puis états des dépenses (1864-1876), budgets (1840-1841), états des dépenses (1840-1864). &lt;lb/&gt;Revenus et charges de la commune : état de l’actif et du passif de la commune (an II) ; décision ministérielle d’une réduction de rente pour la Cote-Lorraine au profit du Domaine (1830-1831). </unittitle>
+                     <unitdate normal="1791/1876">1791-1876</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PIECE COMPTABLE</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 32</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices publics : restauration de la maison commune, adjudication de bans d’école (1836-1846 ; 1865-1866) ; tuilerie de la nation : procès-verbal d’estimation des dégradations de la tuilerie (an II) ; démolition d’une tour (1824) ; adjudication des matériaux du four banal (1791) ; réparations au puits public et autres ouvrages (1791-1890). &lt;lb/&gt;Edifices du culte et cimetières : emprunt pour la reconstruction de l’église (1844) ; restauration de l’église (1863-1864) ; réparations à l’église et au presbytère (1867) ; plans d’un projet de construction d’un nouveau cimetière (1839). </unittitle>
+                     <unitdate normal="1791/1890">1791-1890</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>EQUIPEMENT COLLECTIF</subject>
+                     <subject>PRESBYTERE</subject>
+                     <subject>PUITS</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 33</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux : difficultés entre la commune et le sieur Bichet sur la propriété d’un terrain (1811-1818) ; anticipations de terrains (1812-1820) ; ventes de terrains (an VIII-an X ; 1825-1826) ; amodiations : procès Lucot (1829) ; notification d’expiration du bail d’un terrain communal (1947) ; échange de terrains entre le maître de forges et la section de la Rochère (1810, 1822-1825) ; vente de terrains au sieur Lambert pour agrandir l’étang servant aux forges (an VII) ; avis favorable à la demande d’acquisition d’un terrain communal faite par M. Dutailly (s.d.). &lt;lb/&gt; &lt;lb/&gt;Bois : délits forestiers (1790) ; aménagement et abornement des bois communaux dont un plan de 1812  (1812-1867) ; vente du bois des tranchées de la forêt royale (1829-1830) ; droit de parcours (1849) ; procès relatifs aux droits de propriété et d’usage des communes de Passavant, la Côte-Saint-Antoine, Vougécourt, Martinvelle, Regnevelle (1790-1810) ; réintégration des communes dans la propriété et jouissance de leurs biens (1810) ; recépage (1811). </unittitle>
+                     <unitdate normal="1790/1947">1790-1947</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIENS COMMUNAUX</subject>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MARTINVELLE</geogname>
+                     <geogname>REGNEVELLE</geogname>
+                     <geogname>VOUGECOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 34</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Etat des sommes dues par les habitants de la Côte-Saint-Antoine, portionnaires d’affouage dans la forêt de Martinvelle (an XIII) ; états des affouagistes (1813-1814) ; adjudication de la coupe (1810-1825) ; portions d’affouage non retirées par les ayants droits (1898) ; réduction sur les taxes affouagères (1900) ; pourvoi en matière d’affouage (1901) ; métré des bâtiments de la section de la Rochère (1841) ; droits d’usage des habitants de la Côte-Saint-Antoine (1824) ; bois de la Cote-Lorraine : cantonnement dans la forêt de Martinvelle contre ses droits d’usage (1858-1864). &lt;lb/&gt;&lt;lb/&gt;Eaux : construction de conduites d’eau pour alimenter la fontaine de la Cote française (1835-1836). </unittitle>
+                     <unitdate>An XIII-1901</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU POTABLE</subject>
+                     <subject>FONTAINE</subject>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIE, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 35</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Petite voirie : anticipation du sieur Lucot Charles Victor sur la petit rue ou rue Campredon sur laquelle doit être édifiée une fontaine (1821-1822) ; arrêté municipal ordonnant la démolition d’une construction empiétant sur la voie publique (1868) ; plan géométrique d’une partie du village de la Rochère sur lequel est tracée une construction projetée par M. Duhoux, maître-verrier  (1841) ; jugement relatif à un chemin de défruitement entre les sieurs Audon, Viard et la commune de Passavant (1870) ; chemins vicinaux : entretien, alignement (1791-1869) ; comptes des recettes et dépenses (1838-1867) ; circulaire sur la formation d’un nouveau réseau (1903). </unittitle>
+                     <unitdate normal="1791/1903">1791-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 36</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Tableaux des chemins existants, états de classement ; rôles de prestations en nature pour la réparation des chemins vicinaux (1825-1867). &lt;lb/&gt;Moyens de transport et travaux divers : projet de raccordement de Passavant à la ligne de chemin de fer allant de Vesoul à Vauvillers (1902-1903) ; bail de carrière pour la Côte-Lorraine (an XI). &lt;lb/&gt;Navigation et régime des eaux : entretien des ruisseaux, construction d’un pontceau sur le ruisseau au bas du moulin de la chapelle (1837-1840). </unittitle>
+                     <unitdate>An XI-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT DES EAUX</subject>
+                     <subject>CARRIERE</subject>
+                     <subject>RESEAU FERROVIAIRE</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 48</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte catholique : abandon des fonds curiaux (1790-1792) ; demande d’autorisation de deux religieuses détachées de la congrégation de la Divine Providence de diriger un office hospitalier de jeunes enfants à Passavant (1902). &lt;lb/&gt;Police des cultes. –Sonneries de cloches, réglementation : extrait du registre des arrêtés du maire (1907). </unittitle>
+                     <unitdate normal="1790/1907">1790-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>CONGREGATION</subject>
+                     <subject>PRATIQUE RELIGIEUSE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 49</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Bureau de bienfaisance : registre. </unittitle>
+                     <unitdate normal="1881/1922">1881-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Non précisée</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>STRUCTURE COMMUNALE D'AIDE SOCIALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 50</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Bureau de bienfaisance, secours d’urgence. –Bureau de bienfaisance, nomination d’un membre : arrêté préfectoral (1944). Bureau d’Aide sociale, nomination d’un membre de l’administration : arrêté préfectoral (1960) ;  renouvellement du bail des propriétés : communiqués, extrait de procès-verbal des délibérations du conseil municipal (1953-1956).   &lt;lb/&gt;Etablissements hospitaliers, hospitalisations. –Hôpital Lariboisière à Paris, demande de renseignements : communiqué [1904]. Hôpital de Vesoul, règlement des frais de placement en observation d’une aliénée indigente : communiqué (1935). &lt;lb/&gt;Application des lois d’assistance et de prévoyance. –Familles nécessiteuses de réservistes et de territoriaux, attribution d’une subvention de l’Etat : communiqué (1907). Garderie d’enfants, création à la section de la Rochère : extraits du registre de délibérations du conseil municipal, règlement, arrêté préfectoral (1937).    </unittitle>
+                     <unitdate>[1904]-1960</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGLEMENT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ACCUEIL PERISCOLAIRE</subject>
+                     <subject>AIDE SOCIALE</subject>
+                     <subject>ETABLISSEMENT DE SANTE</subject>
+                     <subject>STRUCTURE COMMUNALE D'AIDE SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Hopital de Vesoul</corpname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 51</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique : registre du comité local de surveillance des écoles. </unittitle>
+                     <unitdate normal="1834/1850">1834-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENSEIGNEMENT</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>404 Edepot 52</unitid>
+                     <unitid>R2</unitid>
+                     <unittitle>Instruction publique. –Instituteurs et institutrices, nomination : communiqué (1927-1950) ; indemnités de résidence : états, circulaires, note, communiqué (1889-1891). </unittitle>
+                     <unitdate normal="1889/1950">1889-1950</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENSEIGNANT</subject>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

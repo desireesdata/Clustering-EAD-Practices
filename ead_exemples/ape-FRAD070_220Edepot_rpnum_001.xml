@@ -1,0 +1,1753 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_220Edepot_Archives_communales_déposées_d'Essertenne-et-Cecey" url="https://francearchives.fr/findingaid/7d4c2faafcd6d8976ceac0cd3105407ec8a30224">FRAD70_220Edepot_Archives_communales_déposées_d'Essertenne-et-Cecey</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>220Edepot - Archives communales déposées d'Essertenne-et-Cecey</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>220Edepot - Archives communales déposées d'Essertenne-et-Cecey</unittitle>
+         <unitid>220Edepot1-59</unitid>
+         <unitdate normal="1502/1935">1502-1935</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE D'ESSERTENNE-ET-CECEY</corpname>
+         </origination>
+         <note label="note">
+            <p>Au XVII° siècle, Essertenne et Cecey faisaient partie de la paroisse de Mantoche et en 1789, dépendaient du diocèse de Langres.
+
+(1) Voir 220 E dépôt 18/D4, toisé des bâtiments (1832).
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 7814, 7815, 9702, justice seigneuriale de Cecey (1681-1790).
+B 2118 à 2124, procédures civiles et criminelles à Essertenne-et-Cecey (1673-1789).
+B 8011 à 8015, justice seingeuriale d'Essertenne (1741-1790).
+B 9507, arpentement général du territoire d'Essertenne (1766-1769).
+C 7, 146, impositions (1685-1789).
+C 40, travaux de voirie (1722-1788).
+C 85, réparations aux bâtiments communaux (1737-1787).
+C 109, fontaine à Essertenne (1783-1790).
+C 124, procès au sujet du moulin de Cecey (1637-1790).
+C 126, affaires religieuses à Essertenne (1438-1791).
+E 889, procédures diverses (1596-1792).
+G 204, 205, affaires religieuses à Essertenne et Cecey (1606-1789).
+H 935, relations entre la communauté d'Essertenne et l'abbaye de Colonge à Broye-les-Loups (1247-1673).
+24 E dépot, archives communales d'Apremont.
+331 E dépôt, archives communales de Mantoche.</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             05/01/2004
+         </p>
+         <p>Dernier ajout le             05/01/2004
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> ADMINISTRATION COMMUNALE (1767-1789)</p>
+         <p>  220 Edepot 1</p>
+         <p> FINANCES ET COMPTABILITE (1766-1771)</p>
+         <p>  220 Edepot 2-4</p>
+         <p> TRAVAUX-BIENS ET BOIS COMMUNAUX (1502-1791)</p>
+         <p>  220 Edepot 5-7</p>
+         <p> AGRICULTURE-COMMERCE (1755-1788)</p>
+         <p>  220 Edepot 8</p>
+         <p> CULTE (1687-1791)</p>
+         <p>  220 Edepot 9-14</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1790-1904)</p>
+         <p>  220 Edepot 15-24</p>
+         <p> ETAT-CIVIL (1813-1889)</p>
+         <p>  220 Edepot 25</p>
+         <p> POPULATION-COMMERCE ET INDUSTRIE-AGRICULTURE (1817-1928)</p>
+         <p>  220 Edepot 26-29</p>
+         <p> CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES (1818-1926)</p>
+         <p>  220 Edepot 30-38</p>
+         <p> AFFAIRES MILITAIRES (1816-1935)</p>
+         <p>  220 Edepot 39-43</p>
+         <p> POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE (1809-1909)</p>
+         <p>  220 Edepot 44</p>
+         <p> ELECTIONS ET PERSONNEL COMMUNAL (1840-1906)</p>
+         <p>  220 Edepot 45-46</p>
+         <p> FINANCES DE LA COMMUNE (1791-1908)</p>
+         <p>  220 Edepot 47-49</p>
+         <p> EDIFICES PUBLICS (...-...)</p>
+         <p>  220 Edepot 50</p>
+         <p> BOIS ET BIENS COMMUNAUX-EAUX (1792-1904)</p>
+         <p>  220 Edepot 51-52</p>
+         <p> VOIRIE-TRAVAUX DIVERS-MOYENS DE TRANSPORT-REGIME DES EAUX (1821-1909)</p>
+         <p>  220 Edepot 53-55</p>
+         <p> CULTE (1817-1868)</p>
+         <p>  220 Edepot 56</p>
+         <p> ASSISTANCE ET PREVOYANCE (1817-1922)</p>
+         <p>  220 Edepot 57</p>
+         <p> INSTRUCTION PUBLIQUE (...-...)</p>
+         <p>  220 Edepot 58</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION COMMUNALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 1</unitid>
+                     <unitid>BB1</unitid>
+                     <unittitle>Nomination des échevins et commis (1767-1789), marchés de garde-champêtres (1784, 1789).</unittitle>
+                     <unitdate normal="1767/1789">1767-1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 2</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Rôle (incomplet) des contributions foncières (s. d.)</unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 3</unitid>
+                     <unitid>CC2</unitid>
+                     <unittitle>Arpentement du territoire d'Essertenne.</unittitle>
+                     <unitdate normal="1766/1771">1766-1771</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>arpentement</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 4</unitid>
+                     <unitid>CC3</unitid>
+                     <unittitle>Plan géométral des climats, terres, prés, vignes qui composent le finage d'Essertenne (copie du XIX° siècle).</unittitle>
+                     <unitdate normal="1771">1771</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX-BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 5</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Ordre de réparer la fontaine (1749). Interdiction aux particuliers de placer des ponts sur la rivière et les ruisseaux (1772).&lt;lb/&gt;Biens et bois. Procédures diverses concernant les bois (1751, 1788). Délits forestiers (1787, 1791). Procédure concernant des vacants usurpés, avec un extrait d'arpentement (1670-1734).</unittitle>
+                     <unitdate normal="1670/1791">1670-1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIEN SPOLIE</subject>
+                     <subject>BOIS</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 6</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Pièces de procédure concernant les droits d'usage dans les bois (1 parchemin).</unittitle>
+                     <unitdate normal="1502/1781">1502-1781</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 7</unitid>
+                     <unitid>DD3</unitid>
+                     <unittitle>Procès-verbaux du récolement de l'assiette.</unittitle>
+                     <unitdate normal="1746/1789">1746-1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AGRICULTURE-COMMERCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 8</unitid>
+                     <unitid>HH1</unitid>
+                     <unittitle>Agriculture. Bans des foins, regains et moissons (1755-1788).&lt;lb/&gt;Epizootie. Enquête concernant une épidémie de rage (1775).&lt;lb/&gt;Commerce. Marché du sel (1765). Taxation du prix du vin et du pain (1788).</unittitle>
+                     <unitdate normal="1755/1788">1755-1788</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>COMMERCE</subject>
+                     <subject>EPIDEMIE</subject>
+                     <subject>VIN</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 9</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial d'Essertenne-et-Cecey et du fourneau d'Echalonge, commune d'Autrey-lès-Gray : baptêmes, mariages, sépultures (décembre 1687-septembre 1710, décembre 1710-février 1713, juin 1713-novembre 1718, août 1719-1724, janvier-octobre 1725, 2 actes de février 1726, octobre- décembre 1726, 1726-juillet 1727, septembre 1727-1732, à partir  d'octobre 1729 les baptêmes et mariages ont lieu à Cecey "à cause de l'interdiction de l'église paroissiale d'Essertenne".&lt;lb/&gt;Lacunes diverses pour les années 1710, 1713, 1718-1719, 1727.&lt;lb/&gt;Parmi ces actes, on remarque le décès de Philippe Duval, fis de Joseph-François Duval, seigneur d'Essertenne le 25 janvier 1688 et les naissances des fils de Richard Duval, Claude- Lambert le 22 septembre 1723 et Pierre-Joseph-François le 30 avril 1725.</unittitle>
+                     <unitdate normal="1687/1732">1687-1732</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R39-R40</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CECEY</geogname>
+                     <geogname>ECHALONGE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>DUVAL (Claude-Lambert)</persname>
+                     <persname>DUVAL (Joseph-François)</persname>
+                     <persname>DUVAL (Philippe)</persname>
+                     <persname>DUVAL (Pierre-Joseph-François)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 10</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial d'Essertenne-et-Cecey et du fourneau d'Echalonge (commune d'Autrey-lès-Gray) : baptêmes, mariages, sépultures (1733-1735 ; janvier-mai et janvier-décembre 1736 ; 1737 ; janvier-novembre, février, juillet-octobre, décembre 1738 ; 1739 ; 1740, les actes du mois de février sont en désordre ; 1741-1750).&lt;lb/&gt;Parmi ces actes, on remarque le décès de Richard Duval, seigneur d'Essertenne le 4 décembre 1739 et le mariage de Denis Bisot, d'Essertenne, receveur des gabelles du roi en Bourgogne, avec Félicie Daumont, de Belfort, fille de Claude Daumont, écuyer, capitaine au régiment de Champagne, ingénieur du roi et directeur des fortifications de Franche-Comté le 23 février 1745.</unittitle>
+                     <unitdate normal="1733/1750">1733-1750</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R40</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BISOT (Denis)</persname>
+                     <persname>DAUMONT (Claude)</persname>
+                     <persname>DAUMONT (Félicie)</persname>
+                     <persname>DUVAL (Richard)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 11</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial d'Essertenne-et-Cecey et du fourneau d'Echalonge (commune d'Autrey-lès- Gray) : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1751/1760">1751-1760</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R40</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHALONGE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 12</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial d'Essertenne-et-Cecey, Echalonge et Colonge (commune de Broye-les-Loups) : baptêmes, mariages, sépultures.&lt;lb/&gt;Parmi ces actes, on remarque le décès de Catherine Rougeot, épouse de Pierre-François-Joseph Duval, seigneur d'Essertenne, et fille de Claude-Dominique Rougeot, seigneur de Turcey en Côte-d'Or le 27 juillet 1770.</unittitle>
+                     <unitdate normal="1761/1770">1761-1770</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R40-R41</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>COLONGE</geogname>
+                     <geogname>ECHALONGE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>DUVAL (Pierre-Joseph-François)</persname>
+                     <persname>ROUGEOT (Catherine)</persname>
+                     <persname>ROUGEOT (Claude-Dominique)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 13</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial d'Essertenne-et-Cecey, Echalonge et Colonge : baptêmes, mariages et sépultures (1771-1772, 1773-1780).&lt;lb/&gt;Sur un feuillet indépendant, une procuration est faite au nom de Pierre Allos, recteur d'école à Essertenne, afin qu'il représente l'autorité paternelle au cours du mariage à Essertenne de Jean-Antoine Girard, originaire de Saint-Martin-de-Celles (Isère) ; et un certificat de célibat (1761).</unittitle>
+                     <unitdate normal="1771/1780">1771-1780</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R41</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>COLONGE</geogname>
+                     <geogname>ECHALONGE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>ALLOS (Pierre)</persname>
+                     <persname>GIRARD (Jean-Antoine)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 14</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial d'Essertenne-et-Cecey et d'Echalonge : baptêmes, mariages, sépultures.&lt;lb/&gt;Parmi ces actes, on remarque le mariage de Gaspard-Emmanuel de Crécy, fils de Philippe-Paul, seigneur de Chaumercy (Jura) et Montigny, avec Jeanne-Marie-Pierrette Duval, d'Essertenne le 22 août 1786.</unittitle>
+                     <unitdate normal="1781/1791">1781-1791</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R41</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHALONGE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CRECY (Gaspard-Emmanuel de)</persname>
+                     <persname>CRECY (Philippe-Paul de)</persname>
+                     <persname>DUVAL (Jeanne-Marie-Pierrette)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 15</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Délibérations du conseil municipal et actes divers de Cecey.</unittitle>
+                     <unitdate normal="1790/1834">1790-1834</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CECEY</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 16</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Délibérations du conseil municipal d'Essertenne.</unittitle>
+                     <unitdate>An IX-1806</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 17</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Délibérations du conseil municipal d'Essertenne et actes divers.</unittitle>
+                     <unitdate normal="1790/1829">1790-1829</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 18</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Délibérations du conseil municipal d'Essertenne (1829-1851) ; à la fin du registre, toisé des bâtiments (1832).</unittitle>
+                     <unitdate normal="1829/1851">1829-1851</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 19</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Délibérations du conseil municipal d'Essertenne-et-Cecey.</unittitle>
+                     <unitdate normal="1838/1841">1838-1841</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 20</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1851/1869">1851-1869</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 21</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1869/1890">1869-1890</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 22</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1890/1904">1890-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 23</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Actes municipaux divers.</unittitle>
+                     <unitdate normal="1808/1904">1808-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 24</unitid>
+                     <unitid>D11</unitid>
+                     <unittitle> Extraits d'arrêtés municipaux (1841-1935). Répertoires des actes soumis à l'enregistrement, Cecey (an IX-1815), Essertenne (an XII-1853).</unittitle>
+                     <unitdate>An IX-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CECEY</geogname>
+                     <geogname>ESSERTENNE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 59</unitid>
+                     <unitid>D10</unitid>
+                     <unittitle>Registre des arrêtés du maire.</unittitle>
+                     <unitdate normal="1838/1900">1838-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT-CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 25</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Consentements de mariage (1813, 1818). Jugements rectifiant l'inscription des actes d'état-civil (1856-1889). Certificat de vie (1912).</unittitle>
+                     <unitdate normal="1813/1912">1813-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-COMMERCE ET INDUSTRIE-AGRICULTURE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 26</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Mouvements annuels.</unittitle>
+                     <unitdate normal="1852/1906">1852-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 27</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Dénombrement quinquennal : listes nominatives.</unittitle>
+                     <unitdate normal="1846/1906">1846-1906</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi112</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 28</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Listes électorales du tribunal de commerce de Gray (1851, 1884-1906).</unittitle>
+                     <unitdate normal="1851/1906">1851-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 29</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>Statistiques agricoles annuelles (1850-1905), quinquennale (1852), décennales (1882-1892). Registre des cultures (1905-1915). Plan départemental de ravitaillement, état des producteurs, commerçants et industriels (1901). Etat des stocks (1895, 1901). Marchés d'entretien et fourniture du taureau communal (1817-1835). Mise en valeur des marais et terres incultes, élection d'une commission syndicale (1864). Société viticole du canton d'Autrey : statuts (1891). Société coopérative agricole : statuts (1928). Société d'assurances mutuelles contre la mortalité du bétail : inscription des polices, délibérations, listes des membres (1899-1919).</unittitle>
+                     <unitdate normal="1817/1928">1817-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 30</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Etat de section d'Essertenne (s.d.). Toisé des maisons ((1) (an XIII, 1809, 1854-1863). Procès-verbal de délimitation du territoire d'Essertenne (1823). Etat du revenu net des propriétaires (1808). Tableau des évaluations des maisons et usines dans le canton (s.d.). Renseignements concernant les maisons en construction et reconstruction (1842-1867). Mutations, Essertenne, Cecey (1827-1851, 2 cahiers).</unittitle>
+                     <unitdate>An XIII-1867</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CECEY</geogname>
+                     <geogname>ESSERTENNE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 31</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Livre des mutations, Cecey.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CECEY</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 32</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Matrices générales des quatre contributions, Cecey.</unittitle>
+                     <unitdate normal="1818/1848">1818-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CECEY</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 33</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Matrices générales des quatre contributions, Cecey.</unittitle>
+                     <unitdate normal="1850/1877">1850-1877</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CECEY</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 34</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Matrices générales des quatre contributions, Cecey.</unittitle>
+                     <unitdate normal="1878/1916">1878-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CECEY</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 35</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Matrices générales des quatre contributions, Essertenne.</unittitle>
+                     <unitdate normal="1818/1848">1818-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 36</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Matrices générales des quatre contributions, Essertenne.</unittitle>
+                     <unitdate normal="1850/1881">1850-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 37</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Matrices générales des quatre contributions, Essertenne (1882-1916, 1922-1926).</unittitle>
+                     <unitdate normal="1882/1926">1882-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 38</unitid>
+                     <unitid>G9</unitid>
+                     <unittitle>Rôles de la taxe sur les chiens (1875-1895). Rôles de prestations sur la taxe vicinale (1865-1905). Listes des commissaires-répartiteurs (1861-1902).&lt;lb/&gt;Téléphone. Etablissement d'une ligne  téléphonique (1890-1902).&lt;lb/&gt;Enregistrement et domaines. Création d'un bureau à Autrey (1863).</unittitle>
+                     <unitdate normal="1861/1905">1861-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENREGISTREMENT</subject>
+                     <subject>FISCALITE</subject>
+                     <subject>TELEPHONE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>AUTREY-LES-GRAY</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 39</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Tableaux de recensement des jeunes gens.</unittitle>
+                     <unitdate normal="1816/1914">1816-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 40</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Tableau de recensement des classes 1855 à 1866, formation de l'armée territoriale, remplaçants, exemptés (1859-1875). Décès de militaires (1860, 1895). Certificat d'origine de blessures (1876). Classement et réquisitions des chevaux (1903). Logement et cantonnement des troupes (1878-1910).</unittitle>
+                     <unitdate normal="1855/1910">1855-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 41</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Garde nationale. Liste de recensement, contrôle général de la réserve, du service ordinaire, contrôle matricule (1831-1832). Relevés nominatifs, état des mutations, table alphabétique du registre matricule (1832-1840). Elections des officiers et sous-officiers : procès-verbaux (1834-1849, 1870). Armement (1838-1849).</unittitle>
+                     <unitdate normal="1831/1870">1831-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 42</unitid>
+                     <unitid>H4</unitid>
+                     <unittitle>Sapeurs-pompiers. Réorganisation, engagement, état nominatif (1853-1935). Elections au conseil supérieur : listes de scrutin, procès-verbaux (1912-1928).</unittitle>
+                     <unitdate normal="1853/1935">1853-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                     <genreform>LISTE D'EMARGEMENT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 43</unitid>
+                     <unitid>H5</unitid>
+                     <unittitle>Registre des réquisitions (an II-an III). Invasion de 1815, réquisitions, indemnisations (1814-1821). Guerre de 1870, réquisitions, subside aux communes, emprunt (1870-1872).</unittitle>
+                     <unitdate>An II-1872</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 44</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. -Demandes d'ouverture de débits de boissons (1890-1903). Etats des sinistres (1894-1903). Autorisation de transport de corps (1898).&lt;lb/&gt;Police générale. -Congés de détenus libérés (1826, 1830). Déclarations de domicile (1847-1850). Procès-verbaux de gendarmerie (1890).&lt;lb/&gt;Justice. -Certificats de bonne vie et moeurs (1823, 1831). Listes du jury (1849-1872).&lt;lb/&gt;Hygiène publique et salubrité. -Tuileries et fours à chaux : autorisations de construction (1838, 1844). Tuerie particulière (2 plans, 1909). Sage-femme, différend avec la commune qui a la charge des frais des cours (1809). Epidémies, statistique du choléra (1853-1854). Epizooties, arrêtés préfectoraux, dénombrement des animaux (1871-1901).</unittitle>
+                     <unitdate normal="1809/1909">1809-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ENQUETE</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EPIDEMIE</subject>
+                     <subject>JUSTICE</subject>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 45</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales.</unittitle>
+                     <unitdate normal="1840/1906">1840-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 46</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections municipales (1831-1929), élection du Président de la République (1851), rétablissement de l'Empire (1852), élections législatives (1852-1906), élections cantonales et d'arrondissement (1852-1906), élections sénatoriales (1876-1919) : procès-verbaux.&lt;lb/&gt;Personnel communal. Garde-champêtres, plaintes contre les gardes, suspension, démission, remplacement, nomination (an IX-1848). Pâtre, nominations (1898-1901). Cantonnier, nomination (1900). Prestations de serment : procès-verbaux (1853).</unittitle>
+                     <unitdate>An IX-1929</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 47</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptes de gestion.</unittitle>
+                     <unitdate>An VI-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 48</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Budgets.</unittitle>
+                     <unitdate>An XI-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 49</unitid>
+                     <unitid>L3</unitid>
+                     <unittitle>Comptes administratifs, avec pièces à l'appui (1791-an IX, 1838-1850). Contestation entre Essertenne et Cecey, relative à leur contribution aux charges communales (1851). Permis de chasse (1908).</unittitle>
+                     <unitdate normal="1791/1908">1791-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                     <genreform>PERMIS DE CHASSE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHASSE</subject>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CECEY</geogname>
+                     <geogname>ESSERTENNE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 50</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Travaux aux bâtiments communaux, visite des travaux, devis (1825-1893). Maison commune, acquisition, réparations, construction, empierrement de la cour de l'école (1823-1899, plan). Fontaines, réparations, évacuation des eaux, reconstruction, réfection du pavage, acquisition d'une source, d'un terrain pour établir un château d'eau (1823-1903, plan), pose d'une pompe (1897). Bascule publique, acquisition (1899). Ecole, location d'une salle (1823-1857). Eglise et presbytère, constat des travaux à faire, réparations, refonte d'une cloche, reconstruction de l'escalier du portail de l'église (plan), de la charpente du beffroi, agrandissement de l'église et réparations à la chapelle de Cecey, location et achat du presbytère, installation d'une horloge (an XI-1903). Postes et télégraphes, location d'une maison (1900), aménagement d'un bureau dans l'ancienne école (1908-1909).</unittitle>
+                     <unitdate>An XI-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                     <subject>POSTE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CECEY</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BOIS ET BIENS COMMUNAUX-EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 51</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Aménagement des bois : procès-verbaux et plans, délimitation, nettoiement des coupes (1818-1893). Répartition du taillis et distribution de la futaie (an XIII, 1806, 1822-1830). Exploitation de la coupe affouagère (an XIII-1852). Procédure concernant un droit d'affouage (1837). Ventes du bois (1806-1829). Procès-verbaux de balivage et martelage des coupes (1826-1838). Litige entre la commune et l'adjudicataire des fagots de la coupe (1912). Location de la chasse (1817-1890).</unittitle>
+                     <unitdate>An XIII-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'AMENAGEMENT FO</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>CHASSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 52</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Biens communaux. -Ventes, état (1855-1861). Amodiations (1822-1828). Anticipations (1823). Procès-verbaux de délimitation (1858-1892, plan). Pièces de procédure concernant la propriété d'un terrain à l'étang d'Echalonge (1833-1839, 1850-1851, plan). Abolition de la vaine pâture sur les chaumes d'avoine (1912).&lt;lb/&gt;Biens nationaux. -Procédure concernant les biens de l'émigré Duval (an III-an IX), décompte pour acquisitions de domaines (1792).&lt;lb/&gt;Droits divers. -Concessions au cimetière, demandes, tarif et règlement (1861-1904).&lt;lb/&gt;Eaux, puits, acquisition de terrain, construction, réparations (1842-1896).</unittitle>
+                     <unitdate normal="1792/1912">1792-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BIEN SPOLIE</subject>
+                     <subject>CONCESSION FUNERAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECHALONGE</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>DUVAL</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-TRAVAUX DIVERS-MOYENS DE TRANSPORT-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 53</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine. Procès-verbaux de bornage et plans, tableaux des propriétaires riverains. Alignement, dénomination nouvelle d'une rue, aménagement de la place Carnot, réparations des rues, acquisition de terrain pour faire une place publique, rigoles pavées.</unittitle>
+                     <unitdate normal="1838/1899">1838-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CARNOT (place)</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 54</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Petite voirie. Chemins vicinaux : procès-verbaux de bornage, réparations, tableaux généraux, reconnaissance, délimitation, acquisition de terrain (1844-1902, plans). Chemin vicinal ordinaire n° 3, d'Essertenne à Talmay, prolongement, réparations, élargissement (1825-1890). Chemin vicinal allant à Poyans, construction d'un aqueduc, déclassement (1845, 1856). Chemin de grande communication n° 27, d'Essertenne à Ecuelle, ouverture, entretien (1851-1875). Chemin de moyenne vicinalité n° 27, puis de grande communication n° 36, du Pont suspendu de Gray à Port du Poirier (1865-1869). Chemin vicinal ordinaire n° 2, d'Essertenne au port de Cecey, élargissement, classement, prolongement (1885-1887, plan). Chemin de défruitement, changement de direction (1857, plan). Ponts, construction, réparations (1845-1872). Aqueducs, construction (1848-1893, plan). Prestations (1859-1909). Créations de ressources (1868-1905).</unittitle>
+                     <unitdate normal="1825/1909">1825-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 55</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Régime des eaux. Chemin de halage de la Saône, élargissement, entretien (1821-1848). Canal de dérivation de la Saône, établissement (1838). Canal de la Marne à la Saône, tableau synoptique de l'état des travaux (1893). Curage des ruisseaux (1838-1905). Moulin de Cecey, règlement d'eau, établissement d'un déversoir (1825, 1839). Lavoirs à bras, autorisation d'établissement (1826-1827).&lt;lb/&gt;Travaux divers. Carrière de Cecey, autorisation d'extraire des pierres (1851), marchés d'extraction (1861-1895).&lt;lb/&gt;Moyens de transport. Chemin de fer de Paris à Lyon et à la Méditerranée, ligne de Gray à Auxonne, vente de terrains, occupation temporaire des sols, demande pour la construction d'une gare de marchandises, établissement d'un quai militaire (1853-1854, 1877, 1894-1895, plans).</unittitle>
+                     <unitdate normal="1821/1905">1821-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CARRIERE</subject>
+                     <subject>COURS D'EAU</subject>
+                     <subject>RESEAU FERROVIAIRE</subject>
+                     <subject>VOIE NAVIGABLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CECEY</geogname>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                     <geogname>SAÔNE (LA)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 56</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Fabrique, subventions (1850-1868), budget (1817-1818), compte de gestion (1855-1861).</unittitle>
+                     <unitdate normal="1817/1868">1817-1868</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 57</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Médecine gratuite, refus du conseil municipal de traiter avec un médecin et de percevoir l'allocation (1861-1863). Nomination d'un médecin (1907, 1911). Listes des indigents (1817, 1854-1902). Aliénés, infirmes, placement d'office, frais de pension (1863-1907). Soins à un malade dans une station balnéaire (1906). Secours aux filles-mères (1888-1892). Protection des enfants du premier âge, statistique des décès (1877). Pensions militaires (1857, 1864). Vaccination, listes nominatives (1904-1914). Nomination d'un vaccinateur (1919-1922).&lt;lb/&gt;Bureau d'assistance. Compte de gestion (1817). Election des délégués (1846, 1894-1904).</unittitle>
+                     <unitdate normal="1817/1922">1817-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE A L'ENFANCE</subject>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>220 Edepot 58</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instituteurs, nomination (1898-1899), installation (an X), indemnité de logement (1821). Mobilier scolaire, marché et devis de renouvellement (1894). Comité local d'instruction primaire, délibérations (1840-1848, un cahier).</unittitle>
+                     <unitdate>An X-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>CAHIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ESSERTENNE-ET-CECEY</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

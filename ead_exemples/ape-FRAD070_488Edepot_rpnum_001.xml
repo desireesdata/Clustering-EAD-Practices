@@ -1,0 +1,1463 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_488Edepot_Archives_communales_déposées_de_Senoncourt" url="https://francearchives.fr/findingaid/4497120f50d80a1ff342a1a4bfc3922d68da1525">FRAD70_488Edepot_Archives_communales_déposées_de_Senoncourt</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>488Edepot - Archives communales déposées de Senoncourt</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>488Edepot - Archives communales déposées de Senoncourt</unittitle>
+         <unitid>488Edepot1-48</unitid>
+         <unitdate normal="1398/1946">1398-1946</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE SENONCOURT</corpname>
+         </origination>
+         <note label="note">
+            <p>Sources complémentaires aux Archives Départementales de la Haute-Saône : 
+
+B4225, élections des députés et doléances des habitants de Senoncourt pour les états généraux de 1789.
+B 9703, rapports des messiers de la justice de Senoncourt (1726).
+C 47, délivrance des quarts en réserve dans la communauté de Senoncourt (1726).
+C 51, correspondance relative aux affaires ecclésiastiques (1737-1789).
+C 202, curage de la rivière, baux des pâtis communaux (1782-1789).
+C 519, rôles et répartements des impositions dans la communauté de Senoncourt (1729-1790).
+H 388 à 393, procédure entre l'abbaye de Clairefontaine et les habitants de Senoncourt (1150-1765).
+H 588, procédure entre l'abbaye de Faverney et les habitants de Senoncourt (1583-1771).
+3 O 487, travaux communaux (depuis l'an XI).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             14/02/2005
+         </p>
+         <p>Dernier ajout le             16/02/2005
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> IMPOTS (1650-1731)</p>
+         <p>  488 Edepot 1-2</p>
+         <p> BOIS COMMUNAUX (1398-1824)</p>
+         <p>  488 Edepot 3</p>
+         <p> JUSTICE (1741-1747)</p>
+         <p>  488 Edepot 4</p>
+         <p> CULTE (1652-1792)</p>
+         <p>  488 Edepot 5-16</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1821-1931)</p>
+         <p>  488 Edepot 17-20</p>
+         <p> POPULATION-ECONOMIE SOCIALE-INDUSTRIE (1828-1946)</p>
+         <p>  488 Edepot 21-24</p>
+         <p> CONTRIBUTIONS (1806-1933)</p>
+         <p>  488 Edepot 25-29</p>
+         <p> AFFAIRES MILITAIRES (1821-1932)</p>
+         <p>  488 Edepot 30-31</p>
+         <p> POLICE-HYGIENE PUBLIQUE ET SALUBRITE (1855-1893)</p>
+         <p>  488 Edepot 32</p>
+         <p> ELECTIONS-PERSONNEL COMMUNAL (1837-1945)</p>
+         <p>  488 Edepot 33-34</p>
+         <p> FINANCES DE LA COMMUNE (1894-1901)</p>
+         <p>  488 Edepot 35</p>
+         <p> EDIFICE PUBLICS (1823-1921)</p>
+         <p>  488 Edepot 36-37</p>
+         <p> BIENS ET BOIS COMMUNAUX-EAUX (1829-1925)</p>
+         <p>  488 Edepot 38-39</p>
+         <p> VOIRIE-REGIME DES EAUX (1824-1939)</p>
+         <p>  488 Edepot 40-44</p>
+         <p> CULTE (1840-1916)</p>
+         <p>  488 Edepot 45</p>
+         <p> ASSISTANCE ET PREVOYANCE (1842-1931)</p>
+         <p>  488 Edepot 46</p>
+         <p> INSTRUCTION PUBLIQUE (1837-1894)</p>
+         <p>  488 Edepot 47</p>
+         <p> DOCUMENTS D'ORIGINE PRIVEE (1832-1832)</p>
+         <p>  488 Edepot 48</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>IMPOTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Arpentement de la terre et seigneurie de Senoncourt.</unittitle>
+                     <unitdate normal="1650">1650</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>arpentement</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 2</unitid>
+                     <unitid>CC2</unitid>
+                     <unittitle>Reconnaissance par les habitants des droits et biens de la dame de Senoncourt.</unittitle>
+                     <unitdate normal="1731">1731</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 3</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Procès entre les habitants et leur seigneur concernant la propriété des bois et les droits d'usage (2 plans).</unittitle>
+                     <unitdate normal="1398/1824">1398-1824</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 4</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Extrait de registres de la justice seigneuriale de Senoncourt.</unittitle>
+                     <unitdate normal="1741/1747">1741-1747</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 5</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Senoncourt : baptêmes (1 acte de juillet 1652, mars 1668-janvier 1675) ; à l'envers : mariages (1662-septembre 1673), sépultures (1662-avril 1673).</unittitle>
+                     <unitdate normal="1652/1673">1652-1673</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R57</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 6</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Senoncourt : baptêmes (juin 1662-mars 1679), mariages (juin 1662-juillet 1679), sépultures (mars 1662-avril 1671).</unittitle>
+                     <unitdate normal="1662/1679">1662-1679</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R57</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 7</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Senoncourt et Contréglise : baptêmes (mars 1675-1702), mariages (octobre 1676-1702), sépultures (1675-1702).</unittitle>
+                     <unitdate normal="1675/1702">1675-1702</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R57</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CONTREGLISE</geogname>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 8</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Senoncourt : baptêmes (mars 1676-1682), baptêmes, mariages, sépultures (1683-janvier 1684).</unittitle>
+                     <unitdate normal="1676/1684">1676-1684</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R57</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 9</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Senoncourt : baptêmes, mariages, sépultures (1703-1718), confirmations (1715).</unittitle>
+                     <unitdate normal="1703/1718">1703-1718</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R57</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 10</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Senoncourt : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1717/1721">1717-1721</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R57</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 11</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial de Senoncourt : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1721/1735">1721-1735</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R57</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 12</unitid>
+                     <unitid>GG8</unitid>
+                     <unittitle>Registre paroissial de Senoncourt : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1736/1754">1736-1754</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R57</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 13</unitid>
+                     <unitid>GG9</unitid>
+                     <unittitle>Registre paroissial de Senoncourt : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1740">1740</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R57</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 14</unitid>
+                     <unitid>GG10</unitid>
+                     <unittitle>Registre paroissial de Senoncourt : baptêmes, mariages, sépultures (1754-juin 1783).</unittitle>
+                     <unitdate normal="1754/1783">1754-1783</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R57</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 15</unitid>
+                     <unitid>GG11</unitid>
+                     <unittitle>Registre paroissial de Senoncourt : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1755">1755</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R57</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 16</unitid>
+                     <unitid>GG12</unitid>
+                     <unittitle>Registre paroissial de Senoncourt : baptêmes, mariages, sépultures (1782-janvier 1792).</unittitle>
+                     <unitdate normal="1782/1792">1782-1792</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi1R57</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 17</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (avec table des matières).</unittitle>
+                     <unitdate>An XII-1842</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 18</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1842/1865">1842-1865</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 19</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1865/1892">1865-1892</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 20</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Répertoire des actes soumis à l'enregistrement (1821-1931), extraits des arrêtés du maire (1837-1910).</unittitle>
+                     <unitdate normal="1821/1931">1821-1931</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-INDUSTRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 21</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Recensement quinquennal de la population : listes nominatives.</unittitle>
+                     <unitdate normal="1836/1901">1836-1901</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi141</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 22</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Mouvement annuel de la population (1853-1886, 1888-1906).</unittitle>
+                     <unitdate normal="1853/1906">1853-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POPULATION RURALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 23</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Statistiques agricoles annuelles.</unittitle>
+                     <unitdate normal="1841/1940">1841-1940</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 24</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>Statistiques agricoles quinquennale (1852), décennales (1882-1892). Registre de culture (1941-1946). Caisse d'assurances mutuelles agricoles (1902-1903, 1923). Chambre d'agriculture, élections (1919, 1933, 1939). Taureau et porc communal : marchés (1828-1934).&lt;lb/&gt;Industrie. Enfants employés dans l'industrie : registre d'inscription des livrets (1895-1896).</unittitle>
+                     <unitdate normal="1828/1946">1828-1946</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                     <subject>INDUSTRIE</subject>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 25</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Atlas cadastral.</unittitle>
+                     <unitdate normal="1834">1834</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ATLAS CADASTRAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 26</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Arpentement des bâtiments (1806). Evaluation des maisons et usines (s.d.). Procès-verbal de révision des évaluations des propriétés non bâties (1933). Matrices générales (1842-1848).</unittitle>
+                     <unitdate normal="1806/1933">1806-1933</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>arpentement</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 27</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Matrices générales (1850-1873, 1878-1885).</unittitle>
+                     <unitdate normal="1850/1885">1850-1885</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 28</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Matrices générales.</unittitle>
+                     <unitdate normal="1891/1916">1891-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 29</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Rôles des prestations en nature (1850-1855, 1895-1910).</unittitle>
+                     <unitdate normal="1850/1910">1850-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 30</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Tableaux de recensement des jeunes gens (1821-1874, 1876-1880, 1891-1900). Avis d'inscription (1885-1892). Décès de militaires (1840-1902).&lt;lb/&gt;Sapeurs-pompiers. Conseil supérieur : procès-verbal d'élection (1932).</unittitle>
+                     <unitdate normal="1821/1932">1821-1932</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 31</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Garde-nationale. Visite des armes (1842, 1851). Elections des officiers et sous-officiers : procès-verbaux (1831-1848, 1870). Contrôle matricule (1832). Citoyens mobilisables : états nominatifs (1848, 1864-1870).&lt;lb/&gt;Guerre de 1870 : états des réquisitions (1871).</unittitle>
+                     <unitdate normal="1831/1871">1831-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 32</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Sinistres, sécheresse, grêle, gelées, incendies (1855-1906).&lt;lb/&gt;Hygiène publique et salubrité. Santé publique : rapport sur la situation de la commune (1865). Epidémies, dépenses occasionnées par le choléra (1855). Autorisation d'établissement pour une fabrique d'allumettes (1863). Epizooties (1871-1893).</unittitle>
+                     <unitdate normal="1855/1893">1855-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RAPPORT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BATIMENT INDUSTRIEL</subject>
+                     <subject>EPIDEMIE</subject>
+                     <subject>PROTECTION SANITAIRE DU CHEPTEL</subject>
+                     <subject>SINISTRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS-PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 33</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales (1838-1919, 1945).</unittitle>
+                     <unitdate normal="1838/1945">1838-1945</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 34</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections municipales (1837-1945), élection du président de la République (1851), vote pour le rétablissement de l'Empire (1852), plébiscite (1870), élections législatives (1852-1936), élections cantonales (1853-1937), élections au conseil d'arrondissement (1861-1934), élections sénatoriales (1919-1935) : procès-verbaux.&lt;lb/&gt;Personnel communal. Gardes-champêtre, révocation, démission (1841, 1857, 1878).</unittitle>
+                     <unitdate normal="1837/1945">1837-1945</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 35</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Legs Lallemand, changement d'affectation du produit du legs.</unittitle>
+                     <unitdate normal="1894/1901">1894-1901</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DONS-ET-LEGS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>LALLEMAND</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICE PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 36</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Ecole, réparations, construction, acquisition d'une maison pour servir de dépendances (1842-1903, 1 plan). Fontaines, constructions (plans), réparations, établissement d'une conduite en fonte, acquisition d'une source (1836-1893). Fontaine de l'Etang, établissement d'une conduite d'eau (1886-1896). Remise, construction (s.d., plan). Remise des pompes, construction (1861). Pont-bascule, construction, acquisition de poids (1906-1907, 1 plan).</unittitle>
+                     <unitdate normal="1836/1907">1836-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU SOUTERRAINE</subject>
+                     <subject>ECOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FONTAINE DE L'ETANG</geogname>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 37</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>Réparations à l'église et au presbytère (1859). Eglise, réparations, construction d'une sacristie (1831-1868). Presbytère, reconstruction d'un mur, réparations, vente d'un mur mitoyen (1823-1921). Cimetière, réparations, pose de portes en fer, acquisition de terrain, translation (1839-1906). Statue de la Vierge, construction d'un abri (1902-1903).</unittitle>
+                     <unitdate normal="1823/1921">1823-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 38</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Etat des biens communaux (s.d.). Vente (1901). Pièces de procédure au sujet de la morte et vaine-pâture sur des prés provenant de l'abbaye de Clairefontaine et situés à Polaincourt (an IV-1909, copies d'actes de 1230,1231, 1630).</unittitle>
+                     <unitdate>An IV-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>POLAINCOURT</geogname>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Abbaye de Clairefontaine</corpname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 39</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Aménagement des bois, entretien (1848-1869). Exploitation de la coupe affouagère (1829-1925).&lt;lb/&gt;Eaux. Creusement d'un puits privé (1893).</unittitle>
+                     <unitdate normal="1829/1925">1829-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 40</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine. Rues du village, alignement, élargissement, rigoles pavées (1 plan, 1856-1939).&lt;lb/&gt;Petite voirie. Constructions d'aqueducs (1847-1894, 3 plans), de ponts (1874, 1877, 1 plan). Chemins de défruitement, acquisition de terrains, établissement, élargissement, travaux (1836-1903, 1 plan).</unittitle>
+                     <unitdate normal="1836/1939">1836-1939</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 41</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Chemins ruraux, projet de reconnaissance (plans), de délimitation, tableaux généraux, réparations, acquisitions de terrains.</unittitle>
+                     <unitdate normal="1825/1892">1825-1892</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 42</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Conversions en tâches des prestations (1838-1928). Créations de ressources (1851-1927).</unittitle>
+                     <unitdate normal="1838/1928">1838-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 43</unitid>
+                     <unitid>O4</unitid>
+                     <unittitle>Curages des fossés, ruisseaux et rivière (plans).</unittitle>
+                     <unitdate normal="1824/1932">1824-1932</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 44</unitid>
+                     <unitid>O5</unitid>
+                     <unittitle>Règlement d'eau des moulins et usines (1836-1893). Irrigation de la prairie, constitution d'une association syndicale (1897). Bac de Miévillers : arrêté préfectoral (1922).</unittitle>
+                     <unitdate normal="1836/1922">1836-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BATIMENT INDUSTRIEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>MIEVILLERS</geogname>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 45</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Legs du chanoine Parcheminey (1840-1907). Attribution des biens au bureau de bienfaisance (1909-1916).</unittitle>
+                     <unitdate normal="1840/1916">1840-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>PARCHEMINEY (chanoine)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 46</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Aliénés, frais de séjour, admission à l'asile (1884, 1892). Enfants assistés (1887).&lt;lb/&gt;Bureau de bienfaisance. Legs Martin (1846-1859). Vente du "rentaire", amodiations de biens (1850-1853). Comptes de gestion (1842-1918). Budget (1930). Election de délégués (1929). Extrait de délibération (1931).</unittitle>
+                     <unitdate normal="1842/1931">1842-1931</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                     <genreform>BUDGET</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE A L'ENFANCE</subject>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>MARTIN</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 47</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Comité d'instruction primaire : extrait de délibération (1837). Nomination d'instituteur (1892). Demandes de bourses (1893-1894).</unittitle>
+                     <unitdate normal="1837/1894">1837-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>DOCUMENTS D'ORIGINE PRIVEE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>488 Edepot 48</unitid>
+                     <unitid>S1</unitid>
+                     <unittitle>Acte d'échange de maison entre particuliers.</unittitle>
+                     <unitdate normal="1832">1832</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SENONCOURT</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

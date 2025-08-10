@@ -1,0 +1,2184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_457Edepot_Archives_communales_déposées_de_Rupt-sur-Saône" url="https://francearchives.fr/findingaid/d92ae25a0098bb0bcb90952de659e1da1581c1ee">FRAD70_457Edepot_Archives_communales_déposées_de_Rupt-sur-Saône</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>457Edepot - Archives communales déposées de Rupt-sur-Saône</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>457Edepot - Archives communales déposées de Rupt-sur-Saône</unittitle>
+         <unitid>457Edepot1-75</unitid>
+         <unitdate normal="1591/1936">1591-1936</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE RUPT-SUR-SAONE</corpname>
+         </origination>
+         <note label="note">
+            <p>Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 4224, élection des députés, plaintes et doléances que les habitants de Rupt présentent à l'assemblée générale du bailliage de Vesoul (1789).
+B 4859, minutes des sentences sommaires rendues dans des causes civiles au bailliage de Vesoul, concernant les habitants et communauté de Rupt (1755).
+B 6244, enquêtes sommaires faites au bailliage d'Amont, concernant les habitants et communauté de Rupt (1780).
+B 7019, déclarations de propriétés faites en exécution de l'édit du Roi de 1749 dans la commune de Rupt (1750-1753).
+B 8878-8880, justice seigneuriale de Rupt (1733-1789)
+C 17, minutes des ordonnances rendues en diverses matières d'administration concernant la communauté de Rupt (1685-1742).
+C 44, homologation d'une transaction passée entre les habitants et leur seigneur, au sujet des bois et des droits féodaux ( 1722-1788).
+C 112, avis du subdélégué de Gray sur divers objets d'administration communale intéressant la communauté de Rupt (1784-1790).
+C 201, baux de prés et terrains communaux, réparations au presbytère (1782-1789).
+C 230, décisions concernant les routes, ponts et chemins dans la traverse de Rupt (1784-1786).
+C 500, rôles et répartements des impositions dans la communauté de Rupt (1729-1790).
+D 25, manuel des rentes du collège des Jésuites de Vesoul concernant Rupt (1708-1761).
+E 712, 926, 929, titres de famille concernant la commune de Rupt (1557-1792).
+G 176, archives concernant l'église paroissiale de Rupt (1629-1790).
+H 686, 737, archives du prieuré de Morey concernant Rupt-sur-Saône (1577-1757).
+H 1066, reconnaissances des droits et biens des commanderies concernant rupt -1777-1784).
+1 J 736, Claude Damey, échevin (1756-1792).
+1 J 305/1, couvent, voir biens nationaux (époque révolutionnaire).
+34 J 105, 132, archives paroissiales de Rupt.
+3 O 473, travaux communaux, depuis 1806.</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             01/01/1961
+         </p>
+         <p>Dernier ajout le             11/08/2008
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> ACTES CONSTITUTIFS ET POLITIQUES DE LA COMMUNE (...)</p>
+         <p>  457 Edepot  1</p>
+         <p> ADMINISTRATION COMMUNALE (1724-1792)</p>
+         <p>  457 Edepot  2</p>
+         <p> FINANCES-IMPOTS ET COMPTABILITE (...)</p>
+         <p>  457 Edepot  3</p>
+         <p> BIENS COMMUNAUX (1628-1789)</p>
+         <p>  457 Edepot  4 à 7 - </p>
+         <p> JUSTICE-PROCEDURE (1591-1787)</p>
+         <p>  457 Edepot  8 à 11 - </p>
+         <p> CULTE (1694-1791)</p>
+         <p>  457 Edepot  12 à 15 - </p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ACTES DE L'ADMINISTRATION DEPARTEMENTALE (...)</p>
+         <p>  457 Edepot  16 à 17 - </p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1819-1924)</p>
+         <p>  457 Edepot  18 à 24 - 457 Edepot  75</p>
+         <p> POPULATION-ECONOMIE SOCIALE-STATISTIQUE (1836-1936)</p>
+         <p>  457 Edepot  25 à 27 - </p>
+         <p> CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES (1791-1916)</p>
+         <p>  457 Edepot  28 à 39 - </p>
+         <p> AFFAIRES MILITAIRES (1821-1928)</p>
+         <p>  457 Edepot  40 à 44 - </p>
+         <p> POLICE-HYGIENE PUBLIQUE-JUSTICE (1792-1928)</p>
+         <p>  457 Edepot  45 à 49 - </p>
+         <p> ELECTIONS ET PERSONNEL (1806-1928)</p>
+         <p>  457 Edepot  50 à 54 - </p>
+         <p> FINANCES DE LA COMMUNE (...)</p>
+         <p>  457 Edepot  55</p>
+         <p> EDIFICES COMMUNAUX (1715-1927)</p>
+         <p>  457 Edepot  56 à 57 - </p>
+         <p> BIENS ET BOIS COMMUNAUX-EAUX-DROITS DIVERS (...)</p>
+         <p>  457 Edepot  58 à 59 - </p>
+         <p> VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX (1807-1926)</p>
+         <p>  457 Edepot  60 à 66 - </p>
+         <p> CULTE (...)</p>
+         <p>  457 Edepot  67</p>
+         <p> ASSISTANCE ET PREVOYANCE (1847-1923)</p>
+         <p>  457 Edepot  68 à 73 - </p>
+         <p> INSTRUCTION PUBLIQUE (1828-1920)</p>
+         <p>  457 Edepot  74</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ACTES CONSTITUTIFS ET POLITIQUES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 1</unitid>
+                     <unitid>AA1</unitid>
+                     <unittitle>Affranchissement des habitants de Rupt par Jean, seigneur dudit lieu et d'Attricourt, "pour un grand et évident prouffit et utilité, et mesmement pour ce que plusieurs des habitants dudit lieu s'estant déjà absentez et s'absentent chascun jour pour les grants charges que nous leur demandions et prétendions à eulx insupportables, si qu'ilz disoient, et aussi pur considération des pertes et dommaiges qu'ilz ont eues et soutenus depuis dix ans pour occasion de la guerre de Grancey" (le duc de Bourgogne prit parti pour Antoine de Vaudémont, dans ses prétentions sur le duché de Lorraine, que revendiquait René d'Anjou, comme mari d'Yolande, fille du dernier duc Charles, il paraît que dans cette guerre,  la partie occidentale du comté de Bourgogne eut beaucoup à souffrir des courses des partisans lorrains et français - Gollut, p. 1130), "dont ilz ont estez moult dommagez, tant de feuz boutez en leur maisons comme de prisons de leurs corps et autrement en diverses manières par lesquelles ladite ville de Rupt estoit en voye de venir entièrement inhabitable". Les 71 ménages mainmortables sont affranchis de ladite servitude de mainmorte et "condition servi", ceux qui en font partie pourront à l'avenir tester, ordonner et disposer de leurs biens comme bon leur semblera, succéder les uns aux autres, etc. Mais ils doivent en retour : une taille annuelle de 80F, qu'ils répartiront entr'eux ; une geline de deux blancs à carême entrant, due par chaque sujet ; quatre corvées aux moissons de froment et d'avoine, dues par chaque ménage ; le port de lettres du seigneur, quand ils en seront requis, à Vy-le-Ferroux, Vauconcourt, Soing et Oigney ; un poste chaque soir, pour le guet et la garde du château, et en temps de guerre du prince ou de guerre particulière, "à guetter plus avant selon d'advis de nous du de nostre commis" ; le droit des lods et ventes ; l'aide aux quatre cas, etc (9 juin 1443). Sceau de cire verte, peut-être celui du seigneur de Rupt. Confirmation dudit affranchissement par Jean de Grandson, seigneur de Pesmes (12 août 1443). Copie collationnée de ces deux pièces (XVII° siècle).</unittitle>
+                     <unitdate>1443-XVII° siècle</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OIGNEY</geogname>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                     <geogname>SOING-CUBRY-CHARENTENAY</geogname>
+                     <geogname>VAUCONCOURT-NERVEZAIN</geogname>
+                     <geogname>VY-LE-FERROUX</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>ANJOU (René d')</persname>
+                     <persname>GRANDSON (Jean de)</persname>
+                     <persname>VAUDEMONT (Antoine de)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION COMMUNALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 2</unitid>
+                     <unitid>BB1</unitid>
+                     <unittitle>Délibération des habitants de Rupt, par laquelle, vu les difficultés de la communauté à s'occuper elle-même de ses intérêts, ils nomment maître Claude Maclet et les sieurs jean Berthoz, Claude Fournier le Vieux, Claude Colloz, Claude Beaubras, Philippe Chevrey et les deux échevins Hugues Huvier et Jean Coney, pour règler toutes les affaires de ladite communauté et les constituent leurs procureurs (1724). Procès -verbal de récolement des registres paroissiaux dressé par la municipalité de Rupt (1792). Ce document permet de se rendre compte des pertes de documents survenus au cours du XIX° siècle, puisque les registres paroissiaux remontaient à 1557, et se suivaient sans interruption jusqu'en 1791. Le premier ne remonte aujourd'hui qu'à 1694. Les quatre registres de la confrérie du Rosaire et de la Sainte Vierge, et des comptes de la cure, ont aussi disparu.</unittitle>
+                     <unitdate normal="1724/1792">1724-1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BEAUBRAS (Claude)</persname>
+                     <persname>BERTHOZ (Jean)</persname>
+                     <persname>CHEVREY (Philippe)</persname>
+                     <persname>COLLOZ (Claude)</persname>
+                     <persname>CONEY (Jean)</persname>
+                     <persname>FOURNIER le Vieux (Claude)</persname>
+                     <persname>HUVIER (Hugues)</persname>
+                     <persname>MACLET (Claude)</persname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>CONFRERIE DE LA SAINTE VIERGE</corpname>
+                     <corpname>CONFRERIE DU ROSAIRE</corpname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES-IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 3</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Dénombrement des droits seigneuriaux dus par les habitants, au marquis de Chiverny de Monglas ; outre diverses propriétés, telles que maisons, champs, prés, vignes, étangs,etc... sont mentionnés : la haute, la moyenne et la basse justice, le droit d'instituer tabellion, juge, procureur, greffier et sergent, d'ériger un signe patibulaire, taille, "poule de carmentran", le guet, l'aide au quatre cas, la dîme, droit d'aubaine, d'épave et de péage, droit de marché, de moulin banal, etc...</unittitle>
+                     <unitdate>XVII°-XVIII° siècles</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CHIVERNY DE MONGLAS (de)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 4</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Transaction entre les communautés de Rupt et de Vy-lès-Rupt, au sujet de la délimitation de leurs territoires respectifs. Procès-verbal d'expertise et reconnaissance de bornes anciennes, terrain pour la maison commune (1715), pour le presbytère (1754), pour une place à fumier, appartenant à Claude Berthod et Claude-François Riollet (1746). [ces trois dernières pièces non retrouvées en 1961].</unittitle>
+                     <unitdate normal="1715/1754">1715-1754</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                     <geogname>VY-LES-RUPT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BERTHOD (Claude)</persname>
+                     <persname>RIOLLET (Claude-François)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 5</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Plan des terres labourables du finage de Rupt, dressé par Jean Perrier, arpenteur.</unittitle>
+                     <unitdate normal="1628/1633">1628-1633</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>PERRIER (Jean)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 6</unitid>
+                     <unitid>DD3</unitid>
+                     <unittitle>Plan des bois communaux de Rupt, dressé par Valbert Bretet, géomètre  (1750). Plan géométrique des bois communaux de Rupt, dressé par Pierre Durget, arpenteur juré de la maîtrise des Eaux et Forêts de Vesoul (1789).</unittitle>
+                     <unitdate normal="1750/1789">1750-1789</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BRETET (Valbert)</persname>
+                     <persname>DURGET (Pierre)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 7</unitid>
+                     <unitid>DD4</unitid>
+                     <unittitle>Vente d'un quart de réserve (1749). Requête des habitants de Rupt au Roi, pour obtenir l'autorisation de couper des réserves (1753). Arrêt du Conseil d'Etat réglant la coupe des réserves (1779). Copie d'une requête présentée par les habitants de Rupt, au juge de la justice seigneuriale dudit Rupt, tendant à obtenir l'autorisation de réparer des chemins et la fontaine de ce village, qui étaient menacés par les eaux des ravins environnants, surtout du côté de Vy-lès-Rupt (1765).</unittitle>
+                     <unitdate normal="1749/1779">1749-1779</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>CHEMIN RURAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>JUSTICE-PROCEDURE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 8</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Pièce d'un procès entre les habitants de Rupt et ceux de Vy-lès-Rupt, au sujet des pâturages et des droits de parcours réciproques dans les bois. Sentence rendue par le parlement de Dole dans un procès, entre les habitants de Rupt et leur seigneur, Thomas de Clermont-Saint-Georges, au sujet de leurs droits dans les bois. Autre procès entre le seigneur, deux particuliers et la communauté, au sujet du droit d'usages dans les bois. </unittitle>
+                     <unitdate normal="1591/1742">1591-1742</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                     <geogname>VY-LES-RUPT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CLERMONT-SAINT-GEORGES (Thomas de)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 9</unitid>
+                     <unitid>FF2</unitid>
+                     <unittitle>Pièces d'un procès entre les habitants de Rupt et madame la Comtesse de Chiverny, au sujet des droits de pâturage dans les bois de cette dame. Arrêt de la chambre souveraine des Eaux et Forêts, au parlement de Besançon, à ce sujet.</unittitle>
+                     <unitdate normal="1723/1724">1723-1724</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PATURAGE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CHIVERNY (de)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 10</unitid>
+                     <unitid>FF3</unitid>
+                     <unittitle>Pièces d'un procès entre les habitants de Rupt et ceux de Saint-Albin, au sujet des droits de parcours dans les bois. Requête, procuration, transaction.</unittitle>
+                     <unitdate normal="1723/1759">1723-1759</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                     <geogname>SAINT-ALBIN</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 11</unitid>
+                     <unitid>FF4</unitid>
+                     <unittitle>Pièces d'un procès entre les habitants de Rupt et le comte Grimod d'Orçay, leur seigneur, au sujet des bois. - Mémoires, requêtes, transactions - ; délimitation du canton dit les Chailloux ; arpentement desdits bois litigieux.</unittitle>
+                     <unitdate normal="1762/1787">1762-1787</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>GRIMOD D'ORCAY</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 12</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Rupt-sur-Saône : baptêmes (1695-1710), mariages (1700-1710), décès (1694-1710).&lt;lb/&gt;On y remarque les mentions suivantes : Marie Constance, fille de Mathurin Chantau, entrepreneur des bois de la marine en Franche-Comté, et de Martine Angoulian, née le 28 mars 1697. Parrain : Louis de Pimont, fils de M. de Pimont, lieutenant de vaisseau, marraine : Marie-Constance du Bois, fille de Claude du Bois, juge et chatelain en la baronnie de Rupt, qui ont signé avec le sieur R. le Fey, curé et protonotaire du Saint-Siège. Jean-Baptiste, fils de Gabriel Garnier, notaire royal, et de Jeanne Marguerite le Fer, né le 15 octobre 1707 ; parrain : Jean-Baptiste Pantenet, procureur et notaire au bailliage et présidial de Gray ; marraine : Anne-Françoise Ligier. Charles Ouriet, chirurgien, et Angélique Gérard, mariés le 1er février 1700, témoins : Claude du Bois, juge à Rupt, et Nicolas Martin. Barbe Marivet, femme de François Maillot, recteur d'école à Rupt, etc...</unittitle>
+                     <unitdate normal="1694/1710">1694-1710</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi25R56</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>ANGOULIAN (Martine)</persname>
+                     <persname>BOIS (Claude du)</persname>
+                     <persname>BOIS (Marie-Constance du)</persname>
+                     <persname>CHANTAU (Marie Constance)</persname>
+                     <persname>CHANTAU (Mathurin)</persname>
+                     <persname>FER (Jeanne-Marguerite le)</persname>
+                     <persname>FEY (R. le)</persname>
+                     <persname>GARNIER (Gabriel)</persname>
+                     <persname>GARNIER (Jean-Baptiste)</persname>
+                     <persname>LIGIER (Anne-Françoise)</persname>
+                     <persname>MARIVET (Barbe, femme MAILLOT)</persname>
+                     <persname>MARTIN (Nicolas)</persname>
+                     <persname>OURIET (Charles)</persname>
+                     <persname>PANTENET (Jean-Baptiste)</persname>
+                     <persname>PIMONT (Louis de)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 13</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Rupt-sur-Saône : baptêmes, mariages et décès. &lt;lb/&gt;On y remarque les mentions suivantes : Anne Renée, fille de Nicolas Richard, huissier royal à Rupt, et d'Anne Marguerite Courbet, née le 29 août 1716. Parrain : François Théodore Jacquemin, marraine : Anne Renée Faveret. Constantin, fils de François Sirugue, procureur au parlement de Besançon, et de Jeanne Marguerite Labotte, mort la 14 novembre 1716. Renée Françoise, fille de Laurent Lange, receveur des revenus de la terre et baronnie de Rupt, et intendant des affaires du comté de Chevrin, et de Françoise Corbion, née le 18 mars 1720 ; parrain : François Lange, marraine : Renée Faveret, qui ont signé avec le sieur Monnier, vicaire de Rupt. Messire Louis de Clermont, comte de Chiverny, marquis de Monglat, baron de Rupt, premier gentilhomme de monseigneur le Dauphin, gouverneur de monsieur le duc de Chartes, mort à Paris, au palais royal, âgé de 77 ans, le 5 mai 1722. Guillaume Baptiste, fils de Jean Baptiste, natif de Paris, cavalier dans la compagnie, mestre de camp du régiment Dauphin cavalerie, en quartier d'hiver à Rupt, noyé dans la Saône le 9 juillet 1731. Messire Claude Antoine Sirugue, curé de Rupt, âgé de 52 ans, mort le 13 septembre 1731 et enterré dans le choeur de l'église. Elisabeth, fille du sieur Charles Lange, de Rupt, avocat au parlement et substitut à la chambre des comptes à Dole, et de Renée Faveret, née le 30 juin 1732 ; parrain : Jean-François Monnoyeur, seigneur de Ferrière-lès-Scey, marraine : Elisabeth Lange, femme du sieur Cardot, de Vesoul, vicomte et mayeur de cette ville ; etc...</unittitle>
+                     <unitdate normal="1715/1740">1715-1740</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi24R56</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BAPTISTE (Guillaume)</persname>
+                     <persname>BAPTISTE (Jean)</persname>
+                     <persname>CLERMONT (Louis de)</persname>
+                     <persname>CORBION (Françoise, femme LANGE)</persname>
+                     <persname>COURBET (Anne-Marguerite) épouse RICHARD</persname>
+                     <persname>FAVERET (Anne Renée)</persname>
+                     <persname>FAVERET (Renée)</persname>
+                     <persname>JACQUEMIN (François-Théodore)</persname>
+                     <persname>LABOTTE (Jeanne Marguerite, femme SIRUGUE)</persname>
+                     <persname>LANGE (Charles)</persname>
+                     <persname>LANGE (Elisabeth, femme CARDOT)</persname>
+                     <persname>LANGE (Elisabeth)</persname>
+                     <persname>LANGE (François)</persname>
+                     <persname>LANGE (Laurent)</persname>
+                     <persname>LANGE (Renée-Françoise)</persname>
+                     <persname>MONNOYEUR (Jean-François)</persname>
+                     <persname>RICHARD (Anne-Renée)</persname>
+                     <persname>RICHARD (Nicolas)</persname>
+                     <persname>SIRUGUE (Claude -Antoine)</persname>
+                     <persname>SIRUGUE (Constantin)</persname>
+                     <persname>SIRUGUE (François)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 14</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre des baptêmes, mariages et sépultures de la paroisse de Rupt.&lt;lb/&gt;On y remarque les mentions suivantes : Anne-Marguerite, fille d'Ardouin-François Belgrand, chirurgien à Rupt, et Françoise Chechillot, née le 25 juillet 1742 ; parrain : Bernard Belgrand et Marguerite Berthod, marraine. Gabriel de Lestre et Françoise L'Huillier, mariés le 25 février 1743 ; témoins : Valentin Noyvot, recteur d'école, et Simon de Lestre. François Théodore, fils de Nicolas Petiet, recteur d'école à Rupt, et de Marguerite Bernard, né le 29 mai 1748 ; parrain : François Théodore Lamblin, marraine : Antoinette Porteneuve. François Martin Dubois, avocat au parlement, juge et chatelain des terre et baronnie de Rupt, mort le 23 février 1749, âgé d'environ 58 ans. Sébastien Seguin, avocat au parlement de Vesoul, fils de feu Claude Seguin, conseiller du Roi, lieutenant général criminel du bailliage et siège présidial de Vesoul, marié avec Jeanne Louis Lange, fille de Charles Lange, conseiller du Roi, substitut honoraire à la chambre des comptes de Dole, seigneur de Port-sur-Saône, le 13 juin 1758 ; témoins : M. Randon de la Tour, M. l'avocat Guerrin et plusieurs autres qui ont signé. Charles Antoine Narçon, curé de Rupt, âgé de 63 ans, mort le 23 décembre 1762. Mariage de Jean-François Fyard, conseiller au présidial de Vesoul, fils de Claude Louis, premier président audit présidial, et Marie Renée Lange, fille de Charles Lange, conseiller substitut honoraire à la chambre des comptes de Dole, mariés le 8 mai 1769 ; témoins :M. Fyard, premier président au bailliage de Vesoul, Georges Emmanuel Fyard, officier au corps royal d'artillerie, Claude-François Lange de Ferrière, et autres. Pierre Clair, receveur du comte d'Orsay de Rupt, notaire royal, tabellion et procureur fiscal dudit comté, juge des terres et baronnie de Ray et Scey-sur-Saône, âgé de 68 ans, mort le 6 novembre 1772. Charles Lange, substitut honoraire à la chambre des comptes de Dole, âgé de 86 ans, mort le 15 octobre 1780.&lt;lb/&gt;Ce registre a été laissé en mairie en 1961.</unittitle>
+                     <unitdate normal="1740/1782">1740-1782</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi24R56</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BELGRAND (Anne-Marguerite)</persname>
+                     <persname>BELGRAND (Ardouin-François)</persname>
+                     <persname>BERNARD (Marguerite, femme PETIET)</persname>
+                     <persname>CHECHILLOT (Françoise, femme BELGRAND)</persname>
+                     <persname>CLAIR (Pierre)</persname>
+                     <persname>DUBOIS (François Martin)</persname>
+                     <persname>FYARD (Georges Emmanuel)</persname>
+                     <persname>FYARD (Jean-François)</persname>
+                     <persname>HUILLIER (Françoise l')</persname>
+                     <persname>LANGE (Charles)</persname>
+                     <persname>LANGE (Jeanne Louise)</persname>
+                     <persname>LANGE (Marie Renée)</persname>
+                     <persname>LESTRE (Gabriel de)</persname>
+                     <persname>NARCON (Charles Antoine)</persname>
+                     <persname>NOYVOT (Valentin)</persname>
+                     <persname>PETIET (François Théodore)</persname>
+                     <persname>PETIET (Nicolas)</persname>
+                     <persname>SEGUIN (Sébastien)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 15</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre des baptêmes, mariages et décès (1782-1791) de la paroisse de Rupt. &lt;lb/&gt;On y remarque les mentions suivantes : Anne-Marguerite-Charlotte, fille de Denis Chevillet, chirurgien, et de Jeanne Louise Jacquemin, née le 5 février 1784 ; parrain : Charles Nicolas Baronheyd, ancien officier de dragons ; marraine : Anne-Marguerite Jacquemin. Jean-Baptiste Coste, manoeuvre, et Jeanne Betillet, maîtresse d'école à Rupt, mariés le 9 janvier 1786.&lt;lb/&gt;Ce registre a été laissé en mairie en 1961. </unittitle>
+                     <unitdate normal="1782/1791">1782-1791</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi24R56-57</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BARONHEYD (Charles Nicolas)</persname>
+                     <persname>BETILLET (Jeanne)</persname>
+                     <persname>CHEVILLET (Anne Marguerite Charlotte)</persname>
+                     <persname>CHEVILLET (Denis)</persname>
+                     <persname>COSTE (Jean Baptiste)</persname>
+                     <persname>JACQUEMIN (Anne Marguerite)</persname>
+                     <persname>JACQUEMIN (Jeanne Louise, femme CHEVILLET)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ACTES DE L'ADMINISTRATION DEPARTEMENTALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 16</unitid>
+                     <unitid>B1</unitid>
+                     <unittitle>Arrêtés du préfet de la Haute-Saône.</unittitle>
+                     <unitdate>An II-an X</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 17</unitid>
+                     <unitid>B2</unitid>
+                     <unittitle>Arrêtés du préfet de la Haute-Saône.</unittitle>
+                     <unitdate>An XI-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 18</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.</unittitle>
+                     <unitdate>An VIII-1825</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 19</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.</unittitle>
+                     <unitdate normal="1825/1843">1825-1843</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 20</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.</unittitle>
+                     <unitdate normal="1843/1865">1843-1865</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 21</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.</unittitle>
+                     <unitdate normal="1865/1889">1865-1889</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 22</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations, arrêtés de police et autres actes.</unittitle>
+                     <unitdate>An VIII-1853</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 23</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Registre des arrêtés du maire.</unittitle>
+                     <unitdate normal="1853/1893">1853-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 24</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Répertoire des actes soumis à l'enregistrement (1819-1888). Cahier répertoire de la correspondance reçue et expédiée (1847-1850). Changement de nom de la commune : décret (1878). Archives communales : rapports d'inspections, inventaires (1877-1899). Contentieux, assurance des bâtiments communaux (1861-1924).</unittitle>
+                     <unitdate normal="1819/1924">1819-1924</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE</genreform>
+                     <genreform>CAHIER</genreform>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 75</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Conseil municipal : manuscrit récapitulant les décisions prises par le conseil ; il est notamment question des réquisitions, des subsistances militaires et des volontaires (1er thermidor an II-14 germinal an V).</unittitle>
+                     <unitdate>An II-an V</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 25</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population, mouvement annuel (1853-1871, 1874, 1876-1906).</unittitle>
+                     <unitdate normal="1853/1906">1853-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 26</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Dénombrement quinquennal : listes nominatives.</unittitle>
+                     <unitdate normal="1836/1936">1836-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 27</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Commerce. Chambre de commerce de Gray : listes des électeurs pour le renouvellement intégral (1908-1923).&lt;lb/&gt;Agriculture. Chambre d'agriculutre : listes des électeurs (1919-1927) ; élection de 4 mambres (1927). Statistique agricole annuelle (1853-1927). Statistique décennale (1882-1892). Nomination des membres de la statistique agricole (1902). Etats des récoltes en grains et autres farineux (1858-1874). Syndicat agricole de la Haute-Saône (1899-1912). Carnets à souche des cotisations pour affiliation (1908-1914). Culture de la vigne (1871-1873). Baux pour l'entretien du taureau communal (1838-1925). Destruction des animaux nuisibles (1863-1919). Création de foire et marché aux chevaux à Vesoul et Port-sur-Saône (1894-1905).</unittitle>
+                     <unitdate normal="1838/1927">1838-1927</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>PORT-SUR-SAÔNE</geogname>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                     <geogname>VESOUL</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 28</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs : état de section, section A.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 29</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Impôts directs : état de section, section B.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 30</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Impôts directs : état de section, section C.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 31</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Impôts directs : état de section, section D.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 32</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Impôts directs : état de section, section E.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 33</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Contributions directes : matrices générales (1818-1835; 1839-1848).</unittitle>
+                     <unitdate normal="1818/1848">1818-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 34</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Contributions directes : matrices générales.</unittitle>
+                     <unitdate normal="1850/1881">1850-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 35</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Contributions directes : matrices générales.</unittitle>
+                     <unitdate normal="1882/1916">1882-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 36</unitid>
+                     <unitid>G9</unitid>
+                     <unittitle>Cadastre : matrices des propriétés bâties.</unittitle>
+                     <unitdate normal="1881/1911">1881-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 37</unitid>
+                     <unitid>G10</unitid>
+                     <unittitle>Contributions foncières : livre des mutations (1er volume).</unittitle>
+                     <unitdate normal="1818/1839">1818-1839</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 38</unitid>
+                     <unitid>G11</unitid>
+                     <unittitle>Contributions foncières : livre des mutations (2° volume).</unittitle>
+                     <unitdate normal="1818/1836">1818-1836</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 39</unitid>
+                     <unitid>G12</unitid>
+                     <unittitle>Liste des contribuables les plus imposés de la commune (1863). Demande de révision du classement des propriétés (1886). Réclamations relatives aux contributions ; correspondance concernant la confection des rôles ; états de fonds à soustraire (an IX-1838). Taxes sur les billards (1900-1914). Tableau de recensement des portes et fenêtres (1831). Mandement de répartition des contributions directes (an V-1828).&lt;lb/&gt;Postes et télégraphes. Etablissement d'un bureau télégraphique cantonal à Scey-sur-Saône (1866-1867). Levées de boîtes aux lettres (1893-1907).&lt;lb/&gt;Poids et mesures (1824-1859).</unittitle>
+                     <unitdate>An V-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                     <subject>POIDS-ET-MESURES</subject>
+                     <subject>POSTE</subject>
+                     <subject>TELEGRAPHE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                     <geogname>SCEY-SUR-SAÔNE-ET-SAINT-ALBIN</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 40</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recensement des jeunes gens : tableaux (1821, 1824-1928).</unittitle>
+                     <unitdate normal="1821/1928">1821-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 41</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Extrait du tableau cantonal des citoyens mobilisables, exercice 1848. Listes nominatives des 12 citoyens composant le jury de révision du canton et de leurs suppléants (1834-1835).&lt;lb/&gt;Armée territoriale : tableaux de recensement des hommes appartenant aux classes de 1855 à 1866. Dispensés (1903-1907). Exemptés (1868). Feuilles de route (1827-1861). Registre des notifications des ordres de route (1847-1862). Soutien de famille (1861-1908). Correspondance relative au recrutement (an IX-1896).</unittitle>
+                     <unitdate>An IX-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 42</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Garde nationale : tableau de recensement (1831), contrôle du service ordinaire (1831, 1832, 1844, 1849), registre matricule (s. d.). Election des officiers : procès-verbaux, extrait préfectoral (1831-1870).</unittitle>
+                     <unitdate normal="1831/1870">1831-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 43</unitid>
+                     <unitid>H4</unitid>
+                     <unittitle>Relevé nominatif des citoyens inscrits au registre matricule (1837-1870). Vente d'effets (1831-1870). Installation du conseil de discipline (1831).&lt;lb/&gt;Sapeurs-pompiers. Election nomination d'un membre du conseil supérieur (1852-1928). Engagement, nomination, démission (1852-1892). Organisation, assurance (1843-1912). Equipement (1851-1870). Pompe à incendie (1842-1877).</unittitle>
+                     <unitdate normal="1831/1928">1831-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 44</unitid>
+                     <unitid>H5</unitid>
+                     <unittitle>Mesure d'exception et faits de guerre. Nouvelles des militaires (an IX). &lt;lb/&gt;Guerre de 1870. Communiqués du préfet allemand (1870-1871). Organisation d'une souscription nationale de la délivrance du territoire (1870-1872). Réquisitions (1870-1871).</unittitle>
+                     <unitdate>An IX-1872</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE-JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 45</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Achat d'armes pour le garde-champêtre (1823). Prostitution : renseignements (1864). Débits de boisson : déclarations d'ouverture (1885-1919). Chiens errants : arrêté (1851). Transports de corps, permis d'inhumer (1860-1916). Sinistres, incendies (1828, 1907-1910).&lt;lb/&gt;Police urbaine. Contestation pour une place à fumier, transaction (1820-1846). Litiges concernant des dépôts dans la rue (1837-1846).&lt;lb/&gt;Police rurale. Bans de vendange (1847). Police de la chasse (1862-1904). Couvertures en chaume (1860). Ramonage des cheminées (1807-1896).</unittitle>
+                     <unitdate normal="1807/1919">1807-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DEBIT DE BOISSON</subject>
+                     <subject>INCENDIE</subject>
+                     <subject>POLICE</subject>
+                     <subject>POLICE DE LA CHASSE</subject>
+                     <subject>SINISTRE</subject>
+                     <subject>TRANSPORT DE CORPS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 46</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Police générale. Rapport relatif à de graves délits commis par des étrangers de la commune (1792). Avis de changements de domicile (1852-1857). Registre des passeports délivrés (1847-1861). Souches de passeports pour l'intérieur (1828-1862). Trois livrets d'ouvriers (1858-1863). Etat de livrets délivrés (1860-1866). Affichage (1897-1901). Troubles, rixes (1846-1849). Surveillance d'individus dangereux (1822-1828). Souches du registre d'immatriculation des étrangers (1894-1914). Etats nominatifs d'étrangers (1915).</unittitle>
+                     <unitdate normal="1792/1915">1792-1915</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PASSEPORT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETRANGER</subject>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 47</unitid>
+                     <unitid>I3</unitid>
+                     <unittitle>Justice. Notifications de jugements et condamnations (1807-1878). Listes des jurés et jury (1832-1872). Pétition des habitants de Franche-Comté, relative au maintien de la cour d'appel de Besançon (s. d., vers 1850).</unittitle>
+                     <unitdate normal="1807/1878">1807-1878</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JURY D'ASSISES</subject>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 48</unitid>
+                     <unitid>I4</unitid>
+                     <unittitle>Hygiène publique et salubrité. Arrêté préfectoral d'autorisation pour une chaudière et une machine à vapeur, dans les dépendances du château de monsieur de Buyer (1857). Rapports sur les conditions sanitaires et la santé publique dans la commune (1865, 1908-1909). Registre de déclaration pour le commerce de substances vénéneuses (1847). Listes nominatives des enfants soumis à la vaccination (1840-1866, 1904-1919). Arrêtés de nomination du vaccinateur (1904-1923).</unittitle>
+                     <unitdate normal="1840/1923">1840-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>HYGIENE SOCIALE</subject>
+                     <subject>VACCINATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 49</unitid>
+                     <unitid>I5</unitid>
+                     <unittitle>Maladies contagieuses : statistiques du choléra (1853-1855, 1908-1910). Inspection des viandes, tueries particulières, avec plans (1882-1928). Listes des vétérinaires (1859). Livrets de surveillance du bétail (1899-1908). Epizootie du typhus, fièvre charbonneuse (1871, 1895-1915).</unittitle>
+                     <unitdate normal="1853/1928">1853-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EPIDEMIE</subject>
+                     <subject>MALADIE DES ANIMAUX</subject>
+                     <subject>MEDECINE VETERINAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 50</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales.</unittitle>
+                     <unitdate normal="1831/1926">1831-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 51</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Incapacités électorales (1849-1901). Plébiscite (1870), vote pour l'élection du président de la République (1851), vote pour le rétablissement de l'Empire (1852), élection sénatoriales (1893-1926), élections législatives (1852-1924) : procès-verbaux.</unittitle>
+                     <unitdate normal="1849/1926">1849-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 52</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Elections au conseil général et au conseil d'arrondissement : procès-verbaux.</unittitle>
+                     <unitdate normal="1864/1928">1864-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 53</unitid>
+                     <unitid>K4</unitid>
+                     <unittitle>Elections municipales : procès-verbaux.</unittitle>
+                     <unitdate>An XIII-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION MUNICIPALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 54</unitid>
+                     <unitid>K5</unitid>
+                     <unittitle>Personnel communal. Garde-champêtre (1806-1893). Garde forestier (1822-1904).&lt;lb/&gt;Distinctions honorifiques. Etat des légionnaires et des décorés de la médaille militaire (1875).</unittitle>
+                     <unitdate normal="1806/1904">1806-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DISTINCTION HONORIFIQUE</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 55</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptabilité. Budgets (an IX-1850). Comptes de gestion (an II-1850). Registres des mandats du maire (1844-1850).</unittitle>
+                     <unitdate>An II-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 56</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices publics. Acquisitions pour la maison commune (1715-1842). Reconstruction de la maison commune et de ses dépendances : devis (1840-1844). Réparations aux divers bâtiments communaux (1826-1914). Procès Duvaux-Millot, relatif aux contreforts et au bûcher établis sur le terrain communal, près de la maison commune (1840-1866). Horloge, vente, achat, réparations (1809-1924). Acquisition d'un trieur communal (1905). Bascule publique (1908, 1913). Erection d'un monument à la mémoire des enfants de la commune "Morts pour la France" (1919) ; achat d'une grille d'entourage : plan (1927).</unittitle>
+                     <unitdate normal="1715/1927">1715-1927</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EDIFICE CLASSE</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 57</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>Reconstruction à neuf des quatre croix de la commune (1823). Presbytère, acquisition, réparations, vente (an XIII-1916). Eglise, réparations (1807-1928). Cimetière, réparations (1825-1842). Ecole primaire (1817-1913). Logements des instituteurs, réparations et construction d'une chambre à pain et d'une cave (1858-1915). Affectation du logement de l'instituteur au secrétaire de mairie (1920).</unittitle>
+                     <unitdate>An XIII-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX-DROITS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 58</unitid>
+                     <unitid> N1</unitid>
+                     <unittitle>Biens communaux. Baux de terrains communaux (1850-1907). Anticipations de biens communaux (1793-1906).&lt;lb/&gt;Bois : plan général des bois de la commune de Rupt (1) (1826). Lettre patente du Roi, concernant la distribution des bois communaux en usance (1790). Droit de partage et droit de parcours (an III-1893). Anticipation, jugement Bathalon-Chaudey (1829-1858). Procès-verbal de délimitation partielle entre les bois communaux et ceux de monsieur de Buyer (1859). Aménagement (1822-1858). Etat des biens ruraux autres que les bois et terrains soumis au régime forestier (s. d.). Partage d'environ 2 ha de bois en broussaille, entre les communes de Rupt et Vy-lès-Rupt (1807).</unittitle>
+                     <unitdate>An III-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                     <geogname>VY-LES-RUPT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BATHALON</persname>
+                     <persname>BUYER (famille de)</persname>
+                     <persname>CHAUDEY</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 59</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Eaux. Acquisition de terrains et construction d'un lavoir, abreuvoir rue de Vy-lès-Rupt (1894-1905). Construction et réparations à la fontaine centrale (1818-1921). Acquisition de terrains et construction de la fontaine dite "les Fontenottes" (1853-1885). Reconstructions de murs et de deux bornes-fontaines (an XIII-1891). Projet de réparations au captage de la source et à la conduite d'amenée des eaux (1907). Etat des parcelles traversées par la conduite projetée (s. d.). Emplacement d'une borne-fontaine (1884). Concession d'eau (1923-1928). Amodiation des boues des rues et des fontaines (1829-1886).&lt;lb/&gt;Propriétés et droits divers. Acquisition d'un terrain pour en faire un dépôt de pierres (1893, plan). Concessions perpétuelles au cimetière (1923-1928).</unittitle>
+                     <unitdate>An XIII-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU</subject>
+                     <subject>EAU SOUTERRAINE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 60</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine. Acquisitions de terrains (1921-1930). Délimitation des rues (1819). Alignements des rues (1824-1903). Traversée de Rupt-sur-Saône : deux plans réunis en un seul (1) (an XI). Réparations aux rues, rigoles, passages, murs (1806-1871). Amodiations d'une petite place communale (1837-1852). Adjudications de la place publique pour un bal (1886-1894). Installation pour l'éclairage des voies publiques et monuments (1926).</unittitle>
+                     <unitdate>An XI-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 61</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Petite voirie. Chemin de grande communication, projet de création entre Vesoul et Scey-sur-Saône : 1 plan, 1 rapport (1850). Entretien du chemin n° 26 (1852-1865). Projet de modification des alignements du chemin n° 23 (1903-1907). Chemins vicinaux, entretien, acquisition de terrain sur le chemin allant de Rupt à Chantes (1839-1867). Travaux d'empierrement, de terrassement et d'élargissement, suite à acquisitions de terrains sur les chemins n°3, 4, 23 et un chemin de petite communication (1861-1891). Rectifications, acquisitions de terrains pour le chemin n° 30 (1864-1878). Empierrement, élargissement, suite à acquisitions de terrains pour le chemin allant à Ovanches (1872-1908).</unittitle>
+                     <unitdate normal="1839/1908">1839-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>RAPPORT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>ROUTE DEPARTEMENTALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 62</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Chemins vicinaux : taxes et rôle de prestation.</unittitle>
+                     <unitdate normal="1825/1905">1825-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 63</unitid>
+                     <unitid>O4</unitid>
+                     <unittitle>Chemins vicinaux, tableau de classement (1824-1893). Chemins ruraux, tableaux généraux (1840, 1857, 1889). Situations (1890-1914). Etat d'indication des travaux à exécuter en acquit de la journée qui leur est imposée (1892). Délimitation, procès-verbal d'abornement (1863, 1 plan). Bornage du chemin "des Chênets" (1848, 1 plan). Echange de terrain et déplacement du chemin "la Garenne" (1853-1863). Bornage des chemins "des Terreillots" et de "Combeaufontaine" (1848). Réparations (1837). Projet de reconnaissance comme chemin rural du chemin "de Confracourt" (1889). Construction pour rectifier la côte du Couvent (1863).</unittitle>
+                     <unitdate normal="1824/1914">1824-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 64</unitid>
+                     <unitid>O5</unitid>
+                     <unittitle>Chemins de défruitement, rectifications, échanges avec monsieur de Buyer : titres notariés (1855-1857). Acquisitions de terrains (1892-1916).</unittitle>
+                     <unitdate normal="1855/1916">1855-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BUYER (famille de)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 65</unitid>
+                     <unitid>O6</unitid>
+                     <unittitle>Moyens de transport et travaux divers. Chemin de fer d'intérêt local, 3° réseau (1903-1906). Tramways départementaux, projet d'une ligne de Gray à Vesoul (1850-1897). Etablissement du réseau téléphonique à Rupt-sur-Saône (1902-1904). Arrêtés du préfet, autorisant d'extraire du minerai de fer (1837-1848). Ecrêtement de la rampe des minières (1847).&lt;lb/&gt;Régime des eaux. Plan et élévation d'un ponceau à construire sur un chemin de défruitement de la prairie de Rupt (13 messidor an XI). Construction d'un aqueduc et rectification du chemin vicinal de Rupt à Scey-sur-Saône (1849-1864). Construction d'un aqueduc dans la prairie basse et réparations d'un aqueduc sur le chemin d'Ovanches (1902). Réparations du pont sur la Saône, allant à Chantes (1877-1900). Reconstruction des murs des canaux (1893-1907). Réponse de la préfecture, concernant les différends entre la commune de Chantes, qui déposait des pierres dans la Saône, et un riverain de Rupt-sur-Saône, dont son terrain se trouvait déprécié (1811).</unittitle>
+                     <unitdate>An XI-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>MINERAI</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>TELEPHONE</subject>
+                     <subject>VOIE FERREE D'INTERET LOCAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHANTES</geogname>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                     <geogname>SAÔNE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 66</unitid>
+                     <unitid>O7</unitid>
+                     <unittitle>Patouillet pour le lavage du minerai de fer : ordonnance du Roi autorisant l'établissement (1841). Irrigation de la prairie haute (1893). Curage des cours d'eau : rôles de répartition (1807-1867). Curage du ruisseau de la haute prairie, de la fontaine et du moulin (1856-1926). Curage du ruisseau du Breuil (1893). Curage du ruisseau de Vy-lès-Rupt (1897-1910, plan). Curage du ruisseau des prés de Rupt et de la Baraque, de la fontaine et du moulin (1905, 1910, 1911, 1918).</unittitle>
+                     <unitdate normal="1807/1926">1807-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 67</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte catholique : arrêté autorisant l'exercice du culte (an IX). Fabrique : budget (1878-1904), compte de gestion (1895-1902). Etat et inventaire du mobilier pour les deux soeurs (1850).</unittitle>
+                     <unitdate>An IX-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                     <genreform>INVENTAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CULTE</subject>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 68</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Bureau de bienfaisance. Création (1871). Registre de délibérations du bureau (1872-1909). Nomination des membres (1873-1909). Election de deux délégués à la commission administrative (1892-1914).</unittitle>
+                     <unitdate normal="1871/1914">1871-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 69</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Secours d'urgence. Subventions (1890-1896). Souscription en faveur des incendiés de Fort-de-France, de Port-Louis et de la Martinique (s. d., 1902). Secours pour pertes aux agriculteurs (1894-1907). Allocations aux familles des militaires et aux soldats blessés (1848-1902). Legs par François Barthélémy (1902-1906). Attribution des biens appartenant à l'ancienne fabrique (1907-1910). Amodiation du pré de l'ancienne fabrique (1910-1923).</unittitle>
+                     <unitdate normal="1848/1923">1848-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE</subject>
+                     <subject>DONS-ET-LEGS</subject>
+                     <subject>INCENDIE</subject>
+                     <subject>SINISTRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FORT-DE-FRANCE</geogname>
+                     <geogname>MARTINIQUE</geogname>
+                     <geogname>PORT-LOUIS</geogname>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BARTHELEMY (François)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 70</unitid>
+                     <unitid>Q3</unitid>
+                     <unittitle>Oeuvres charitables. Atelier de charité (1847-1861). Comité communal de bienfaisance : listes des habitants charitables (1854-1860). Legs de madame de Buyer, au comité de bienfaisance (1861). Hospitalisation, placements des aliénés (1860-1918).&lt;lb/&gt;Institutions diverses. Société d'assurances mutuelles contre la mortalité du bétail "la Ruptienne" : statuts (1898-1902), déclarations d'adhésions (1899-1900), subventions départementales (1900-1910).</unittitle>
+                     <unitdate normal="1847/1918">1847-1918</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE</subject>
+                     <subject>DONS-ET-LEGS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BUYER (famille de)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 71</unitid>
+                     <unitid>Q4</unitid>
+                     <unittitle>Application des lois d'assistance et de prévoyance. Organisation d'un service médical gratuit (1859-1864). Listes des indigents admis (1860-1922). Etats nominatifs des vieillards infirmes et des incurables admis à l'assistance (1907-1913). Demande d'assistance, rejetée pour madame Jeannerey, veuve Drouhin (1915).</unittitle>
+                     <unitdate normal="1859/1915">1859-1915</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE MEDICALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>JEANNEREY, veuve DROUHIN</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 72</unitid>
+                     <unitid>Q5</unitid>
+                     <unittitle>Protection des enfants du premier âge : tableaux annuels, statistiques des décès (1877-1878). Déclarations des parents ou ayants droit : registre (1880). Déclarations des nourrices, sevreuses ou gardeuses. Avis de placement : registres (1880-1906). Secours mensuels (1896). Admissions à l'orphelinat Bourdault (1860-1861).</unittitle>
+                     <unitdate normal="1860/1906">1860-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE</subject>
+                     <subject>AIDE SOCIALE A L'ENFANCE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms d'organismes :</head>
+                     <corpname>Orphelinat Bourdault</corpname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 73</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Rétribution scolaire : rôles trimestriels.</unittitle>
+                     <unitdate normal="1866/1881">1866-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>457 Edepot 74</unitid>
+                     <unitid>R2</unitid>
+                     <unittitle>Nominations des instituteurs (1828-1913). Installation du comité local d'instruction primaire (1834-1849). Commission scolaire, élections des délégués du conseil municipal (1882-1908). Réorganisation de la caisse des écoles : statuts (1882-1910). Subventions de l'état, allocation municipale (1883-1903). Listes des enfants admis gratuitement dans l'école primaire communale (1851-1881). Gratuité pour les écoles (1881). Demande d'autorisation pour six pensionnaires à l'école primaire (1878). Ecole des filles, révision de la liste. Ecole des filles devenue obligatoire (1894). Création d'une classe mixte (1920). Refus d'ouverture d'une école privée de filles avec internat (1913). Fournitures scolaires, état des fournitures aux élèves indigents (1859-1862). Inventaire du mobilier des écoles (1850-1900). Acquisition de 2 tables bancs (1910). Bataillon scolaire, achat de fusils (1885).</unittitle>
+                     <unitdate normal="1828/1920">1828-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATUT</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>RUPT-SUR-SAONE </geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,1027 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_430Edepot_Archives_communales_déposées_de_la_Quarte" url="https://francearchives.fr/findingaid/1c35dad1b2e72c1f8f85c7b3d4f31f916aa04d86">FRAD70_430Edepot_Archives_communales_déposées_de_la_Quarte</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>430Edepot - Archives communales déposées de la Quarte</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>430Edepot - Archives communales déposées de la Quarte</unittitle>
+         <unitid>430Edepot1-32</unitid>
+         <unitdate normal="1741/1952">1741-1952</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE LA QUARTE</corpname>
+         </origination>
+         <note label="note">
+            <p>Archives municipales de la Quarte déposées aux A. D. H. S. en 1958, 1972 et 1997.
+Jusqu'en 1740, la chapelle de la Quarte dépendait de la paroisse d'Ouge.
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B4224, élections des députés et remontrances, plaintes et doléances des habitants de la Quarte (1789).
+B 7010, déclarations de propriétés en exécution de l'Edit du Roi du mois de mai 1749.
+B 9829, procédures civiles (1717-1787).
+C 200, procès avec les décimateurs, au sujet du paiement du prêtre, nommé pour servir la chapelle de la Quarte, qui vient d'être érigée en succusale (XVIII° siècle)
+C321, rôles et répartements des impositions dans la communauté de la Quarte (1729-1790).
+3 O 444, travaux communaux, depuis 1812.
+400 E dépôt 6-7, archives communales d'Ouge : registres paroissiaux (1648-1792).
+572 E depot, archives communales de Vitrey-sur-Mance : procédure entre les communautés de Chauvirey, Ouge, la Quarte et vitrey, d'une part, les héritiers Bernard de Montessus, d'autre part (1793-1806).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             01/12/2008
+         </p>
+         <p>Dernier ajout le             01/12/2008
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> CULTE (1741-1793)</p>
+         <p>  430 Edepot  1 à 6</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1816-1941)</p>
+         <p>  430 Edepot  7 à 12</p>
+         <p> POPULATION-ECONOMIE SOCIALE-STATISTIQUE (1853-1902)</p>
+         <p>  430 Edepot  13</p>
+         <p> CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES (1826-1921)</p>
+         <p>  430 Edepot  14 à 17</p>
+         <p> AFFAIRES MILITAIRES (1862-1925)</p>
+         <p>  430 Edepot  18</p>
+         <p> POLICE-HYGIENE PUBLIQUE-JUSTICE (1837-1871)</p>
+         <p>  430 Edepot  19</p>
+         <p> ELECTIONS ET PERSONNEL (1842-1913)</p>
+         <p>  430 Edepot  20 à 22</p>
+         <p> FINANCES DE LA COMMUNE (1806-1900)</p>
+         <p>  430 Edepot  23 à 25</p>
+         <p> EDIFICES COMMUNAUX (1812-1923)</p>
+         <p>  430 Edepot  26</p>
+         <p> BIENS ET BOIS COMMUNAUX (1809-1912)</p>
+         <p>  430 Edepot  27</p>
+         <p> VOIRIE-MOYENS DE TRANSPORT (1813-1906)</p>
+         <p>  430 Edepot  28</p>
+         <p> CULTES (1824-1932)</p>
+         <p>  430 Edepot  29</p>
+         <p> ASSISTANCE ET PREVOYANCE (1828-1952)</p>
+         <p>  430 Edepot  30 à 31</p>
+         <p> INSTRUCTION PUBLIQUE (...)</p>
+         <p>  430 Edepot  32</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 1</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de la Quarte : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1741/1749">1741-1749</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi28R49</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 2</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de la Quarte : baptêmes, mariages, sépultures (1750-1759).&lt;lb/&gt;Dans ce registre, on remarque l'acte de bénédiction d'une croix, au lieu-dit canton de la Gruselière, finage et territoire de la Quarte (18 mai 1750).</unittitle>
+                     <unitdate normal="1750/1759">1750-1759</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi28R49</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 3</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de la Quarte : baptêmes, mariages, sépultures (1760-1769).&lt;lb/&gt;Dans de registre, on remarque l'acte de bénédiction d'un cloche, dont la marraine fut Marguerite-Françoise-Bernadine Dagay, épouse de Claude-François-Joseph de Mongenet, lieutenant général au bailliage de Vesoul, et pour parrain, Antoine-François de Bernard de Montessus, baron de Vitrey, Chauvirey, Ouge et la Quarte (10 janvier 1765).</unittitle>
+                     <unitdate normal="1760/1769">1760-1769</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi28R50</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 4</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de la Quarte : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1770/1779">1770-1779</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi28R50</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 5</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de la Quarte : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1780/1791">1780-1791</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi28R50</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : Document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 6</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Sommation faite à la requête de Jean Doribé, curé de la Quarte, à Michel Chemillard, pour qu'il révèle les nom et prénom de la mère de Nicole Pierrot, qui vient de décéder (1742). Extraits d'un acte de mariage de 1739, d'un acte de naissance de 1740 (1793). Extrait du registre de sépulture de la maison de force de Sens (1772).</unittitle>
+                     <unitdate normal="1742/1793">1742-1793</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>CHEMILLARD (Michel)</persname>
+                     <persname>DORIBE (Jean)</persname>
+                     <persname>PIERROT (Nicole)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 7</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.</unittitle>
+                     <unitdate>An IX-1832</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 8</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal : délibérations (mai 1832-1839, 1 cahier, 1840-septembre 1858, 1 registre).</unittitle>
+                     <unitdate normal="1832/1858">1832-1858</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>CAHIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 9</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (octobre 1858-février 1876).</unittitle>
+                     <unitdate normal="1858/1876">1858-1876</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 10</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (février 1876-mars 1889).</unittitle>
+                     <unitdate normal="1876/1889">1876-1889</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 11</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (avril 1889-mai 1928).</unittitle>
+                     <unitdate normal="1889/1928">1889-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 12</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Répertoire des actes soumis à l'enregistrement (1816-1847, 1861-1883, 1894-1941).</unittitle>
+                     <unitdate normal="1816/1941">1816-1941</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 13</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : mouvement annuel (1853-1901).&lt;lb/&gt;Agriculture. Commission communale de statistique agricole : délibération (1902). Foires : avis de création dans d'autres communes (1869-1888).</unittitle>
+                     <unitdate normal="1853/1902">1853-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>MANIFESTATION COMMERCIALE</subject>
+                     <subject>POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 14</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Cadastre : atlas de la commune.</unittitle>
+                     <unitdate normal="1835">1835</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ATLAS CADASTRAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CADASTRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 15</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Poste. Distribution du courrier : correspondance (1898).&lt;lb/&gt;Télégraphe : correspondance relative à la création de lignes cantonales (1868-1873).&lt;lb/&gt;Contributions directes : matrices générales (1826-1844).</unittitle>
+                     <unitdate normal="1826/1898">1826-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                     <subject>POSTE</subject>
+                     <subject>TELEGRAPHE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 16</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Contributions directes : matrices générales.</unittitle>
+                     <unitdate normal="1850/1881">1850-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 17</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Contributions directes : matrices générales.</unittitle>
+                     <unitdate normal="1882/1921">1882-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 18</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recensement des jeunes gens : tableaux (1910-1915, 1917-1920, 1922-1925). Recrutement : correspondance (1866, 1872), exemption (1862). Logement et cantonnement des troupes : état des ressources (1878, 1891). Circulaires : copies sur le mariage des veuves de militaires (s. d.), sur le retard de transcription de décès de marins, sur les registres d'état-civil (1919).</unittitle>
+                     <unitdate normal="1862/1925">1862-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                     <genreform>CIRCULAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE-JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 19</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police générale. Passeports et souche (1837-1838, 1857).&lt;lb/&gt;Epizootie : dénombrement des animaux (1871).&lt;lb/&gt;Jury d'assises : listes des jurés (1851-1853).</unittitle>
+                     <unitdate normal="1837/1871">1837-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PASSEPORT</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JURY D'ASSISES</subject>
+                     <subject>MALADIE DES ANIMAUX</subject>
+                     <subject>POLICE ADMINISTRATIVE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 20</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections politiques : listes électorales (1842-1844, 1846, 1848-1870), listes de scrutin (1871-1902, incomplet).</unittitle>
+                     <unitdate normal="1842/1902">1842-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 21</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections municipales (1846-1904), vote pour le rétablissement de l'Empire (1852), plébiscite (1870), élections au conseil général (1852-1904), élections législatives (1857-1902), élections sénatoriales (1876-1896) : procès-verbaux.</unittitle>
+                     <unitdate normal="1846/1904">1846-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 22</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Garde-champêtre, traitement : délibérations (1854, 1874-1876). Receveur municipal : décompte des remises (1876, 1894), traitement : délibérations (1886, 1888, 1894, 1913).</unittitle>
+                     <unitdate normal="1854/1913">1854-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 23</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Budgets (incomplet).</unittitle>
+                     <unitdate normal="1809/1870">1809-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 24</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptes de gestion (1807-1815, 1817-1821, 1823, 1826, 1828-1830, 1832-1836, 1838-1849, 1851-1853, 1855-1861, 1863-1870).</unittitle>
+                     <unitdate normal="1807/1870">1807-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 25</unitid>
+                     <unitid>L3</unitid>
+                     <unittitle>Comptes administratifs (1806, 1809,1850-1851, 1866, 1875). Arrêtés d'apurement (1851-1865). Comptabilité des communes et des établissements de bienfaisance : arrêtés préfectoraux (1883-1900).</unittitle>
+                     <unitdate normal="1806/1900">1806-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 26</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Bâtiments communaux, réparations : extraits de délibérations, correspondance (1880-1883). Ecole, acquisitions d'immeubles (1825-1828), réparations : devis, correspondance, subvention du ministère (1843-1857, 1887, 1890, 1896). Fontaine, reconstruction : devis, plan (1812), réparations : plan 1862). Construction d'un abreuvoir : devis, plan (1849). Construction d'un lavoir : 2 plans (1857). Presbytère, réparations : devis, correspondance (1853-1854). Eglise, réparations et construction d'un clocher : devis (1868-1869), couverture en ardoises de la flèche du clocher : devis (1923). Cimetière et jardin d'école, réfection des murs : devis, demande de secours : délibération (1894-1895).</unittitle>
+                     <unitdate normal="1812/1923">1812-1923</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 27</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Etat des biens ruraux autres que les bois (1858). Amodiations de biens (1811-1912). Ventes de bois (1809-1896). Partage des bois indivis d'Ouge et de la Quarte : extrait de délibération (1857), décret, acte notarié, procès-verbal d'expertise (1865-1866). Bois communaux, aménagement : décret, procès-verbal d'arpentage (1866-1867).</unittitle>
+                     <unitdate normal="1809/1912">1809-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>PROCES-VERBAL D'AMENAGEMENT FO</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OUGE</geogname>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-MOYENS DE TRANSPORT</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 28</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Petite voirie. - Alignement des rues : demandes et autorisations (1842-1874). Chemins vicinaux : tableaux généraux, classement, travaux et entretien, chemins ruraux reconnus, fonds centralisés (1813-1906, 3 plans).Ressources (1846-1885). Prestations (1849-1903).&lt;lb/&gt;Chemin de fer d'intérêt local. - Construction de nouvelles lignes de tramways, frais d'études (1899).</unittitle>
+                     <unitdate normal="1813/1906">1813-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                     <subject>VOIE FERREE D'INTERET LOCAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 29</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Traitement du desservant d'Ouge, quote-part de la commune de la Quarte : arrêté préfectoral (1824). Erection en succursale de l'église de la Quarte : ordonnance du Roi (1841). &lt;lb/&gt;Fabrique. - Rétrocession à l'association diocésaine de Besançon des biens ayant appartenu à l'ancienne fabrique de l'église de la Quarte (1932).</unittitle>
+                     <unitdate normal="1824/1932">1824-1932</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OUGE</geogname>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 30</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Bureau de bienfaisance : délibérations (1cahier 1831-1840, 1 registre 1840-1951).</unittitle>
+                     <unitdate normal="1831/1951">1831-1951</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 31</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Bureau de bienfaisance : extraits de délibérations (1841-1895), comptes de gestion (1840-1846, 1848-1849, 1852-1853, 1855-1861, 1863-1871, 1899-1901), pièces annexes aux comptes (1851-1912), budgets (1840-1870). Commission administrative, nomination de membre (1952). Legs de Marie-Anne-Louise de Jodrillat, veuve de Bernard de Montessus (1828).&lt;lb/&gt;Médecine gratuite (1833, 1952). Protection des enfants du premier âge : statistique des décès (1878).</unittitle>
+                     <unitdate normal="1828/1952">1828-1952</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE</subject>
+                     <subject>DONS-ET-LEGS</subject>
+                     <subject>PROTECTION MATERNELLE ET INFANTILE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>JODRILLAT (Marie-Anne-Louise de, veuve de Bernard de Montessus)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>430 Edepot 32</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Construction d'une table-banc d'écolier : 1 croquis (s. d.).</unittitle>
+                     <unitdate>Sans date</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>QUARTE (LA)</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,1357 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_211Edepot_Archives_communales_déposées_d'Ecuelle" url="https://francearchives.fr/findingaid/b10078c34b6614c7f2e344f18373d2dc2f506733">FRAD70_211Edepot_Archives_communales_déposées_d'Ecuelle</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>211Edepot - Archives communales déposées d'Ecuelle</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>211Edepot - Archives communales déposées d'Ecuelle</unittitle>
+         <unitid>211Edepot1-50</unitid>
+         <unitdate normal="1736/1936">1736-1936</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE D'ECUELLE</corpname>
+         </origination>
+         <note label="note">
+            <p>Avant la révolution, Ecuelle dépendait de la paroisse de Vars.
+(1) Cote réservée au registre de délibérations de 1830 à 1842, qui n'a pas été retrouvé en mairie en 1977.
+(2) Voir 211 E dépôt 7/D1, tableau de la population (an X).
+(3) Voir 211 E dépôt 7/D1, réquisitions militaires (an II-an IV).
+(4) Voir 211 E dépôt 8/D2, procès-verbaux d'élection des officiers municipaux (1790).
+(5) Voir 211 E dépôt 49/R1, comité de bienfaisance (1861-1875).
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+C 61, alignement dans la commune (1784-1790).
+C 146, comptes des échevins (1761-1789).
+H 684, acte d'union des prieurés de Morey et d'Ecuelle (1668).
+1 J 619, contestation concernant les impositions (1716-1719).
+3 O 217, travaux communaux (depuis 1826).
+523 E dépôt 4 à 7 (GG1 à GG 4), registres paroissiaux de Vars et d'Ecuelle (1656-1747).
+3 E 523/1 à 3, idem (1720-1792).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             22/12/2003
+         </p>
+         <p>Dernier ajout le             22/12/2003
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> CULTE (1736-1773)</p>
+         <p>  211 Edepot 1</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> LOIS ET ACTES DU POUVOIR CENTRAL (1790-1792)</p>
+         <p>  211 Edepot 3-6, 211 Edepot 2</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1830-1936)</p>
+         <p>  211 Edepot 7-9, 211 Edepot 11-18, 211 Edepot 10</p>
+         <p> ETAT-CIVIL (...-...)</p>
+         <p>  211 Edepot 19</p>
+         <p> POPULATION-AGRICULTURE-COMMERCE ET INDUSTRIE (1841-1928)</p>
+         <p>  211 Edepot 20-22</p>
+         <p> CONTRIBUTIONS (1791-1916)</p>
+         <p>  211 Edepot 23-30</p>
+         <p> AFFAIRES MILITAIRES (1805-1933)</p>
+         <p>  211 Edepot 31-33</p>
+         <p> POLICE-HYGIENE PUBLIQUE ET SALUBRITE (1854-1927)</p>
+         <p>  211 Edepot 34</p>
+         <p> ELECTIONS-PERSONNEL COMMUNAL (1810-1909)</p>
+         <p>  211 Edepot 35-36</p>
+         <p> FINANCES DE LA COMMUNE (1811-1885)</p>
+         <p>  211 Edepot 37-39</p>
+         <p> EDIFICES PUBLICS (1811-1866)</p>
+         <p>  211 Edepot 40</p>
+         <p> BIENS ET BOIS COMMUNAUX-EAUX (...-...)</p>
+         <p>  211 Edepot 41</p>
+         <p> VOIRIE-REGIME DES EAUX-MOYENS DE TRANSPORT-TRAVAUX DIVERS (1829-1932)</p>
+         <p>  211 Edepot 42-46</p>
+         <p> CULTE (...-...)</p>
+         <p>  211 Edepot 47</p>
+         <p> ASSISTANCE ET PREVOYANCE (1844-1925)</p>
+         <p>  211 Edepot 48</p>
+         <p> INSTRUCTION PUBLIQUE (1834-1902)</p>
+         <p>  211 Edepot 49-50</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 1</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Comptes de fabrique (1736, 1753-1756, 1758, 1765, 1771). Amodiations des biens de la fabrique (1767, 1771). Ventes de places à l'église (1773).</unittitle>
+                     <unitdate normal="1736/1773">1736-1773</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>LOIS ET ACTES DU POUVOIR CENTRAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 2</unitid>
+                     <unitid>A1</unitid>
+                     <unittitle>Lois et décrets de l'assemblée nationale (1790-juin 1791).</unittitle>
+                     <unitdate normal="1790/1791">1790-1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 3</unitid>
+                     <unitid>A2</unitid>
+                     <unittitle>Lois et décrets de l'assemblée nationale (juillet 1791-1792).</unittitle>
+                     <unitdate normal="1791/1792">1791-1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 4</unitid>
+                     <unitid>A3</unitid>
+                     <unittitle>Lettres-patentes et proclamation du Roi.</unittitle>
+                     <unitdate normal="1790/1792">1790-1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 5</unitid>
+                     <unitid>A4</unitid>
+                     <unittitle>Décrets de la convention nationale.</unittitle>
+                     <unitdate>An II</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 6</unitid>
+                     <unitid>A5</unitid>
+                     <unittitle>Bulletins des lois.</unittitle>
+                     <unitdate>An II-an III</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 7</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Lettres-patentes du Roi (1789-1790), réquisitions militaires et actes divers à la fin du registre (an II-an IV) et un tableau de la population (an X).</unittitle>
+                     <unitdate>1789-an X</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 8</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Délibérations du conseil municipal (1790-an XIII), procès-verbaux d'élection des officiers municipaux (1790) au début du registre.</unittitle>
+                     <unitdate>1790-an XIII</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 9</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate>An XIII-1830</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 11</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1839/1848">1839-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 12</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1848/1860">1848-1860</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 13</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1860/1867">1860-1867</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 14</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1867/1883">1867-1883</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 15</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1883/1894">1883-1894</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 16</unitid>
+                     <unitid>D10</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1894/1907">1894-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 17</unitid>
+                     <unitid>D11</unitid>
+                     <unittitle>Arrêtés municipaux.</unittitle>
+                     <unitdate normal="1861/1936">1861-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 18</unitid>
+                     <unitid>D12</unitid>
+                     <unittitle>Extraits de délibérations (1830-1842), extraits d'arrêtés municipaux (1847, 1865, 1886), répertoires des actes soumis à l'enregistrement (1837-1930), polices d'assurances des bâtiments communaux (1860-1904).</unittitle>
+                     <unitdate normal="1830/1930">1830-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT-CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 19</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Extraits d'actes envoyés par d'autres communes en vue de transcription.</unittitle>
+                     <unitdate>An IV-1830</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-AGRICULTURE-COMMERCE ET INDUSTRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 20</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Mouvement annuel (2).</unittitle>
+                     <unitdate normal="1852/1906">1852-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 21</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Dénombrement quinquennal : listes nominatives (1841-1906, 1921).</unittitle>
+                     <unitdate normal="1841/1921">1841-1921</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi112</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 22</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Statistiques agricoles annuelles (1853-1873).&lt;lb/&gt;Listes électorales du tribunal de commerce (1884-1928) et de la chambre de commerce (1908-1927). Situation industrielle (1881). Registre des livrets d'ouvriers (1857-1882).</unittitle>
+                     <unitdate normal="1853/1928">1853-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 23</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Déclarations de propriétés.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DECLARATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 24</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Etats de section.</unittitle>
+                     <unitdate>1791-an IX</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 25</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Etats de section.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 26</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Livre des mutations (1818). Feuilles de mutations (1816-1817, 1822-1824).</unittitle>
+                     <unitdate normal="1816/1824">1816-1824</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 27</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Délimitation du territoire : procès-verbal, 7 plans (1822-1823). Rôles de la taxe sur les chiens (1865, 1875, 1900-1915), de prestations sur les chemins vicinaux (1865, 1875, 1900-1905).</unittitle>
+                     <unitdate normal="1822/1915">1822-1915</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>PLAN</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 28</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Matrices générales des quatre contributions (1818-1821, 1829-1838, 1845-1848).</unittitle>
+                     <unitdate normal="1818/1848">1818-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 29</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Matrices des quatre contributions.</unittitle>
+                     <unitdate normal="1850/1881">1850-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 30</unitid>
+                     <unitid>G8</unitid>
+                     <unittitle>Matrices des quatre contributions.</unittitle>
+                     <unitdate normal="1882/1916">1882-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 31</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Tableaux de recensement des jeunes gens (1813, 1835-1917), recensement des classes 1855 à 1866 et formation (1874), recensement des automobiles (1910-1933).</unittitle>
+                     <unitdate normal="1813/1933">1813-1933</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 32</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Garde nationale. Listes de recensement, contrôles généraux (1832-1849, 1870), relevés nominatifs, tables alphabétiques et bulletins individuels (1837-1848). Elections des officiers et sous-officiers : procès-verbaux (1831-1848, 1870).</unittitle>
+                     <unitdate normal="1832/1870">1832-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 33</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Sapeurs-pompiers. Habillement et équipement, tarif (s.d.). Matériel d'incendie, traité pour fournitures (1924).&lt;lb/&gt;Faits de guerre. Réquisitions (3) militaires (1805, 1816). Dons patriotiques à l'armée d'Orient (1855).</unittitle>
+                     <unitdate normal="1805/1924">1805-1924</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 34</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Rapports du garde-champêtre (875-1927). Sinistres, état et déclarations (1875-1910).&lt;lb/&gt;Hygiène publique et salubrité. Rapport sur la situation de la commune au point de vue santé publique (1865). Statistique du choléra (1854). Epizootie, dénombrement des animaux (1871).</unittitle>
+                     <unitdate normal="1854/1927">1854-1927</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EPIDEMIE</subject>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS-PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 35</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales (1841-1842, 1850-1909).</unittitle>
+                     <unitdate normal="1841/1909">1841-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 36</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections municipales (1810, 1812, 1831-1908), élections législatives (1852-1907), élections cantonales (1852-1908), élections sénatoriales (1876-1907), élection du Président de la République (1851), vote pour le rétablissement de l'Empire (1852), plébiscite (1870) : procès-verbaux.&lt;lb/&gt;Personnel communal (4). Marchés de pâtres (1830, 1838, 1844, 1871). Nomination du garde-champêtre (1863).</unittitle>
+                     <unitdate normal="1810/1908">1810-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 37</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Budgets.</unittitle>
+                     <unitdate normal="1811/1885">1811-1885</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 38</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptes de gestion.</unittitle>
+                     <unitdate>An V-1917</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 39</unitid>
+                     <unitid>L3</unitid>
+                     <unittitle>Comptes administratifs (an X-1815, 1835-1839, 1850). Legs à la commune (1857).</unittitle>
+                     <unitdate>An X-1857</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 40</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Travaux à divers bâtiments : devis et plans, rapport de l'architecte (1825-1862). Maison commune, réparations, rehaussement (1832-1854, plans). Ecole, confection de bancs et de tables : devis et plan (1837). Fontaine, réparations (1827-1866, plans). Cimetière, acquisition de terrain, agrandissement (1855-1860). Eglise, réparation à la cloche, à la sacristie, construction de bancs (plan), fourniture d'une horloge (1811-1866). Presbytère, acquisition de terrain (1853-1854), état des réparations (1813).</unittitle>
+                     <unitdate normal="1811/1866">1811-1866</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 41</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Aliénations, acquisitions de terrains, état (1813-1892). Amodiations diverses (1821-1830). Aménagement, délimitation et nettoiement des bois (1848-1873). Litiges avec le sieur Dupoirier (1809-1810) et le sieur Dufort de Lorge (1792-1810) au sujet des bois. Exploitation de la coupe affouagère (1835-1885). Répartition du taillis et de la futaie (1808, 1823-1830). Location de la chasse (1830-1935).&lt;lb/&gt;Puits, réparations, construction, acquisition d'un élévateur d'eau (1835-1934).</unittitle>
+                     <unitdate normal="1792/1935">1792-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>BOIS</subject>
+                     <subject>EAU POTABLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>DUFORT DE LORGE</persname>
+                     <persname>DUPOIRIER</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-REGIME DES EAUX-MOYENS DE TRANSPORT-TRAVAUX DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 42</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine. Alignement, acquisition de terrain, atlas du plan d'alignement des rues, construction de rigoles pavées, de canaux d'assainissement, réparations des rues (1842-1927). Litige concernant la délimitation d'un terrain dans le village (1863-1864, plans).</unittitle>
+                     <unitdate normal="1842/1927">1842-1927</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN D'ALIGNEMENT</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 43</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Petite voirie. Délimitation des chemins ruraux (plans).</unittitle>
+                     <unitdate normal="1864">1864</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 44</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Bulletins des propriétés riveraines des chemins ruraux.</unittitle>
+                     <unitdate normal="1863/1864">1863-1864</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 45</unitid>
+                     <unitid>O4</unitid>
+                     <unittitle>Chemins ruraux, travaux, aliénation d'un tronçon de chemin, établissement d'aqueducs, tableaux généraux (1838-1925, plan). Chemin vicinal d'Ecuelle à Vars, réparations (1829). Chemin de grande communication n° 27 d'Essertenne à Ecuelle, établissement, acquisition de terrain, entretien, élargissement (1852-1884, plan). Chemin rural n° 1 dit de Berrey, construction (1892-1895). Chemin rural n° 3 d'Ecuelle à Theuley, élargissement (1892-1912, plans). Chemin rural n° 4 dit de Champlitte, classement (1909, plan). Créations de ressources (1856-1902). Prestations (1860-1899).&lt;lb/&gt;Grande voirie. Route nationale n° 67 de Saint-Dizier à Lausanne, plantations d'arbres (1832-1880).</unittitle>
+                     <unitdate normal="1829/1925">1829-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                     <subject>ROUTE NATIONALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 46</unitid>
+                     <unitid>O5</unitid>
+                     <unittitle>Régime des eaux. Curage des ruisseaux (plan, 1846-1876).&lt;lb/&gt;Moyens de transport. Chemin de fer de l'Est, ligne de Chalindrey à Gray, construction de passages à niveau, de fossés, d'aqueducs, de passerelles, demande pour un arrêt des trains à Ecuelle (1859-1900).&lt;lb/&gt;Travaux divers. Electricité, installation d'éclairage public : marché de gré à gré (1931-1932). Extraction de minerai : arrêté d'autorisation (1842). Patouillet et lavoirs à cheval : autorisation d'établissement (1845, 1859).</unittitle>
+                     <unitdate normal="1842/1932">1842-1932</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                     <subject>MINERAI</subject>
+                     <subject>RESEAU FERROVIAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 47</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Erection de l'église en chapellenie, demande pour avoir un desservant à demeure (an XII-1813). Inventaire des vases sacrés, linges et ornements de l'église (1812). Demande pour ériger l'église en succursale (1852-1854). Concession de jouissance de l'église à l'abbé Sayard : procès-verbal (1907).&lt;lb/&gt;Fabrique. Budget (1830). Legs (1876, 1878).</unittitle>
+                     <unitdate>An XII-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                     <genreform>INVENTAIRE</genreform>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 48</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Médecine gratuite, listes des indigents (1863-1902). Assistance aux vieillards, infirmes et incurables, états nominatifs (1907-1914). Vaccination, listes nominatives (1844-1904, 1907-1912), nomination d'un médecin (1860-1919), d'une infirmière visiteuse (1920). Placement à l'asile (1900). Protection des enfants du premier âge, déclaration des parents (1878-1924).&lt;lb/&gt;Bureau de bienfaisance (5). Nomination de membres (1893-1907). Comptes de gestion (1914-1917). Budgets (1913-1921, 1925).</unittitle>
+                     <unitdate normal="1844/1925">1844-1925</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION MATERNELLE ET INFANTILE</subject>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 49</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Comité de surveillance de l'école primaire (1834-1849) ; au milieu du registre, comité de bienfaisance (1861-1875).</unittitle>
+                     <unitdate normal="1834/1875">1834-1875</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION SOCIALE</subject>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>211 Edepot 50</unitid>
+                     <unitid>R2</unitid>
+                     <unittitle>Commission scolaire, élection de délégués (1884-1900). Instituteurs, traitement (1872). Listes des enfants admis gratuitement (1858, 1860). Listes nominatives des enfants de 6 à 13 ans (1884-1897). Extraits du registre d'appel (1885-1902).</unittitle>
+                     <unitdate normal="1858/1902">1858-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,601 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_231Edepot_Archives_communales_déposées_de_Ferrières-lès-Ray" url="https://francearchives.fr/findingaid/e800666a28e2dc392ce1b2fc5a86cdf7995833b8">FRAD70_231Edepot_Archives_communales_déposées_de_Ferrières-lès-Ray</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>231Edepot - Archives communales déposées de Ferrières-lès-Ray</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>L. Georgel</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>231Edepot - Archives communales déposées de Ferrières-lès-Ray</unittitle>
+         <unitid>231Edepot1-36</unitid>
+         <unitdate normal="1720/1941">1720-1941</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE FERRIERES-LES-RAY</corpname>
+         </origination>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             17/11/2011
+         </p>
+         <p>Dernier ajout le             17/11/2011
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>4 pièces papier. Reconnaissance de rente au profit de Jean-Baptiste Mugnier, seigneur d'Ancier sur les habitants et communauté de Ferrières-lès-Ray</unittitle>
+                     <unitdate normal="1720">1720</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX-EAUX ET FORETS-TRAVAUX PUBLICS-VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 2</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>1 cahier parchemin, 1 pièce papier. Règlement sur la répartition de l'assiette des bois (1780) ; arrêt du conseil d'état réglant le droit d'usage des habitants de Ferières-lès-Ray, dans les bois de la baronnie de Ray (1783)</unittitle>
+                     <unitdate normal="1780/1783">1780-1783</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 3</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>1 registre. Conseil municipal : registre de délibérations du conseil municipal </unittitle>
+                     <unitdate normal="1801/1846">1801-1846</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 4</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>1 registre. Conseil municipal : registre de délibérations du conseil municipal </unittitle>
+                     <unitdate normal="1846/1863">1846-1863</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 5</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>1 registre. Conseil municipal : registre de délibérations du conseil municipal </unittitle>
+                     <unitdate normal="1863/1889">1863-1889</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 6</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>9 cahiers papier, 4 pièces papier. Actes de l'administration municipale : répertoires des actes soumis à l'enregistrement (1810-1898). Contentieux : polices d'assurances contre l'incendie des bâtiments communaux (1867-1893)</unittitle>
+                     <unitdate normal="1810/1898">1810-1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT-CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 7</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>1 cahier papier, 2 pièces papier. Etat civil : circulaire relative à la délivrance des actes et extraits d'actes de naissances (s.d.) ; procès-verbal de vérification des registres de l'état civil (1902)</unittitle>
+                     <unitdate normal="1902">1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 8</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>50 cahiers papier. Population : mouvements de la population </unittitle>
+                     <unitdate normal="1853/1903">1853-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 9</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>14 cahiers papier, 25 pièces papier. Population : états nominatifs des habitants (1846-1901) ; dénombrement de la population : statistiques (1861-1901)</unittitle>
+                     <unitdate normal="1846/1901">1846-1901</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 10</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>2 cahiers papier, 18 pièces papier. Commerce et industrie : tribunal de commerce de Gray : listes des électeurs appelés à élire les membres du tribunal (1885-1904) ; tableau de dépouillement des professions (1861)</unittitle>
+                     <unitdate normal="1861/1904">1861-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 11</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>6 cahiers papier, 133 pièces papier. Agriculture : récapitulation des déclarations des surfaces ensemencées en céréales et plantées en pomme de terre (1918) ; états des récoltes en grains et autres farineux (1853-1876) ; culture de la vigne (1871-1872) ; registre des cultures (1903) ; statistiques agricoles annuelles (1853-1941) ; statistiques agricoles décennales (1882-1892) ; statistiques agricoles : questionnaires concernant la commune de Ferrières-lès-Ray (1929-1930) ; circulaires et instructions relatives à l'établissement du plan  de ravitaillement (1866-1900) ; statistique générale : sinistres survenus en 1890 et 1893 ; recensement du bétail (1866) ; recensement des animaux domestiques (1872) ; état des déclarations de pertes éprouvées dans le sinistre de la sécheresse (1893) ; secours pour pertes causées par la sécheresse, les orages, la grèle,,, (1906)</unittitle>
+                     <unitdate normal="1853/1941">1853-1941</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 12</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>8 cahiers papier, 52 pièces papier. Impôts directs : états de sections antérieurs au cadastre ; procès-verbal de délimitation du territoire de Ferrières-lès-Ray (1828 ; 1830) ; matrice de rôle de la contribution foncière (an XI) ; état des propriétés foncières, rentes et créances mobilières (1861) ; nominations des commissaires-répartiteurs (1847-1904)</unittitle>
+                     <unitdate normal="1803/1904">1803-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 13</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>31 cahiers papier, 43 pièces papier. Impôts directs : matrices générales des contributions directes (1829-1853) ; extraits de rôles des contributions directes (1858-1904) ; rôles de prestations pour travaux de réparations aux chemins vicinaux (1866-1901) ; rôles trimestriels de la rétribution scolaire (1877-1881) ; réclamation du sieur Joanny pour des poursuites faites contre lui pour paiement de ses contributions (1821)</unittitle>
+                     <unitdate normal="1821/1904">1821-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 14</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>73 pièces papier. Tableaux de recensement des jeunes gens</unittitle>
+                     <unitdate normal="1820/1900">1820-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 15</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>4 cahiers papier, 49 pièces papier. Garde nationale : contrôle de la réserve (1844), contrôle du service ordinaire (1844), table alphabétique du registre-matricule (1844), relevés nominatifs des bulletins individuels (1844-1848), bulletins individuels, état des mutations (1846), extrait du tableau cantonal des citoyens mobilisables (1848), instructions sur les élections de la garde nationale (1831), élections des officiers (1843-1848), élection des sous-officiers (1843-1848), élections des caporaux (1843-1848), fourniture d'équipement pour la garde nationale (1831), somme due à l'Etat pour réparations d'armes (1853), traité entre la commune et Nicolas Jardel qui place son fils élève-tambour de la garde nationale (1831)</unittitle>
+                     <unitdate normal="1831/1853">1831-1853</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 16</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>25 pièces papier. Administration militaire : logement et cantonnement des troupes (1878-1900). Faits de guerre : invasion allemande de 1871 : pertes, emprunts, subsides (1871-1873)</unittitle>
+                     <unitdate normal="1871/1900">1871-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE-JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 17</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>1 cahier papier, 13 pièces papier. Justice : listes du jury (1850-1853). Hygiène publique et salubrité : arrêté du maire concernant la salubrité publique (1857) ; choléra de 1854 : état des orphelins, statistique du choléra (1853-1854), ouverture de crédit pour dépenses du choléra (1855), état de liquidation des dépenses (1854) ; épizootie du typhus : dénombrement des animaux (1871)</unittitle>
+                     <unitdate normal="1850/1871">1850-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 18</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>135 pièces papier. Elections : liste des électeurs (1844-1903) ; révisions des listes des électeurs (1851-1904)</unittitle>
+                     <unitdate normal="1844/1904">1844-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 19</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>125 pièces papier. Elections : rétablissement de l'Empire (1848-1852) ; plébiscite (8 mai 1870) ; élections législatives (1848-1902) ; élections de membres du conseil général (1864-1901) ; élections de membres du conseil d'arrondissement (1861-1904) ; élections d'un membre du conseil général et d'un membre du conseil d'arrondissement (1848 ; 1855).</unittitle>
+                     <unitdate normal="1848/1904">1848-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 20</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>91 pièces papier. Elections : élections des membres du conseil municipal (1846-1904) ; procès-verbaux d'installation du conseil municipal et élections des maires et adjoints (1831-1904) ; démissions de membres du conseil municipal (1857) ; avis de condamnations portant privation du droit électoral (1841-1891) ; arrêté du conseil de Préfecture concernant une réclamation contre les élections (1848) ; listes de scrutin (s.d.). Personnel municipal : recensement des fonctionnaires rétribués sur les fonds du budget communal (1906) ; traitement du garde forestier (1848) ; traitement du receveur (1876).</unittitle>
+                     <unitdate normal="1831/1906">1831-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 21</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>120 pièces papier. Finances : budgets (an IX ; 1814-1815 ; 1828-1839 ; 1841-1852 ; 1867-1903) ; chapitres additionnels au budget (1835-1840 ; 1842-1852 ; 1867-1903)</unittitle>
+                     <unitdate normal="1801/1903">1801-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 22</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>27 cahiers papier, 34 pièces papier. Finances : comptes administratifs (an IX-1811 ; 1814-1823 ; 1835-1839 ; 1842-1843 ; 1845-1850 ; 1852) ; comptes de gestion (1827-1830 ; 1832-1842 ; 1846-1849)</unittitle>
+                     <unitdate normal="1801/1852">1801-1852</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 23</unitid>
+                     <unitid>L3</unitid>
+                     <unittitle>98 pièces papier. Comptabilité : états de situation (1835-1842) ; arrêtés d'apurement (1856-1873) ; états des restes à payer (1835-1856) ; réglements définitifs des recettes et des dépenses (1836-1902) ; arrêtés du conseil de préfecture relatifs à la comptabilité des communes et établissements de bienfaisance (1883-1899). Revenus de la commune : emprunts (1897) ; subventions pour travaux d'utilité communale (1853-1854) ; rôles de la taxe municipale sur les chiens (1866-1901)</unittitle>
+                     <unitdate normal="1835/1902">1835-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 24</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>106 pièces papier, 3 cahiers papier, 3 plans. Edifices publics : travaux de construction et de réparations à la maison commune et au logement de l'instituteur (1846-1899) ; travaux de réparations à la fontaine publique (1836-1898) ; construction d'un puits sur la place publique, installation et entretien d'une pompe sur ce puits (1844-1885). Edifices du culte et du cimetière : travaux de réparations aux édifices de la paroisse (1847-1911) ; travaux de réparation du presbytère (1828-1845) ; location du presbytère (1909) ; suppression du cimetière intercommunal de Ray-sur-Saône et établissement d'un nouveau cimetière (1909-1913) ; réparations aux murs du cimetière (1861-1862) ; réparations à la croix du cimetière (1853) ; établissement d'un piedestal pour la croix du milieu du village (1860). Edifice à usage d'enseignement : procès-verbal d'adjudication de travaux pour la construction d'une maison d'école (1848) ; acquisition d'une cloche pour la classe (1853).</unittitle>
+                     <unitdate normal="1828/1913">1828-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX-DROITS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 25</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>76 pièces papier. Biens communaux : Ile de Ferrières : procès-verbal de prise de possession par l'Etat (1852) ; amodiations de terrains communaux : prés, vignes, pièces de terre (1809-1911) ; construction d'une clôture entre un terrain communal et la propriété de Daniel Michaud (1876) ; acquisitions de terrains pour l'établissement d'une rampe d'accès pour le bétail allant au parcours (1886) ; vainepâture (1856 ; 1872)</unittitle>
+                     <unitdate normal="1809/1911">1809-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 26</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>29 pièces, 1 plan. Bois : procès-verbal de reconnaissance dans les bois communaux (1856) ; décret imperial sur le régime des bois (1862) ; aménagement des bois communaux (1862-1865) ; arpentage du bois dit La Côte (1810) ; exploitation de l'assiette en usance dans les bois communaux (an XIII-1807) ; procès-verbal de reconnaissance des cantons défensables (1853) ; procès-verbaux d'estimation des coupes à délivrer en nature (1851 ; 1853) ; délibérations du conseil municipal pour régler le mode de jouissance ou de répartition des produits de la futaie affouagère (1851-1871) ; extraits de délibérations du conseil municipal relatifs à l'affouage (1842-1854)</unittitle>
+                     <unitdate normal="1805/1871">1805-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 27</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>111 pièces papier. Bois : toisé des bâtiments (1836 ; 1845) ; listes provisoires des ayants-droit à la répartition de la futaie de la coupe affouagère (1851-1876) ; listes provisoires des ayants-droit à la répartition du taillis à la coupe affouagère (1851-1883) ; listes provisoires des ayants-droit à la répartition du taillis et de la futaie de la coupe affouagère (1884-1903) ; tableaux de rectification de la liste des affouagistes (1854-1901)</unittitle>
+                     <unitdate normal="1836/1903">1836-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 28</unitid>
+                     <unitid>N4</unitid>
+                     <unittitle>92 pièces papier. Bois : rôles de répartition de la futaie de la coupe affouagère (1843-1875) ; rôles de répartition du taillis de la coupe affouagère (1843-1883) ; rôles définitifs de répartition du taillis et de la futaie de la coupe affouagère (1884-1902)</unittitle>
+                     <unitdate normal="1843/1902">1843-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 29</unitid>
+                     <unitid>N5</unitid>
+                     <unittitle>75 pièces papier. Bois : exploitation de la coupe affouagère </unittitle>
+                     <unitdate normal="1831/1902">1831-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 30</unitid>
+                     <unitid>N6</unitid>
+                     <unittitle>91 pièces de papier. Bois : ventes de bois futaie (1856-1901) ; ventes des écorces de la coupe affouagère (1827-1876) ; ventes de produits accesoires et procès-verbaux d'adjudication de menus marchés (1830-1902) ; délivrance de bois mort (1866) ; demande de la vente du quart en réserve (1845)</unittitle>
+                     <unitdate normal="1827/1902">1827-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 31</unitid>
+                     <unitid>N7</unitid>
+                     <unittitle>39 pièces de papier. Bois : location de la chasse (1812-1907). Eaux : amodiations des boues des fontaines (1877-1889) ; amodiations du droit de pêche (1843-1907). Propriétés diverses : concessions au cimetière (1896-1908)</unittitle>
+                     <unitdate normal="1812/1908">1812-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS-VOIRIE-MOYENS DE TRANSPORT-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 32</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>1 cahier papier, 60 pièces papier, 2 plans. Voirie urbaine : plan d'alignement des rues (1847-1851) ; acquisitions de terrains pour l'élargissement des rues et travaux de réparations aux rues (1841-1869) ; élargissement de la rue du Patis (1876-1877) ; élargissement de la grande rue (1856-1859). Petite voirie : tableau des chemins (1837-1868) ; construction du chemin vicinal allant de Ferrières-lès-Ray à Theuley (1878) ; acquisition de terrain pour le chemin rural dit de Pontrebeau (1888) ; élargissement et entretien des chemins vicinaux (1840-1881) ; suppression d'un chemin dit du Pressoir (an XI-an XII)</unittitle>
+                     <unitdate normal="1803/1888">1803-1888</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 33</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>74 pièces papier. Petite voirie : situations des chemins vicinaux ordinaires (1883-1892) ; états des travaux à exécuter sur les chemins (1850-1872) ; procès-verbaux d'adjuducation pour des travaux à faire sur les chemins (1843-1890) ; achèvement des chemins vicinaux (1868-1869) ; acquisition de bornes pour les chemins vicinaux (1845) ; ressources affectées à la construction et à l'entretien des chemins vicinaux (1845-1872) ; créations des ressources : arrêtés de mise en demeure (1882-1892) ; budgets des ressources (1884-1893) ; registre des prestations (1876) ; prestations : conversion en tâches (1844-1893) ; exécution des prestations en nature (1856) ; construction d'un pont sur un fossé (1857-1858). Régime des eaux : curage des ruisseaux et des fossés (1857-1859)</unittitle>
+                     <unitdate normal="1843/1893">1843-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 34</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>1 pièce papier. Culte catholique : traitement du vicaire</unittitle>
+                     <unitdate normal="1855">1855</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 35</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>57 pièces papier. Etat des indigents et des mendiants (1840) ; liste des indigents admis au secours  de l'assistance médicale gratuite (1867-1902) ; liste des habitants charitables (1854) ; demande pour obtenir des secours (1849) ; aliénation d'une vigne au profit du bureau de bienfaisance (1869) ; admission de Joseph Bedin à l'asile de Neurey-lès-la-Demie (1883)</unittitle>
+                     <unitdate normal="1840/1902">1840-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE-SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>231 Edepot 36</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>16 pièces papier. Instruction publique : caisse des écoles (1881-1882) ; rétribution mensuelle de l'instituteur (1850) ; liste des enfants qui seront admis gratuitement à l'école primaire mixte (1876-1880) ; listes nominatives des enfants de 6 à 13 ans (1888-1896)</unittitle>
+                     <unitdate normal="1850/1896">1850-1896</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

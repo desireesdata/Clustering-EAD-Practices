@@ -1,0 +1,987 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_252Edepot_Archives_communales_déposées_de_Framont" url="https://francearchives.fr/findingaid/79e2b47b47a91ed9c8f65e9fa2446fc3f6f593dd">FRAD70_252Edepot_Archives_communales_déposées_de_Framont</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>252Edepot - Archives communales déposées de Framont</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>252Edepot - Archives communales déposées de Framont</unittitle>
+         <unitid>252Edepot1-32</unitid>
+         <unitdate normal="1603/1934">1603-1934</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE FRAMONT</corpname>
+         </origination>
+         <note label="note">
+            <p>Commune fusionnée en 1972 avec Mont-le-Franois, prend le nom de Framont.
+
+(1) Voir 252 E dépot 32/R , copies de lettres envoyées par le maire (1857).
+(2) Plan classé dans la collection des plans communaux déposés aux Archives Départementales de la Haute-Saône.
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 544, institution de juges et notaires à Franois (1726-1735).
+B 923, déclaration de l'église de Neuvelle-lès-Champlitte succursale de celle de Franois (1741-1743).
+B 8062 à 8071, justice seigneuriale de Franois (1717-1790).
+E 853, comptes d'échevinage (1789).
+G 14, difficultés entre le chapître de Champlitte et le titulaire de la cure de Franois (1633-1639).
+G 124, fondations au profit de la cure (1678-1736) ; déclaration des fonds et revenus de la cure (1790).
+H 412, bail d'une terre sise à Franois par l'abbaye de Theuley (1274).
+20 L 12, comptes du maire (époque révolutionnnaire).
+3 O 259, travaux communaux (depuis 1824).
+3 E dépot, archives communales d'Achey.
+365 E dépot, archives communales de Mont-le-Franois.</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             02/10/2002
+         </p>
+         <p>Dernier ajout le             09/10/2002
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> ADMINISTRATION COMMUNALE</p>
+         <p>  252 Edepot 1</p>
+         <p> CULTE</p>
+         <p>  252 Edepot 2-6</p>
+         <p/>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE</p>
+         <p>  252 Edepot 7-14</p>
+         <p> ETAT-CIVIL</p>
+         <p>  252 Edepot 15</p>
+         <p> POPULATION</p>
+         <p>  252 Edepot 16</p>
+         <p> CONTRIBUTIONS</p>
+         <p>  252 Edepot 17-19</p>
+         <p> AFFAIRES MILITAIRES</p>
+         <p>  252 Edepot 20-21</p>
+         <p> POLICE</p>
+         <p>  252 Edepot 22</p>
+         <p> ELECTIONS</p>
+         <p>  252 Edepot 23</p>
+         <p> FINANCES DE LA COMMUNE</p>
+         <p>  252 Edepot 24</p>
+         <p> EDIFICES COMMUNAUX</p>
+         <p>  252 Edepot 25</p>
+         <p> BIENS ET BOIS COMMUNAUX-EAUX</p>
+         <p>  252 Edepot 26-28</p>
+         <p> VOIRIE-REGIME DES EAUX-TRAVAUX PUBLICS</p>
+         <p>  252 Edepot 29-30</p>
+         <p> CULTE</p>
+         <p>  252 Edepot 31</p>
+         <p> INSTRUCTION PUBLIQUE</p>
+         <p>  252 Edepot 32</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION COMMUNALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 1</unitid>
+                     <unitid>BB1</unitid>
+                     <unittitle>Copie d'une charte d'affranchissement de mainmorte des habitants de Mont-le-Franois et de Franois accordée par François de Vergy, baron et seigneur de Mont-le-Franois, Franois et autres lieux, et confirmée par Philippe II d'Espagne en 1560.</unittitle>
+                     <unitdate>XVIII° siècle</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>mainmorte</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRAMONT</geogname>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>PHILIPPE II</persname>
+                     <persname>VERGY (François de)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 2</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial; baptêmes (1603-1609, 1617-1621, 1630-1636,1643-1646, 1650-1651, 1653-1660, 1675-1680) ; Franois et Neuvelle, baptêmes (1659-1673, 1680-1702) ; mariages (1677-1700), décès (1661-1668, 1680-1700, un baptême de 1702, 1661-1679), baptêmes (1674-1679), mariages (1661-1676), baptêmes (1661-1677, 1673-1677).</unittitle>
+                     <unitdate normal="1603/1702">1603-1702</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R36</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHAMPLITTE</geogname>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 3</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial, baptêmes (1659-1671), baptêmes et quelques décès (1702-1716), mariages (1702-1716), décès (1703-1716, 2 baptêmes 1716).</unittitle>
+                     <unitdate normal="1659/1716">1659-1716</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R36</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 4</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial, baptêmes, mariages, décès (1716-1756, 1769-1774, 1756-1769, 1774-1779). "Choses remarquables qui sont arrivées de mon temps..." (1709-1783).</unittitle>
+                     <unitdate normal="1709/1783">1709-1783</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R36</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 5</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial, décès (1747-1749, 1748-1750), baptêmes, mariages (1748-1749).</unittitle>
+                     <unitdate normal="1747/1750">1747-1750</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R36</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 6</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial baptêmes, mariages, décès.</unittitle>
+                     <unitdate normal="1780/1791">1780-1791</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi4R36</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 7</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Délibérations* du conseil municipal et actes divers.</unittitle>
+                     <unitdate normal="1789/1812">1789-1812</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 8</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Délibérations* du conseil municipal.</unittitle>
+                     <unitdate normal="1812/1831">1812-1831</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 9</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Délibérations* du conseil municipal (1831-1838). Arrêtés municipaux (1838-1895).</unittitle>
+                     <unitdate normal="1831/1895">1831-1895</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 10</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Délibérations* du conseil municipal.</unittitle>
+                     <unitdate normal="1838/1850">1838-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 11</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Délibérations* du conseil municipal.</unittitle>
+                     <unitdate normal="1850/1867">1850-1867</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 12</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Délibérations* du conseil municipal.</unittitle>
+                     <unitdate normal="1867/1887">1867-1887</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 13</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Délibérations* du conseil municipal.</unittitle>
+                     <unitdate normal="1887/1907">1887-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 14</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Répertoires des actes soumis à l'enregistrement. (1)</unittitle>
+                     <unitdate normal="1806/1907">1806-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT-CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 15</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Extraits d'état-civil envoyées par d'autres communes en vue de transcription ou de mention, naissances (an XI-1862), décès (1814-1878).</unittitle>
+                     <unitdate>An XI-1878</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 16</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Recensement quinquennal, listes nominatives (1836, 1846).</unittitle>
+                     <unitdate normal="1836/1846">1836-1846</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi117</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 17</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Etat de section (A - V).</unittitle>
+                     <unitdate normal="1812">1812</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 18</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Livre* des mutations.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 19</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Plan  tibériade du territoire de Franois (XVIII° siècle). Délimitation du territoire de Franois : procès-verbal (1823). Matrice de rôle de la contribution foncière (1812). Relevé des actes translatifs de propriétés foncières (1836-1837). Matrice cadastrale des propriétés bâties (1883-1910). Registre des augmentations et diminutions survenues dans les contenances et les revenus portés sur les matrices cadastrales (1858-1861).</unittitle>
+                     <unitdate normal="1812/1910">1812-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>MATRICE CADASTRALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 20</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Garde-nationale. Contrôle matricule, contrôle général de la réserve, du service ordinaire, tableau de recensement (1831). Listes nominatives (1830-1870). Habillement et équipement (1832-1850). Election des officiers et sous-officiers (1870).</unittitle>
+                     <unitdate normal="1831/1870">1831-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 21</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Armée territoriale. Registre des notifications et ordres de route (1835-1861). Cantonnement des troupes (1878-1891).&lt;lb/&gt;Sapeurs-pompiers. Création d'une subdivision, liste nominative, élection d'un sergent-major, règlement, pompe à incendie (1853-1876).&lt;lb/&gt;Guerre de 1870. Réquisitions (1871).</unittitle>
+                     <unitdate normal="1835/1891">1835-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ARMEE</subject>
+                     <subject>GUERRE</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 22</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle> Sinistres, état des pertes.</unittitle>
+                     <unitdate normal="1893">1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>SECHERESSE</subject>
+                     <subject>SINISTRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 23</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales (1834-1839). Election eu Président de la République (1851), rétablissement de l'Empire (1852), plébiscite (1870) : procès-verbaux.</unittitle>
+                     <unitdate normal="1834/1870">1834-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 24</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Budgets (an XIII-1808). Comptes de gestion (an XIII-1837).</unittitle>
+                     <unitdate>An XIII-1837</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 25</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Réparations aux édifices publics : devis (1904, 1927-1930). Maison commune, acquisition d'une maison, construction de lieux d'aisances (1825-1867, plan). Réparations à la maison commune et à la fontaine (1837). Réparations à la maison commune et à la couverture de l'église (1882). Etablissement d'une bascule publique (1911). Erection d'un monument aux Morts (1920-1921). Eglise, réfection de la toiture, réparations, acquisition d'une cloche, agrandissement, ameublement, installation d'une horloge (1819-1899, plans). Reconstruction de l'église de Mont-le-Franois sur un terrain indivis ente les communes de Mont, Franois et Achey (1860-1863). Cimetière, construction d'une porte et d'une croix (plan), réparations au mur, acquisition d'un terrain, translation (plan, 1826-1919). Presbytère, acquisition d'une maison à Mont-le-Franois par les communes d'Achey, Franois et Mont-le-Franois (copie de l'acte de 1822), acquisition de l'ancien presbytère (1852), réparations (1903-1906).</unittitle>
+                     <unitdate normal="1819/1930">1819-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ACHEY</geogname>
+                     <geogname>FRAMONT</geogname>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX-EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 26</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux, échange, vente, achat (1850-1907, plan). Délimitation de la broussaille de la Goulotte entre les communes de Franois et de Mont-le-Franois (1838-1842, plan). Pièces de procédure concernant la propriété du pré Gourdan, entre la commune et les sieurs Pierre Delamarche de Chargey et François Baulard d'Oyrières (1782, 1839-1845, 2 plans).</unittitle>
+                     <unitdate normal="1782/1907">1782-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHARGEY-LES-GRAY</geogname>
+                     <geogname>FRAMONT</geogname>
+                     <geogname>FRANOIS</geogname>
+                     <geogname>GOULOTTE (LA)</geogname>
+                     <geogname>GOURDAN (pré)</geogname>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BAULARD (François)</persname>
+                     <persname>DELAMARCHE (Pierre)</persname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 27</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Procès-verbal d'aménagement des bois communaux, délimitation et bornage (1849-1856). Répartition du taillis de l'affouage (1829). Vente de bois (1807-1922). Exploitation de la coupe affouagère (1830-1832).</unittitle>
+                     <unitdate normal="1807/1922">1807-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 28</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Plan géomètrique pour faire connaître le lieu où l'on doit construire un château d'eau (1845). Etablissement d'un lavoir mobile sur le Salon : devis (1912). Installation d'une pompe à eau : propectus, devis, traité (1930). Rapport géologique sur les sources de la commune (1934).</unittitle>
+                     <unitdate normal="1845/1934">1845-1934</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU SOUTERRAINE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                     <geogname>SALON (cours d'eau)</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-REGIME DES EAUX-TRAVAUX PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 29</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine. Travaux dans les rues, alignement, rigoles pavées (1838-1926). Ponts, réparations : devis (1825). Petite voirie. Chemins vicinaux, réparations, tableau général (1830-1923). Prestations (1837-1903).</unittitle>
+                     <unitdate normal="1825/1926">1825-1926</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>RESEAU ROUTIER</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 30</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Régime des eaux. Curage des ruisseaux et fossés (1837-1838, 1933, 1 plan).&lt;lb/&gt;Travaux divers. Haut-fourneau du Crochot, exhaussement de l'écluse (1829-1834), mise en chômage (1851), règlement d'eau (1853-1858).</unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENTREPRISE INDUSTRIELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CROCHOT (LE)</geogname>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 31</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Erection de l'église de Franois en chapelle vicariale.</unittitle>
+                     <unitdate normal="1845/1850">1845-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EDIFICE CULTUEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>252 Edepot 32</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Délibérations* du comité de surveillance de l'instruction primaire (1834-1847), puis copies de lettres envoyées par le maire (1857).</unittitle>
+                     <unitdate normal="1834/1857">1834-1857</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANOIS</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

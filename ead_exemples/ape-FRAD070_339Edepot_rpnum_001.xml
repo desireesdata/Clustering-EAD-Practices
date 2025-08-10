@@ -1,0 +1,1054 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_339Edepot_Archives_communales_déposées_de_Mélisey" url="https://francearchives.fr/findingaid/67c13a36a91d456fada91eb227e889368fa81737">FRAD70_339Edepot_Archives_communales_déposées_de_Mélisey</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>339Edepot - Archives communales déposées de Mélisey</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>A. NEISS</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>339Edepot - Archives communales déposées de Mélisey</unittitle>
+         <unitid>339Edepot1-72</unitid>
+         <unitdate normal="1510/1924">1510-1924</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE MELISEY</corpname>
+         </origination>
+         <note label="note">
+            <p>Cf. Inventaires imprimés aux Archives départementales de la Haute-Saône : 
+
+B 386 à 395, procédures civils et criminelles concernant des habitants de Melisey (1681-1790) ;
+B 3457, 3823, procédures civils et criminelles concernant des habitants de Melisey (1630-1788) ; 
+B 8402 à 8446, justice seigneuriale de Melisey (1707-1790) ;
+B 9399, règlements de bois concernant Melisey (1700-1776) ; 
+C 12, réclamation relative à l’établissement d’un moulin sur le territoire de Melisey (1743) ; 
+C 42, demande pour l’établissement d’un octroi à Melisey (XVIIIe siècle) ;
+C 47, délivrance du quart en réserve de Melisey (1732-1745) ;
+C 198, administration communale (1782-1789) ;
+C 440, rôles et répartements des impositions dans la communauté de Melisey (1729-1790) ;
+E 900, billets relatifs aux impositions de logement du baron de Montcley (1629) ;
+H 665, titres de l’abbaye de Luxeuil concernant la communauté de Melisey (1209-1740) ;
+
+Cf. également inventaires imprimés aux Archives de la Côte d’Or :
+B 4725, gages de Jean Thierry, contrôleur des mines de Melisey (XVe siècle) ;
+
+et voir l’inventaire des Archives municipales de Montessaux : 
+361 E dépôt 14, partage du bois dit le Supplément de Mont-en-Vannes (commune de Fresse) entre les communes de Melisey, Montessaux, etc. (1846-1849).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             18/07/2013
+         </p>
+         <p>Dernier ajout le             18/07/2013
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORETS, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Biens communaux : arpentement du territoire de Melisey, dressé par Charles Granmougin, aprenteur, à Sainte-Marie-en-Chanois.</unittitle>
+                     <unitdate normal="1754/1759">1754-1759</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 2</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Pièces d’un procès entre les communes de Melisey, la Neuvelle-lès-Lure, Saint-Barthélémy, Belonchamp, Malbouhans, Montesseaux, pour le partage de la forêt du Mont-de-Vannes, avec copies et mentions de titres (1510-1860) ; procès-verbal de délimitation du bois dit le Coconay entre les communautés de Melay (territoire de Ternuay) et de Melisey (1759) ; délimitations du territoire de la communauté de Melisey, de celui de Belonchamp (1763) ;  et de celui de la communauté de Saint-Germain (1767).</unittitle>
+                     <unitdate normal="1510/1860">1510-1860</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 3</unitid>
+                     <unitid>DD3</unitid>
+                     <unittitle>Plan des bois dit les « Grands-Armonts », territoire de La Lanterne, signé Paris, géomètre (1) .</unittitle>
+                     <unitdate normal="1757">1757</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 4</unitid>
+                     <unitid>DD4</unitid>
+                     <unittitle>Edifices communaux : devis pour la construction du mur du cimetière de Melisey.</unittitle>
+                     <unitdate normal="1780">1780</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES, INSTRUCTION PUBLIQUE, ASSISTANCE PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 5</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Cultes : registre paroissial de melisey, des hameaux de cette commune : Le Bas, La Conche, La Courberotte, les Echelets, La Ferrasse, Les Granges-Baverey, La Rüe, Souhières etc., Belonchamp, La Neuvelle-lès-Lure, et Ternuay-Melay-Saint-Hilaire : baptêmes (août 1674-août 1682 ; un acte du 19 février 1679 ; août 1682-octobre 1711) ; sépultures (1696-septembre 1715) ; mariages (1696-février 1716) ; baptêmes (mars 1715-mars 1716) ; à l’envers : sépultures (1675-1695) ; baptêmes (décembre 1714-mars 1715) ; à l’envers : mariages (1675-1680 ; un acte de baptêmes de 1678, et deux de 1679) ; baptêmes (octobre 1711-décembre 1714 ; mars 1716-mars 1719) ; registres des baptêmes d’enfants illégitimes : (1717-1735) ; baptêmes (novembre 1735-novembre 1736 ; mars 1719-octobre 1735) ; sépultures (juillet 1716-mars 1735) ; mariages (juin 1716-février 1735) ; mariages et sépultures (mars 1735-novembre 1736) ; déclarations de grossesses et de naissances illégitimes (1751 ; 1770).&lt;lb/&gt;Parmi ces actes, il faut remarquer les baptêmes de Melchior, fils de Laurent Bolle, notaire (29 novembre 1679) ; et de Jean-Baptiste, fils de Gaspard Pingand, notaire (19 juillet 1691), etc.&lt;lb/&gt;Lacunes en ce qui concerne les mariages pour les années 1680 à 1696, et pour les mois de février à juin 1716 ; et en ce qui concerne les sépultures pour la période allant de septembre 1715 à juillet 1716.</unittitle>
+                     <unitdate normal="1674/1770">1674-1770</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 6</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Melisey, et des hameaux en dépendant : Le Bas, La rüe, Souhières, etc. : état des fondations faites en l’église Saint-Pierre-lès-Melisey (s.d.) ; baptêmes, mariages, sépultures (novembre 1736-septembre 1763).&lt;lb/&gt;Parmi ces dates, il faut remarquer : la déclarations de grossesse d’Angélique, fille du sieur Roger, chirurgien juré à Melisey (22 février 1753) ; la bénédiction d’une cloche (6 septembre 1753) ; l’acte d’adjuration de Jacques Studer, originaire de Morat en Suisse (11 juin 1758) ; l’acte de sépulture de Pierre-Antoine, garçon-vitrier, fils de Charles-Antoine Zoppy, « en français, Le Boiteux », maître-vitrier, originaire de Brolio, diocèse de Côme en Lombardie (19 juillet 1759) ; etc.</unittitle>
+                     <unitdate normal="1736/1763">1736-1763</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 7</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Melisey et des hameaux en dépendant : baptêmes, mariages, sépultures (septembre 1763-juin 1783).&lt;lb/&gt;Parmi ces actes, il faut remarquer : le baptême de deux cloches, dont la première a eu pour marraine Claude-Marguerite Stainguey, épouse de François-Xavier Grandgirard, notaire royal, contrôleur des actes du bureau de Melisey, juge de la terre de Franchevelle, et la deuxième a eu pour marraine Claude-Ursule Gaudel de la Neuvelle, épouse d’Antoine Olivier, notaire royal, tabellion de la baronnie de Faucogney, etc. (27 octobre 1767) ; l’acte de sépulture d’Henry-Marie Bouvier, originaire de Metz, ancien directeur des mines (28 août 1780) ; etc.</unittitle>
+                     <unitdate normal="1763/1783">1763-1783</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 8</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Melisey, et des hameaux en dépendant : baptêmes, mariages et sépultures (décembre 1763-janvier 1765).</unittitle>
+                     <unitdate normal="1763/1765">1763-1765</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 9</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Melisey, et des hameaux en dépendant : baptêmes, mariages et sépultures (décembre 1763-janvier 1765).&lt;lb/&gt;Registre paroissial de Melisey, et des hameaux en dépendant : baptêmes, mariages et sépultures (juin 1783-1791) ; tables des actes de la paroisse classés par année : baptêmes, mariages, sépultures (1736-1792) ; et tables des naissances (1793 ; an XI-an XII) ; sur le dernier feuillet, un acte de naissance (6 février 1791).&lt;lb/&gt;Parmi ces actes, il faut remarquer : le mariage des Philibert Bavoux, sous-brigadier des fermes royales demeurant à Melisey, fils d’Antoine Bavoux, brigadier des fermes royales demeurant à Héricourt, et de Marie-Barbe, fille de feu Jean-Jacques Bourquin en son vivant, maître de poste à Ronchamp (4 novembre 1783) ; le baptême d’une cloche fondue par le sieur Navoiset (1er septembre 1788) ; etc.</unittitle>
+                     <unitdate normal="1736/1804">1736-1804</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 72</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial B.M.S. avec table.</unittitle>
+                     <unitdate normal="1792">1792</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AGRICULTURE, INDUSTRIE, COMMERCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 10</unitid>
+                     <unitid>HH1</unitid>
+                     <unittitle>Commerce : confirmation et rétablissement des foires et marchés de Melisey (1706) ; arrêtés su sous-préfet de Lure aux foires de Melisey, Montessaux et Saint-Barthélémy, faisant état de titres depuis 1705 (1827).</unittitle>
+                     <unitdate normal="1705/1827">1705-1827</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 11</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Administration générale de la commune : registre de délibérations du conseil municipal de Melisey (thermidor an VIII-prairial an XIII).</unittitle>
+                     <unitdate normal="1800/1805">1800-1805</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 12</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal de Melisey (prairial an XIII-novembre 1808) ; registre de correspondance (an XIII-1817) ; délibérations municipales (avril 1809-février 1818) ; délibérations du bureau de bienfaisance (1822-1834) ; registre divers : réquisitions, congés militaires, passeports, etc. (1808-1815).</unittitle>
+                     <unitdate normal="1805/1834">1805-1834</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 13</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal de Melisey, et d’actes divers (juillet 1814-mai 1817) ; délivrance de passeports (1816-1821).</unittitle>
+                     <unitdate normal="1814/1821">1814-1821</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 14</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal de Melisey (mai 1818-mai 1825).</unittitle>
+                     <unitdate normal="1818/1825">1818-1825</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 15</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal de Melisey (mai 1825-avril 1836).</unittitle>
+                     <unitdate normal="1825/1836">1825-1836</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 16</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Registre de délibérations de conseil municipal de Melisey (mai 1836-janvier 1839) ; arrêtés du maire (1838-1844).</unittitle>
+                     <unitdate normal="1836/1844">1836-1844</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 17</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Registre de délibérations de conseil municipal de Melisey (octobre 1838-1848).</unittitle>
+                     <unitdate normal="1838/1848">1838-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 18</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Registre de délibérations de conseil municipal de Melisey (1849-mars 1859, avec table).</unittitle>
+                     <unitdate normal="1849/1859">1849-1859</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 19</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Registre de délibérations de conseil municipal de Melisey (avec table) (mai 1859-mai 1874).</unittitle>
+                     <unitdate normal="1859/1874">1859-1874</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 20</unitid>
+                     <unitid>D10</unitid>
+                     <unittitle>Conseil municipal : extraits de délibérations du conseil municipal (1865-1921).&lt;lb/&gt;Actes de l’administration municipale : correspondances diverses (1880-1920).&lt;lb/&gt;Administration générale de la commune : archives communales : avis d’inspections, rapports (1881-1907).</unittitle>
+                     <unitdate normal="1865/1921">1865-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 21</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Etat civil : registre des mariages de la commune (an VII-an VIII) ; registre des mariages du canton (vendémiaire-germinal an VII ; germinal-fructidor an VII ; vendémiaire-floréal an VIII ; prairial-fructidor an VIII).</unittitle>
+                     <unitdate normal="1799/1800">1799-1800</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 22</unitid>
+                     <unitid>E2</unitid>
+                     <unittitle>Extraits de registre d’état civil (1820-1881) ; publications et contrats de mariages (1882-1917) ; lettres du parquet du tribunal de Lure (1851-1877) ; demandes de naturalisations (1907).</unittitle>
+                     <unitdate normal="1820/1917">1820-1917</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 23</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : recensements quinquennaux de la population.</unittitle>
+                     <unitdate normal="1836/1856">1836-1856</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 24</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Dénombrements quinquennaux de la population : listes nominatives.</unittitle>
+                     <unitdate normal="1861/1886">1861-1886</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 25</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Dénombrements quinquennaux de la population : listes nominatives (1891-1911) ; cahiers de dépouillement par âge et par état civil (1861) ; tableaux de dépouillement des professions (1861-1866).</unittitle>
+                     <unitdate normal="1861/1911">1861-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 26</unitid>
+                     <unitid>F4</unitid>
+                     <unittitle>Mouvements annuels de la population.</unittitle>
+                     <unitdate normal="1852/1888">1852-1888</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 27</unitid>
+                     <unitid>F5</unitid>
+                     <unittitle>Agriculture. -Statistiques cantonales : questionnaires annuels par communes (1854 ; 1873), tableaux synoptiques des réponses annuelles par communes (1854-1912), questionnaire décennal par communes (1882) et quinquennal pour le canton (1852) ; cartes météorologiques d’observation des orages (1868 ; 1875).</unittitle>
+                     <unitdate normal="1852/1912">1852-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 28</unitid>
+                     <unitid>F6</unitid>
+                     <unittitle>Agriculture, récoltes : statistiques annuelles de la commune (1869-1919).&lt;lb/&gt;Statistiques annuelles cantonales : questionnaires récapitulatifs du canton (1857-1901), par communes (1864-1888), résultats par communes (1871-1873) ; statistiques agricoles annuelles des récoltes en grains et autres farineux : états par communes (1857-1884) ; états récapitulatifs du canton (1858-1889) ; rapports et circulaires sur les récoltes (1850-1857).</unittitle>
+                     <unitdate normal="1850/1919">1850-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 29</unitid>
+                     <unitid>F7</unitid>
+                     <unittitle>Agriculture, élevage. -Statistiques annuelles cantonales : questionnaires relatifs aux animaux de la ferme et leurs produits (1900-1903) ; marché de taureaux (1812).&lt;lb/&gt;Statistiques annuelles cantonales : états récapitulatifs cantonaux sur les animaux de la ferme et leurs produits (1899-1901), statistiques par communes (1885-1889), tableaux synoptiques des réponses par communes (1886-1901) ; états statistiques, par communes de la consommation en viandes de boucheries pendant les années 1860 et 1875 (1876).&lt;lb/&gt;Subsistances : foires et marchés : droits de place, halle aux grains (1879-1887) ; créations de foires ou marchés dans la communes voisines (1834-1886) ; pesage des grains : rapports et circulaires (1843-1876) ; états des expériences faites pour constater le poids légal des grains (1842-1878) ; fixation du poids du pain (1855).&lt;lb/&gt;Pêche : rapports cantonaux (1851).&lt;lb/&gt;Travail : livrets d’ouvriers (1859-1866) ; établissements industriels, listes des ouvriers et règlements cantonaux (1854-1918).</unittitle>
+                     <unitdate normal="1812/1918">1812-1918</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATION FINANCIERE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 30</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs : matrices incomplètes (s.d.) ; états de section avec plan  ; sections A-B.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 31</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Etats de sections ; section C.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 32</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Etats de sections, sections D-F.</unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 33</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Livres des mutations, 1er volume.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 34</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Matrice générale des contributions foncières, personnelles-mobilières et des portes et fenêtres.</unittitle>
+                     <unitdate normal="1913/1916">1913-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 35</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Matrices et rôles de la contribution foncière (an X ; 1809 ; 1816) ; états des biens de mainmorte pour la commune (1867) ; rôles des quatre contributions directes (1859-1867) ; correspondance relative aux propriétés non bâties, mutations, nouvelles évaluations, rétributions scolaires, etc. (1862-1881)&lt;lb/&gt;Impôts extraordinaires : correspondance relative aux poids et mesures (1880), à l’enregistrement (an XIII-1880)&lt;lb/&gt;Canton : perception de Servance et de Melisey : relevés des baux des maisons et usines (1844).</unittitle>
+                     <unitdate normal="1802/1881">1802-1881</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 36</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recrutement communal : tableaux de recensement des jeunes gens mobilisables de Melisey.</unittitle>
+                     <unitdate normal="1816/1855">1816-1855</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 37</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Tableaux de recensement de l’armée territoriale des jeunes gens mobilisables de Melisey.</unittitle>
+                     <unitdate normal="1855/1887">1855-1887</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 38</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Correspondance relative au recrutement (1810-1887) ; état de notifications des ordres de route (1837-1861) ; engagements volontaires (1865-1870) ; avis de décès de militaires (1863-1881).&lt;lb/&gt;Recrutement cantonal : demandes et états des dispensés, exemptés ou libérés (1858-1899) ; état, par communes, des mobilisés ayant 21 ans (1919).&lt;lb/&gt;Administration militaire : logement et cantonnement des troupes (1882) ; logement des gendarmes (1814-1852) ; états des fournitures faites lors du passage des troupes, subsistances militaires (1889-1901) ; recensement des chevaux, mulets, voitures attelées et automobiles (1907-1910) ; pigeons-voyageurs : autorisation (1900). Réquisitions pour l’armée (canton) (an XIII).&lt;lb/&gt;Garde-nationale et sapeurs-pompiers : états nominatifs, élections des sous-officiers et caporaux, équipement, demande de matériel à incendie (1806-1879)&lt;lb/&gt;Mesures d’exception et faits de guerre (canton) : états des contributions de guerre, réquisitions et charges de toute nature résultant de l’invasion (1870-1872) ; certificat de la médaille de Saint-Hélène attribuée à Grandmougin Joseph (1821).</unittitle>
+                     <unitdate normal="1805/1919">1805-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 39</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. -Règlements de police : arrêtés du maire (1834) ; création d’une fanfare (1921) ; arrêtés du maire concernant : les débits de boissons, cabarets, tabac (1840-1861), les foires et marchés (1851-1898), les chiens errants (1853), les concessions de terrains dans le cimetière (1846-1855), les transports de corps (1857-1919), la prévention des incendies (1844).</unittitle>
+                     <unitdate normal="1834/1921">1834-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 40</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Cote vacante.</unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Non communicable</p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 41</unitid>
+                     <unitid>I3</unitid>
+                     <unittitle>Cote vacante.</unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Non communicable</p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 42</unitid>
+                     <unitid>I4</unitid>
+                     <unittitle>Cote vacante.</unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Non communicable</p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 43</unitid>
+                     <unitid>I5</unitid>
+                     <unittitle>Cote vacante.</unittitle>
+                     <unitdate>0</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Non communicable</p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 44</unitid>
+                     <unitid>I6</unitid>
+                     <unittitle>Règlements d’usines (1860-1862) ; P.V de la gendarmerie impériale (1854-1865) ; règlement de police municipale de Servance (1853) ; P.V établis par les gardes-champêtres (1854-1866).</unittitle>
+                     <unitdate normal="1853/1866">1853-1866</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 45</unitid>
+                     <unitid>I7</unitid>
+                     <unittitle>Police locale cantonale : arrêtés municipaux sur les chiens errants (1863) ; décisions d’ouverture ou de fermeture des débits de boissons (1852-1864).&lt;lb/&gt;Police urbaine : arrêtés de stationnements (1855) ; tapage nocturne (1882).&lt;lb/&gt;Police rurale : couvertures en chaume (1897) ; délits dans les bois (1882-1890) ; chasse (1872) ; ramonage de cheminées (1811-1897).&lt;lb/&gt;Police générale. -Etrangers : registre d’immatriculation (1888-1900), renseignements (1891).&lt;lb/&gt;Justice. -Simple police et justice de paix : extraits de jugements (1793-1896) ; registre judicier (1854-1861) (non vu en novembre 2013) ; notes et renseignements sur les condamnés libérés (1854-1857) (non vu en novembre 2013).&lt;lb/&gt;Canton : états de jugements de simple police (1854-1864).</unittitle>
+                     <unitdate normal="1793/1900">1793-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 46</unitid>
+                     <unitid>I8</unitid>
+                     <unittitle>Répression : registre d’écrou des militaires et marins civils (1863).&lt;lb/&gt;Hygiène publique et salubrité : listes des médecins, pharmaciens, sages-femmes (1833-1856) ; établissements dangereux (1882) ; surveillance des eaux, enlèvement des fumiers (1832-1855) ; listes des enfants et jeunes gens qui doivent être vaccinés (1910-1920) ; états sur l’épidémie du choléra (1832 ; 1853-1854) ; abattoir, inspection des viandes, surveillance du bétail, épizooties (1871-1897).</unittitle>
+                     <unitdate normal="1832/1920">1832-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 47</unitid>
+                     <unitid>I9</unitid>
+                     <unittitle>Registres de l’abattoir.</unittitle>
+                     <unitdate normal="1884/1900">1884-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 48</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections : listes des électeurs.</unittitle>
+                     <unitdate normal="1854/1914">1854-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 49</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Plébiscites (1851 ; 1870 ; vote pour le rétablissement de l’Empire (1852) ; nomination du président de la république (1848 ; 1851) ; élections législatives (1849-1888), sénatoriales (1876-1881), du conseil général et conseil d’arrondissement (1848-1919).</unittitle>
+                     <unitdate normal="1848/1919">1848-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 50</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Liste des jurés (1871-1872) ; élections municipales (1831-1919).&lt;lb/&gt;Personnel municipal : gardes-champêtres (an VIII-1882) ; marché de pâtre (1808) ; percepteur, receveur (1876-1880).</unittitle>
+                     <unitdate normal="1800/1919">1800-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 52</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptes de gestion.</unittitle>
+                     <unitdate normal="1860/1924">1860-1924</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 53</unitid>
+                     <unitid>L3</unitid>
+                     <unittitle>Budgets (an VI-1908) et chapitres additionnels (1835-1924).</unittitle>
+                     <unitdate normal="1798/1924">1798-1924</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 54</unitid>
+                     <unitid>L4</unitid>
+                     <unittitle>Comptes administratifs (1848-1886) ; comptes des receveurs et officiers municipaux (1792-1814) ; état des perceptions faites sur les récoltes des fonds communaux (an XIII) ; P.V. de clôture des comptes des receveurs (1827-1871) ; états des restes à payer par la commune (1838-1871) ; correspondance relative aux comptes de la commune (1808-1893) ; arrêtés d’apurement concernant les comptes de gestion (1853-1874).</unittitle>
+                     <unitdate normal="1792/1893">1792-1893</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 55</unitid>
+                     <unitid>L5</unitid>
+                     <unittitle>Revenus et charges de la commune : taxes municipales sur les chiens (1878-1880), produits de l’abattoir (1885-1902), de la bascule (1886-1902), des halles aux grains (1890-1902), des droits de place pour la fête patronale (1887-1901).</unittitle>
+                     <unitdate normal="1878/1902">1878-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 51</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Finances de la commune : comptes de gestion.</unittitle>
+                     <unitdate normal="1805/1859">1805-1859</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 56</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices publics. -Maison commune : construction et réparations (1821-1869), location d’une partie (1818-1867), acquisition d’une cloche (1870-1871), marché d’entretien de l’horloge publique (1823), achat d’une maison pour servir de maison de police, justice de paix et halle aux grains (1811) ; travaux à l’abattoir communal (1887) ; reconstructions et réparations de fontaines publiques avec plans (1832-1865) ; projet d’acquisition d’un pont à bascule (1880-1886) ; demande d’agrandissement du bâtiment de la gare (1906) ; vente d’une construction de bois (1862) ; érection d’un monument commémoratif (1890-1893).&lt;lb/&gt;Edifices du culte et du cimetière : agrandissement et réparations à l’église et au presbytère (an XII-1893) ; refonde de la cloche (1822) ; réparations, reconstruction au cimetière (1847-1888).&lt;lb/&gt;Edifices à usage d’établissements d’enseignement : réparations aux écoles, avec plan , projet de création de deux écoles, sections des Granges Bavrey et du Guidon (1833-1899) ; plan d’un projet de construction d’une campanille à la maison d’école, section La Goulotte (1873) ; acquisition d’un terrain pour servir de cour de récréation (1890), agrandissement de la maison d’école, section « La Goulotte » (1897).</unittitle>
+                     <unitdate normal="1804/1906">1804-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS ET EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 57</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux : aliénations ou amodiations de terrains communaux avec plan3.</unittitle>
+                     <unitdate normal="1800/1899">1800-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 58</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Pièces de procès, avec plans (1), soutenus par la commune contre divers particuliers pour revendiquer la propriété de terrains à Melisey, contre François-Joseph Bonmarchand (an V-1830) ; François-Christian Daval (1809-1855) ; Ambroise Colnot (1838-1842) ; Claude-Julien Bègue (1854-1855) et Joseph Pinot (1864-1865).</unittitle>
+                     <unitdate normal="1797/1865">1797-1865</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 59</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Anticipations sur les communaux avec plans3 (an X-1838) ; délimitations de terrains (1811-1823) ; vaine pâture (1841-1857).&lt;lb/&gt;Bois : délimitation et bornage des bois de Melisey, de Belonchamp et Saint-Barthélémy (1860-1877) ; vente de la superficie du bois dit « Le Coconey » (1838-1882) ; adjudications de la coupe affouagère (an XII-1871) ; ventes de coupes de bois (an XII-1871) ; exploitation du quart de réserve (1821-1869) ; location de la chasse (1863).&lt;lb/&gt;Propriétés et droits divers : baux du jeu de quilles (1823-1835) ; concessions au cimetière (1856).</unittitle>
+                     <unitdate normal="1802/1882">1802-1882</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIES, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 60</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine : reconstruction et réparations aux ponts et pontceaux avec plans (an II-1830).&lt;lb/&gt;Petite voirie : projet de classement et de déclassement de chemins vicinaux avec plans (1875) ; acquisitions ou ventes de biens pour besoins de voie avec plan , travaux, entretiens (an XIII-1880) ; frais de construction et d’entretien, ressources, dépenses, prestations en nature (an XIII-1885).</unittitle>
+                     <unitdate normal="1794/1885">1794-1885</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 61</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Rôles de prestations en argent ou en nature pour entretien des chemins vicinaux (1841-1885) ; tableaux des chemins vicinaux existants (1824-1884).</unittitle>
+                     <unitdate normal="1824/1885">1824-1885</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 62</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Ouverture de chemins de grande communication, achats de terrains, entretiens, élargissements, expropriations etc. : n°4, de Melisey à Faucogney (1880-1897) ; n°16 de Faucogney à Ronchamp (1837-1872) ; n°30, de Melisey à Luxeuil (1828-1867) ; n°38, de Lure à Faucogney (1861-1879).</unittitle>
+                     <unitdate normal="1828/1897">1828-1897</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 63</unitid>
+                     <unitid>O4</unitid>
+                     <unittitle>Chemins vicinaux ordinaires : achats de terrains, entretiens, élargissements, expropriations, etc. : &lt;lb/&gt;C.V. n°1, des Echelets à la Rue (1865-1900) ; &lt;lb/&gt;C.V. n°2, de Melisey à Ecromagny et Lanterot (1849-1874) ; &lt;lb/&gt;C.V. n°3, de la rue à la grande ligne n°16 (1852-1865) ;&lt;lb/&gt;C.V. n°4, de Melisey  à Melay (1845-1886) ;&lt;lb/&gt;C.V. n°5, de Melisey à Belonchamp (1807-1862) ;&lt;lb/&gt;C.V. n°6, de Melisey à Melay (1869-1880) ;&lt;lb/&gt;C.V. n°7, de Melisey à Belonchamp (1877-1885) ;&lt;lb/&gt;C.V. n°8, de Melisey à Ecromagny (1881-1884) ;&lt;lb/&gt;C.V. n°13, de Melisey à Montaujeu (1870-1872) ;&lt;lb/&gt;C.V. n°15, de la place du marché à l’église (1880-1894) ;&lt;lb/&gt;C.V. n°19, dit la Brasserie, de l’entrée de Melisey au C.V. n°14 (1883-1885) ;&lt;lb/&gt;C.V. n°20, des Echelets à la Rue (1888) ; &lt;lb/&gt;C.V. n°23, de la Goulotte à Montessaux (1884).</unittitle>
+                     <unitdate normal="1807/1900">1807-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 64</unitid>
+                     <unitid>O5,P1</unitid>
+                     <unittitle>Construction d’un pont à 3 arches sur l’Ognon avec plan  (1812-1832).&lt;lb/&gt;Canton : rapports sur la situation des chemins vicinaux (1826-1831).&lt;lb/&gt;Moyens de transport et travaux divers : construction de la ligne de tramway projetée de Lure à Haut-du-Them : montant des annuités cinquantenaires dues par la commune (1897) ; ouverture de carrière, baux, exploitation de la carrière du sigle avec plan (1820-1886).&lt;lb/&gt;Navigation et régime des eaux : répartition des eaux entre les usiniers et les irrigants, règlements d’eau, moulins (1839-1874) ; curage et assainissement des cours d’eau, nomination des commissions cantonales (1827-1862) ; construction d’un pont et d’un aqueduc (1847-1865).&lt;lb/&gt;&lt;lb/&gt;Culte catholique : inventaire du mobilier de la sacristie (1833) ; marché de clerc (1808) ; fabrique : comptes de gestion (1903-1804) ; budgets (1833-1906).&lt;lb/&gt;Culte israélite : indemnités de logement au rabbin (1897-1899).</unittitle>
+                     <unitdate normal="1808/1904">1808-1904</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 65</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Bureau de bienfaisance : registre de délibérations (1862-1882) ; comptes de gestion (1863-1894) ; comptes administratifs (1868-1878) ; budgets (1862-1899) ; chapitres additionnels aux budgets (1863-1900) ; arrêtés d’apurement (1867-1874) ; arrêtés de révisions de comptes du conseil de préfecture (1871).</unittitle>
+                     <unitdate normal="1862/1900">1862-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 66</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Bureau de bienfaisance : arrêtés de nominations de délégués et membres de la commission administrative (1871-1900) ; dons aux pauvres de la commune par des particuliers (1875-1880) ; legs de Melle Marie-Pierre Feuvrier aux pauvres du bas de Melisey (1832-1834) ; demandes de secours (1881-1882) ; distributions de secours aux indigents, états nominatifs, emplois des secours accordés sur les fonds de l’Etat (1810-1884) ; listes des indigents admis au secours de l’assistance médicale gratuite (1871-1895) ; registre des états de secours délivrés aux indigents (1877-1886).</unittitle>
+                     <unitdate normal="1810/1900">1810-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 67</unitid>
+                     <unitid>Q3</unitid>
+                     <unittitle>Bureau de bienfaisance : registre des états de secours délivrés aux indigents.</unittitle>
+                     <unitdate normal="1886/1891">1886-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 68</unitid>
+                     <unitid>Q4</unitid>
+                     <unittitle>Bureau de bienfaisance : registre des états de secours délivrés aux indigents.</unittitle>
+                     <unitdate normal="1891/1899">1891-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 69</unitid>
+                     <unitid>Q5</unitid>
+                     <unittitle>Bureau de bienfaisance : registre des états de secours délivrés aux indigents.</unittitle>
+                     <unitdate normal="1899/1909">1899-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 70</unitid>
+                     <unitid>Q6</unitid>
+                     <unittitle>Etablissements hospitaliers : admissions à l’hospice ou à l’asile (1862-1898).&lt;lb/&gt;Application des lois d’assistance et de prévoyance : soins médicaux aux victimes de guerre (1871) ; protection des enfants du 1er âge (1881-1884).&lt;lb/&gt;Comité cantonal de bienfaisance : registre de délibérations (s.d.) ; états des mendiants, indigents, invalides du canton, par communes (1832-1860) ; état des aliénés du canton qui sont à la maison de Maréville (M et M) (1859) ; enquête sur le goitre, le crétinisme, l’idiotie et l’imbécilité (1863).</unittitle>
+                     <unitdate normal="1898">1898</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>339 Edepot 71</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique : caisse des écoles (1881-1882) ; états des élèves, extraits du registre d’appel mensuel des écoles (1881-1886) ; listes des enfants admis gratuitement à l’école (1852-1879) ; rôles trimestriels de la rétribution scolaire (1856-1859) ; nominations, traitements, indemnités, rapports sur les instituteurs (1808-1882) ; enseignement de la gymnastique (1869) ; inventaires du mobilier et des fournitures scolaires (1861-1897).</unittitle>
+                     <unitdate normal="1808/1897">1808-1897</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

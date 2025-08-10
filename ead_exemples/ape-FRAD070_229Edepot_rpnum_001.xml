@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_229Edepot_Archives_communales_déposées_de_Faymont" url="https://francearchives.fr/findingaid/a53b36a2719de927f3e5176d4feb7afaab037ced">FRAD70_229Edepot_Archives_communales_déposées_de_Faymont</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>229Edepot - Archives communales déposées de Faymont</titleproper>
+            <subtitle>Sous série</subtitle>
+            <author>L. Georgel</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>229Edepot - Archives communales déposées de Faymont</unittitle>
+         <unitid>229Edepot1-23</unitid>
+         <unitdate normal="1807/1940">1807-1940</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE FAYMONT</corpname>
+         </origination>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             09/08/2011
+         </p>
+         <p>Dernier ajout le             09/08/2011
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 1</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.</unittitle>
+                     <unitdate normal="1853/1875">1853-1875</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 2</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations.</unittitle>
+                     <unitdate normal="1875/1886">1875-1886</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 3</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (1886-1910). Actes de l'administration municipale : répertoires des actes soumis à l'enregistrement (1809-1813 ; 1813-1824 ; 1824-1833 ; 1833-1840). Administration de la commune : lettre préfectorale concernant l'érection en communes des sections de Faymont et Vacheresse (1885).</unittitle>
+                     <unitdate normal="1809/1910">1809-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 4</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Etat civil: extrait d'état civil reçu en vue de mention (1825).Population: mouvement annuel de la population (1857-1858 ; 1860-1862 ; 1864-1897 ; 1901-1902 ; 1904-1905).</unittitle>
+                     <unitdate normal="1825/1905">1825-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 5</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Dénombrement quinquennal de la population : listes nominatives (1836-1886 ; 1896-1901) ; états stastistiques (189 ;1921).</unittitle>
+                     <unitdate normal="1836/1921">1836-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 6</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Commerce et industrie : élections à la chambre de commerce: listes des électeurs (1908-1910 ; 1912 ; 1914 ; 1920-1921 ; 1923 ; 1925 ; 1927 ; 1929). Agriculture : statistique agricole quinquennnale (1852) ; statistiques agricoles annuelles (1853-1917).</unittitle>
+                     <unitdate normal="1852/1929">1852-1929</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 7</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs: livre des mutations de Faymont.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 8</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Matrices générales des contributions directes, section de Faymont (1845-1848 ; 1850-1889 ; 1891-1894 ; 1896-1916).</unittitle>
+                     <unitdate normal="1845/1916">1845-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 9</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Matrices générales des contributions directes, section de Vacheresse (1842-1848 ; 1850-1889 ; 1891-1894 ; 1896-1916).</unittitle>
+                     <unitdate normal="1842/1916">1842-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 10</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recrutement : tableaux de recensement des jeunes gens des classes 1837-1845 ; 1847-1878 ; 1880-1ère fraction de 1935 ; 2ème fraction de 1936-1940. Amée territoriale : tableau de recensement des jeunes gens des classes 1855 à 1866 (1874). Administration militaire: états des ressources pour le cantonnement des troupes (1878 ; 1881 ; 1891).</unittitle>
+                     <unitdate normal="1837/1940">1837-1940</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 11</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale : lettre du sous-préfet de Lure sur les chiens enragés (1891) ; extrait d'une délibération déchargeant le maire des fonctions de police de la section de Vacheresse au profit de son adjoint (1885). Justice : exploit d'huissier signifié au maire (1887). Hygiène publique et salubrité.-Epizootie du typhus: dénombrement des animaux (1871).</unittitle>
+                     <unitdate normal="1871/1891">1871-1891</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 12</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections: listes définitives des électeurs (1853 ; 1855-1857 ; 1859-1862 ; 1864-1865 ; 1867-1868 ; 1870 ; 1872-1903) ; listes de scutin (s.d).</unittitle>
+                     <unitdate normal="1853/1903">1853-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 13</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Election du président de la République (1848) ; plébiscite (1870) ; élections sénatoriales (1876 ; 1881 ; 1896 ; 1903-1904 ; 1907-1908 ; 1926) ; élections législatives (1848 ; 1863-1936) ; élections des membres du conseil général et du conseil d'arrondissement (1871 ; 1874).</unittitle>
+                     <unitdate normal="1848/1936">1848-1936</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 14</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Elections au conseil général (1867-1934), au conseil d'arrondissement (1870-1931), au conseil municipal, nominations des maires et adjoints (1848-1935). Personnel municipal : nomination, pension du cantonnier (1882 ; 1930).</unittitle>
+                     <unitdate normal="1848/1935">1848-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 15</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptabilité: comptes de la commune (1807-1850) ; budgets (1811-1850).</unittitle>
+                     <unitdate normal="1807/1850">1807-1850</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 16</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices publics.-Maison d'école : acquisition et réparations (1863-1930) ; projet d'une construction d'une maison d'école à Vacheresse (1886) ; projet de construction d'un pont à bascule (1908) ; construction et réparations aux fontaines, conduites d'eau, puits publics (1845-1928). Edifices du culte et cimetières : acquisition d'un terrain de construction d'un presbytère (1836), d'un cimetière (1855) ; réparations à l'église et au cimetière (1884-1930).</unittitle>
+                     <unitdate normal="1836/1930">1836-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 17</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux : échange de terrains entre la commune et le propriétaire du moulin neuf (1922). Bois : plan géométrique des bois communaux (plans classés dans la collection des plans communaux des Archives départementales de Haute-Saône) (1810) ; décret autorisant le défrichement de 55 hectares de bois (1851) ; atlas comprenant les plans des bois à défricher et la liste des ayant-droits (plans classés dans la collection des plans communaux des Archives départementales de Haute-Saône) (1854) ; résiliation d'un bail de défrichement de parcelles (1876) ; cahier d'aménagement de la forêt de la section de Vacheresse (1863-1860) ; pâturage (1894) ; procès-verbal de reconnaissance pour le repeuplement des places à charbon dans les coupes du quart en réserve (1843) ; adjudications de bois divers (1826-1828 ; 1875-1876) ; listes des habitants désirant profiter de menus produits (1874-1928). Eaux : concesions de prise d'eau (1884 ; 1910).</unittitle>
+                     <unitdate normal="1810/1928">1810-1928</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIE, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 18</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie-chemins vicinaux :  tableaux des chemins existants, classement (1872-1898) ; état des travaux à exécuter (1843) ; réparations, ressources, tarifs, prestations, subventions (1868-1930) ; rôles de prestations (1880-1915). Petite voirie : chemin de grande communication n° 8, de Lure à Héricourt (1841 ; 1876) ; C.V. de Faymont à Granges-la-Ville et Granges-le-Bourg (1867-1888) ; C.V. de Faymont à Courmont (1890-1892) ;  C.V. de Faymont à Lomont dont 2 plans de pontceau et acqueducs de 1878 (plans classés dans la collection des plans communaux des Archives départementales de Haute-Saône) (1876-1886).</unittitle>
+                     <unitdate normal="1841/1930">1841-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 19</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Chemin vicinal de Faymont à Lomontot (1876-1877) ; C.V. de Faymont à Saulnot (1869-1873) ; C.V. de Faymont à Vacheresse (1853-1860) ;  C.V. de Vacheresse à Mignavillers (1882-1903) ; C.V. de la Vergenne à Vacheresse, construction de pont et aqueducs (1875-1878 ; 1893-1894).</unittitle>
+                     <unitdate normal="1853/1903">1853-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 20</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Chemins ruraux : états des travaux à exécuter (1911-1912) ; C.R. du pâturage de Grillery (1876-1877) ; C.R. n° 1, de Vacheresse dit ""au champ lassus"" (1897-1899) ;  ouverture des C.R. n° 2, dit des champs Cagnards et des champs chanois, et n° 3, dit du haut de la combe et les champs de travers (1908-1909) ;  C.R. n° 4, dit des prés Meunier (1910-1911) ; chemins de défruitement: réparations, construction de ponts et aqueducs (1870-1915), acquisitions de terrains (1910-1912 ; 1921) ; droit de passage dans un chemin de vidange (1892). Moyens de transport et travaux divers.-Tramways à vapeur : rapport d'études de la ligne de Lure à Héricourt (1894) ; exploitation de carrière (1904-1905). Navigation et régime des eaux : règlements d'eau du moulin neuf, du moulin vieux et du moulin Risquetout (1861).</unittitle>
+                     <unitdate normal="1861/1921">1861-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 21</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte : comptes de la fabrique (1894-1905) ; budgets (1893-1907).</unittitle>
+                     <unitdate normal="1893/1907">1893-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 22</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Application des lois d'assistance et de prévoyance : nomination d'un médecin pour les indigents (1882 ; 1885).</unittitle>
+                     <unitdate normal="1882/1885">1882-1885</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>229 Edepot 23</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique : création d'une caisse des écoles, statuts (1882 ; 1930) ; commission municipale scolaire : élections de délégués (1884-1929) ; convocation des parents d'élèves en absence prolongée (1883) ; extrait du registre d'appel concernant les absences (août 1885) ; écoles primaires: créations et suppressions d'emplois (1902) ;  création d'une école mixte (1927) ; inspection médical des écoles (1922).</unittitle>
+                     <unitdate normal="1882/1930">1882-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,870 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_304Edepot_Archives_communales_déposées_de_Linexert" url="https://francearchives.fr/findingaid/05fb496a21344330145e4133a67a8a1bcd17198e">FRAD70_304Edepot_Archives_communales_déposées_de_Linexert</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>304Edepot - Archives communales déposées de Linexert</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>304Edepot - Archives communales déposées de Linexert</unittitle>
+         <unitid>304Edepot1-27</unitid>
+         <unitdate normal="1760/1935">1760-1935</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE LINEXERT</corpname>
+         </origination>
+         <note label="note">
+            <p>Avant la Révolution, Linexert dépendait de la paroisse de Quers.
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+432 E dépôt, archives communales de Quers : registres paroissiaux (1720-1792).
+B 4219, élections des députés, plaintes et doléances que les habitants de Linexert présentent à l'assemblée générale du bailliage de Vesoul (1789).
+B 6995, déclarations de propriétés faites par les propriétaires dans la commune de Linexert (1750-1753).
+B 9394, affaires forestières (1703-1790).
+C 197, procès au sujet de la construction d'un four (1782-1789).
+C421, rôles et répartements des impositions dans la communauté de Linexert (1729-1790).
+3 O 314, travaux communaux, depuis 1821.
+3 E 304/1-11, état-civil (collection du greffe), (1793-1902).
+3 E 423/1-6, registres paroissiaux de la paroisse de Quers, Citers, Franchevelle , Linexert et Rignovelle (1737-1792).
+4 E 304, tables décennales de l’état-civil (collection du greffe), (1802-1902).
+6 M 323, recensement de la popultaion : listes nominatives (1911-1936).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             01/01/1971
+         </p>
+         <p>Dernier ajout le             01/01/1971
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> BIENS COMMUNAUX-EAUX ET FORETS (1760)</p>
+         <p>  304 Edepot  1 à 2 - </p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1837-1903)</p>
+         <p>  304 Edepot  3 à 7 - </p>
+         <p> POPULATION-ECONOMIE SOCIALE-STATISTIQUE (1855-1911)</p>
+         <p>  304 Edepot  8 à 10 - </p>
+         <p> CONTRIBUTIONS (1839-1916)</p>
+         <p>  304 Edepot  11 à 12 - </p>
+         <p> AFFAIRES MILITAIRES (1846-1920)</p>
+         <p>  304 Edepot  13</p>
+         <p> POLICE-HYGIENE PUBLIQUE-JUSTICE (1871-1910)</p>
+         <p>  304 Edepot  14</p>
+         <p> ELECTIONS ET PERSONNEL (1844-1929)</p>
+         <p>  304 Edepot  15 à 17 - </p>
+         <p> FINANCES DE LA COMMUNE (1816-1868)</p>
+         <p>  304 Edepot  18 à 19 - </p>
+         <p> EDIFICES COMMUNAUX (1876-1929)</p>
+         <p>  304 Edepot  20</p>
+         <p> BIENS ET BOIS COMMUNAUX (1817-1935)</p>
+         <p>  304 Edepot  21 à 23 - </p>
+         <p> VOIRIE-REGIME DES EAUX (1838-1912)</p>
+         <p>  304 Edepot  24</p>
+         <p> CULTES (1905-1910)</p>
+         <p>  304 Edepot  25</p>
+         <p> ASSISTANCE ET PREVOYANCE (1893-1908)</p>
+         <p>  304 Edepot  26</p>
+         <p> INSTRUCTION PUBLIQUE (1896-1908)</p>
+         <p>  304 Edepot  27</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX-EAUX ET FORETS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Plan géométrique de la portion de bois revenant à la communauté de Linexert dans le canton des Grands-Armonts. (mauvais état, illisible).</unittitle>
+                     <unitdate normal="1760">1760</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 2</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Pièces de procès survenus entre les communautés de Franchevelle et Linexert, à propos de leurs droits respectifs dans les bois dits des Franches Communes.&lt;lb/&gt;1 registre.</unittitle>
+                     <unitdate>1609-an V</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ADELANS</geogname>
+                     <geogname>BOUHANS-LES-LURE</geogname>
+                     <geogname>FRANCHEVELLE</geogname>
+                     <geogname>LINEXERT</geogname>
+                     <geogname>QUERS</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 3</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (an II-mai 1836).</unittitle>
+                     <unitdate>An II-1836</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 4</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (février 1837-janvier 1858).</unittitle>
+                     <unitdate normal="1837/1858">1837-1858</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 5</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (février 1858-mars 1885).</unittitle>
+                     <unitdate normal="1858/1885">1858-1885</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 6</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Conseil municipal : registre de délibérations (avril 1885-décembre 1903).</unittitle>
+                     <unitdate normal="1885/1903">1885-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 7</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Répertoires des actes soumis à l'enregistrement (1832-1843, 1865-1876). Inventaire des archives communales et objets mobiliers (XX° siècle).</unittitle>
+                     <unitdate>1832-XX° siècle</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REPERTOIRE</genreform>
+                     <genreform>INVENTAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-ECONOMIE SOCIALE-STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 8</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population :mouvements annuels (1855-1857, 1859-1867, 1870-1872, 1874-1876, 1878, 1881-1899, 1901-1902, 1904-1906).</unittitle>
+                     <unitdate normal="1855/1906">1855-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 9</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Dénombrement quinquennal de la population : listes nominatives.</unittitle>
+                     <unitdate normal="1856/1906">1856-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 10</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Agriculture : statistiques annuelles (1869, 1872, 1888-1890, 1893-1911), décennale (1892), état des récoltes, culture de la vigne (1857-1859, 1864-1865, 1868-1869, 1871-1873, 1875, 1881), registre des cultures (1903).</unittitle>
+                     <unitdate normal="1857/1911">1857-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PRODUCTION AGRICOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 11</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Contributions directes. Taxes municipales sur les chiens (1910, 1915), prestations sur les chemins vicinaux (1851-1852, 1895, 1900) : rôles. Matrices générales (1839-1841, 1845-1848).</unittitle>
+                     <unitdate normal="1839/1915">1839-1915</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                     <genreform>ROLE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 12</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Contributions directes : matrices générales (1854-1885, 1891-1907, 1912-1916).</unittitle>
+                     <unitdate normal="1854/1916">1854-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                     <subject>FISCALITE PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 13</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recensement des jeunes gens (1854-1857, 1859-1862, 1864-1904, 1906-1912, 1920), recensement de l'armée territoriale (classes de 1855 à 1866) : tableaux. Champ de tir : projet de régime (1910-1911).&lt;lb/&gt;Garde nationale : listes nominatives (1870). Elections des officiers et sous-officiers : procès-verbaux (1846, 1848, 1870).&lt;lb/&gt;Guerre de 1870. Réquisitions, indemnisations : reçus, instructions du Préfet (1870-1873).&lt;lb/&gt;Sapeurs-pompiers. Pompe à incendie, fourniture, entretien : marchés (1887, 1895).</unittitle>
+                     <unitdate normal="1846/1920">1846-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                     <subject>GUERRE</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-HYGIENE PUBLIQUE-JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 14</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Débits de boissons : demandes d'autorisation d'ouverture (1886-1901). Sinistres : états (1893, 1908-1909). Etablissement d'une foire et d'un marché à Saint-Germain (1910), changement de date à Froideconche (1887)  : extraits de délibérations des conseils municipaux.&lt;lb/&gt;Hygiène publique et salubrité. Epizootie du typhus, dénombrement des animaux : listes nominatives des propriétaires (1871).&lt;lb/&gt;Justice. Assistance judiciaire concernant le divorce de Clovis Begey et Marie Fetzel : extrait des minutes du greffe du tribunal (1885). Jury : liste des jurés (1871).</unittitle>
+                     <unitdate normal="1871/1910">1871-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>DEBIT DE BOISSON</subject>
+                     <subject>JURY D'ASSISES</subject>
+                     <subject>MALADIE DES ANIMAUX</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>BEGEY (Clovis)</persname>
+                     <persname>FETZEL (Marie)</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 15</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections politiques : listes électorales (1852-1914). Chambre de commerce : listes électorales (1908-1912).</unittitle>
+                     <unitdate normal="1852/1914">1852-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                     <subject>ELECTION PROFESSIONNELLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 16</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections législatives (1863-1914), élections au conseil d'arrondissement (1864-1904), au conseil général (1865-1910), élections municipales (1865-1929), élections sénatoriales (1908) : procès-verbaux.</unittitle>
+                     <unitdate normal="1863/1929">1863-1929</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 17</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Personnel communal. Pâtres : marchés (1844, 1862-1899).</unittitle>
+                     <unitdate normal="1844/1899">1844-1899</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 18</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Budgets primitifs et supplémentaires (an XIV, 1808-1824, 1826-1847, 1849, 1857, 1859-1864, 1866-1867, 1869-1870).</unittitle>
+                     <unitdate>An XIV-1870</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 19</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptes de gestion (1816-1823, 1825-1827, 1829-1832, 1836, 1838, 1840, 1842-1843, 1845-1847, 1849-1854, 1856-1858, 1861, 1865-1867), arrêtés d'apurement (1852-1868).</unittitle>
+                     <unitdate normal="1816/1868">1816-1868</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 20</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Maison commune, construction : acquisition d'un terrain et réparations à la maison d'école (1876-1878). Projet de construction d'une maison d'école et de mairie : devis (1905-1909). Clôture du jardin de l'instituteur (1881). Fontaine, projet de construction d'une fontaine couverte : devis (1886). Différend avec le carrier, au sujet des frais de taille des pierres : copies d'exploit d'huissier (1886). Réparations du récipient et de la conduite d'alimentation : rapport de l'architecte (1894). Relevé général des constructions scolaires dans le département (1878-1885). Cimetière, projet d'agrandissement : devis (1889). Presbytère, réparations : extrait de délibération du conseil municipal (1911). Eglise, réparations d'un vitrail : facture (1929).</unittitle>
+                     <unitdate normal="1876/1929">1876-1929</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>CONSTRUCTION SCOLAIRE</subject>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS ET BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 21</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Anticipations sur des communaux (1831, 1850). Amodiations de terrains (1868-1913). Registre composite comprenant des titres relatifs au partage des bois, dits des Franches-Communes, entre Quers, Adelans, Bouhans-lès-Lure, Franchevelle et Linexert (1822-1829) ; acte d'acquisition d'une maison par la commune (1846) ; toisé des bâtiments de la commune (1832).</unittitle>
+                     <unitdate normal="1822/1913">1822-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BAUX RURAUX</subject>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ADELANS</geogname>
+                     <geogname>BOUHANS-LES-LURE</geogname>
+                     <geogname>FRANCHEVELLE</geogname>
+                     <geogname>LINEXERT</geogname>
+                     <geogname>QUERS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 22</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Bois communaux : extrait du plan des bois dits des Grands-Armonts.&lt;lb/&gt;(Plan en mauvais état).</unittitle>
+                     <unitdate normal="1817">1817</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 23</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Aménagement des bois : procès-verbaux (1829). Bornage : procès-verbal (1851). Réponses aux observations faites sur les rapports sur l'entretien et l'aménagements des bois (1872, 1 brochure imprimée). Répartition de la futaie et du taillis : rôles (1835-1882). Location de la chasse (1848-1908). Prise d'eau au périmètre de la forêt (1857-1912), passage dans la forêt (1908, 1930, 1935) : concessions.</unittitle>
+                     <unitdate normal="1829/1935">1829-1935</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'AMENAGEMENT FO</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AMENAGEMENT FORESTIER</subject>
+                     <subject>BOIS</subject>
+                     <subject>DROITS D'USAGE FORESTIERS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 24</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Petite voirie. Aqueduc sur le chemin vicinal, allant à Franchevelle, construction : marché (1857). Chemins vicinaux. -Prestations (1890-1905). Etats des contingents (1875-1876). Etat de situation (1881-1883). Tableaux et état de classement (1848, 1854, 1867). Comptes des recettes et dépenses (1853-1869). Acquisitions de terrains pour établissement de chemins ruraux (1857-1912).&lt;lb/&gt;Régime des eaux. Curage de la Lanterne : arrêté préfectoral (1838). Service du drainage, renseignements statistiques concernant les travaux de drainage (1858, 1 brochure imprimée). Règlement d'eau, moulin du sieur Prinet : procès-verbal de récolement (1858). Police des cours d'eau : arrêté préfectoral (1893).</unittitle>
+                     <unitdate normal="1838/1912">1838-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE PREFECTORAL</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>COURS D'EAU</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LANTERNE (LA)</geogname>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>PRINET</persname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 25</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Séparation des Eglises et de l'Etat : circulaire sur  les conditions d'exercice du culte public (1905). Attribution des biens de la fabrique entre les communes de Franchevelle et Linexert (1909-1910).</unittitle>
+                     <unitdate normal="1905/1910">1905-1910</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>CIRCULAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>FRANCHEVELLE</geogname>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 26</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>Bureau d'assistance. Commission administrative, installation des membres : procès-verbal (1894). Elections de délégués : délibérations du conseil municipal (1893-1908).</unittitle>
+                     <unitdate normal="1893/1908">1893-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>304 Edepot 27</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Commission municipale scolaire, élection de délégués : délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1896/1908">1896-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>LINEXERT</geogname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

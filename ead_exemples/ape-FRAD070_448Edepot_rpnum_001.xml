@@ -1,0 +1,1023 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_448Edepot_Archives_communales_déposées_de_Roche-et-Raucourt" url="https://francearchives.fr/findingaid/bc622d70d008f22b2b1f1f689eb1029a4110f9f7">FRAD70_448Edepot_Archives_communales_déposées_de_Roche-et-Raucourt</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>448Edepot - Archives communales déposées de Roche-et-Raucourt</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>448Edepot - Archives communales déposées de Roche-et-Raucourt</unittitle>
+         <unitid>448Edepot1-43</unitid>
+         <unitdate normal="1491/1939">1491-1939</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE ROCHE-ET-RAUCOURT</corpname>
+         </origination>
+         <note label="note">
+            <p>La localité de Roche-et-Raucourt s'appelait anciennement Roche-sur-Vanon, et dépendait du diocèse de Langres. 
+
+Cf. inventaires imprimés des archives départementales de la Haute-Saône : 
+B 2693, déclarations de propriétés dans la communauté de Raucourt et procédures civiles et criminelles (1696-1787) ; 
+B 8762 à 8768, justice seigneuriale de Raucourt (1701-1789) ; 
+B 9345 et 9487, affaires forestières diverses de Rancourt et Roche-sur-Vanon (1728-1791) ; 
+C 561, rôle des vingtièmes de la communauté de Roche, qui dépendait de l'élection de Langres (1767-1788) ; 
+G 176, sentence de la justice ecclésiastique de Roche (1623).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             07/07/2014
+         </p>
+         <p>Dernier ajout le             07/07/2014
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>FINANCES, IMPOTS ET COMPTABILITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 1</unitid>
+                     <unitid>CC1</unitid>
+                     <unittitle>Droits seigneuriaux : dénombrement des biens à Roche appartenant à Huguette Bourtet, veuve de Jean de Roche. </unittitle>
+                     <unitdate normal="1491">1491</unitdate>
+                     <physdesc>
+                        <extent>6 feuillets de parchemin, cousus bout à bout.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 2</unitid>
+                     <unitid>CC3</unitid>
+                     <unittitle>Droits seigneuriaux : copie de 1739 de l'arpentement de "Roche-sous-Fouvent" dressé en 1666 et 1667 par Nicolas Gérard arpenteur à Rupt-sur-Saône, avec au début un état de sections (1791) et à la fin un mémoire pour servir aux habitants de Roche contre les seigneurs du lieu (1535-1670). </unittitle>
+                     <unitdate normal="1535/1791">1535-1791</unitdate>
+                     <physdesc>
+                        <extent>1 volume relié, couvert de cuir.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 3</unitid>
+                     <unitid>CC3</unitid>
+                     <unittitle>Biens communaux : extrait du terrier de 1666 concernant plus particulièrement les prés "devers Volon", dressé par le même arpenteur. </unittitle>
+                     <unitdate normal="1666">1666</unitdate>
+                     <physdesc>
+                        <extent>1 cahier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORETS, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 4</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Edifices communaux : acquisition d'une place devant la mairie actuelle (1702) ; cet acte n'a pas été vu en 1970 et 1981. Transaction entre la communauté de Roche et Pierre Douette entrepreneur, pour la construction de l'église, d'une fontaine et d'un pont (1774) (original détruit, en très mauvais état, remplacé par une photocopie). </unittitle>
+                     <unitdate normal="1702/1774">1702-1774</unitdate>
+                     <physdesc>
+                        <extent>4 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>FONTAINE</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 5</unitid>
+                     <unitid>DD2</unitid>
+                     <unittitle>Bois communaux : transaction au sujet de la vaine pâture, entre la communauté de Roche, et celle de Saint-Andoche (1517) ; mémoire qui rappelle une convention, au sujet du triage des bois, entre la communauté de Roche et Claude de Vergy (1535) ; conventions entre la communauté et David de Choiseul (1612-1619). </unittitle>
+                     <unitdate normal="1517/1619">1517-1619</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 4 pièces.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>SAINT-ANDOCHE</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 6</unitid>
+                     <unitid>DD3</unitid>
+                     <unittitle>Bois communaux : bornage et aménagement des bois de Roche par la maîtrise des eaux et forêts (1735) ; bornage entre les bois de Roche et ceux de Brotte-lès-Ray (1734) ; plan de la "coupe de la Dame" et transaction entre la communauté et les seigneurs du lieu (1671-1746) ; arrêté du conseil d'état relatif à l'exploitation des bois de Roche (1768). </unittitle>
+                     <unitdate normal="1671/1768">1671-1768</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 1 plan, 3 parchemin et 1 pièce.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>BROTTE-LES-RAY</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 7</unitid>
+                     <unitid>DD4</unitid>
+                     <unittitle>Bois communaux : plan des bois communaux de Roche, dressé par l'arpenteur Baillet de la maîtrise de Sens . </unittitle>
+                     <unitdate normal="1735">1735</unitdate>
+                     <physdesc>
+                        <extent>1 plan sur toile.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>JUSTICE, PROCEDURES, POLICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 8</unitid>
+                     <unitid>FF1</unitid>
+                     <unittitle>Procédure : procès Gouvernet, concernant l'ancienne forge, les trois pâtis où elle était située, et la coupe de la Dame, que la communauté avait cédés en 1760, procès terminé en 1793. </unittitle>
+                     <unitdate normal="1670/1793">1670-1793</unitdate>
+                     <physdesc>
+                        <extent>1 liasse, 30 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 9</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial de Roche-et-Raucourt : baptêmes (Raucourt, avril 1650-1654 ; 1656-1667 ; un acte de septembre 1670, les actes sont très peu nombreux pour cette période ; Roche-et-Raucourt, 1670, mai, trois actes de févirer, juin et juillet, un acte de mai 1671 ; septembre 1674-novembre 1675 ; deux actes de décès, 1675 ou 1676 ? ; novembre 1676 ; 1678, mai-décembre ; un acte de décès de Dampierre-sur-Salon, de décembre 1690 ; comptes du curé) ; baptêmes et sépultures (avril 1679 ; 1682, 1 acte d'octobre, avril-novembre ; 1 acte d'avril 1683 ; 1 acte de mai 1683 ; 1680 ; deux actes d'août 1682 ; un acte de mars 1683 ; 1680 ; 1683, février-avril ; 1684, juillet-novembre ; janvier 1685 ; novembre 1684 ; 1685, janvier, juillet-décembre ; un acte de décès de 1688 ; à l'envers, comptes du curé ; 1684, août, juillet ; 1685 août-novembre, janvier-mars ; 1684, août-octobre ; 1685, janvier-août) ; baptêmes (1651-1654 ; 1656, un acte de juin, mai-décembre ; 1657-mars 1669 ; mai 1673-mars 1674 ; mars 1676 ; un acte de mars 1674 ; baptêmes de Margueritte, fille de Léonel de Toulongeon, seigneur de Pelousey (Jura) le 12 octobre 1675 ; 1676-7678 ; 1679, janvier ; 1680-septembre 1681 ; 1683 ; 1685, août-novembre ; 1686, janvier-août) ; mariages (juin 1656-février 1659 ; un acte de 1662 ; un acte de 1663) ; baptêmes (un acte d'avril 1678 ; un acte de janvier 1678 ; 1683-1684 ; 1685, janvier ; 1686, février-mai, un acte de mars, mai-décembre, un acte de juillet ; 1687, janvier-mai, un acte d'octobre, mai-novembre ; 1688, janvier, septembre-décembre, mars-septembre ; 1689, octobre-décembre ; un acte de mars 1688, janvier-octobre) ; baptêmes et sépultures (1689, octobre, mars ; 1690-janvier 1691 ; une reconnaissance de dette de mai 1681 ; 1690, janvier-février ; 1689, mars, mai ; 1690, mai-juin ; 1691, mars, octobre ; 1692, avril et décembre ; 1693, avril ; 1691, avril) ; baptêmes et mariages (1692, comptes du curé ; 1689, mars ; deux actes de 1692) ; sépultures (1693) ; baptêmes, mariages, sépultures (octobre 1692-février 1698 ; janvier 1697-janvier 1699 ; 1700, mars-avril ; 1698, février-décembre ; un acte de janvier 1699 ; un acte de janvier 1698 ; un acte de mars 1700 ; 1699, mars-novembre, janvier-mars) ; les actes sont inscrits sur des cahiers à en-têtes imprimés provenant du bailliage de Langres, généralité de Champagne. Lacunes en ce qui concerne les baptêmes pour les années 1655, 1668 à 1675, 1679, 1681 et 1682, et 1691 ; en ce qui concerne les mariages qui commencent en 1656, pour les années de 1659 à 1691 ; en ce qui concerne les sépultures qui commencent en 1679, pour les années 1681 à 1684, 1686 à 1689, 1691 et 1692. Lacunes comblées en ce qui concerne les baptêmes, en partie pour l'année 1670, pour l'année 1679 ; et un acte de décès pour 1692, par la collection des registres déposés par le Greffe du Tribunal de Gray aux Archives départementales. Le rapport de l'archiviste dans Délibérations du Conseil général (Vesoul, 1888), signale que les registres paroissiaux de Roche-et-Raucourt, existaient anciennement depuis 1540, les actes de la période 1540-1650 n'ont pas été vus en 1970 et 1981. Dans ce registre, on remarque la naissance de Claude-Françoise de Grachaux, fille de Melchior de Grachaux, seigneur de Raucourt, le 27 juin 1661 ; et les naisances des enfants de Léonel de Toulongeon, seigneur de Pelousey et Vitreux (Jura), et de Catherine de Grachaux, décédée le 9 avril 1693 ; Margueritte le 12 octobre 1675, Françoise Adrienne le 20 mars 1677, et françois-Adrien le 17 février 1683. </unittitle>
+                     <unitdate normal="1650/1700">1650-1700</unitdate>
+                     <physdesc>
+                        <extent>1 registre factice relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 10</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial de Roche-et-Raucourt : baptêmes, mariages, sépultures (juin 1700-février 1718 ; 1719-janvier 1720 ; 1718, mai, septembre-novembre ; un acte de juillet 1719 ; 1720, février, avril-décembre, avril-décembre). Parmi ces actes, on remarque les baptêmes de Jean-François-Joseph de Toulongeon, fils de Jean-Baptiste de Toulongeon, seigneur d'Arc-lès-Gray et de Renaucourt, et de Marie-Françoise Justine de Clermont d'Amboise, le 30 mai 1702. Lacunes diverses pour les années 1700, 1718 et 1720, comblée en partie par les registres déposés par le greffe du tribunal de Gray aux Archives départementales. </unittitle>
+                     <unitdate normal="1700/1720">1700-1720</unitdate>
+                     <physdesc>
+                        <extent>1 registre factice relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 11</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial de Roche-et-Raucourt : baptêmes, mariages, sépultures (1721-1726 ; certificat pour Claude Bourbon de Raucourt, baptisé le 15 avril 1726, reconnu en 1757 ; sur un feuillet indépendant une note moderne indique que les registres pour 1727 et 1728 ont toujours manqué ; 1731-janvier 1732 ; 1729-1730 ; 1732-1740). Lacunes pour les années 1727 et 1728 ; pour 1727, cette lacune est comblée par les registres déposés par le greffe du tribunal de Gray aux Archives départementales. </unittitle>
+                     <unitdate normal="1721/1757">1721-1757</unitdate>
+                     <physdesc>
+                        <extent>1 registre factice relié et 1 pièce papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 12</unitid>
+                     <unitid>GG4</unitid>
+                     <unittitle>Registre paroissial de Roche-et-Raucourt : baptêmes, mariages, sépultures (1741-1754 ; 1755 ; sur un formulaire imprimé : dispense de ban accordée pour un mariage par l'évêque de Langres, le 4 février 1755 ; 1756-1757 ; 1758, un acte d'avril, un acte de juin, copies conformes de l'an X, janvier-décembre ; 1759-1760). Pour certaines années le greffe du bailliage de Langres donne un reçu pour les doubles des registres qui y sont déposés. Parmi ces actes, on remarque le mariage d'Armand-Jean-Baptiste "d'Arnoud", seigneur de Fontenay de la baronnie de Fouvent-le-Châtel et de Jeanne-Françoise Poncelin, fille du seigneur de Raucourt, le 21 décembre 1750 (cf. Archives départementales de la Haute-Saône, B 2682, 2719, Arnaud-Léon d'Arnoult, dit de Fontenay, seigneur.) ; et le décès de François-Ignace Poncelin, seigneur de Raucourt, 1er juillet 1760. </unittitle>
+                     <unitdate normal="1741/1802">1741-1802</unitdate>
+                     <physdesc>
+                        <extent>1 registre factice relié et 10 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 13</unitid>
+                     <unitid>GG5</unitid>
+                     <unittitle>Registre paroissial de Roche-et-Raucourt et du Moulin de Tharey de cette commune : baptêmes, mariages, sépultures (1761, janvier-avril "extrait de l'ordonnance de Monseigneur l'Archevêque (de Langres) du 7 mai 1761 au sujet de la cloche de Raucourt", juin-décembre ; 1762 ; 1763, janvier-mai, bénédiction d'une croix "devant la chapelle Saint-claude" le 8 mai, mai-décembre ; 1764-1768 ; 1769, janvier-décembre, sur un feuillet indépendant ; baptêmes de Reine, fille d'Etienne Idel, meunier au moulin de Tharey, paroisse de Roche ; 1770-1779 ; 1780, janvier-décembre, acte de sépulture de Pierre Champonois, soldat au Régiment de Metz, décédé à l'Isle-Saint-Domingue (ou Haïti), le 6 septembre 1780. Parmi ces actes, on remarque le mariage de Pierre Frémy, fils du seigneur d'Argillières, avec Christiane-Marie-Ignace Poncelin, fille du seigneur de Raucourt, le 8 mai 1771. Pas d'actes pour le mois de mai 1761. </unittitle>
+                     <unitdate normal="1761/1780">1761-1780</unitdate>
+                     <physdesc>
+                        <extent>1 registre factice relié, 1 pièce papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 14</unitid>
+                     <unitid>GG6</unitid>
+                     <unittitle>Registre paroissial de Roche-et-Raucourt et du moulin de Tharey : baptêmes, mariages, sépultures (1781-1783 ; 1785, janvier-décembre, acte de sépulture de Pierre Camus, soldat au régiment de Metz, décédé à la Martinique le 26 septembre 1785 ; 1786 ; 1784 ; 1787-1788 ; 1789, janvier-octobre, table alphabétique des naissances ; 1790-1791, table des naissances ; 1792, tables alphabétiques, des naissances, des mariages et des décès). Sur un feuillet indépendant et imprimé, demande de recherche de l'acte de mariage de Jeanne Labrune et de Joseph Roy entre 1765 et 1782, pour Michel Labrune de Chauvirey-le-Vieil (Vesoul, L. Suchaux, 1861). Pas d'actes pour les mois de novembre et décembre 1789. </unittitle>
+                     <unitdate normal="1781/1861">1781-1861</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié et 1 pièce papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 15</unitid>
+                     <unitid>GG7</unitid>
+                     <unittitle>Registre paroissial de Roche-et-Raucourt : répertoire des baptêmes par ordre chronologique (1692-1726 ; 1729-1792) ; répertoire des mariages (1693-1701 ; 1712-1726 ; 1729-1792) ; répertoire des sépultures (1692-1726 ; 1729-1792). Lacunes dans ces répertoires en ce qui concerne les baptêmes, mariages et sépultures pour les années 1727 et 1728 ; en ce qui concerne les mariages pour les années 1692 et 1702 à 1711. </unittitle>
+                     <unitdate normal="1692/1792">1692-1792</unitdate>
+                     <physdesc>
+                        <extent>1 registre factice relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 16</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (le premier feuillet manque ; octobre 1793-an IV) ; à la suite : rôles des réquisitions (an IV-an V) ; extraits des registres préfectoraux, arrêtés du maire, copies de lettres à Monsieur l'Archevêque de Besançon (an VIII-1806) ; à la fin du registre, liste des enfants âgés de 5 à 9 ans (1794) ; tables des livraisons de récoltes aux armées (1794) ; sur un feuillet indépendant : un billet de décharge (1793). </unittitle>
+                     <unitdate normal="1793/1806">1793-1806</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié et 1 pièce papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 17</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal de Roche (an IX-1813), avec copie du décret impérial du 23 septembre 1806 relatif au rattachement de Raucourt à Roche. </unittitle>
+                     <unitdate normal="1801/1815">1801-1815</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 18</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal (1816-1828 ; 1838-22 mars au 6 mai ; 1er mai 1837 au 18 mars 1838). </unittitle>
+                     <unitdate normal="1816/1838">1816-1838</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 19</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1828/1837">1828-1837</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 20</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1838/1842">1838-1842</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 21</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1842/1850">1842-1850</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 22</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1850/1864">1850-1864</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 23</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1864/1879">1864-1879</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 24</unitid>
+                     <unitid>D11</unitid>
+                     <unittitle>Registre des arrêtés du maire. </unittitle>
+                     <unitdate normal="1837/1878">1837-1878</unitdate>
+                     <physdesc>
+                        <extent>1 registre.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 25</unitid>
+                     <unitid>D12</unitid>
+                     <unittitle>Curriculum-vitae de Charles Grapotte, maire de Roche-et-Raucourt, en 1858 ; détail des travaux exécutés dans la commune de Roche-et-Raucourt de 1858 à 1870 et correspondance s'y rapportant ; pièces relatives au nouvel emplacement du cimetière (3 plans) (1866-1867) ; établissement d'un atelier de charité (1861) ; liste des souscriptions pour la société du Prince Impérial (1862, 1866) ; correspondances diverses relatives : aux faits de guerre de 1870, aux résultats et conséquences pour le maire suite aux élections municipales de novembre 1874, au conseil de fabrique de l'église de Roche-et-Raucourt (leg Viard)... et lettres anonymes (1864-1879). </unittitle>
+                     <unitdate normal="1858/1879">1858-1879</unitdate>
+                     <physdesc>
+                        <extent>1 registre.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 42</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1880/1896">1880-1896</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 43</unitid>
+                     <unitid>D10</unitid>
+                     <unittitle>Registre de délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1896/1912">1896-1912</unitdate>
+                     <physdesc>
+                        <extent>1 registre relié. </extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 26</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Agriculture : concours régional agricole (1868) ; entretien des taureaux communaux (1829-1907). </unittitle>
+                     <unitdate normal="1829/1907">1829-1907</unitdate>
+                     <physdesc>
+                        <extent>37 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATIONS FINANCIERES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 27</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs : états de sections (A-H et J-Z). </unittitle>
+                     <unitdate normal="1791">1791</unitdate>
+                     <physdesc>
+                        <extent>1 registre.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 28</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Impôts directs : livre de mutations, 1er volume. </unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                     <physdesc>
+                        <extent>1 registre.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 29</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Impôts directs : livre de mutations, 2ème volume. </unittitle>
+                     <unitdate normal="1818/1830">1818-1830</unitdate>
+                     <physdesc>
+                        <extent>1 registre.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 30</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Impôts directs : livre de mutations. </unittitle>
+                     <unitdate normal="1818/1829">1818-1829</unitdate>
+                     <physdesc>
+                        <extent>1 registre.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 31</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Rôles généraux des 4 contributions de Roche (1865) ; Poids et Mesures (1813, 1814).</unittitle>
+                     <unitdate normal="1813/1865">1813-1865</unitdate>
+                     <physdesc>
+                        <extent>3 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 32</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Garde nationale et sapeurs-pompiers : vente d'une pompe à incendie (1863). &lt;lb/&gt;Faits de guerre : liquidation des dettes pour le service des troupes alliées en 1814-1815 (1817,1819).</unittitle>
+                     <unitdate normal="1817/1863">1817-1863</unitdate>
+                     <physdesc>
+                        <extent>3 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GARDE NATIONALE</subject>
+                     <subject>GUERRE</subject>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 33</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police générale : statut de l'Association des maires de la Haute-Saône (1927-1928) ; liste des étrangers résidant dans la commune de Roche-et-Raucourt (1914-1920) ; renouvellement des cartes d'identité pour les étrangers (1925-1927) ; certificat de travail d'un travailleur espagnol (1827). </unittitle>
+                     <unitdate normal="1914/1928">1914-1928</unitdate>
+                     <physdesc>
+                        <extent>3 cahiers papier, 24 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETRANGER</subject>
+                     <subject>TRAVAILLEUR ETRANGER</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 34</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptabilité. -Comptes de gestion : 1804 ; 1806-1816 ; 1818-1819 ; 1821-1823 ; 1826 ; 1828-1845 ; 1848. Comptes administratifs : 1791 ; 1792 ; 1799 ; 1800 ; 1802 ; 1804 ; 1815 ; 1816 ; 1825 ; 1835-1838 ; 1849 ; 1850 ; 1852 ; 1853 ; 1856 ; 1857 ; 1862. </unittitle>
+                     <unitdate normal="1791/1862">1791-1862</unitdate>
+                     <physdesc>
+                        <extent>43 cahiers papier, 19 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 35</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Edifices communaux : amodiation d'une maison communale (1858) ; travaux de fouilles de la fontaine du château de Raucourt avec captage d'une source pour alimenter celle-ci (avec plan) (1890-1892) ; établissement d'une conduite d'eau et construction de bassins de fontaine à Raucourt avec devis (1859-1860) ; construction d'une fontaine à Roche, avec captage de la source de la "Sacréfontaine" (1821-1857). &lt;lb/&gt;Documents détruits du fait de l'humidité : édifices communaux : réparations et entretiens des édifices communaux de Roche, église, presbytère, maison commune etc. (1792-1887).</unittitle>
+                     <unitdate normal="1821/1892">1821-1892</unitdate>
+                     <physdesc>
+                        <extent>5 plans, 3 cahiers papier, 54 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>FONTAINE</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS, EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 36</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Bois communaux : location de communaux (1808-1909).&lt;lb/&gt;Bois : aménagement des bois communaux de Roche, avec 1 plan (1832-1841) ; repeuplement des terrains déboisés de Roche-et-Raucourt (1833-1837) ; exploitation d'une pépinière dans les bois communaux (1840) ; marché pour l'élagage de coupes (1810-1851) ; liste provisoire des ayants-droits à la répartition de la futaie et du taillis de la coupe affouagère (1851-1907) ; tableaux de rectifications de la liste des affouagistes (1857-1907).</unittitle>
+                     <unitdate normal="1808/1909">1808-1909</unitdate>
+                     <physdesc>
+                        <extent>1 plan, 3 cahiers papier, 140 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FORET COMMUNALE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 37</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Bois : rôle de répartition de la futaie et du taillis de la coupe affouagère (1845-1907) ; soumission pour coupes de bois (1809) ; exploitation de la coupe affouagère de Rancourt (1854-1899) ; exploitation de la coupe affouagère de Roche (1854-1900) ; nettoiement de la coupe affouagère (1810-1866) ; marché pour la façonnage des bois morts gisant dans les coupes (1847-1848) ; vente de menus produits (1811-1812) ; marchés pour les menus bois (1844) ; P.V. de délits dans les bois (1868).&lt;lb/&gt;Eaux : recherche de sources pour distribution d'eau potable à Raucourt (1887) ; établissement d'un puits à Raucourt (1897) ; concessions d'eau (1855-1896) ; location des boues des fontaines (1825-1896).&lt;lb/&gt;Propriétés et droits divers : concessions de cimetière (1869-1908).</unittitle>
+                     <unitdate normal="1810/1908">1810-1908</unitdate>
+                     <physdesc>
+                        <extent>1 cahier papier, 310 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                     <subject>CONCESSION FUNERAIRE</subject>
+                     <subject>EAU POTABLE</subject>
+                     <subject>PUITS</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIES, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 38</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine : acquisition d'un terrain pour élargir la principale rue de Raucourt (1860) ; location d'un chemin communal (1843) ; travaux et entretien de rigoles pavées (1860).&lt;lb/&gt;Petite voirie : classement des chemins vicinaux de grande et petite communications (1837 ; 1839 ; 1867) ; budget pour l'entretien des chemins de grande communication (1854) ; plan du chemin de grande communication n°1 de Dampierre/Salon à Jussey. &lt;lb/&gt;Chemin de grande communication n°2 de Cintrey à Vaîte : travaux, réparations (1824 à 1845) ; comptes des recettes et dépenses (1851-1867) ; comptes définitifs des travaux exécutés (1837-1850) ; prestations en nature (1837-1856).&lt;lb/&gt;Chemin de grande communication n°5 d'Oiselay à la Haute-Marne : projet d'élargissement (1882) ; indemnités dues aux particuliers relatives à l'élargissement (1837-1843) ; rachat du pont à péage de Seveux (1884) ; vente de parcelles par la commune prolongeant le chemin vicinal (1843, 1844) ; vente d'arbres nuisant au chemin (1883) ; dépenses pour la construction et l'entretien du chemin (1840-1845).&lt;lb/&gt;Petite communication : état des chemins vicinaux (1824-1882) ; vente par la commune d'un terrain sur chemin vicinal à un propriétaire de Roche (1836) ; entretien et réparations des chemins vicinaux de la commune (1824-1856) ; subventions accordées à la commune pour l'entretien des chemins vicinaux (1836 ; 1858-1888) ; ouverture de crédits pour payer les indemnités des agents voyers (1859) ; prestations en nature et en tâches (1837-1872).&lt;lb/&gt;Navigation : curage du Vannon (1911) ; contentieux entre la commune et M. de Chabrilland au sujet du curage du Vannon (1900-1907).</unittitle>
+                     <unitdate normal="1824/1911">1824-1911</unitdate>
+                     <physdesc>
+                        <extent>204 pièces papier, 7 cahiers papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 39</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte catholique : legs de M. Viard à la fabrique. </unittitle>
+                     <unitdate normal="1873/1876">1873-1876</unitdate>
+                     <physdesc>
+                        <extent>22 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                     <subject>DONS-ET-LEGS</subject>
+                     <subject>FABRIQUE D'EGLISE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, SCIENCES, LETTRES ET ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>448 Edepot 41</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Instruction publique : projet de construction d'une maison d'école (1892) ; amodiation d'une maison devant servir de maison d'école à Raucourt (1868, 1878, 1895). </unittitle>
+                     <unitdate normal="1868/1895">1868-1895</unitdate>
+                     <physdesc>
+                        <extent>4 pièces papier.</extent>
+                     </physdesc>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECOLE</subject>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

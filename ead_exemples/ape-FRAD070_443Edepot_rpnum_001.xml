@@ -1,0 +1,594 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_443Edepot_Archives_communales_déposées_de_La_Grande-Résie" url="https://francearchives.fr/findingaid/af29dd6fd6d044f848a6cf9ba4b604c71e8cd686">FRAD70_443Edepot_Archives_communales_déposées_de_La_Grande-Résie</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>443Edepot - Archives communales déposées de La Grande-Résie</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>443Edepot - Archives communales déposées de La Grande-Résie</unittitle>
+         <unitid>443Edepot1-28</unitid>
+         <unitdate normal="1748/1941">1748-1941</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE DE LA GRANDE-RESIE</corpname>
+         </origination>
+         <note label="note">
+            <p>Avant la révolution, la Grande-Résie dépendait de la paroisse de Vadans. </p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             03/07/2014
+         </p>
+         <p>Dernier ajout le             03/07/2014
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, EAUX ET FORETS, TRAVAUX PUBLICS, VOIRIE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Echange entre le Marquis de Saint-Simon, seigneur de la Grande-Résie et les habitants de la Grande-Résie d’un terrain en friche contre un droit dans les bois de la commune (1762-1784 ; expédition de 1846) ; expédition de règlement des coupes et appositions des quarts en réserve de la commune (1748).</unittitle>
+                     <unitdate normal="1748/1848">1748-1848</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION COMMUNALE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 2</unitid>
+                     <unitid>BB1</unitid>
+                     <unittitle>Registre contenant des lettres patentes du roi et des proclamations.</unittitle>
+                     <unitdate normal="1789/1790">1789-1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 3</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Registre des décrets de l’Assemblée nationale, des proclamations et lettres patentes du Roi, délibérations et ordonnances des administrateurs des départements et districts ou de leurs directions et des délibérations du conseil municipal de la Grande-Résie.</unittitle>
+                     <unitdate normal="1790">1790</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 4</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre des délibérations du conseil municipale de la Grande-Résie (an II-1837) ; à la fin du registre : états des enfants de la Grande-Résie qui ont été vaccinés (1818-1838).</unittitle>
+                     <unitdate>An II-1838</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 5</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Délibérations du conseil municipal de la Grande-Résie.</unittitle>
+                     <unitdate normal="1835/1909">1835-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 6</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Registre des arrêtés du maire de la Grande-Résie (1808-1876) ; à la fin du registre, recettes et dépenses (1832-1840).</unittitle>
+                     <unitdate normal="1808/1876">1808-1876</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 7</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Administration de la commune : lettre adressée au maire de la Grande-Résie sur la tenue des archives communales (1884-1909) ; inventaire des papiers et autres effets déposés à la maison commune de la Grande-Résie (1828-1859).</unittitle>
+                     <unitdate normal="1828/1909">1828-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 8</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Extraits des registres des actes d’Etat civil (an III-1881) ; tableaux des mariages, divorces et naissances (1905) ; dossier concernant la recherche de l’acte de naissance des Sieurs Biget et Lecomte (1873) ; acte de décès du Sieur Collier (1872) ; lettre du receveur de l’enregistrement au maire de la Grande-Résie au sujet de la tenue du répertoire des actes d’Etat civil (1830) ; lettre du procureur impérial au maire de la Grande-Résie dans laquelle les irrégularités et contraventions sur les registres de l’Etat-civil sont indiquées (1854) ; extrait des minutes du Greffe du Tribunal civil de première instance séant à Gray relatif à une erreur de date sur un acte de décès (1893) ; circulaire du Garde des Sceaux aux officiers d’Etat civil concernant les dispositions à prendre lorsque les sujets italiens veulent contracter un mariage en France (1876) ; admission de la fille Bouquier aux soins de la sage-femme de la Grande-Résie (1813) ; lettre du procureur du Roi au maire de la Grande-Résie concernant l’approvisionnement de papier pour les registre d’Etat civil (1835).</unittitle>
+                     <unitdate>An III-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION, ECONOMIE SOCIALE, STATISTIQUES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 9</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Population : mouvement de population (1852-1872) ; dénombrement de la population de la Grande-Résie (1836-1856 ; 1872-1906) ; changement du nombre d’habitants dans la commune (1826).&lt;lb/&gt;Commerce et industrie : demande de renseignements sur les industries de la commune (1812) ; statistique ouvrière (1884).&lt;lb/&gt;Agriculture : recensement des récoltes en grains et autres farineux (1859) ; autorisation accordée aux communes du canton de Pesmes de cultiver le tabac (1862) ; délivrance du permis de culture du tabac (1874) ; lettres des maires de Malans et Pesmes au maire de la Grande-Résie relatives au bienfait de la culture du tabac dans la région (1876-1884) ; enquête sur l’exploitation du monopole des tabacs et des poudres (1873) ; lettres annonçant le début de l’inventaire des feuilles de tabacs (1874-1875) ; envoi de poison pour la destruction des loups dans la commune (1815) ; autorisation accordée à la commune de la Grande-Résie d’exterminer les animaux nuisibles dans les bois (1883).</unittitle>
+                     <unitdate normal="1812/1906">1812-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS, ADMINISTRATION FINANCIERE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 10</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Impôts directs : tableau comparatif des évaluations des maisons et usines dans les communes composant le canton de Pesmes ; lettre de Maître May avoué à Gray demandant au maire de la Grande-Résie, un extrait de la matrice cadastrale de la commune (1876) ; réclamation de la matrice cadastrale et de la matrice générale de la commune par le contrôleur des contributions directes (1875) ; matrice des propriétés bâties et non-bâties (1791) ; matrice générales des contributions directes (1829-1838) ; arrêté préfectoral rendant exécutoire les rôles de patentes (1816-1817) ; lettre ordonnant la confection d’un rôle du toisé des maisons de la Grande-Résie (1808) ; toisé des bâtiments de la commune de la Grande-Résie (an II-1824) ; modèles des contributions foncières, personnelles et mobilières, portes et fenêtres (1808) ; matrice de rôle pour la contribution foncière (an VII) ; relevé de la contribution foncière de la Grande-Résie pour servir à la répartition des réquisitions (1814) ; lettre accompagnant les rôles des trois contributions (1814) ; contributions foncières (1794-1822) ; contributions mobilières et personnelles (1791-1818) ; matrices de rôle pour les contributions personnelles et mobilière (an V) ; dégrèvement de cotisations (1809) ; mandements pour les contributions foncières, personnelles et mobilières et des portes et fenêtres (1899-1905) ; notice explicative pour la rédaction des procès-verbaux de pertes (1874).&lt;lb/&gt;Rapports de la commune avec les administrations au point de vue financier : états généraux des contribuables de la Grande-Résie (1792-1793) ; correspondance entre le contrôleur des contributions et le maire de la Grande-Résie au sujet de l’imposition au rôle des chevaux et voiture de luxe en 1876.</unittitle>
+                     <unitdate normal="1791/1905">1791-1905</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 11</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Recrutement : tableaux de recensement (an X-an XI ; 1806 ; 1812-1814 ; 1816-1822 ; 1824-1826 ; 1828 ; 1830-1852 ; 1855-1864 ; 1866-1879) ; spécimen du registre à souche destiné à recevoir la déclaration des hommes quittant ou arrivant dans une commune (1875) ; avis d’inscription sur les tableaux de recensement de la commune de Mutigney et Jacquemaye (1834-1881) ; registre des instructions sur la formation des tableaux communaux des citoyens mobilisables (s.d.) ; révision de l’armée territoriale (1874) ; états nominatifs des jeunes gens de la commune étant inscrits sur les listes du contingent départemental de la Garde-nationale mobile (1846-1867) ; désignation provisoire des jeunes gens devant compléter le contingent du quatrième régiment des gardes d’honneur à Lyon (1813) ; nomination du sieur Petitpain dans les troupes du Roi (1812) ; liste présentée par le conseil municipal de la Grande-Résie des membres pris dans son sein pour former le conseil de recensement de la Garde-nationale mobile (1870) ; liste nominative des gardes nationaux mobilisés inscrits (1870) ; élection de sous-officiers et officiers de la Garde-nationale mobile (1870) ; dépenses d’habillement faites par les communes pour la Garde-nationale mobile (1873-1879) ; appel du sieur Morillon à la réserve (1808) ; tableau d’exception concernant les citoyens exempts de service national (an X) ; demande d’un acte de mariage pour prendre en considération la demande dispense du service d’activité par le sieur Dagonnaux (1875) ; état nominatif des militaires jouissant de la solde de retraite et du traitement de réforme dans la commune de la Grande-Résie (1817) ; pensions des militaires émigrés (1814) ; correspondance relative au recrutement du Sieur Garnier (1883) ; réunion de militaires ayant quitté leurs corps (1814) ; prélèvement d’une somme chez les propriétaires les plus imposés du département afin de soigner les blessés (1814).</unittitle>
+                     <unitdate>An X-1883</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECRUTEMENT MILITAIRE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 12</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Administration militaire : cantonnement de troupes de passage (1814-1831) ; notification d’un jugement militaire (1836) ; vérification des listes de recensement des denrées alimentaires et des moyens de transport en cas de mobilisation (1890) ; réquisitions de vivres, de matériaux, de chevaux et voitures (1813-1815) ; confirmation apportée par le maire de la Grande-Résie que le Sieur Mousion a perdu un cheval en raison des réquisitions (1816) ; bordereau énumératif des pièces justificatives des habitants de la commune de la Grande-Résie qui ont droit au paiement de prestations fournies à l’autorité militaire par suite de réquisitions (1823) ; répartition par arrondissement, canton et commune de la somme relative aux réquisitions (1813). Réception de chevaux réquisitionnés pour le train d’artillerie (1813) ; mandat délivré aux Sieurs Clément et Labru pour la fourniture d’avoine pour les besoins de l’armée (an XIV) ; recensement et classement de chevaux, juments, poulains, pouliches, mulets et mules (1874-1906) ; demande de personnel pour l’hôpital militaire de Gray (1814).</unittitle>
+                     <unitdate>An XIV-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ORGANISATION DE L'ARMEE</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 13</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Garde-nationale : organisation de la Garde-nationale de la Grande-Résie (1817) ; refus du sous-préfet de changer l’organisation de la Garde-nationale (1817) ; listes et tableaux de recensement de la Garde-nationale (1831) ; fixation du nombre d’hommes appelés à former la cohorte de mille hommes pris sur la Garde-nationale (1809) ; lettres relatives au tirage au sort des membres devant composer le jury de révision de la Garde-nationale (1834-1835) ; instructions sur les élections de la Garde-nationale (s.d.) ; instructions sur l’exécution de l’article 2 de la loi du 19 avril 1832 (1832) ; élection de sous-officiers et officiers de la Garde-nationale (1831-1848) ; registres matricules et générales de la Garde-nationale (1831) ; vote du conseil municipal pour l’achat d’un drapeau tricolore pour la Garde-nationale et récompense pour les blessés, veuves et orphelins des journées de juillet (1830). &lt;lb/&gt;&lt;lb/&gt;Mesures d’exception et faits de guerre : répartition d’une somme accordée pour secours aux habitants qui ont éprouvé des pertes sur les invasions alliées (1816-1841) ; estimation du bétail de la commune de la Grande-Résie requis pendant l’invasion allemande (1871) ; pertes subies par les habitants d’Aubigney pendant l’invasion (1871) ; conflit entre la commune et le Sieur Dagonnaux au sujet d’une paire de bœufs réquisitionnés par l’armée allemande (1872) ; indemnisation pour dommages de guerre (1872-1874) ; états des pertes subies par les réquisitions allemandes (1873) ; fourniture de viande pour l’armée allemande (1875) ; rationnement (1940-1941).</unittitle>
+                     <unitdate normal="1809/1941">1809-1941</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GARDE NATIONALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE, HYGIENE PUBLIQUE, JUSTICE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 14</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale : mort du duc d’Orléans (1842) ; allocution du Maréchal Pétain (1940 ; 30 octobre) ; création de deux nouvelles foires (1874) ; état des mendiants et indigents de la commune de la Grande-Résie (1840). Répartition de sommes pour travaux d’utilité servant à payer les ouvriers indigents (1854-1855) ; demande d’autorisation de réunir le conseil municipal suite à l’incendie qui s’est déclaré dans la commune (1881) ; répartition de deux cents francs aux habitants les plus nécessiteux (1816) ; secours adressé à une habitante de la Grande-Résie pour la reconstruction de sa maison détruite par un incendie (1808) ; attribution d’une somme en guise de secours à une sage-femme ne pouvant exercer sa profession en raison de son âge (1827) ; procuration par la commune d’une boussole contre les incendies (1819).&lt;lb/&gt;Police rurale : demande d’autorisation de la part des fermiers de la Grande-Résie de conserver en ban pour porter regain la totalité de leurs prairies (1808-1816).&lt;lb/&gt;Police générale : envoi de la signature du sous-préfet de Gray au maire de la Grande-Résie (1817) ; demande de renseignements concernant le Sieur Druinot et sa femme Periaud accusés de tentative d’homicide volontaire (1816) ; demandes de renseignements (1874-1875) ; passeports et souches de passeports (1808-1842) ; circulaire du procureur de la République concernant l’interdiction d’affichage des nouvelles politiques (1875) ; lettre adressée au maire de la Grande-Résie afin de provoquer une souscription à l’effet d’élever un monument aux compatriotes morts au siège de Belfort (1872) ; appel de la société de secours aux blessés aux communes (1878) ; surveillance des étrangers circulant sans passeport et des militaires quittant l’armée sans permission (1813) ; surveillance des habitants étrangers capables de semer le désordre dans le royaume (1815) ; circulaire adressée aux maires relative à la surveillance des voies ferrées pendant la période de tension politique qui doit précéder la mobilisation (1888-1889) ; circulaire du sous-préfet concernant l’instruction à prendre pour enrayer le trafic de la farine (1817).&lt;lb/&gt;Justice : certificat de bonne conduite (1837) ; demande de notification de jugement concernant une expropriation (1862) ; liste générale du jury (1829-1872) ; pièce concernant le transport de prévenus en voiture (1860) ; copie d’exploit d’huissier relative au conflit apposant le Sieur Amiot au Sieur Guichard pour non paiement de loyer de terre (s.d.).&lt;lb/&gt;Hygiène et salubrité : souscription publique de l’Institut Pasteur (1886) ; circulaire du Préfet ordonnant l’exécution de l’arrêt préfectoral relatif au cas d’hydrophobie dans le département de la Haute-Saône (1881) ; lettre du préfet de la Haute-Saône concernant la demande faite par le sieur Millot pour l’internement de sa fille dans un asile (1886). Epizootie (1872) ; lettre adressée au maire de la Grande-Résie demandant le vote d’une somme complémentaire pour la médecine gratuite (1874).</unittitle>
+                     <unitdate normal="1808/1889">1808-1889</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>HYGIENE</subject>
+                     <subject>JUSTICE</subject>
+                     <subject>POLICE MUNICIPALE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS ET PERSONNEL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 15</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Elections : listes des électeurs municipaux et politiques (1831 ; 1835-1836 ; 1838-1842 ; 1844-1848 ; 1853-1859 ; 1870-1908) ; réclamation du Sieur Yarrot qui demande à ne pas être porté sur la liste électorale de la Grande-Résie (1874) ; listes des électeurs appelés à élire les membres renouvelables du tribunal de commerce (1851 ; 1884-1886 ; 1888-1899 ; 1901-1908) ; listes générales des électeurs appelés à concourir à la nomination des représentants du peuple (1850-1852) ; listes des électeurs appelés à concourir à l’élection des députés au corps législatif (1852 ; 1869-1870 ; 1874 ; 1876-1877 ; 1881 ; 1885 ; 1888-1889 ; 1893 ; 1897-1898 ; 1902 ; 1906-1907) ; listes des électeurs appelés à concourir à la nomination des membres du conseil général et du conseil d’arrondissement (1848-1901).</unittitle>
+                     <unitdate normal="1831/1908">1831-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 16</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections : vote pour le rétablissement de l’Empire (1852) ; vote général pour l’élection  du Président de la République et la délégation des pouvoirs (1851) ; plébiscite du 8 mai 1870 ; P. V. d’élection de députés au corps législatif (1852 ; 1857 ; 1870 ; 1874 ; 1876-1877 ; 1881 ; 1885 ; 1888-1889 ; 1893 ; 1897-1898 ; 1902 ; 1906-1907) ; feuilles de dépouillement pour l’élection de députés à l’Assemblée nationale (1874-1907) ; lettre de Auguste Mamlaz pour l’élection de 1849 ; listes de scrutin pour l’élection au conseil général et au conseil d’arrondissement (1871-1907) ; élections de membres du conseil général et des membres du conseil d’arrondissement (1861 ; 1870-1871 ; 1874 ; 1880 ; 1886 ; 1892 ; 1898-1901 ; 1904-1905 ; 1907) ; feuilles de dépouillement pour l’élection de membres du conseil général et de membres du conseil d’arrondissement (1861-1907) ; listes de scrutin pour l’élection de membres du conseil municipal (1874-1908) ; élections des membres du conseil municipal (1840-1908) ; feuilles de dépouillement pour l’élection de membres du conseil municipal (1870-1908) ; installation du conseil municipal et élection du maire de la Grande-Résie (1831-1909) ; remplacement de deux membres du conseil municipal (1811) ; réclamations déposées sur le bureau du conseil de préfecture relative aux vices de forme relevés dans les élections de la commune (1874-1907) ; démissions de membres du conseil municipal (1834-1882). Arrêtés du Sous-préfet ordonnant la réélection de personnes qui ont été élues illégalement (1872-1906) ; récépissé des procès-verbaux des élections municipales (1892-1907) ; nomination du maire par le Préfet (1807-1821) ; embarras pour la nomination du maire de la Grande-Résie  en remplacement de l’autre démissionnaire (1817) ; révocation de l’adjoint au maire de Sauvigney-lès-Pesmes (1815) ; demandes de renseignements au Sous-préfet de Gray concernant la révision des listes électorales (1877-1886) ; transmission de l’ordonnance royale par le préfet de la Haute-Saône concernant la convocation des collèges électoraux (1827).&lt;lb/&gt;Personnel communal : nomination de pâtres (1829-1894) ; nomination d’un auxiliaire de perception (1839) ; nomination provisoire du percepteur de la commune (1810) ; liste de nomination des commissaires répartiteurs pour la commune de la Grande-Résie (1818-1872) ; proposition de nomination de garde-champêtre refusée par l’administration des forêts (1874) ; nomination de garde-champêtre (1822-1875) ; nomination d’un garde de bois (1835) ; réorganisation du service forestier dans l’arrondissement de Gray (1834-1883) ; démission du garde-champêtre de la Grande-Résie et nomination de son successeur (1822) ; arrêté préfectoral relatif au paiement d’une portion du salaire du chantre par la commune de la Grande-Résie (1851) ; traitement du receveur (1876) ; paiements des gages du garde-champêtre de la commune (1812) ; lettre du maire de Pesmes au maire de la Grande-Résie lui demandant la réunion des officiers des corps ; des officiers en congé et des agents forestiers pour prêter serment (1830) ; lettre du procureur du Roi au maire relative à l’envoi tardif d’un procès-verbal du garde champêtre de la commune (1835).</unittitle>
+                     <unitdate normal="1807/1909">1807-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 17</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptabilité : budgets de la commune de la Grande-Résie (an II-1812 ; 1826-1870) ; comptes de gestion (1826-1833 ; 1837-1859 ; 1866-1875 ; 1880-1888 ; 1906) ; arrêtés de comptes de gestion (1851-1858).</unittitle>
+                     <unitdate>An XI-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                     <genreform>BUDGET</genreform>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 18</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Comptabilité : état de situation des recettes et dépenses de la commune de la Grande-Résie (an VIII-1837) ; délibérations du conseil municipal pour le règlement  définitif des recettes et dépenses (1836 ; 1863 ; 1871 ; 1875 ; 1880-1881 ; 1883-1886 ; 1888 ; 1893 ; 1897) ; comptes des recettes et des dépenses présentés au conseil municipal de la commune (1807-1850) ; comptes de recettes et des dépenses présentés au conseil de Préfecture (1810-1855) ; erreur financière et fausse application de l’inscription au budget des communes (1857) ; état des dettes de la commune (1816) ; décompte des remises servant de base à la fixation du traitement du receveur (1867-1873). Arrêté du maire ordonnant au receveur général de remettre au percepteur de la commune une certaine somme pour dépenses communales (1824-1829).&lt;lb/&gt;Revenus et charges de la commune : remboursement de l’emprunt souscrit par la commune (1875) ; produit des ventes des bois communaux (1823-1824) ; compte à la caisse d’amortissement relatif au produit des bois communaux (1816) ; conversion facultative des rentes des communes (1862).</unittitle>
+                     <unitdate>An VIII-1897</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES COMMUNAUX, MONUMENTS ET ETABLISSEMENTS PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 19</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Etablissements municipaux : établissement d’une salle pour la mairie de la Grande-Résie (1876).&lt;lb/&gt;Eglise : construction d’une croix en pierre de taille destinée à être posée en la commune de la Grande-Résie (1829) ; arrêté préfectoral concernant les travaux à l’église paroissiale de Vadans (1858) ; reconstruction des murs d’enceinte et réparations à l’église de la Grande-Résie (1857).&lt;lb/&gt;Presbytère : minute de notaire concernant la reconstruction de la maison curiale de Vadans ainsi que l’aide apportée par la Garnde-Résie à la commune de Vadans (1882) ; loyer de presbytère (1853-1882).&lt;lb/&gt;Ecoles : réparations à la maison commune et au logement de l’instituteur de la commune (1821-1835) ; réparations à la maison commune et aux fontaines de la commune (1855-1862) ; réparations du pont "du Paquier" et de la maison commune (1840) ; procès verbal de reconnaissance des travaux aux fontaines et à la maison commune (1824) ; demande de secours pour effectuer les réparations à la salle d’école et au logement de l’instituteur (1834) ; prélèvement d’une somme sur les fonds provenant de coupes de quart en réserve destiné au paiement des Sieurs Nicolin et Giroud pour les travaux qu’ils ont exécutés dans la commune (1823) ; souscription de billets à ordre en paiement de marchandises (1877).</unittitle>
+                     <unitdate normal="1821/1882">1821-1882</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECOLE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BIENS COMMUNAUX, TERRES, BOIS ET EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 20</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Biens communaux : registre sur les biens communaux (an II-1830) ; autorisation donnée à la Grande-Résie de poursuivre en justice le Sieur Beuchey pour anticipation sur un terrain communal (1835) ; lettre relative aux partages des biens communaux (1807-1808) ; partage des biens communaux (s.d.). Lettre du maire de la Grande-Résie relative à la propriété d’un fossé (1829) ; conflit opposant deux particuliers de la Grande-Résie au sujet d’un fossé mitoyen (1843) ; amodiation de terres communales (1835) ; amodiation de parcelles de terre (1876) ; ventes de terres (1876-1883) ; maintient de la vaine pâture (1889-1890) ; autorisation de maintenir le pâturage dans des bois (1824).</unittitle>
+                     <unitdate>An II-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+               </c>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 21</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Bois : réclamation adressée au Préfet au sujet des ayant droits à l’affouage (1841-1897) ; notification de la requête du Sieur Landry concernant la demande d’une portion d’affouage (1897) ; remise de l’affouage (1815-1845) ; marché d’exploitation (1806-1908) ; ventes de bois de futaie (1869-1907) ; ventes d’ételles (1872-1885) ; vente de chablis (1897) ; ventes de bois de toutes natures (1807-1860) ; adjudication de l’élagage et façonnage en fagots, des biens branches et accrues qui gênent le cours des ruisseaux des Près (1852) ; extrait des minutes de la mairie de la Grande-Résie relatif à l’adjudication de chablis rompus par l’orage dans les bois communaux (1806) ; demande de délivrance d’un arbre déraciné (1880) ; demande de délivrance de bois mort (1880) ; demande de délivrance de chablis de la coupe (1889) ; délivrance de chablis à la commune (1818-1824) ; délivrance de ramilles (1890) ; autorisation donnée à la commune d’obtenir la délivrance de futaie dans les coupes communales (1816) ; lettre de l’inspecteur des forêts aumaire de la Grande-Résie dans laquelle il signale l’abolition de la délivrance de futaie (1815) ; autorisation donnée au maire de couper les futaies viciées et dépérissantes dans les coupes ordinaires du bois (1808-1816) ; délivrance du bois à provenir de l’ouverture du chemin vicinal de Vadans à Montseugny dans le bois de la Grande–Résie (1812) ; réponse à une lettre du maire au sujet de la délivrance de l’assiette de 1825 ; lettre autorisant la vent de l’assiette de 1809 (1807-1808) ; rôle pour l’assiette de 1819 ; élagage sur les chemins de la commune (1863-1901) ; adjudication au rabais de l’abattage, équarrissage, ébranchage et transport des arbres marqués pour le service de la marine(1813) ; état des pièces rebutées à la découpe (1825-1827) ; état des perches et chablis détruits par l’orage dans les bois de la Grande-Résie (1829). Etat d’estimation des produits accessoires délivrés ou cédés dans les bois des communes (1843) ; procès-verbal de reconnaissance des pertes après l’orage qui s’est abattu sur la commune (1806) ; procès-verbal de reconnaissance des chablis, volis et bois de délit (1898) ; avertissement donné au maire d’enlever les arbres, souches et ramilles existant sur les accotements et dans les fossés des chemins de la Grande-Résie &lt;lb/&gt;(1891) ; procès-verbal des bois provenant de la commune de la Grande-Résie (1829) ; lettre du Sous-préfet au maire concernant l’autorisation délivrée à la commune d’exploiter des bois taillis secs (1880) ; état des habitants de la commune désirant ramasser l’herbe sèche et du bois mort dans la forêt (1890-1893).</unittitle>
+                     <unitdate normal="1806/1908">1806-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 22</unitid>
+                     <unitid>N3</unitid>
+                     <unittitle>Bois : répartition et distribution de la futaie et du taillis de la Grande-Résie (1838 ; 1840-1841 ; 1859 ; 1861-1908) ; autorisation délivrée au maire d’entreprendre les travaux de la coupe affouagère (1870) ; martelage et balisage des arbres de la commune (1812-1835) ; procès-verbaux d’arpentage dans les bois communaux (1855-1893) ; procès-verbal du garde forestier de la Grande-Résie au sujet de la conduite du bétail dans la forêt communale (1859) ; procès-verbal et actes de notification des quartiers et cantons défensables pour le parcours (1833-1839) ; lettre adressée au Sous-préfet relative au parcours dans les prés de la commune de la Grande-Résie (1832) ; aménagement de la forêt communale (1861) ; lettre adressée au préfet relative à une portion du quart en réserve que les habitants de la Grande-Résie voudraient à leur disposition en dédommagement des pertes subies par les réquisitions (s.d.) ; autorisation donnée au maire de la Grande-Résie de couper le quart en réserve (1817) ; nettoiements périodiques dans le quart en réserve des bois de la commune (1860) ; lettre du Préfet au maire au sujet des dépenses occasionnées par la vacation forestière de 1809 ; lettre du Sous-préfet au maire au sujet de la non-réamodiation du droit de chasse au Sieur Pyot (1840).</unittitle>
+                     <unitdate normal="1809/1908">1809-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 23</unitid>
+                     <unitid>N4</unitid>
+                     <unittitle>Eaux : devis estimatif des réparations à faire aux fontaines de la commune (1836) ; réparations à la fontaine communale de la Grande-Résie (1823-1852) ; reconstruction de la fontaine communale (1899-1900). Promesse de remplacer les pierres de la fontaine au cas où elles gèleraient en hiver (1813) ; autorisation accordée au maire de délivrer un mandat à l’entrepreneur de la fontaine de la commune (1813).</unittitle>
+                     <unitdate normal="1813/1900">1813-1900</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FONTAINE</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>TRAVAUX PUBLICS, VOIRIES, MOYENS DE TRANSPORT, REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 24</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Voirie urbaine : élargissement de la rue de Galéta et de la Grande-Rue à la Résie (1878-1882) ; pièces relatives à la reconstruction du Pont des Paquiers (1823-1832) ; construction d’un pont sur l’Ognon (1878-1892) ; lettre adressée au maire de la Grande-Résie au sujet des ponts de Brésilley et de Malans (1882-1887) ; réparation au pont du chemin vicinal allant à Aubigney (1872) ; reconstruction d’un ponceau à la Grande-Résie (1885) ; reconstruction d’un ponceau sur le ruisseau de Cuves (1852) ; rapport de l’agent voyer relatif à la réclamation du maire concernant les dépôts de bornes raclées que les riverains laissent dans la rue Galeta (1876) ; devis des travaux à effectuer aux rues et aqueducs de la Grande-Résie (1845) ; lettre concernant l’acquisition du terrain du Sieur Landry (1883) ; vente de terrains pour cause d’utilité publique (1883-1888).</unittitle>
+                     <unitdate normal="1823/1892">1823-1892</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 25</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Petite voirie : demande de rectification du chemin de grande communication n°2 sur le territoire de la commune du Tremblois (1881) ; état des contingents d’entretien pour les chemins de grande communication (1874-1875) ; alignement du chemin de grande communication n°22 de Gy à Pontailler (1907) ; alignements, réparations ou modifications sur le chemin vicinal ordinaire de la Grande-Résie à Aubigney (1861) ; état des sommes dues aux propriétaires pour l’élargissement du chemin dit "de Monseugny" (s.d.) ; visite du chemin vicinal de la Grande-Résie à Aubigney à l’effet de reconnaître si les imposés au rôle de prestation avaient effectué leur tâche (1833) ; reconnaissance de chemins vicinaux (1838) ; fourniture de matériaux pour les chemins vicinaux (1813) ; registre des instructions pour l’entretien ou la confection des chemins vicinaux (1838) ; alignement du chemin vicinal n°2 de Dôle à fontaine Française (1894) ; rôle pour la répartition de la réparation de perches du chemin vicinal de la Grande-Résie à Aubigney et à Chevigney (1817) ; travaux à effectuer sur les chemins vicinaux de la Grande-Résie (1839-1874). Adjudication des travaux à effectuer sur le chemin vicinal de la Grande-Résie à Vadans et de la Résie à Chevigney (1842) ; cassage et étendage de pierres sur le chemin vicinal de la Grande-Résie à Chevigney (1849) ; cassage de pierres brutes destinées à être étendues sur le chemin vicinal de Résie à Aubigney (1840-1851) ; ouverture et curage de fossés sur le chemin vicinal de la grande-Résie à Aubigney (1846) ; ouverture de fossés sur le chemin vicinal de Chevigney (1846) ; ouverture de fossés dans la commune (1813) ;  ouverture d’un chemin rural (1883) ; reconnaissance et classement comme chemins ruraux des chemins dits "des Correaux et Montseugny" (1886) ; élargissement du chemin rural n°2 (1888) ; adjudication de travaux sur le chemin dit "de Montseugny" (1890) ; enquête d’utilité publique sur le projet de reconnaissance et de classement de deux chemins ruraux (1886) ; adjudication pour la fourniture de bornes à installer sur les chemins ruraux (1886) ; adjudication de travaux de fourniture (1847-1888) ; état des chemins&lt;lb/&gt;vicinaux établis sur le territoire de la commune de la Grande-Résie (1820) ; état de tous les chemins ruraux de la Grande-Résie (1841) ; ouverture d’un chemin de vidange pour la coupe de 1882 (1883) ; accord entre particuliers de Vadans sur la non-existence d’un fossé longeant le bois de réserve de la Grande-Résie (1846) ; date à laquelle devront commencer les travaux pour la confection de fossés de routes (1817) ; échardonnage et nettoyage des chemins, fossés,  rues de la commune (1899) ; création et emploi de ressources (1852-1903) ; imposition d’une troisième journée de prestations pour la réparation de chemins vicinaux (1874) ; contestation d’un particulier relative à l’imposition sur le rôle de répartition pour la réparation des chemins vicinaux (s.d.) ; arrêté rendant exécutoire le rôle de prestations de la commune (1835) ; extrait du registre des déclarations d’option ouvert à la mairie de la commune en vertu de l’arrêté de publication des rôles de prestation en nature (1837) ; rôles de prestations (1824-1906) ; état des décisions rendues sur réclamations de prestations (1874-1877).</unittitle>
+                     <unitdate normal="1813/1907">1813-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 26</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Grande voirie : demande de remise en état de la route de Vesoul à Auxonne (1813) ; fourniture de matériaux pour la réparation de la route de Gray à Dôle (1813).&lt;lb/&gt;Moyens de transport et travaux divers : lettre du procureur du Roi au maire de la Grande-Résie concernant les poursuites contre des particuliers qui ont violé la loi sur les mines (1835).	&lt;lb/&gt;Régime des eaux : pièces relatives à la construction d’une digue près du quart en réserve de la commune (1843). Plainte contre le moulin d’Aubigney (1853) ; ordonnance royale donnant l’autorisation au Sieur Doumier d’Archiac d’établir un patouillet destiné aux lavages du minerai (1830) ; construction d’un patouillet près de la rivière de la Résie (1833) ; demande du Sieur d’Archiac d’apporter des modifications aux dispositions des ordonnances qui ont autorisé l’installation du moulin et patouillet à la Grande-Résie (1839) ; délibérations prouvant l’utilité et la nécessité d’établir des réservoirs d’épuration pour le lavage des minerais à Valay (1832) ; lettre adressée au maire de la Grande-Résie relative à la construction d’un déversoir à Valay (1834) ; procès-verbal de reconnaissance des travaux du patouillet de la Résie, relatif à la construction du bassin d’épuration (1837-1838) ; construction d’un déversoir et d’un déchargeoir de fond au moulin de la Grande-Résie (1823) ; adjudication pour la construction d’un aqueduc commun aux communes de la Résie et de Chevigney (1846) ; conflit entre la commune de la Grande-Résie et le Sieur Maire au sujet de l’imposition sur le rôle de répartition de la dépense occasionnée par le curage du ruisseau de la Résie (1826) ; dossier concernant le curage du ruisseau de la Grande-Résie dont extrait des minutes du greffe du tribunal de 1ère instance séant à Besançon (1825-1833) ; pièces relatives au conflit entre Valay et la Grande-Résie au sujet de la distance en mètres entre l’usine de Valay et le territoire de&lt;lb/&gt;la Résie en suivant les sinuosités au ruisseau (1826) ; curage du ruisseau des "Fiolles" (1896) ; curage des ruisseaux de "Cuves, des deux près, des cabinets" (1843-1902) ;  curage des ruisseaux et rivières de "Chevigney, la Résie, et la Loye des grenouilles" (1832-1886) ; curage des ruisseaux et fossés du "Ronflans, de l’Etang du gros bois et des deux prés" (1896-1897) ; adjudication du recurement des fossés bordant la prairie dite "les deux prés" (1856) ; adjudication des travaux de repurgement des fossés de "Cuves et des deux prés" (1876) ; curage du fossé "Le paquier des grenouilles" (1803) ; curage du fossé des "Correaux" (1832-1877) ; curage du fossé des "Prés du Décot et des prés des grenouilles" (1898) ; rôles de répartition pour le curage des ruisseaux de la Grande-Résie (1834-1874) ; plainte retirée par le Sieur Landry moyennant la promesse du Préfet de ne point payer les frais dirigés contre lui (1844).</unittitle>
+                     <unitdate normal="1803/1902">1803-1902</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RESEAU ROUTIER</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 27</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Culte catholique : extrait du registre de la fabrique de Vadans (1846) ; circulaires du Préfet concernant les prières publiques qui doivent être dites dans les églises et temples à l’occasion de la rentrée des chambres (1876-1877).</unittitle>
+                     <unitdate normal="1845/1892">1845-1892</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CATHOLICISME</subject>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE, ARTS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>443 Edepot 28</unitid>
+                     <unitid>R1</unitid>
+                     <unittitle>Lettre de l’inspecteur primaire au maire lui demandant des copies de pièces justificatives en vue d’obtenir une subvention pour la création d’une caisse des écoles (1882) ; arrêté municipal relatif à la création d’une caisse des écoles (1882) ; circulaire concernant la création d’un emploi de maîtresse de travaux à l’aiguille dans les école mixtes (1872) ; autorisation accordée au Sieur Baillard de garder sa fille chez lui pour l’aider aux travaux agricoles (1883) ; mise à la disposition de la commune d’une somme pour améliorer le système scolaire (1881) ; désignation de membres de la commission scolaire (1882) ; lettre de l’inspecteur primaire au maire lui demandant de voter une somme pour créer une bibliothèque populaire (1881) ; renouvellement de mobiliers scolaires (1873) ; confection de mobilier scolaire (1845-1892).</unittitle>
+                     <unitdate normal="1845/1892">1845-1892</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ENSEIGNEMENT</subject>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

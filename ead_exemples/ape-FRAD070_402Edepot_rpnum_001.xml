@@ -1,0 +1,1452 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511">
+      <eadid countrycode="FR" identifier="FRAD70_402Edepot_Archives_communales_déposées_d'Oyrières" url="https://francearchives.fr/findingaid/7eafb1c42d76659bb91278badc334e2c0800b83d">FRAD70_402Edepot_Archives_communales_déposées_d'Oyrières</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>402Edepot - Archives communales déposées d'Oyrières</titleproper>
+            <subtitle>Sous série</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Archives Départementales de la Haute-Saône</publisher>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+            <date normal="2017-03-08">Le 08/03/2017</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Instrument de recherche encodé suivant la DTD/EAD par le logiciel Avenio  Version 10.5.12hf11 de la société Di'X</creation>
+         <langusage>Instrument de recherche rédigé en             <language>Français</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="fonds">
+      <did>
+         <unittitle>Série Edepot</unittitle>
+         <unittitle>ARCHIVES COMMUNALES DEPOSEES. ARCHIVES DES INTERCOMMUNALITES.</unittitle>
+         <unittitle>402Edepot - Archives communales déposées d'Oyrières</unittitle>
+         <unitid>402Edepot1-50</unitid>
+         <unitdate normal="1678/1960">1678-1960</unitdate>
+         <physdesc>
+            </physdesc>
+         <repository>
+            <corpname>Archives Départementales de la Haute-Saône</corpname>
+            <address>
+               <addressline>14B rue Miroudot St </addressline>
+               <addressline>Ferjeux</addressline>
+               <addressline>70000 VESOUL</addressline>
+            </address>
+         </repository>
+         <origination label="producteur">
+            <corpname>COMMUNE D'OYRIERES</corpname>
+         </origination>
+         <note label="note">
+            <p>(1) Voir 402 E dépôt 9/D5, état des réquisitions (1870).
+(2) Voir 402 E dépôt 6/D2, déclarations de grossesse (1817-1823) ; 402 E dépôt 32/I2, liste nominative des familles indigentes (1846) ; 402 E dépôt 47/P1, legs aux pauvres (1832-1858).
+
+
+Sources complémentaires aux Archives Départementales de la Haute-Saône :
+B 8694-8695, justice seigneuriale (1734-1790).
+C 14, réparations au presbytère (1685-1743).
+C 153, comptes ; reconnaissance des travaux à faire à l'église, au presbytère, aux fontaines ; curage des fossés (1761-1789).
+E 871, compte d'échevin (1789).
+E 942, vente des terres et seigneurie d'Oyrières et Ecuelle (1719).
+H 417, archives de l'abbaye de Theuley concernant Oyrières (1182-1361).
+286 L 1, 368 L 76,349 et 384, époque révolutionnaire.
+3 O 416, travaux communaux (depuis 1828).</p>
+         </note>
+      </did>
+      <acqinfo>
+         <head>Modalités d'entrée</head>
+         <p>Dépôt du             28/04/2004
+         </p>
+         <p>Dernier ajout le             28/04/2004
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Archives publiques</p>
+      </accessrestrict>
+      <bioghist>
+         <head>Sommaire</head>
+         <p/>
+         <p/>
+         <p/>
+         <p>ARCHIVES ANCIENNES</p>
+         <p> BOIS COMMUNAUX (1748-1771)</p>
+         <p>  402 Edepot 1</p>
+         <p> CULTE (1678-1792)</p>
+         <p>  402 Edepot 2-4</p>
+         <p>ARCHIVES MODERNES</p>
+         <p> ADMINISTRATION GENERALE DE LA COMMUNE (1816-1960)</p>
+         <p>  402 Edepot 5-14</p>
+         <p> ETAT-CIVIL (1813-1946)</p>
+         <p>  402 Edepot 15</p>
+         <p> POPULATION-AGRICULTURE-RAVITAILLEMENT CIVIL-TRAVAIL (1832-1946)</p>
+         <p>  402 Edepot 16-18</p>
+         <p> CONTRIBUTIONS-ADMINISTRATION FINANCIERE (1818-1921)</p>
+         <p>  402 Edepot 19-25</p>
+         <p> AFFAIRES MILITAIRES (1830-1922)</p>
+         <p>  402 Edepot 30, 402 Edepot 29, 402 Edepot 27-28, 402 Edepot 26</p>
+         <p> POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE (1823-1943)</p>
+         <p>  402 Edepot 32, 402 Edepot 31</p>
+         <p> ELECTIONS-PERSONNEL COMMUNAL (1808-1930)</p>
+         <p>  402 Edepot 35, 402 Edepot 34, 402 Edepot 33</p>
+         <p> FINANCES DE LA COMMUNE (...-...)</p>
+         <p>  402 Edepot 37, 402 Edepot 36</p>
+         <p> EDIFICES PUBLICS (1813-1922)</p>
+         <p>  402 Edepot 40, 402 Edepot 39, 402 Edepot 38</p>
+         <p> BOIS ET BIENS COMMUNAUX-DROITS DIVERS (1808-1907)</p>
+         <p>  402 Edepot 42, 402 Edepot 41</p>
+         <p> VOIRIE-MOYENS DE TRANSPORT-TRAVAUX DIVERS-REGIME DES EAUX (1807-1914)</p>
+         <p>  402 Edepot 46, 402 Edepot 45, 402 Edepot 44, 402 Edepot 43</p>
+         <p> CULTE (1832-1911)</p>
+         <p>  402 Edepot 47</p>
+         <p> ASSISTANCE ET PREVOYANCE (1852-1941)</p>
+         <p>  402 Edepot 48-49</p>
+         <p> INSTRUCTION PUBLIQUE-SCIENCES ET ARTS-DOCUMENTS DIVERS (1811-1912)</p>
+         <p>  402 Edepot 50</p>
+      </bioghist>
+      <dsc>
+            <!--niveau de plan de classement-->
+         <c>
+            <did>
+               <unittitle>ARCHIVES ANCIENNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>BOIS COMMUNAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 1</unitid>
+                     <unitid>DD1</unitid>
+                     <unittitle>Plan géométrique des bois (1748). Litige concernant la délimitation des bois entre Oyrières et Chargey, extrait du procès-verbal et plans (1765-1771).</unittitle>
+                     <unitdate normal="1748/1771">1748-1771</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CHARGEY-LES-GRAY</geogname>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 2</unitid>
+                     <unitid>GG1</unitid>
+                     <unittitle>Registre paroissial : baptêmes (1678-1685), mariages (1679-1684), sépultures (1678-1679) ; baptêmes, mariages, sépultures (1685-1699) ; cahier des baptêmes, mariages et sépultures des églises d'Oyrières, Ecuelle et Vars (1687-1688, 1690-1691) ; cahier en double (1696-1699) ; baptêmes, mariages, sépultures (1700-1719).</unittitle>
+                     <unitdate normal="1678/1719">1678-1719</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R74-R75</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>ECUELLE</geogname>
+                     <geogname>OYRIERES</geogname>
+                     <geogname>VARS</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 3</unitid>
+                     <unitid>GG2</unitid>
+                     <unittitle>Registre paroissial : baptêmes, mariages, sépultures (1719-1754) ; sépultures (1747-1754) ; baptêmes, mariages, sépultures (1755-1759).</unittitle>
+                     <unitdate normal="1719/1759">1719-1759</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R75</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 4</unitid>
+                     <unitid>GG3</unitid>
+                     <unittitle>Registre paroissial : baptêmes, mariages, sépultures.</unittitle>
+                     <unitdate normal="1760/1792">1760-1792</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 5Mi2R75</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <accessrestrict>
+                     <p><emph render="bold">Non communicable physiquement</emph></p>
+                        <p>Raison : document microfilmé</p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE PAROISSIAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>registre paroissial</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+         </c>
+         <c>
+            <did>
+               <unittitle>ARCHIVES MODERNES</unittitle>
+            </did>
+               <!--niveau de plan de classement-->
+            <c>
+               <did>
+                  <unittitle>ADMINISTRATION GENERALE DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 5</unitid>
+                     <unitid>D1</unitid>
+                     <unittitle>Délibérations du conseil municipal et actes divers.</unittitle>
+                     <unitdate>An VIII-1826</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 6</unitid>
+                     <unitid>D2</unitid>
+                     <unittitle>Registre composite comprenant des délibérations du conseil municipal, des arrêtés du maire, des actes divers (1816-1849, 1855-1859), des déclarations de grossesse (1817-1823).</unittitle>
+                     <unitdate normal="1816/1859">1816-1859</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>DECLARATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 7</unitid>
+                     <unitid>D3</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1828/1845">1828-1845</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 8</unitid>
+                     <unitid>D4</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1828/1845">1828-1845</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 9</unitid>
+                     <unitid>D5</unitid>
+                     <unittitle>Délibérations du conseil municipal (1856-1871). A la fin du registre, état des réquisitions pendant la guerre de 1870.</unittitle>
+                     <unitdate normal="1856/1871">1856-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 10</unitid>
+                     <unitid>D6</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1871/1890">1871-1890</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 11</unitid>
+                     <unitid>D7</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1890/1908">1890-1908</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 12</unitid>
+                     <unitid>D8</unitid>
+                     <unittitle>Délibérations du conseil municipal.</unittitle>
+                     <unitdate normal="1908/1922">1908-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>DELIBERATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 13</unitid>
+                     <unitid>D9</unitid>
+                     <unittitle>Registre de correspondance, arrivée (1871-1881) et départ (1881-1896).</unittitle>
+                     <unitdate normal="1871/1896">1871-1896</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 14</unitid>
+                     <unitid>D10</unitid>
+                     <unittitle>Arrêtés municipaux, extraits (1837-1849, 1892-1931 ; un cahier, 1853-1891). Inscription des mandats délivrés par le maire (1878-1885). Répertoires des actes soumis à l'enregistrement (1896-1960). Polices d'assurances (1851-1881).</unittitle>
+                     <unitdate normal="1837/1960">1837-1960</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ARRETE DU MAIRE</genreform>
+                     <genreform>REPERTOIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSEIL MUNICIPAL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ETAT-CIVIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 15</unitid>
+                     <unitid>E1</unitid>
+                     <unittitle>Extraits envoyés par les mairies en vue de transcription (1813-1830). Jugement rectifiant une erreur (1883). Actes de consentement de mariage (1896). Publications de mariage (1925-1946).</unittitle>
+                     <unitdate normal="1813/1946">1813-1946</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT CIVIL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ETAT CIVIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POPULATION-AGRICULTURE-RAVITAILLEMENT CIVIL-TRAVAIL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 16</unitid>
+                     <unitid>F1</unitid>
+                     <unittitle>Mouvement annuel de la population.</unittitle>
+                     <unitdate normal="1852/1903">1852-1903</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 17</unitid>
+                     <unitid>F2</unitid>
+                     <unittitle>Recensement quinquennal de la population : listes nominatives (1836-1911, 1921-1936, 1946).</unittitle>
+                     <unitdate normal="1836/1946">1836-1946</unitdate>
+                  </did>
+                  <altformavail>
+                     <head>Support de substitution</head>
+                     <p>Cote 6Mi132</p>
+                  </altformavail>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DENOMBREMENT DE LA POPULATION</genreform>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>RECENSEMENT DE POPULATION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 18</unitid>
+                     <unitid>F3</unitid>
+                     <unittitle>Agriculture. Taureau communal, entretien et fourniture (1832-1901). Statistiques annuelles (1853-1923), quinquennales (1852), décennales (1882-1892). Registre des cultures (1903). Déclarations des ensemencements (1930).&lt;lb/&gt;Ravitaillement civil. Cartes d'alimentation, contrôle des stocks de céréales (1917-1920).&lt;lb/&gt;Travail. Registre pour les annotations de délivrance des livrets d'ouvriers (1856-1889). Livrets d'ouvriers (1855-1874).</unittitle>
+                     <unitdate normal="1832/1930">1832-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>STATISTIQUE</genreform>
+                     <genreform>DECLARATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AGRICULTURE</subject>
+                     <subject>TRAVAIL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CONTRIBUTIONS-ADMINISTRATION FINANCIERE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 19</unitid>
+                     <unitid>G1</unitid>
+                     <unittitle>Cadastre : état de section.</unittitle>
+                     <unitdate>An VI</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ETAT DE SECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 20</unitid>
+                     <unitid>G2</unitid>
+                     <unittitle>Cadastre : livre des mutations, 1er volume.</unittitle>
+                     <unitdate normal="1818">1818</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 21</unitid>
+                     <unitid>G3</unitid>
+                     <unittitle>Cadastre : livre des mutations, 2° volume, feuilles de mutation (1827-1846, 1889).</unittitle>
+                     <unitdate normal="1818/1889">1818-1889</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LIVRE FONCIER</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE IMMOBILIERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 22</unitid>
+                     <unitid>G4</unitid>
+                     <unittitle>Matrices des quatre contributions (1858-1869, 1874-1885).</unittitle>
+                     <unitdate normal="1858/1885">1858-1885</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 23</unitid>
+                     <unitid>G5</unitid>
+                     <unittitle>Matrices des quatre contributions.</unittitle>
+                     <unitdate normal="1886/1916">1886-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>MATRICE D'IMPOSITION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE DES PERSONNES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 24</unitid>
+                     <unitid>G6</unitid>
+                     <unittitle>Rôles des prestations (1865-190), de la taxe sur les chiens (1875, 1900-1915). Listes des commissaires-répartiteurs (1851-1918, 1921).</unittitle>
+                     <unitdate normal="1851/1921">1851-1921</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>ROLE</genreform>
+                     <genreform>LISTE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FISCALITE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 25</unitid>
+                     <unitid>G7</unitid>
+                     <unittitle>Poids publics : registre des marchandises pesées.</unittitle>
+                     <unitdate normal="1902/1909">1902-1909</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>REGISTRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POIDS-ET-MESURES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>AFFAIRES MILITAIRES</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 26</unitid>
+                     <unitid>H1</unitid>
+                     <unittitle>Tableaux de recensement militaire (an XIV, 1818-1848, 1850-1906, 1908-1919).</unittitle>
+                     <unitdate>An XIV-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>RECENSEMENT MILITAIRE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 27</unitid>
+                     <unitid>H2</unitid>
+                     <unittitle>Liste nominative et tableau de recensement des classes 1855 à 1866, formation de l'armée territoriale (1874-1884). Logement et cantonnement des troupes, instruction, avis de passage, réclamations pour dommages, réquisitions (1878-1911). Surveillance des voies ferrées, liste nominative des hommes requis (1888-1889). Jugement militaire, extraits (1836-1857). Registre des bulletins portant avis de décès à fournir au bureau de recrutement (1885-1916).</unittitle>
+                     <unitdate normal="1836/1916">1836-1916</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONSCRIPTION</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 28</unitid>
+                     <unitid>H3</unitid>
+                     <unittitle>Garde nationale. Tableaux de recensement et contrôle matricule (1832-1849, 1870). Bulletins individuels et relevés nominatifs (1840-1850, 1864-1871). Elections des officiers et sous-officiers : procès-verbaux (1831-1848, 1870). Armement, habillement et équipement (1830-1853, 1870-1871).</unittitle>
+                     <unitdate normal="1830/1871">1830-1871</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus historique :</head>
+                     <subject>garde nationale</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 29</unitid>
+                     <unitid>H4</unitid>
+                     <unittitle>Sapeurs-pompiers. Elections des officiers et sous-officiers : procès-verbaux (1849), listes électorales (1907, 1912). Listes nominatives et engagement des sapeurs (1889-1922). Pompes à incendie, réparations, acquisitions, adjudication, arrêté ministériel, refus de rendre des effets (1887-1910).</unittitle>
+                     <unitdate normal="1849/1922">1849-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>LISTE ELECTORALE</genreform>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>SAPEUR POMPIER</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 30</unitid>
+                     <unitid>H5</unitid>
+                     <unittitle>Guerre de 1870 (1). Réquisitions, indemnisations, souscription patriotique, emprunt (1871-1875).&lt;lb/&gt;Guerre de 1914-1918. Indemnisation, ordres de réquisition, mobilisation des hommes (1914-1915). Création d'une garde communale (1914). Avis de disparition de militaires, liste de prisonniers, de réfugiés (1914-1916). Transport des corps des militaires "morts pour la France", tarif, listes nominatives (1920-1922).</unittitle>
+                     <unitdate normal="1871/1922">1871-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>GUERRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>POLICE-JUSTICE-HYGIENE PUBLIQUE ET SALUBRITE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 31</unitid>
+                     <unitid>I1</unitid>
+                     <unittitle>Police locale. Procès-verbaux des délits (1825-1853). Ramonage des cheminées (1851-1891). Formules d'adresses pour la naissance du Prince-Impérial (1856). Débits de boissons (1882-1943). Sinistres (1890-1909).&lt;lb/&gt;Police générale. Police du roulage (1833). Condamnés libérés (1823-1931). Réhabilitation (1895). Mandat d'arrêt (1919). Avis d'arrivée et de mutation (1919-1940). Déclarations de résidence (1889).</unittitle>
+                     <unitdate normal="1823/1943">1823-1943</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>DECLARATION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>POLICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 32</unitid>
+                     <unitid>I2</unitid>
+                     <unittitle>Justice. Extraits de jugement (1847-1918). Liste nominative des familles indigentes (1846, 1 registre). Listes du jury (1849-1853, 1870-1873).&lt;lb/&gt;Hygiène publique et salubrité. Epizooties (1871-1901). Autorisations d'installation de chaudières à vapeur (1845, 1863), de tuerie particulière (1909), de porcherie (1934).</unittitle>
+                     <unitdate normal="1845/1934">1845-1934</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>HYGIENE</subject>
+                     <subject>JUSTICE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ELECTIONS-PERSONNEL COMMUNAL</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 33</unitid>
+                     <unitid>K1</unitid>
+                     <unittitle>Listes électorales (1836, 1838-1853, 1855-1914, 1919).</unittitle>
+                     <unitdate normal="1836/1919">1836-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE ELECTORALE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTEUR</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 34</unitid>
+                     <unitid>K2</unitid>
+                     <unittitle>Elections municipales (1840-1919), cantonales (1849-1919), législatives (1852-1919), sénatoriales (1890, 1893, 1919), présidentielle (1851), du rétablissement de l'Empire (1852), plébiscite (1870) : procès-verbaux.</unittitle>
+                     <unitdate normal="1840/1919">1840-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL D'ELECTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ELECTION CANTONALE</subject>
+                     <subject>ELECTION LEGISLATIVE</subject>
+                     <subject>ELECTION MUNICIPALE</subject>
+                     <subject>ELECTION PRESIDENTIELLE</subject>
+                     <subject>ELECTION SENATORIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 35</unitid>
+                     <unitid>K3</unitid>
+                     <unittitle>Gardes-champêtres, nomination, démission, traitement (1808-1893). Garde-forestier (1829), garde-fontaine (1859), marchés. Cantonniers, nomination, révocation (1856-1930). Médailles et légion d'honneur, liste des décorés (1875). </unittitle>
+                     <unitdate normal="1808/1930">1808-1930</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PERSONNEL</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>FINANCES DE LA COMMUNE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 36</unitid>
+                     <unitid>L1</unitid>
+                     <unittitle>Comptes de gestion (an IX-1835, 1842-1881, 1893-1919).</unittitle>
+                     <unitdate>An IX-1919</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 37</unitid>
+                     <unitid>L2</unitid>
+                     <unittitle>Budgets (1853, 1860-1920). Comptes administratifs (an IX, 1893). Permis de chasse (1859, 1872).</unittitle>
+                     <unitdate>An IX-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE ADMINISTRATIF</genreform>
+                     <genreform>PERMIS DE CHASSE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>FINANCES COMMUNALES</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>EDIFICES PUBLICS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 38</unitid>
+                     <unitid>M1</unitid>
+                     <unittitle>Réparations aux bâtiments communaux : cahier des charges, devis (1888-1897). Maison commune, acquisition, réparations, agrandissement, empierrement des cours de récréation (1819-1907, plans).</unittitle>
+                     <unitdate normal="1819/1907">1819-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ECOLE</subject>
+                     <subject>HOTEL DE VILLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 39</unitid>
+                     <unitid>M2</unitid>
+                     <unittitle>Fontaines et puits, construction, réparations, agrandissement, établissement d'une conduite d'eau (1817-1913, plans). Logement de l'instituteur, amodiation d'une maison (1818). Four, construction (1826). Pont à bascule, acquisition (1901). Postes et télégraphes, état des lieux du bâtiment, bail, établissement d'un bureau, pose d'une boîte aux lettres (1886-1911).</unittitle>
+                     <unitdate normal="1817/1913">1817-1913</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>EAU POTABLE</subject>
+                     <subject>POSTE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 40</unitid>
+                     <unitid>M3</unitid>
+                     <unittitle>Presbytère, acquisition, établissement de murs de clôture, construction, réparations, agrandissement du jardin (1813-1835, plan, 1894-1899). Cimetière, acquisition de terrain, établissement, agrandissement (1826-1866, plans). Eglise, achat d'un calice, restauration, agrandissement, réparations à la sacristie et au clocher, confection de bancs, fonte d'une cloche, construction d'un beffroi (1826-1887, plans). Horloge, acquisitions, réparations (1838-1866, 1922). Croix, édification de 2 croix de pierre (1827).</unittitle>
+                     <unitdate normal="1813/1922">1813-1922</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CIMETIERE</subject>
+                     <subject>EDIFICE CULTUEL</subject>
+                     <subject>PRESBYTERE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>BOIS ET BIENS COMMUNAUX-DROITS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 41</unitid>
+                     <unitid>N1</unitid>
+                     <unittitle>Arpentage des bois (1812-1826, plans). Echanges de terrains (1848-1849, plan, 1893, 1895). Exploitation de la coupe affouagère (1808-1907). Vente de bois, d'ételles (1808-1830). Bois destinés à la marine, procès-verbaux de martelage (1816-1827). Délit forestier, procès-verbaux (1845). Amodiation de la chasse (1822-1891).</unittitle>
+                     <unitdate normal="1808/1907">1808-1907</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>BOIS</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 42</unitid>
+                     <unitid>N2</unitid>
+                     <unittitle>Mise en valeur des biens, état, délimitation (1847-1865, plans). Acquisition, vente (1891-1892).&lt;lb/&gt;Droits divers. Concessions au cimetière, différend concernant le tarif (1842-1853).</unittitle>
+                     <unitdate normal="1842/1892">1842-1892</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CONCESSION FUNERAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>VOIRIE-MOYENS DE TRANSPORT-TRAVAUX DIVERS-REGIME DES EAUX</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 43</unitid>
+                     <unitid>O1</unitid>
+                     <unittitle>Acquisition de terrain pour création de rues (1846). Réparations, élargissement (1860-1868, plan). Pose de réverbères (1901). Alignement (1827-1906). Aqueducs, construction, ouverture de canaux d'assainissement (1830-1890, plan).&lt;lb/&gt;Grande voirie. route nationale n° 67, réparations, plantations d'arbres, alignement (plans, 1821-1895).</unittitle>
+                     <unitdate normal="1821/1906">1821-1906</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ROUTE NATIONALE</subject>
+                     <subject>VOIE COMMUNALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 44</unitid>
+                     <unitid>O2</unitid>
+                     <unittitle>Petite voirie. Ponts, réparation du pont des Cornes (1859), construction d'une pont sur la Saône à Prantigny (1883). Chemins vicinaux, réparations, reconnaissance, état, tableaux généraux (1807-1914). Chemins dits routes de Vars, de Vereux, de Montot, réparations, reconnaissance (1825-1905). Chemin de grande communication n° 27, d'Essertenne à Ecuelle (1852-1878). Chemins de défruitement, déplacement, entretien (1823-1854, plan). Ressources (1845-1908). Prestations (1869-1909).</unittitle>
+                     <unitdate normal="1807/1914">1807-1914</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CHEMIN RURAL</subject>
+                     <subject>OUVRAGE D'ART</subject>
+                     <subject>ROUTE DEPARTEMENTALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>CORNES (pont des)</geogname>
+                     <geogname>OYRIERES</geogname>
+                     <geogname>PRANTIGNY</geogname>
+                     <geogname>SAÔNE (LA)</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 45</unitid>
+                     <unitid>O3</unitid>
+                     <unittitle>Chemin de fer, ligne de Nancy à Gray, acquisition de terrain, établissement, construction d'un sentier (1853-1892, plan). Extraction de minerai, autorisation, procès-verbaux de cubage (1854-1875). Carrière, acquisition de terrain (1868). Etablissement de patouillets (1830-1866).</unittitle>
+                     <unitdate normal="1830/1892">1830-1892</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>PROCES-VERBAL</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>CARRIERE</subject>
+                     <subject>MINERAI</subject>
+                     <subject>RESEAU FERROVIAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 46</unitid>
+                     <unitid>O4</unitid>
+                     <unittitle>Hydraulique agricole, questionnaire (1887). Recherche hydrogéologique, rapport et correspondance (1921-1922). Irrigation du pré Nicaise (1823). Curage des fossés et ruisseaux (1822-1912, plans).</unittitle>
+                     <unitdate normal="1822/1912">1822-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>PLAN</genreform>
+                     <genreform>RAPPORT</genreform>
+                     <genreform>CORRESPONDANCE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>COURS D'EAU</subject>
+                     <subject>HYDRAULIQUE AGRICOLE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>NICAISE (pré)</geogname>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>CULTE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 47</unitid>
+                     <unitid>P1</unitid>
+                     <unittitle>Legs à la fabrique et aux pauvres (1832-1858). Attribution des biens de la fabrique (1909-1911).</unittitle>
+                     <unitdate normal="1832/1911">1832-1911</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>VIE RELIGIEUSE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>ASSISTANCE ET PREVOYANCE</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 48</unitid>
+                     <unitid>Q1</unitid>
+                     <unittitle>(2) Médecine gratuite, organisation, traité avec un médecin, listes nominatives des indigents (1857-1920). Secours aux pauvres, rôles de distribution, demandes de secours (1852-1911). Logement des voyageurs indigents (1879-1888). Sage-femme, admission à l'école, nomination (1884-1894). Hospices, admissions, tarifs (1860-1920). Aliénés, dépenses de la commune (1865-1907). Protection des enfants au 1er âge, nomination d'un médecin-inspecteur (1911), carnets de nourrice (1900-1902).</unittitle>
+                     <unitdate normal="1852/1920">1852-1920</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                     <genreform>ROLE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>AIDE SOCIALE A L'ENFANCE</subject>
+                     <subject>ETABLISSEMENT MEDICO SOCIAL</subject>
+                     <subject>MEDECIN</subject>
+                     <subject>PROTECTION SOCIALE</subject>
+                     <subject>SAGE FEMME</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 49</unitid>
+                     <unitid>Q2</unitid>
+                     <unittitle>Bureau de bienfaisance, création, nomination des membres (1858-1919). Budgets (1911-1923). Comptes de gestion (1911-1919).&lt;lb/&gt;Comité d'entraide aux mobilisés (1939-1941). Oeuvres diverses de la guerre 1914-1918 (1916-1921). Allocations aux familles nécessiteuses de mobilisés et aux militaires soutiens de famille (1914-1917).</unittitle>
+                     <unitdate normal="1858/1941">1858-1941</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>BUDGET</genreform>
+                     <genreform>COMPTE DE GESTION</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>PROTECTION SOCIALE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+               </c>
+                  <!--niveau de plan de classement-->
+            </c>
+            <c>
+               <did>
+                  <unittitle>INSTRUCTION PUBLIQUE-SCIENCES ET ARTS-DOCUMENTS DIVERS</unittitle>
+               </did>
+               <c>
+                  <did>
+                     <unitid>402 Edepot 50</unitid>
+                     <unitid>R1-S1</unitid>
+                     <unittitle>Bibliothèque et matériel scolaire, acquisition (1885, 1894). Mobilier, fabrication de tables et de bancs (1827, 1883). Commission scolaire, nomination des membres (1882-1892). Création d'une caisse des écoles (1881-1882). Nomination d'une institutrice (1890). Listes des enfants de 6 à 13 ans (1882, 1895-1896). Extraits du registre d'appel (1883-1894). Ouverture d'un pensionnat (1889). Fermeture des écoles pour cause d'épidémie (1886).&lt;lb/&gt;Sciences et Arts. Classement d'une toile 'l'Adoration des Mages" du XVIII° siècle par Joannon, parmi les monuments historiques (1912).&lt;lb/&gt;S1 - Actes notariés concernant des ventes et partage entre particuliers (1811-1864).</unittitle>
+                     <unitdate normal="1811/1912">1811-1912</unitdate>
+                  </did>
+                  <accessrestrict>
+                     <p><emph render="bold">Communicabilité</emph></p>
+                        <p>Communicable </p>
+                     </accessrestrict>
+                  <controlaccess>
+                     <genreform>LISTE NOMINATIVE</genreform>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Thesaurus administratif :</head>
+                     <subject>ART</subject>
+                     <subject>MONUMENT HISTORIQUE</subject>
+                     <subject>VIE SCOLAIRE</subject>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms géographiques :</head>
+                     <geogname>OYRIERES</geogname>
+                  </controlaccess>
+                  <controlaccess>
+                     <head>Noms de personnes :</head>
+                     <persname>JOANNON</persname>
+                  </controlaccess>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>
