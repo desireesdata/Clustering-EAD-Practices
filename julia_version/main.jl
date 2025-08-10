@@ -9,7 +9,6 @@ include("50_utils.jl") # <-- Ajout de cette ligne
 function main()
     folder_path = "../ead_exemples/"
     all_files = [joinpath(folder_path, name) for name in readdir(folder_path) if endswith(name, ".xml")]
-
     println("Fichiers à traiter : ", all_files)
 
     matrix, vocab, files = build_sparse_matrix(all_files)
@@ -19,8 +18,7 @@ function main()
     final_labels, k_found = cluster_with_eigengap(similarity)
     println("Clustering terminé. Nombre de clusters trouvé : ", k_found)
 
-
-    index_to_path = Dict(v => k for (k, v) in vocab)
+    # index_to_path = Dict(v => k for (k, v) in vocab)
 
     df_results = summarize_clusters(final_labels, matrix, vocab, files)
     println("\n--- Résultats du clustering sous forme de DataFrame ---")

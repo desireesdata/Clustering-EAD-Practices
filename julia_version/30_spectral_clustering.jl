@@ -5,6 +5,7 @@ using Arpack
 using Distances
 using Statistics
 using Plots
+gr()
 
 """
     find_eigengap_k(λs::Vector) -> Int
@@ -71,7 +72,8 @@ function find_optimal_k(
             xlabel="Index de la valeur propre",
             ylabel="Valeur propre (partie réelle)",
             legend=false,
-            grid=true
+            grid=true,
+            show_plot=false # Ne pas afficher la fenêtre Blink
         )
         display(eig_plot)
         savefig(eig_plot, "eigengap_plot.png")
